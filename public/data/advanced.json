@@ -25001,12 +25001,12 @@
     },
     "意甲" : {
       "season" : "2026/2027",
-      "finishedMatches" : 64,
-      "teamStatsMatches" : 64,
-      "playerStatsMatches" : 64,
-      "advancedTeamMatches" : 64,
-      "advancedPlayerMatches" : 64,
-      "cardEventsMatches" : 64,
+      "finishedMatches" : 65,
+      "teamStatsMatches" : 65,
+      "playerStatsMatches" : 65,
+      "advancedTeamMatches" : 65,
+      "advancedPlayerMatches" : 65,
+      "cardEventsMatches" : 65,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_0r0zEG",
@@ -25271,28 +25271,28 @@
       }, {
         "id" : "t_35suku",
         "name" : "Lecce",
-        "games" : 6,
+        "games" : 7,
         "values" : {
-          "goals" : 6.0,
+          "goals" : 9.0,
           "goalsAgainst" : 12.0,
-          "cleanSheets" : 1.0,
-          "saves" : 30.0,
-          "fouls" : 80.0,
+          "cleanSheets" : 2.0,
+          "saves" : 32.0,
+          "fouls" : 91.0,
           "redCards" : 0.0,
           "yellowCards" : 13.0,
-          "offsides" : 5.0,
-          "shotsOnTarget" : 22.0,
-          "shots" : 61.0,
-          "passes" : 2150.0,
-          "keyPasses" : 37.0,
-          "dribblesAttempted" : 112.0,
-          "dribblesCompleted" : 44.0,
-          "tackles" : 130.0,
-          "interceptions" : 103.0,
-          "clearances" : 163.0,
-          "passAccuracy" : 78.5,
-          "possession" : 41.7,
-          "shotsPerGame" : 10.2
+          "offsides" : 13.0,
+          "shotsOnTarget" : 33.0,
+          "shots" : 78.0,
+          "passes" : 2402.0,
+          "keyPasses" : 47.0,
+          "dribblesAttempted" : 119.0,
+          "dribblesCompleted" : 45.0,
+          "tackles" : 151.0,
+          "interceptions" : 132.0,
+          "clearances" : 199.0,
+          "passAccuracy" : 77.3,
+          "possession" : 40.6,
+          "shotsPerGame" : 11.1
         }
       }, {
         "id" : "t_1DYf1D",
@@ -25479,27 +25479,27 @@
       }, {
         "id" : "t_2ur07g",
         "name" : "Udinese",
-        "games" : 6,
+        "games" : 7,
         "values" : {
           "goals" : 9.0,
-          "goalsAgainst" : 13.0,
+          "goalsAgainst" : 16.0,
           "cleanSheets" : 0.0,
-          "saves" : 22.0,
-          "fouls" : 67.0,
+          "saves" : 30.0,
+          "fouls" : 77.0,
           "redCards" : 0.0,
-          "yellowCards" : 12.0,
-          "offsides" : 5.0,
-          "shotsOnTarget" : 25.0,
-          "shots" : 86.0,
-          "passes" : 2766.0,
-          "keyPasses" : 60.0,
-          "dribblesAttempted" : 73.0,
-          "dribblesCompleted" : 34.0,
-          "tackles" : 85.0,
-          "interceptions" : 84.0,
-          "clearances" : 125.0,
-          "passAccuracy" : 83.8,
-          "possession" : 48.4,
+          "yellowCards" : 13.0,
+          "offsides" : 8.0,
+          "shotsOnTarget" : 27.0,
+          "shots" : 100.0,
+          "passes" : 3294.0,
+          "keyPasses" : 72.0,
+          "dribblesAttempted" : 88.0,
+          "dribblesCompleted" : 37.0,
+          "tackles" : 99.0,
+          "interceptions" : 103.0,
+          "clearances" : 141.0,
+          "passAccuracy" : 83.3,
+          "possession" : 50.9,
           "shotsPerGame" : 14.3
         }
       }, {
@@ -26098,24 +26098,24 @@
         "name" : "Alessandro Zanoli",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "fouls" : 0.0,
-          "passes" : 28.0,
+          "passes" : 46.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 3.0,
+          "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 0.0,
+          "tackles" : 1.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 89.3,
-          "appearances" : 1
+          "passAccuracy" : 84.8,
+          "appearances" : 2
         }
       }, {
         "id" : "p_0wyyIn",
@@ -26203,11 +26203,11 @@
         "name" : "Alexandru Borbei",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 3
+          "appearances" : 4
         }
       }, {
         "id" : "p_3kA2jl",
@@ -26263,11 +26263,11 @@
         "name" : "Ali Dembélé",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_1iSclp",
@@ -26394,24 +26394,25 @@
         "name" : "Amar Fatah",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 2.0,
-          "passes" : 43.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 18.0,
+          "passes" : 61.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 20.0,
           "dribblesCompleted" : 13.0,
           "tackles" : 3.0,
-          "interceptions" : 5.0,
+          "interceptions" : 6.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 4.0,
-          "passAccuracy" : 76.7,
-          "appearances" : 5
+          "shots" : 6.0,
+          "offsides" : 2.0,
+          "passAccuracy" : 75.4,
+          "appearances" : 6
         }
       }, {
         "id" : "p_3twHC1",
@@ -26742,24 +26743,24 @@
         "name" : "Antonino Gallo",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "fouls" : 0.0,
-          "passes" : 166.0,
-          "keyPasses" : 3.0,
+          "passes" : 187.0,
+          "keyPasses" : 4.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 7.0,
-          "interceptions" : 7.0,
-          "clearances" : 18.0,
+          "tackles" : 9.0,
+          "interceptions" : 12.0,
+          "clearances" : 21.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 69.3,
-          "appearances" : 6
+          "passAccuracy" : 67.4,
+          "appearances" : 7
         }
       }, {
         "id" : "p_02c7Kf",
@@ -27098,11 +27099,11 @@
         "name" : "Bartosz Mrozek",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_4K02hH",
@@ -27536,7 +27537,7 @@
         "name" : "Christian Kabasele",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -27553,7 +27554,7 @@
           "shotsOnTarget" : 1.0,
           "shots" : 2.0,
           "passAccuracy" : 95.8,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_1Z0vqr",
@@ -27677,7 +27678,7 @@
         "name" : "Corrie Ndaba",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -27692,7 +27693,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 82.1,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3e9xIy",
@@ -27898,11 +27899,11 @@
         "name" : "Daniele Padelli",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_1LSUGp",
@@ -27966,22 +27967,23 @@
         "name" : "Danilo Veiga",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 2.0,
-          "fouls" : 11.0,
-          "passes" : 207.0,
-          "keyPasses" : 8.0,
+          "fouls" : 12.0,
+          "passes" : 234.0,
+          "keyPasses" : 9.0,
           "dribblesAttempted" : 9.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 19.0,
-          "interceptions" : 15.0,
-          "clearances" : 23.0,
+          "tackles" : 23.0,
+          "interceptions" : 17.0,
+          "clearances" : 29.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "passAccuracy" : 74.9,
-          "appearances" : 6
+          "offsides" : 1.0,
+          "passAccuracy" : 74.4,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3gTPk6",
@@ -28037,22 +28039,22 @@
         "name" : "David Alaba",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 21.0,
+          "passes" : 54.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
-          "interceptions" : 1.0,
-          "clearances" : 1.0,
+          "interceptions" : 2.0,
+          "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.5,
-          "appearances" : 1
+          "passAccuracy" : 87.0,
+          "appearances" : 2
         }
       }, {
         "id" : "p_0GDJTk",
@@ -28844,11 +28846,11 @@
         "name" : "Elijah Scott",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_3BeZ4H",
@@ -29022,24 +29024,24 @@
         "name" : "Enzo Ebosse",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 5.0,
-          "passes" : 344.0,
+          "fouls" : 7.0,
+          "passes" : 386.0,
           "keyPasses" : 6.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 8.0,
+          "tackles" : 9.0,
           "interceptions" : 8.0,
-          "clearances" : 13.0,
+          "clearances" : 15.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 86.9,
-          "appearances" : 6
+          "passAccuracy" : 87.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3MlkEM",
@@ -29770,11 +29772,11 @@
         "name" : "Gaby Jean",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_3kmPkJ",
@@ -29998,25 +30000,25 @@
         "name" : "Giorgi Chakvetadze",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 3.0,
-          "passes" : 106.0,
+          "passes" : 131.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 0.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 4.0,
-          "interceptions" : 1.0,
+          "interceptions" : 2.0,
           "clearances" : 1.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 5.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 6.0,
           "offsides" : 1.0,
-          "passAccuracy" : 93.4,
-          "appearances" : 4
+          "passAccuracy" : 91.6,
+          "appearances" : 5
         }
       }, {
         "id" : "p_3OTiDD",
@@ -30218,11 +30220,11 @@
         "name" : "Giulio Vinciati",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_4IPlos",
@@ -30478,24 +30480,25 @@
         "name" : "Hassane Kamara",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 1.0,
           "goals" : 2.0,
           "shotsOnTarget" : 5.0,
           "shots" : 9.0,
-          "fouls" : 3.0,
-          "passes" : 203.0,
+          "fouls" : 5.0,
+          "passes" : 230.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 8.0,
+          "dribblesAttempted" : 9.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 12.0,
-          "interceptions" : 11.0,
-          "clearances" : 12.0,
-          "yellowCards" : 0.0,
+          "tackles" : 13.0,
+          "interceptions" : 13.0,
+          "clearances" : 13.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 78.8,
-          "appearances" : 6
+          "offsides" : 2.0,
+          "passAccuracy" : 77.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2bGPNs",
@@ -30779,24 +30782,25 @@
         "name" : "Jakub Piotrowski",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 4.0,
+          "shots" : 7.0,
           "fouls" : 4.0,
-          "passes" : 65.0,
+          "passes" : 82.0,
           "keyPasses" : 3.0,
-          "dribblesAttempted" : 2.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 3.0,
-          "interceptions" : 1.0,
+          "tackles" : 4.0,
+          "interceptions" : 3.0,
           "clearances" : 4.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.8,
-          "appearances" : 3
+          "offsides" : 1.0,
+          "passAccuracy" : 89.1,
+          "appearances" : 4
         }
       }, {
         "id" : "p_2gRWCM",
@@ -30814,7 +30818,7 @@
         "name" : "James Abankwah",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
@@ -30831,31 +30835,31 @@
           "shotsOnTarget" : 1.0,
           "shots" : 2.0,
           "passAccuracy" : 89.4,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_4WjX80",
         "name" : "Jamil Siebert",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "goals" : 0.0,
+          "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 7.0,
-          "passes" : 164.0,
+          "passes" : 167.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 15.0,
+          "tackles" : 16.0,
           "interceptions" : 13.0,
-          "clearances" : 33.0,
+          "clearances" : 34.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 2.0,
-          "passAccuracy" : 80.5,
-          "appearances" : 6
+          "shotsOnTarget" : 1.0,
+          "shots" : 3.0,
+          "passAccuracy" : 80.3,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1OTUNA",
@@ -31035,24 +31039,24 @@
         "name" : "Jesper Karlström",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
-          "fouls" : 5.0,
-          "passes" : 294.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 2.0,
+          "fouls" : 6.0,
+          "passes" : 350.0,
+          "keyPasses" : 5.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 8.0,
+          "tackles" : 9.0,
           "interceptions" : 9.0,
-          "clearances" : 7.0,
+          "clearances" : 9.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 3.0,
-          "passAccuracy" : 81.6,
-          "appearances" : 6
+          "passAccuracy" : 81.4,
+          "appearances" : 7
         }
       }, {
         "id" : "p_29sWer",
@@ -31330,24 +31334,24 @@
         "name" : "Joël Monteiro",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 3.0,
           "fouls" : 6.0,
-          "passes" : 49.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 13.0,
+          "passes" : 51.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 14.0,
           "dribblesCompleted" : 6.0,
-          "tackles" : 8.0,
-          "interceptions" : 7.0,
+          "tackles" : 9.0,
+          "interceptions" : 8.0,
           "clearances" : 4.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 71.4,
-          "appearances" : 4
+          "passAccuracy" : 70.6,
+          "appearances" : 5
         }
       }, {
         "id" : "p_2xv7Nl",
@@ -31378,22 +31382,24 @@
         "name" : "Juan Arizala",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 10.0,
-          "keyPasses" : 0.0,
+          "passes" : 30.0,
+          "keyPasses" : 1.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 2.0,
-          "interceptions" : 0.0,
+          "interceptions" : 2.0,
           "clearances" : 2.0,
-          "passAccuracy" : 70.0,
-          "appearances" : 3
+          "shotsOnTarget" : 0.0,
+          "shots" : 2.0,
+          "passAccuracy" : 66.7,
+          "appearances" : 4
         }
       }, {
         "id" : "p_1JYfTE",
@@ -31507,24 +31513,24 @@
         "name" : "Jurgen Ekkelenkamp",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 1.0,
           "goals" : 3.0,
           "shotsOnTarget" : 5.0,
-          "shots" : 19.0,
+          "shots" : 20.0,
           "fouls" : 3.0,
-          "passes" : 201.0,
-          "keyPasses" : 3.0,
+          "passes" : 236.0,
+          "keyPasses" : 7.0,
           "dribblesAttempted" : 13.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 8.0,
-          "interceptions" : 9.0,
-          "clearances" : 4.0,
+          "tackles" : 9.0,
+          "interceptions" : 10.0,
+          "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 83.1,
-          "appearances" : 6
+          "passAccuracy" : 82.2,
+          "appearances" : 7
         }
       }, {
         "id" : "p_17aXXz",
@@ -31634,25 +31640,25 @@
         "name" : "Keinan Davis",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 2.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 7.0,
+          "shots" : 9.0,
           "offsides" : 2.0,
           "fouls" : 1.0,
-          "passes" : 79.0,
+          "passes" : 101.0,
           "keyPasses" : 5.0,
-          "dribblesAttempted" : 3.0,
+          "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 1.0,
-          "interceptions" : 1.0,
+          "tackles" : 4.0,
+          "interceptions" : 2.0,
           "clearances" : 1.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 70.9,
-          "appearances" : 5
+          "passAccuracy" : 73.3,
+          "appearances" : 6
         }
       }, {
         "id" : "p_1Fu3UE",
@@ -31802,24 +31808,24 @@
         "name" : "Kialonda Gaspar",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "goals" : 0.0,
+          "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 4.0,
-          "passes" : 152.0,
-          "keyPasses" : 0.0,
+          "passes" : 170.0,
+          "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 13.0,
+          "tackles" : 15.0,
           "interceptions" : 2.0,
-          "clearances" : 30.0,
+          "clearances" : 37.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 2.0,
-          "passAccuracy" : 87.5,
-          "appearances" : 6
+          "shotsOnTarget" : 3.0,
+          "shots" : 3.0,
+          "passAccuracy" : 87.1,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1Da1bL",
@@ -31946,24 +31952,24 @@
         "name" : "Konan N’Dri",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
-          "goals" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 6.0,
-          "fouls" : 4.0,
-          "passes" : 62.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 15.0,
+          "goals" : 1.0,
+          "shotsOnTarget" : 4.0,
+          "shots" : 11.0,
+          "fouls" : 5.0,
+          "passes" : 83.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 17.0,
           "dribblesCompleted" : 6.0,
-          "tackles" : 7.0,
-          "interceptions" : 8.0,
+          "tackles" : 10.0,
+          "interceptions" : 10.0,
           "clearances" : 2.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 58.1,
-          "appearances" : 6
+          "passAccuracy" : 61.5,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4Od8Cv",
@@ -32086,24 +32092,24 @@
         "name" : "Lassana Coulibaly",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 1.0,
           "goals" : 2.0,
           "shotsOnTarget" : 4.0,
           "shots" : 9.0,
           "fouls" : 4.0,
-          "passes" : 202.0,
+          "passes" : 214.0,
           "keyPasses" : 5.0,
           "dribblesAttempted" : 12.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 7.0,
-          "interceptions" : 5.0,
+          "tackles" : 8.0,
+          "interceptions" : 6.0,
           "clearances" : 7.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 82.2,
-          "appearances" : 6
+          "passAccuracy" : 80.4,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2C3LvV",
@@ -32179,7 +32185,7 @@
         "name" : "Lazar Jovanović",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -32194,7 +32200,7 @@
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "passAccuracy" : 50.0,
-          "appearances" : 3
+          "appearances" : 4
         }
       }, {
         "id" : "p_0MlQqI",
@@ -32225,7 +32231,7 @@
         "name" : "Lennon Miller",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -32242,7 +32248,7 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 82.8,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_20yog2",
@@ -32900,11 +32906,11 @@
         "name" : "Maduka Okoye",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 22.0,
-          "passes" : 179.0,
+          "saves" : 30.0,
+          "passes" : 205.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -32913,8 +32919,8 @@
           "clearances" : 4.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 82.1,
-          "appearances" : 6
+          "passAccuracy" : 82.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2Cp5Jr",
@@ -33109,11 +33115,11 @@
         "name" : "Marco Bleve",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_0goiLr",
@@ -33729,22 +33735,24 @@
         "name" : "Matteo Palma",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 17.0,
+          "passes" : 55.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 1.0,
-          "interceptions" : 0.0,
-          "clearances" : 3.0,
+          "dribblesAttempted" : 2.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 3.0,
+          "interceptions" : 1.0,
+          "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 88.2,
-          "appearances" : 2
+          "shotsOnTarget" : 0.0,
+          "shots" : 2.0,
+          "passAccuracy" : 89.1,
+          "appearances" : 3
         }
       }, {
         "id" : "p_3vMLA6",
@@ -34185,22 +34193,25 @@
         "name" : "Mohamed Kaba",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 2.0,
-          "passes" : 15.0,
+          "passes" : 33.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 1.0,
-          "interceptions" : 0.0,
+          "interceptions" : 2.0,
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 86.7,
-          "appearances" : 3
+          "shotsOnTarget" : 1.0,
+          "shots" : 1.0,
+          "offsides" : 1.0,
+          "passAccuracy" : 75.8,
+          "appearances" : 4
         }
       }, {
         "id" : "p_0Rzd28",
@@ -34281,25 +34292,25 @@
         "name" : "Mërgim Vojvoda",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
           "fouls" : 0.0,
-          "passes" : 295.0,
-          "keyPasses" : 10.0,
-          "dribblesAttempted" : 9.0,
+          "passes" : 367.0,
+          "keyPasses" : 14.0,
+          "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 11.0,
-          "interceptions" : 9.0,
-          "clearances" : 9.0,
+          "tackles" : 12.0,
+          "interceptions" : 12.0,
+          "clearances" : 12.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 78.7,
-          "appearances" : 6
+          "passAccuracy" : 76.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0VwLlX",
@@ -34662,7 +34673,7 @@
         "name" : "Nicolò Bertola",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 2.0,
           "redCards" : 0.0,
@@ -34679,7 +34690,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "passAccuracy" : 83.4,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_4Vl3As",
@@ -34898,7 +34909,7 @@
         "name" : "Nikola Štulić",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -34916,7 +34927,7 @@
           "redCards" : 0.0,
           "offsides" : 1.0,
           "passAccuracy" : 79.2,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_2bwJlb",
@@ -35017,31 +35028,31 @@
         "name" : "Oier Zarraga",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 0.0,
-          "passes" : 54.0,
+          "fouls" : 3.0,
+          "passes" : 72.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
-          "interceptions" : 1.0,
-          "clearances" : 0.0,
+          "interceptions" : 2.0,
+          "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "passAccuracy" : 96.3,
-          "appearances" : 6
+          "passAccuracy" : 95.8,
+          "appearances" : 7
         }
       }, {
         "id" : "p_07ji7G",
         "name" : "Olaf Gorter",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
@@ -35059,7 +35070,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 70.9,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3HLrBx",
@@ -35183,7 +35194,7 @@
         "name" : "Omri Gandelman",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -35201,55 +35212,55 @@
           "shots" : 2.0,
           "offsides" : 1.0,
           "passAccuracy" : 66.7,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_1SrTJ3",
         "name" : "Oumar Ngom",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 6.0,
-          "fouls" : 6.0,
-          "passes" : 163.0,
+          "fouls" : 8.0,
+          "passes" : 195.0,
           "keyPasses" : 4.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 10.0,
-          "interceptions" : 10.0,
-          "clearances" : 5.0,
+          "tackles" : 13.0,
+          "interceptions" : 15.0,
+          "clearances" : 7.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 79.8,
-          "appearances" : 6
+          "passAccuracy" : 79.5,
+          "appearances" : 7
         }
       }, {
         "id" : "p_44jTda",
         "name" : "Oumar Solet",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 5.0,
-          "passes" : 208.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 7.0,
-          "dribblesCompleted" : 4.0,
-          "tackles" : 4.0,
-          "interceptions" : 8.0,
-          "clearances" : 15.0,
+          "fouls" : 7.0,
+          "passes" : 281.0,
+          "keyPasses" : 4.0,
+          "dribblesAttempted" : 10.0,
+          "dribblesCompleted" : 6.0,
+          "tackles" : 5.0,
+          "interceptions" : 12.0,
+          "clearances" : 17.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "passAccuracy" : 89.4,
-          "appearances" : 4
+          "shotsOnTarget" : 1.0,
+          "shots" : 3.0,
+          "passAccuracy" : 89.3,
+          "appearances" : 5
         }
       }, {
         "id" : "p_2ntsfy",
@@ -35304,24 +35315,25 @@
         "name" : "Paco Esteban",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 4.0,
-          "passes" : 16.0,
+          "passes" : 18.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 1.0,
+          "dribblesAttempted" : 2.0,
+          "dribblesCompleted" : 2.0,
           "tackles" : 3.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "passAccuracy" : 75.0,
-          "appearances" : 6
+          "shotsOnTarget" : 1.0,
+          "shots" : 3.0,
+          "offsides" : 1.0,
+          "passAccuracy" : 72.2,
+          "appearances" : 7
         }
       }, {
         "id" : "p_41uAI6",
@@ -36478,11 +36490,11 @@
         "name" : "Sadik Fofana",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_2SiFLH",
@@ -36634,7 +36646,7 @@
         "name" : "Sandi Lovrić",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -36649,7 +36661,7 @@
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "passAccuracy" : 83.3,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3WYfPi",
@@ -36717,25 +36729,25 @@
         "name" : "Santiago Pierotti",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 3.0,
-          "fouls" : 10.0,
-          "passes" : 127.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 14.0,
+          "fouls" : 11.0,
+          "passes" : 137.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 15.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 11.0,
-          "interceptions" : 7.0,
+          "tackles" : 12.0,
+          "interceptions" : 8.0,
           "clearances" : 4.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 77.2,
-          "appearances" : 6
+          "passAccuracy" : 77.4,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4TNarV",
@@ -37297,24 +37309,24 @@
         "name" : "Tiago Gabriel",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 2.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 3.0,
-          "fouls" : 3.0,
-          "passes" : 164.0,
-          "keyPasses" : 0.0,
+          "shots" : 4.0,
+          "fouls" : 7.0,
+          "passes" : 181.0,
+          "keyPasses" : 2.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 10.0,
-          "interceptions" : 7.0,
-          "clearances" : 18.0,
+          "tackles" : 11.0,
+          "interceptions" : 9.0,
+          "clearances" : 30.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 95.1,
-          "appearances" : 5
+          "passAccuracy" : 93.9,
+          "appearances" : 6
         }
       }, {
         "id" : "p_3rMkUa",
@@ -37559,24 +37571,24 @@
         "name" : "Unai Gómez",
         "team" : "Udinese",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
           "fouls" : 4.0,
-          "passes" : 70.0,
+          "passes" : 76.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 2.0,
+          "tackles" : 3.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 5.0,
-          "passAccuracy" : 80.0,
-          "appearances" : 6
+          "shots" : 6.0,
+          "passAccuracy" : 79.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4Hz9TF",
@@ -37845,25 +37857,25 @@
         "name" : "Willem Geubbels",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "offsides" : 1.0,
-          "fouls" : 4.0,
-          "passes" : 27.0,
+          "offsides" : 3.0,
+          "fouls" : 6.0,
+          "passes" : 36.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 7.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 2.0,
-          "interceptions" : 1.0,
+          "interceptions" : 3.0,
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 5.0,
-          "passAccuracy" : 77.8,
-          "appearances" : 3
+          "shotsOnTarget" : 4.0,
+          "shots" : 9.0,
+          "passAccuracy" : 69.4,
+          "appearances" : 4
         }
       }, {
         "id" : "p_2IQXvu",
@@ -37903,21 +37915,21 @@
         "name" : "Wladimiro Falcone",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 30.0,
-          "passes" : 162.0,
+          "saves" : 32.0,
+          "passes" : 180.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 2.0,
           "interceptions" : 0.0,
-          "clearances" : 4.0,
+          "clearances" : 7.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 62.4,
-          "appearances" : 6
+          "passAccuracy" : 60.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2YBOHg",
@@ -38017,24 +38029,25 @@
         "name" : "Youssef Maleh",
         "team" : "Lecce",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 5.0,
           "fouls" : 5.0,
-          "passes" : 130.0,
+          "passes" : 154.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 6.0,
-          "interceptions" : 7.0,
-          "clearances" : 2.0,
+          "tackles" : 8.0,
+          "interceptions" : 12.0,
+          "clearances" : 4.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 81.5,
-          "appearances" : 6
+          "offsides" : 1.0,
+          "passAccuracy" : 79.9,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3TL9L3",
@@ -78822,6 +78835,6 @@
       } ]
     }
   },
-  "requestCount" : 1797,
-  "updatedAt" : "2026-10-18T00:00:37.251069328Z"
+  "requestCount" : 1802,
+  "updatedAt" : "2026-10-18T13:52:56.368205461Z"
 }

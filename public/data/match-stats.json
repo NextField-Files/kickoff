@@ -2,8 +2,8 @@
   "source" : "pitchapi.dev",
   "schemaVersion" : 1,
   "season" : "2026/2027",
-  "updatedAt" : "2026-10-18T00:00:37.251069328Z",
-  "requestCount" : 1797,
+  "updatedAt" : "2026-10-18T13:52:56.368205461Z",
+  "requestCount" : 1802,
   "leagues" : {
     "英超" : [ {
       "id" : "m_2KvD5f",
@@ -9756,6 +9756,52 @@
         "interceptions" : 21.0,
         "clearances" : 17.0,
         "possession" : 35.4
+      },
+      "teamStatsVerified" : true,
+      "advancedStatsVerified" : true
+    }, {
+      "id" : "m_0YD43d",
+      "date" : "2026-10-18T10:30:00Z",
+      "league" : "意甲",
+      "home" : "Udinese",
+      "away" : "Lecce",
+      "scoreHome" : 0,
+      "scoreAway" : 3,
+      "homeStats" : {
+        "saves" : 8.0,
+        "fouls" : 10.0,
+        "redCards" : 0.0,
+        "yellowCards" : 1.0,
+        "offsides" : 3.0,
+        "shotsOnTarget" : 2.0,
+        "shots" : 14.0,
+        "passes" : 528.0,
+        "passAccuracy" : 80.3,
+        "keyPasses" : 12.0,
+        "dribblesAttempted" : 15.0,
+        "dribblesCompleted" : 3.0,
+        "tackles" : 14.0,
+        "interceptions" : 19.0,
+        "clearances" : 16.0,
+        "possession" : 65.7
+      },
+      "awayStats" : {
+        "saves" : 2.0,
+        "fouls" : 11.0,
+        "redCards" : 0.0,
+        "yellowCards" : 0.0,
+        "offsides" : 8.0,
+        "shotsOnTarget" : 11.0,
+        "shots" : 17.0,
+        "passes" : 252.0,
+        "passAccuracy" : 67.5,
+        "keyPasses" : 10.0,
+        "dribblesAttempted" : 7.0,
+        "dribblesCompleted" : 1.0,
+        "tackles" : 21.0,
+        "interceptions" : 29.0,
+        "clearances" : 36.0,
+        "possession" : 34.3
       },
       "teamStatsVerified" : true,
       "advancedStatsVerified" : true

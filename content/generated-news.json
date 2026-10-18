@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "match-review-a17825118c7c",
+      "title": "乌迪内斯0-3莱切：控球占优难掩射正差距",
+      "summary": "乌迪内斯主场0比3不敌莱切，控球率与传球数占优，但射正次数以2比11大幅落后。",
+      "body": "乌迪内斯控球率达到65.7%，传球528次、传球成功率80.3%，均高于莱切的34.3%、252次和67.5%。但莱切射门17次、射正11次，乌迪内斯射门14次、射正仅2次。乌迪内斯关键传球12次、成功过人3次，莱切分别为10次和1次；犯规方面乌迪内斯10次、莱切11次，黄牌为1比0，红牌均为0。数据来源：PitchAPI比赛统计。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-18T13:52:58.983Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558574"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-18T13:48:20.131569447Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558574"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-18T13:52:56.368205461Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0YD43d"
+        }
+      ]
+    },
+    {
       "id": "match-review-324fb829ea73",
       "title": "弗罗西诺内4-2萨索洛：射门效率与控球反差",
       "summary": "弗罗西诺内主场4-2击败萨索洛，射门与射正数均占优，而萨索洛控球率与传球成功率更高。",

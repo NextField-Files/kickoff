@@ -1,7 +1,49 @@
 {
   "source": "Kickoff",
-  "updatedAt": "2026-10-18T00:02:23.408Z",
+  "updatedAt": "2026-10-18T13:53:02.972Z",
   "items": [
+    {
+      "id": "match-review-a17825118c7c",
+      "title": "乌迪内斯0-3莱切：控球占优难掩射正差距",
+      "summary": "乌迪内斯主场0比3不敌莱切，控球率与传球数占优，但射正次数以2比11大幅落后。",
+      "body": "乌迪内斯控球率达到65.7%，传球528次、传球成功率80.3%，均高于莱切的34.3%、252次和67.5%。但莱切射门17次、射正11次，乌迪内斯射门14次、射正仅2次。乌迪内斯关键传球12次、成功过人3次，莱切分别为10次和1次；犯规方面乌迪内斯10次、莱切11次，黄牌为1比0，红牌均为0。数据来源：PitchAPI比赛统计。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-18T13:52:58.983Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558574"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-18T13:48:20.131569447Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558574"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-18T13:52:56.368205461Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0YD43d"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "乌迪内斯0-3莱切：控球占优难掩射正差距",
+        "zh-TW": "烏迪內斯0-3萊切：控球佔優難掩射正差距",
+        "en": "Udinese 0-3 Lecce: Dominant Possession Masks Shooting Accuracy Gap"
+      },
+      "localizedSummaries": {
+        "zh-CN": "乌迪内斯主场0比3不敌莱切，控球率与传球数占优，但射正次数以2比11大幅落后。",
+        "zh-TW": "烏迪內斯主場0比3不敵萊切，控球率與傳球數佔優，但射正次數以2比11大幅落後。",
+        "en": "Udinese lost 0-3 at home to Lecce, dominating possession and passes but falling far behind in shots on target at 2 to 11."
+      },
+      "localizedBodies": {
+        "zh-CN": "乌迪内斯控球率达到65.7%，传球528次、传球成功率80.3%，均高于莱切的34.3%、252次和67.5%。但莱切射门17次、射正11次，乌迪内斯射门14次、射正仅2次。乌迪内斯关键传球12次、成功过人3次，莱切分别为10次和1次；犯规方面乌迪内斯10次、莱切11次，黄牌为1比0，红牌均为0。数据来源：PitchAPI比赛统计。",
+        "zh-TW": "烏迪內斯控球率達到65.7%，傳球528次、傳球成功率80.3%，均高於萊切的34.3%、252次和67.5%。但萊切射門17次、射正11次，烏迪內斯射門14次、射正僅2次。烏迪內斯關鍵傳球12次、成功過人3次，萊切分別為10次和1次；犯規方面烏迪內斯10次、萊切11次，黃牌為1比0，紅牌均為0。數據來源：PitchAPI比賽統計。",
+        "en": "Udinese had 65.7% possession, 528 passes, and an 80.3% pass success rate, all higher than Lecce's 34.3%, 252, and 67.5%. However, Lecce had 17 shots and 11 on target, while Udinese had 14 shots and only 2 on target. Udinese had 12 key passes and 3 successful dribbles, while Lecce had 10 and 1 respectively; in fouls, Udinese had 10 and Lecce 11, with yellow cards at 1 to 0 and red cards at 0 for both. Data source: PitchAPI match statistics."
+      }
+    },
     {
       "id": "match-review-3f4076409642",
       "title": "西甲：瓦伦西亚0-0毕尔巴鄂竞技，双方互交白卷",
