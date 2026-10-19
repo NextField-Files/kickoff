@@ -1,6 +1,6 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-10-19T00:05:55.128787926Z",
+  "updatedAt" : "2026-10-19T16:50:19.252982553Z",
   "range" : {
     "from" : "2026-10-11",
     "to" : "2026-10-19"
@@ -5368,9 +5368,9 @@
     "teamHome" : "MON",
     "teamAway" : "CAG",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
+    "status" : "IN_PLAY",
+    "hs" : 0,
+    "as" : 0
   }, {
     "id" : "558578",
     "league" : "意甲",
@@ -23582,6 +23582,7 @@
       "startDate" : "2026-08-21",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 65,
           "sourceName" : "Manchester City FC",
@@ -23882,8 +23883,7 @@
           "gd" : "-6",
           "gf" : 3,
           "ga" : 9
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "西甲" : {
@@ -23891,6 +23891,7 @@
       "startDate" : "2026-08-16",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 81,
           "sourceName" : "FC Barcelona",
@@ -24191,8 +24192,7 @@
           "gd" : "-12",
           "gf" : 6,
           "ga" : 18
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "意甲" : {
@@ -24200,6 +24200,7 @@
       "startDate" : "2026-08-23",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 108,
           "sourceName" : "FC Internazionale Milano",
@@ -24276,10 +24277,25 @@
           "gf" : 12,
           "ga" : 7
         }, {
+          "id" : 104,
+          "sourceName" : "Cagliari Calcio",
+          "code" : "CAG",
+          "pos" : 6,
+          "team" : "Cagliari",
+          "color" : "#7377db",
+          "pts" : 14,
+          "p" : 7,
+          "w" : 4,
+          "d" : 2,
+          "l" : 1,
+          "gd" : "+3",
+          "gf" : 6,
+          "ga" : 3
+        }, {
           "id" : 470,
           "sourceName" : "Frosinone Calcio",
           "code" : "FRO",
-          "pos" : 6,
+          "pos" : 7,
           "team" : "Frosinone",
           "color" : "#7377db",
           "pts" : 13,
@@ -24290,21 +24306,6 @@
           "gd" : "+4",
           "gf" : 13,
           "ga" : 9
-        }, {
-          "id" : 104,
-          "sourceName" : "Cagliari Calcio",
-          "code" : "CAG",
-          "pos" : 7,
-          "team" : "Cagliari",
-          "color" : "#7377db",
-          "pts" : 13,
-          "p" : 6,
-          "w" : 4,
-          "d" : 1,
-          "l" : 1,
-          "gd" : "+3",
-          "gf" : 6,
-          "ga" : 3
         }, {
           "id" : 109,
           "sourceName" : "Juventus FC",
@@ -24417,10 +24418,10 @@
           "pos" : 15,
           "team" : "Monza",
           "color" : "#7377db",
-          "pts" : 4,
-          "p" : 6,
+          "pts" : 5,
+          "p" : 7,
           "w" : 1,
-          "d" : 1,
+          "d" : 2,
           "l" : 4,
           "gd" : "-6",
           "gf" : 9,
@@ -24500,8 +24501,7 @@
           "gd" : "-10",
           "gf" : 6,
           "ga" : 16
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "德甲" : {
@@ -24509,6 +24509,7 @@
       "startDate" : "2026-08-28",
       "endDate" : "2027-05-22",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 5,
           "sourceName" : "FC Bayern München",
@@ -24779,8 +24780,7 @@
           "gd" : "-12",
           "gf" : 8,
           "ga" : 20
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "法甲" : {
@@ -24788,6 +24788,7 @@
       "startDate" : "2026-08-22",
       "endDate" : "2027-05-29",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 523,
           "sourceName" : "Olympique Lyonnais",
@@ -25058,8 +25059,7 @@
           "gd" : "-6",
           "gf" : 5,
           "ga" : 11
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "欧冠" : {
@@ -25067,6 +25067,7 @@
       "startDate" : "2026-09-08",
       "endDate" : "2027-01-27",
       "groups" : [ {
+        "name" : "League phase",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -25607,8 +25608,7 @@
           "gd" : "-8",
           "gf" : 1,
           "ga" : 9
-        } ],
-        "name" : "League phase"
+        } ]
       } ]
     }
   }
