@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "match-review-4bafbf0d1b1a",
+      "title": "蒙扎4-0卡利亚里：主队射正效率与过人优势明显",
+      "summary": "蒙扎主场4-0击败卡利亚里，尽管控球与传球数据处于下风，但射正次数和成功过人占据优势。",
+      "body": "蒙扎以4-0战胜卡利亚里。控球率方面，卡利亚里54.4%高于蒙扎的45.6%，传球501次也多于蒙扎的409次，传球成功率83.8%对81.4%同样占优。射门数卡利亚里16次多于蒙扎14次，但蒙扎射正6次高于卡利亚里的5次；成功过人蒙扎13次明显多于卡利亚里的5次。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-20T01:08:50.002Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558576"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-20T01:01:59.066546449Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558576"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-20T01:08:47.365165033Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1VpC1F"
+        }
+      ]
+    },
+    {
+      "id": "match-review-f4df44fc5e2f",
+      "title": "帕尔马主场0比3不敌都灵",
+      "summary": "帕尔马在控球和射门次数上占优，却以0比3负于都灵。",
+      "body": "本场意甲比赛，帕尔马主场0比3不敌都灵。技术统计显示，帕尔马控球率51.3%高于都灵的48.7%，射门25次、射正8次也多于都灵的9次和3次，关键传球19次对7次同样占优。都灵传球成功率为84.1%，高于帕尔马的80.8%，犯规16次多于帕尔马的7次。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-20T01:08:51.224Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558578"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-20T01:01:59.066546449Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558578"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-20T01:08:47.365165033Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1exn1L"
+        }
+      ]
+    },
+    {
+      "id": "match-review-e1afacdd0702",
+      "title": "热刺3-1考文垂：控球与射正优势转化为胜局",
+      "summary": "托特纳姆热刺主场3比1击败考文垂，控球率、射门与射正数据均占优。",
+      "body": "英超比赛中，托特纳姆热刺以3比1战胜考文垂。技术统计显示，热刺控球率65.4%对34.6%，射门16次对12次，射正5次对1次，传球574次对276次，传球成功率86.1%对77.5%。考文垂黄牌3张，热刺1张，双方均无红牌。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-20T01:08:52.997Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "560606"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-20T01:01:59.066546449Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560606"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-20T01:08:47.365165033Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_2KXrBt"
+        }
+      ]
+    },
+    {
+      "id": "match-review-c8ce0ec5ed46",
+      "title": "赫塔费1-1巴列卡诺：控球与射门数据对比",
+      "summary": "赫塔费主场1-1战平巴列卡诺，巴列卡诺在控球率、射门和传球等多数统计上占优。",
+      "body": "赫塔费主场与巴列卡诺1-1战平。控球率方面，巴列卡诺以67.8%对32.2%明显占优；射门21次对12次、射正5次对4次，传球584次对254次，传球成功率87.3%对72%，关键传球14次对8次，均高于赫塔费。赫塔费在成功过人5次对2次、犯规12次对9次、黄牌6张对3张、红牌1张对0张上数值更高。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-20T01:08:54.540Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564717"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-20T01:01:59.066546449Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564717"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-20T01:08:47.365165033Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_13g2y0"
+        }
+      ]
+    },
+    {
       "id": "match-review-3bbfba2e28ac",
       "title": "奥萨苏纳主场2-0击败桑坦德竞技",
       "summary": "奥萨苏纳在2026年10月18日的西甲比赛中主场2比0战胜桑坦德竞技。",
@@ -1509,114 +1617,6 @@
           "updatedAt": "2026-10-14T01:28:41.563612543Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_37OokP"
-        }
-      ]
-    },
-    {
-      "id": "match-review-9f3e2f36e78d",
-      "title": "莱万特3-3塞维利亚：控球与射门占优，红牌与犯规数据成反差",
-      "summary": "莱万特与塞维利亚在西甲比赛中3-3战平，莱万特在控球率、射门、射正和传球数上占优，塞维利亚则在关键传球、成功过人、犯规、黄牌和红牌数据上更高。",
-      "body": "莱万特与塞维利亚以3-3的比分结束本场西甲较量。技术统计显示，莱万特控球率57%对43%，射门20对18，射正8对5，传球499对386，均高于塞维利亚；塞维利亚则在关键传球13对10、成功过人10对9、犯规17对7、黄牌4对2和红牌1对0上多于对手。传球成功率方面，塞维利亚80.3%略高于莱万特的80.2%。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-14T01:28:50.720Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "564704"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-14T01:24:33.550330241Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "564704"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-14T01:28:41.563612543Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_2Nuzb0"
-        }
-      ]
-    },
-    {
-      "id": "match-review-18673a18dcf8",
-      "title": "朗斯主场0-2不敌葡萄牙体育",
-      "summary": "朗斯在欧冠比赛中主场0比2负于葡萄牙体育。",
-      "body": "朗斯在控球率（56.5%对43.5%）、射门（21对11）、射正（6对5）、传球（550对429）、传球成功率（86.2%对83.9%）和关键传球（15对9）上均占优，但未能取得进球。葡萄牙体育在成功过人（14对7）和犯规（12对8）上多于朗斯，黄牌方面朗斯2张、葡萄牙体育0张，红牌双方均为0。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-14T01:28:52.415Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575341"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-14T01:24:33.550330241Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575341"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-14T01:28:41.563612543Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0Z7ndF"
-        }
-      ]
-    },
-    {
-      "id": "match-review-fd57a119f722",
-      "title": "沙巴足球俱乐部2-0布拉格斯拉维亚，欧冠赛后数据",
-      "summary": "沙巴足球俱乐部在欧冠比赛中以2-0战胜布拉格斯拉维亚，尽管多项技术统计处于下风。",
-      "body": "沙巴足球俱乐部以2-0击败布拉格斯拉维亚。技术统计显示，布拉格斯拉维亚在控球率（55.5%对44.5%）、射门（18对13）、射正（8对6）、传球（414对327）、传球成功率（75.8%对74%）和关键传球（15对7）上均占优；双方成功过人（4对4）和红牌（0对0）相同，沙巴足球俱乐部犯规（15对14）和黄牌（3对2）更多。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-14T01:28:54.130Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575342"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-14T01:24:33.550330241Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575342"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-14T01:28:41.563612543Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_08njyF"
-        }
-      ]
-    },
-    {
-      "id": "match-review-15786dc783c1",
-      "title": "国际米兰3-4布鲁日：控球射门占优仍告负",
-      "summary": "国际米兰在控球率、射门和射正等多项数据上占优，但最终以3比4不敌布鲁日。",
-      "body": "2026年10月14日欧冠，国际米兰主场3比4负于布鲁日。技术统计显示，国际米兰控球率53.6%对46.4%，射门30对18，射正12对8，传球533对464，关键传球19对11，均高于布鲁日。布鲁日则在犯规13对6、黄牌4对2上多于国际米兰，红牌双方均为0。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-14T01:28:55.889Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575343"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-14T01:24:33.550330241Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575343"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-14T01:28:41.563612543Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_1rmeUJ"
         }
       ]
     }
