@@ -1,6 +1,6 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-10-20T01:01:59.066546449Z",
+  "updatedAt" : "2026-10-20T14:42:28.282171534Z",
   "range" : {
     "to" : "2026-10-20",
     "from" : "2026-10-12"
@@ -325,17 +325,6 @@
     "teamAway" : "BAR",
     "colors" : [ "#7377db", "#783e99" ]
   }, {
-    "id" : "565825",
-    "league" : "德甲",
-    "utcDate" : "2026-10-17T16:30:00Z",
-    "home" : "拜仁慕尼黑",
-    "away" : "RB Leipzig",
-    "hs" : 6,
-    "as" : 1,
-    "teamHome" : "FCB",
-    "teamAway" : "RBL",
-    "colors" : [ "#d64545", "#7377db" ]
-  }, {
     "id" : "558571",
     "league" : "意甲",
     "utcDate" : "2026-10-17T16:00:00Z",
@@ -402,61 +391,6 @@
     "teamAway" : "LIV",
     "colors" : [ "#7377db", "#c93640" ]
   }, {
-    "id" : "565821",
-    "league" : "德甲",
-    "utcDate" : "2026-10-17T13:30:00Z",
-    "home" : "Union Berlin",
-    "away" : "Dortmund",
-    "hs" : 0,
-    "as" : 0,
-    "teamHome" : "UNB",
-    "teamAway" : "BVB",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "565822",
-    "league" : "德甲",
-    "utcDate" : "2026-10-17T13:30:00Z",
-    "home" : "HSV",
-    "away" : "Stuttgart",
-    "hs" : 1,
-    "as" : 0,
-    "teamHome" : "HSV",
-    "teamAway" : "VFB",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "565823",
-    "league" : "德甲",
-    "utcDate" : "2026-10-17T13:30:00Z",
-    "home" : "Bremen",
-    "away" : "SC Paderborn",
-    "hs" : 2,
-    "as" : 2,
-    "teamHome" : "SVW",
-    "teamAway" : "SCP",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "565824",
-    "league" : "德甲",
-    "utcDate" : "2026-10-17T13:30:00Z",
-    "home" : "Elversberg",
-    "away" : "Augsburg",
-    "hs" : 4,
-    "as" : 3,
-    "teamHome" : "ELV",
-    "teamAway" : "FCA",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "565829",
-    "league" : "德甲",
-    "utcDate" : "2026-10-17T13:30:00Z",
-    "home" : "Schalke",
-    "away" : "Mainz",
-    "hs" : 0,
-    "as" : 1,
-    "teamHome" : "S04",
-    "teamAway" : "M05",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
     "id" : "558575",
     "league" : "意甲",
     "utcDate" : "2026-10-17T13:00:00Z",
@@ -521,17 +455,6 @@
     "as" : 3,
     "teamHome" : "LMF",
     "teamAway" : "TOU",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "565828",
-    "league" : "德甲",
-    "utcDate" : "2026-10-16T18:30:00Z",
-    "home" : "Frankfurt",
-    "away" : "1. FC Köln",
-    "hs" : 1,
-    "as" : 0,
-    "teamHome" : "SGE",
-    "teamAway" : "KOE",
     "colors" : [ "#7377db", "#7377db" ]
   }, {
     "id" : "575352",
@@ -4481,9 +4404,9 @@
     "teamHome" : "RCL",
     "teamAway" : "SPO",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 0,
-    "as" : 2
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575342",
     "league" : "欧冠",
@@ -4493,9 +4416,9 @@
     "teamHome" : "SAB",
     "teamAway" : "SLP",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 2,
-    "as" : 0
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575343",
     "league" : "欧冠",
@@ -4505,9 +4428,9 @@
     "teamHome" : "INT",
     "teamAway" : "BRU",
     "colors" : [ "#3279bd", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 4
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575344",
     "league" : "欧冠",
@@ -4517,9 +4440,9 @@
     "teamHome" : "GAL",
     "teamAway" : "BAR",
     "colors" : [ "#7377db", "#783e99" ],
-    "status" : "FINISHED",
-    "hs" : 1,
-    "as" : 4
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575345",
     "league" : "欧冠",
@@ -4529,9 +4452,9 @@
     "teamHome" : "ATL",
     "teamAway" : "MUN",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 2,
-    "as" : 0
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575346",
     "league" : "欧冠",
@@ -4541,9 +4464,9 @@
     "teamHome" : "ARS",
     "teamAway" : "LIL",
     "colors" : [ "#e34448", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 0
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575347",
     "league" : "欧冠",
@@ -4553,9 +4476,9 @@
     "teamHome" : "VIK",
     "teamAway" : "FCB",
     "colors" : [ "#7377db", "#d64545" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 3
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575348",
     "league" : "欧冠",
@@ -4565,9 +4488,9 @@
     "teamHome" : "RBL",
     "teamAway" : "PSV",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 1,
-    "as" : 0
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575349",
     "league" : "欧冠",
@@ -4577,9 +4500,9 @@
     "teamHome" : "VIL",
     "teamAway" : "NAP",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 1
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575350",
     "league" : "欧冠",
@@ -4589,9 +4512,9 @@
     "teamHome" : "LIN",
     "teamAway" : "LIV",
     "colors" : [ "#7377db", "#c93640" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 6
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575351",
     "league" : "欧冠",
@@ -4601,9 +4524,9 @@
     "teamHome" : "FEY",
     "teamAway" : "COM",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 2
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575352",
     "league" : "欧冠",
@@ -4613,9 +4536,9 @@
     "teamHome" : "ROM",
     "teamAway" : "RMA",
     "colors" : [ "#7377db", "#d6b652" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 4
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575353",
     "league" : "欧冠",
@@ -4625,9 +4548,9 @@
     "teamHome" : "MCI",
     "teamAway" : "PSG",
     "colors" : [ "#54a8dc", "#4b67b2" ],
-    "status" : "FINISHED",
-    "hs" : 2,
-    "as" : 4
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575354",
     "league" : "欧冠",
@@ -4637,9 +4560,9 @@
     "teamHome" : "FK",
     "teamAway" : "BVB",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 1,
-    "as" : 0
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575355",
     "league" : "欧冠",
@@ -4649,9 +4572,9 @@
     "teamHome" : "AVL",
     "teamAway" : "FEN",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 6,
-    "as" : 0
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575356",
     "league" : "欧冠",
@@ -4661,9 +4584,9 @@
     "teamHome" : "BET",
     "teamAway" : "FCP",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 2
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575357",
     "league" : "欧冠",
@@ -4673,9 +4596,9 @@
     "teamHome" : "SHD",
     "teamAway" : "AEK",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 3,
-    "as" : 1
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "575358",
     "league" : "欧冠",
@@ -4685,9 +4608,9 @@
     "teamHome" : "SBA",
     "teamAway" : "VFB",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "FINISHED",
-    "hs" : 0,
-    "as" : 3
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
   }, {
     "id" : "565828",
     "league" : "德甲",
@@ -8925,13 +8848,13 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "560662",
+    "id" : "560668",
     "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
-    "home" : "Tottenham",
-    "away" : "Fulham",
-    "teamHome" : "TOT",
-    "teamAway" : "FUL",
+    "utcDate" : "2026-12-01T20:00:00Z",
+    "home" : "Coventry City",
+    "away" : "Ipswich Town",
+    "teamHome" : "COV",
+    "teamAway" : "IPS",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -8939,7 +8862,7 @@
   }, {
     "id" : "560663",
     "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
+    "utcDate" : "2026-12-02T19:30:00Z",
     "home" : "利物浦",
     "away" : "Sunderland",
     "teamHome" : "LIV",
@@ -8951,7 +8874,7 @@
   }, {
     "id" : "560664",
     "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
+    "utcDate" : "2026-12-02T19:30:00Z",
     "home" : "Hull City",
     "away" : "Nottingham",
     "teamHome" : "HUL",
@@ -8963,7 +8886,7 @@
   }, {
     "id" : "560665",
     "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
+    "utcDate" : "2026-12-02T19:30:00Z",
     "home" : "Chelsea",
     "away" : "Crystal Palace",
     "teamHome" : "CHE",
@@ -8973,9 +8896,21 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560669",
+    "league" : "英超",
+    "utcDate" : "2026-12-02T19:30:00Z",
+    "home" : "曼城",
+    "away" : "Leeds United",
+    "teamHome" : "MCI",
+    "teamAway" : "LEE",
+    "colors" : [ "#54a8dc", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "560666",
     "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
+    "utcDate" : "2026-12-02T20:15:00Z",
     "home" : "Aston Villa",
     "away" : "Everton",
     "teamHome" : "AVL",
@@ -8987,7 +8922,7 @@
   }, {
     "id" : "560667",
     "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
+    "utcDate" : "2026-12-02T20:15:00Z",
     "home" : "Brentford",
     "away" : "阿森纳",
     "teamHome" : "BRE",
@@ -8997,33 +8932,9 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "560668",
-    "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
-    "home" : "Coventry City",
-    "away" : "Ipswich Town",
-    "teamHome" : "COV",
-    "teamAway" : "IPS",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560669",
-    "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
-    "home" : "曼城",
-    "away" : "Leeds United",
-    "teamHome" : "MCI",
-    "teamAway" : "LEE",
-    "colors" : [ "#54a8dc", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "560670",
     "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
+    "utcDate" : "2026-12-02T20:15:00Z",
     "home" : "Newcastle",
     "away" : "Man United",
     "teamHome" : "NEW",
@@ -9035,11 +8946,23 @@
   }, {
     "id" : "560671",
     "league" : "英超",
-    "utcDate" : "2026-12-02T20:00:00Z",
+    "utcDate" : "2026-12-02T20:15:00Z",
     "home" : "Bournemouth",
     "away" : "Brighton Hove",
     "teamHome" : "BOU",
     "teamAway" : "BHA",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560662",
+    "league" : "英超",
+    "utcDate" : "2026-12-03T20:00:00Z",
+    "home" : "Tottenham",
+    "away" : "Fulham",
+    "teamHome" : "TOT",
+    "teamAway" : "FUL",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -9273,6 +9196,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560676",
+    "league" : "英超",
+    "utcDate" : "2026-12-05T12:30:00Z",
+    "home" : "Chelsea",
+    "away" : "利物浦",
+    "teamHome" : "CHE",
+    "teamAway" : "LIV",
+    "colors" : [ "#7377db", "#c93640" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558507",
     "league" : "意甲",
     "utcDate" : "2026-12-05T14:00:00Z",
@@ -9281,18 +9216,6 @@
     "teamHome" : "MON",
     "teamAway" : "COM",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560672",
-    "league" : "英超",
-    "utcDate" : "2026-12-05T15:00:00Z",
-    "home" : "Tottenham",
-    "away" : "阿森纳",
-    "teamHome" : "TOT",
-    "teamAway" : "ARS",
-    "colors" : [ "#7377db", "#e34448" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -9321,42 +9244,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "560675",
-    "league" : "英超",
-    "utcDate" : "2026-12-05T15:00:00Z",
-    "home" : "Newcastle",
-    "away" : "Sunderland",
-    "teamHome" : "NEW",
-    "teamAway" : "SUN",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560676",
-    "league" : "英超",
-    "utcDate" : "2026-12-05T15:00:00Z",
-    "home" : "Chelsea",
-    "away" : "利物浦",
-    "teamHome" : "CHE",
-    "teamAway" : "LIV",
-    "colors" : [ "#7377db", "#c93640" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560677",
-    "league" : "英超",
-    "utcDate" : "2026-12-05T15:00:00Z",
-    "home" : "Brentford",
-    "away" : "曼城",
-    "teamHome" : "BRE",
-    "teamAway" : "MCI",
-    "colors" : [ "#7377db", "#54a8dc" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "560678",
     "league" : "英超",
     "utcDate" : "2026-12-05T15:00:00Z",
@@ -9381,30 +9268,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "560680",
-    "league" : "英超",
-    "utcDate" : "2026-12-05T15:00:00Z",
-    "home" : "Nottingham",
-    "away" : "Brighton Hove",
-    "teamHome" : "NOT",
-    "teamAway" : "BHA",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560681",
-    "league" : "英超",
-    "utcDate" : "2026-12-05T15:00:00Z",
-    "home" : "Everton",
-    "away" : "Fulham",
-    "teamHome" : "EVE",
-    "teamAway" : "FUL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "558501",
     "league" : "意甲",
     "utcDate" : "2026-12-05T17:00:00Z",
@@ -9417,6 +9280,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560680",
+    "league" : "英超",
+    "utcDate" : "2026-12-05T17:30:00Z",
+    "home" : "Nottingham",
+    "away" : "Brighton Hove",
+    "teamHome" : "NOT",
+    "teamAway" : "BHA",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558508",
     "league" : "意甲",
     "utcDate" : "2026-12-05T19:45:00Z",
@@ -9425,6 +9300,18 @@
     "teamHome" : "NAP",
     "teamAway" : "USL",
     "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560677",
+    "league" : "英超",
+    "utcDate" : "2026-12-05T20:00:00Z",
+    "home" : "Brentford",
+    "away" : "曼城",
+    "teamHome" : "BRE",
+    "teamAway" : "MCI",
+    "colors" : [ "#7377db", "#54a8dc" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -9561,6 +9448,30 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560675",
+    "league" : "英超",
+    "utcDate" : "2026-12-06T14:00:00Z",
+    "home" : "Newcastle",
+    "away" : "Sunderland",
+    "teamHome" : "NEW",
+    "teamAway" : "SUN",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560681",
+    "league" : "英超",
+    "utcDate" : "2026-12-06T14:00:00Z",
+    "home" : "Everton",
+    "away" : "Fulham",
+    "teamHome" : "EVE",
+    "teamAway" : "FUL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558504",
     "league" : "意甲",
     "utcDate" : "2026-12-06T14:00:00Z",
@@ -9569,6 +9480,18 @@
     "teamHome" : "LAZ",
     "teamAway" : "ATA",
     "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560672",
+    "league" : "英超",
+    "utcDate" : "2026-12-06T16:30:00Z",
+    "home" : "Tottenham",
+    "away" : "阿森纳",
+    "teamHome" : "TOT",
+    "teamAway" : "ARS",
+    "colors" : [ "#7377db", "#e34448" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -10065,54 +9988,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "560682",
-    "league" : "英超",
-    "utcDate" : "2026-12-12T15:00:00Z",
-    "home" : "Sunderland",
-    "away" : "Nottingham",
-    "teamHome" : "SUN",
-    "teamAway" : "NOT",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560683",
-    "league" : "英超",
-    "utcDate" : "2026-12-12T15:00:00Z",
-    "home" : "Crystal Palace",
-    "away" : "Man United",
-    "teamHome" : "CRY",
-    "teamAway" : "MUN",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560684",
-    "league" : "英超",
-    "utcDate" : "2026-12-12T15:00:00Z",
-    "home" : "Hull City",
-    "away" : "Tottenham",
-    "teamHome" : "HUL",
-    "teamAway" : "TOT",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560685",
-    "league" : "英超",
-    "utcDate" : "2026-12-12T15:00:00Z",
-    "home" : "Brighton Hove",
-    "away" : "Everton",
-    "teamHome" : "BHA",
-    "teamAway" : "EVE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "560686",
     "league" : "英超",
     "utcDate" : "2026-12-12T15:00:00Z",
@@ -10121,42 +9996,6 @@
     "teamHome" : "IPS",
     "teamAway" : "NEW",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560687",
-    "league" : "英超",
-    "utcDate" : "2026-12-12T15:00:00Z",
-    "home" : "Coventry City",
-    "away" : "Aston Villa",
-    "teamHome" : "COV",
-    "teamAway" : "AVL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560688",
-    "league" : "英超",
-    "utcDate" : "2026-12-12T15:00:00Z",
-    "home" : "阿森纳",
-    "away" : "Bournemouth",
-    "teamHome" : "ARS",
-    "teamAway" : "BOU",
-    "colors" : [ "#e34448", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560689",
-    "league" : "英超",
-    "utcDate" : "2026-12-12T15:00:00Z",
-    "home" : "曼城",
-    "away" : "Chelsea",
-    "teamHome" : "MCI",
-    "teamAway" : "CHE",
-    "colors" : [ "#54a8dc", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -10193,6 +10032,18 @@
     "teamHome" : "USL",
     "teamAway" : "SAS",
     "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560689",
+    "league" : "英超",
+    "utcDate" : "2026-12-12T17:30:00Z",
+    "home" : "曼城",
+    "away" : "Chelsea",
+    "teamHome" : "MCI",
+    "teamAway" : "CHE",
+    "colors" : [ "#54a8dc", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -10341,6 +10192,42 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560682",
+    "league" : "英超",
+    "utcDate" : "2026-12-13T14:00:00Z",
+    "home" : "Sunderland",
+    "away" : "Nottingham",
+    "teamHome" : "SUN",
+    "teamAway" : "NOT",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560685",
+    "league" : "英超",
+    "utcDate" : "2026-12-13T14:00:00Z",
+    "home" : "Brighton Hove",
+    "away" : "Everton",
+    "teamHome" : "BHA",
+    "teamAway" : "EVE",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560688",
+    "league" : "英超",
+    "utcDate" : "2026-12-13T14:00:00Z",
+    "home" : "阿森纳",
+    "away" : "Bournemouth",
+    "teamHome" : "ARS",
+    "teamAway" : "BOU",
+    "colors" : [ "#e34448", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558495",
     "league" : "意甲",
     "utcDate" : "2026-12-13T14:00:00Z",
@@ -10353,6 +10240,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560687",
+    "league" : "英超",
+    "utcDate" : "2026-12-13T16:30:00Z",
+    "home" : "Coventry City",
+    "away" : "Aston Villa",
+    "teamHome" : "COV",
+    "teamAway" : "AVL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558493",
     "league" : "意甲",
     "utcDate" : "2026-12-13T17:00:00Z",
@@ -10360,6 +10259,18 @@
     "away" : "Fiorentina",
     "teamHome" : "PAR",
     "teamAway" : "FIO",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560683",
+    "league" : "英超",
+    "utcDate" : "2026-12-13T19:00:00Z",
+    "home" : "Crystal Palace",
+    "away" : "Man United",
+    "teamHome" : "CRY",
+    "teamAway" : "MUN",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -10408,6 +10319,18 @@
     "away" : "Monza",
     "teamHome" : "JUV",
     "teamAway" : "MON",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560684",
+    "league" : "英超",
+    "utcDate" : "2026-12-14T20:00:00Z",
+    "home" : "Hull City",
+    "away" : "Tottenham",
+    "teamHome" : "HUL",
+    "teamAway" : "TOT",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -10545,6 +10468,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560695",
+    "league" : "英超",
+    "utcDate" : "2026-12-19T12:30:00Z",
+    "home" : "Brentford",
+    "away" : "Newcastle",
+    "teamHome" : "BRE",
+    "teamAway" : "NEW",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558480",
     "league" : "意甲",
     "utcDate" : "2026-12-19T14:00:00Z",
@@ -10569,18 +10504,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "560693",
-    "league" : "英超",
-    "utcDate" : "2026-12-19T15:00:00Z",
-    "home" : "Brighton Hove",
-    "away" : "Ipswich Town",
-    "teamHome" : "BHA",
-    "teamAway" : "IPS",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "560694",
     "league" : "英超",
     "utcDate" : "2026-12-19T15:00:00Z",
@@ -10588,18 +10511,6 @@
     "away" : "Everton",
     "teamHome" : "NOT",
     "teamAway" : "EVE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560695",
-    "league" : "英超",
-    "utcDate" : "2026-12-19T15:00:00Z",
-    "home" : "Brentford",
-    "away" : "Newcastle",
-    "teamHome" : "BRE",
-    "teamAway" : "NEW",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -10617,18 +10528,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "560697",
-    "league" : "英超",
-    "utcDate" : "2026-12-19T15:00:00Z",
-    "home" : "Sunderland",
-    "away" : "Crystal Palace",
-    "teamHome" : "SUN",
-    "teamAway" : "CRY",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "560698",
     "league" : "英超",
     "utcDate" : "2026-12-19T15:00:00Z",
@@ -10636,42 +10535,6 @@
     "away" : "Coventry City",
     "teamHome" : "BOU",
     "teamAway" : "COV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560699",
-    "league" : "英超",
-    "utcDate" : "2026-12-19T15:00:00Z",
-    "home" : "阿森纳",
-    "away" : "Man United",
-    "teamHome" : "ARS",
-    "teamAway" : "MUN",
-    "colors" : [ "#e34448", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560700",
-    "league" : "英超",
-    "utcDate" : "2026-12-19T15:00:00Z",
-    "home" : "利物浦",
-    "away" : "Tottenham",
-    "teamHome" : "LIV",
-    "teamAway" : "TOT",
-    "colors" : [ "#c93640", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "560701",
-    "league" : "英超",
-    "utcDate" : "2026-12-19T15:00:00Z",
-    "home" : "Chelsea",
-    "away" : "Aston Villa",
-    "teamHome" : "CHE",
-    "teamAway" : "AVL",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -10685,6 +10548,18 @@
     "teamHome" : "MIL",
     "teamAway" : "COM",
     "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560700",
+    "league" : "英超",
+    "utcDate" : "2026-12-19T17:30:00Z",
+    "home" : "利物浦",
+    "away" : "Tottenham",
+    "teamHome" : "LIV",
+    "teamAway" : "TOT",
+    "colors" : [ "#c93640", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -10833,6 +10708,30 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560693",
+    "league" : "英超",
+    "utcDate" : "2026-12-20T14:00:00Z",
+    "home" : "Brighton Hove",
+    "away" : "Ipswich Town",
+    "teamHome" : "BHA",
+    "teamAway" : "IPS",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560697",
+    "league" : "英超",
+    "utcDate" : "2026-12-20T14:00:00Z",
+    "home" : "Sunderland",
+    "away" : "Crystal Palace",
+    "teamHome" : "SUN",
+    "teamAway" : "CRY",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558487",
     "league" : "意甲",
     "utcDate" : "2026-12-20T14:00:00Z",
@@ -10857,6 +10756,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "560699",
+    "league" : "英超",
+    "utcDate" : "2026-12-20T16:30:00Z",
+    "home" : "阿森纳",
+    "away" : "Man United",
+    "teamHome" : "ARS",
+    "teamAway" : "MUN",
+    "colors" : [ "#e34448", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558485",
     "league" : "意甲",
     "utcDate" : "2026-12-20T17:00:00Z",
@@ -10876,6 +10787,18 @@
     "away" : "Napoli",
     "teamHome" : "ATA",
     "teamAway" : "NAP",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560701",
+    "league" : "英超",
+    "utcDate" : "2026-12-21T20:00:00Z",
+    "home" : "Chelsea",
+    "away" : "Aston Villa",
+    "teamHome" : "CHE",
+    "teamAway" : "AVL",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -23439,7 +23362,6 @@
       "startDate" : "2026-08-21",
       "endDate" : "2027-05-30",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 65,
           "sourceName" : "Manchester City FC",
@@ -23740,7 +23662,8 @@
           "gd" : "-8",
           "gf" : 6,
           "ga" : 14
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "西甲" : {
@@ -23748,7 +23671,6 @@
       "startDate" : "2026-08-16",
       "endDate" : "2027-05-30",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 81,
           "sourceName" : "FC Barcelona",
@@ -24049,7 +23971,8 @@
           "gd" : "-12",
           "gf" : 6,
           "ga" : 18
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "意甲" : {
@@ -24057,7 +23980,6 @@
       "startDate" : "2026-08-23",
       "endDate" : "2027-05-30",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 108,
           "sourceName" : "FC Internazionale Milano",
@@ -24358,7 +24280,8 @@
           "gd" : "-10",
           "gf" : 6,
           "ga" : 16
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "德甲" : {
@@ -24366,7 +24289,6 @@
       "startDate" : "2026-08-28",
       "endDate" : "2027-05-22",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 5,
           "sourceName" : "FC Bayern München",
@@ -24637,7 +24559,8 @@
           "gd" : "-12",
           "gf" : 8,
           "ga" : 20
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "法甲" : {
@@ -24645,7 +24568,6 @@
       "startDate" : "2026-08-22",
       "endDate" : "2027-05-29",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 523,
           "sourceName" : "Olympique Lyonnais",
@@ -24916,7 +24838,8 @@
           "gd" : "-6",
           "gf" : 5,
           "ga" : 11
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "欧冠" : {
@@ -24924,7 +24847,6 @@
       "startDate" : "2026-09-08",
       "endDate" : "2027-01-27",
       "groups" : [ {
-        "name" : "League phase",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -25465,7 +25387,8 @@
           "gd" : "-8",
           "gf" : 1,
           "ga" : 9
-        } ]
+        } ],
+        "name" : "League phase"
       } ]
     }
   }
