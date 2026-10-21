@@ -1,6 +1,249 @@
 {
   "articles": [
     {
+      "id": "match-review-a156b2401eaa",
+      "title": "欧冠：沙巴足球俱乐部1-2多特蒙德",
+      "summary": "多特蒙德客场2-1击败沙巴足球俱乐部，射门与射正数据均占优。",
+      "body": "本场比赛多特蒙德以2-1取胜。控球率方面，多特蒙德为54.7%，沙巴足球俱乐部为45.3%。射门次数上，多特蒙德22次、射正9次，均高于沙巴足球俱乐部的13次射门和4次射正。传球数据方面，多特蒙德500次、成功率82%，沙巴足球俱乐部402次、成功率79.6%。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:45.038Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575359"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575359"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1wcz8f"
+        }
+      ]
+    },
+    {
+      "id": "match-review-c8190c11faef",
+      "title": "欧冠：费内巴切2-2布拉格斯拉维亚，射门与射正持平",
+      "summary": "费内巴切与布拉格斯拉维亚在欧冠比赛中2-2战平，双方射门和射正次数完全相同。",
+      "body": "费内巴切与布拉格斯拉维亚以2-2握手言和。控球率方面，布拉格斯拉维亚以51%略高于费内巴切的49%；传球数和传球成功率也由客队小幅领先（416对401、82.9%对80.8%）。射门与射正两队均为15次和4次，关键传球费内巴切12次多于10次，成功过人10次对6次占优，犯规12次少于15次，黄牌3张多于1张，红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:46.541Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575360"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575360"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0CgrSZ"
+        }
+      ]
+    },
+    {
+      "id": "match-review-0cfe8713d46c",
+      "title": "曼城5-1大胜雅典AEK，控球与射门全面占优",
+      "summary": "曼城主场5比1击败雅典AEK，控球率、射门与射正等多项统计均领先对手。",
+      "body": "曼城以63.3%的控球率高于雅典AEK的36.7%，射门17次对11次，射正7次对3次。传球方面曼城672次、成功率92.9%，对手386次、88.6%；关键传球12比6，成功过人9比7。犯规雅典AEK10次多于曼城的6次，黄牌曼城1张、对手0张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:48.192Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575361"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575361"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_3L83Uf"
+        }
+      ]
+    },
+    {
+      "id": "match-review-3ba5308bc87c",
+      "title": "欧冠：斯图加特1-1马德里竞技",
+      "summary": "斯图加特与马德里竞技在欧冠比赛中1-1战平，主队在多项技术统计上占优。",
+      "body": "斯图加特控球率为53.9%，马德里竞技为46.1%。斯图加特射门18次、射正5次，马德里竞技射门10次、射正3次。传球方面，斯图加特529次、成功率86.4%，马德里竞技433次、成功率85.9%；关键传球11比8，成功过人5比5。犯规15比7，黄牌1比0，红牌0比1。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:49.453Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575362"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575362"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_12BHNW"
+        }
+      ]
+    },
+    {
+      "id": "match-review-39034965bad9",
+      "title": "利物浦4-3险胜比利亚雷亚尔，射门与控球数据占优",
+      "summary": "利物浦在欧冠比赛中以4-3击败比利亚雷亚尔，多项技术统计领先。",
+      "body": "利物浦以4-3战胜比利亚雷亚尔。控球率方面，利物浦为52.4%，比利亚雷亚尔为47.6%。射门次数上，利物浦22次，比利亚雷亚尔14次；射正次数分别为7次和5次。传球方面，利物浦544次，比利亚雷亚尔488次；传球成功率分别为84%和82.4%。关键传球利物浦15次，比利亚雷亚尔10次；成功过人分别为19次和5次。犯规利物浦12次，比利亚雷亚尔10次；黄牌利物浦0张，比利亚雷亚尔2张；红牌双方均为0张。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:51.235Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575363"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575363"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1w0acT"
+        }
+      ]
+    },
+    {
+      "id": "match-review-b2003f3ff272",
+      "title": "罗马主场4-0大胜布拉迪斯拉发，控球与射门全面占优",
+      "summary": "罗马在欧冠比赛中主场4-0击败布拉迪斯拉发，技术统计显示主队在控球率、射门和传球等多项数据上明显领先。",
+      "body": "罗马以4-0战胜布拉迪斯拉发。控球率方面，罗马为72.7%，布拉迪斯拉发为27.3%。射门次数上，罗马26次，布拉迪斯拉发1次；射正次数上，罗马10次，布拉迪斯拉发0次。传球数据方面，罗马681次、成功率88%，布拉迪斯拉发233次、成功率72.5%。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:52.596Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575364"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575364"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_16kboG"
+        }
+      ]
+    },
+    {
+      "id": "match-review-15e04485d6c8",
+      "title": "波尔图主场0比1不敌埃因霍温",
+      "summary": "欧冠联赛中，波尔图主场0比1负于埃因霍温。",
+      "body": "本场比赛波尔图0比1不敌埃因霍温。技术统计显示，埃因霍温控球率59.3%高于波尔图的40.7%，射门18次也多于波尔图的14次，传球625次、传球成功率85.6%均高于波尔图的417次和79.1%。波尔图射正4次多于埃因霍温的3次，双方成功过人各8次，红牌均为0，埃因霍温黄牌2张、波尔图0张。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:54.160Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575365"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575365"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_24E8L5"
+        }
+      ]
+    },
+    {
+      "id": "match-review-ab6b7b4bbe1a",
+      "title": "那不勒斯4-3险胜博德闪耀，射门与关键传球占优",
+      "summary": "那不勒斯主场4比3击败博德闪耀，射门和关键传球多于对手，但控球率与传球数据落后。",
+      "body": "本场欧冠比赛，那不勒斯以4比3战胜博德闪耀。技术统计显示，那不勒斯射门17次、射正8次，均高于博德闪耀的15次和6次；关键传球15次也多于对手的8次。博德闪耀控球率56.8%高于那不勒斯的43.2%，传球654次、传球成功率91%同样占优。数据来源：PitchAPI比赛统计。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:55.730Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575366"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575366"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1ETAAh"
+        }
+      ]
+    },
+    {
+      "id": "match-review-6aa4bcd12561",
+      "title": "巴黎圣日耳曼4-2巴塞罗那，射正效率定胜负",
+      "summary": "巴黎圣日耳曼主场4-2击败巴塞罗那，射正数15比5成为全场最悬殊的数据。",
+      "body": "巴黎圣日耳曼以4-2战胜巴塞罗那。控球率上巴塞罗那52.4%略高于巴黎的47.6%，传球数530比470、传球成功率87.9%比84.9%也占优。但巴黎射门22比18、射正15比5、关键传球16比12均领先，成功过人4比9落后。黄牌方面巴塞罗那1张、巴黎0张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-21T00:36:57.326Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "575367"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-21T00:31:30.220259061Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "575367"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-21T00:36:42.286491711Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_14BqaI"
+        }
+      ]
+    },
+    {
       "id": "match-review-4bafbf0d1b1a",
       "title": "蒙扎4-0卡利亚里：主队射正效率与过人优势明显",
       "summary": "蒙扎主场4-0击败卡利亚里，尽管控球与传球数据处于下风，但射正次数和成功过人占据优势。",
@@ -1374,249 +1617,6 @@
           "updatedAt": "2026-10-16T00:17:25.012494219Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_0sXO3m"
-        }
-      ]
-    },
-    {
-      "id": "match-review-8fc41fd16e17",
-      "title": "曼城主场2-4不敌巴黎圣日耳曼",
-      "summary": "2026年10月15日欧冠，曼城主场2比4负于巴黎圣日耳曼。",
-      "body": "本场比赛曼城在控球率（54.3%对45.7%）、射门（27对15）、传球（507对429）、关键传球（20对11）和成功过人（13对8）上均高于巴黎圣日耳曼，但射正数以9比10落后，传球成功率也以83%对86.2%处于下风。犯规方面曼城10次、巴黎圣日耳曼11次，两队各得1张黄牌，均无红牌。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-16T00:17:32.893Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575353"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-16T00:13:07.703156984Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575353"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-16T00:17:25.012494219Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0nhvU6"
-        }
-      ]
-    },
-    {
-      "id": "match-review-66b56802c5e4",
-      "title": "博德闪耀1-0多特蒙德，欧冠小组赛主场取胜",
-      "summary": "博德闪耀在欧冠比赛中主场1-0击败多特蒙德。",
-      "body": "2026年10月15日，博德闪耀在欧冠比赛中以1-0战胜多特蒙德。技术统计显示，博德闪耀射门11次、射正3次，多特蒙德射门9次、射正4次；控球率方面，博德闪耀为47.6%，多特蒙德为52.4%。传球成功率上，博德闪耀为85.6%，多特蒙德为84.7%。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-16T00:17:34.351Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575354"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-16T00:13:07.703156984Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575354"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-16T00:17:25.012494219Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_1r6TyQ"
-        }
-      ]
-    },
-    {
-      "id": "match-review-bf3473295005",
-      "title": "阿斯顿维拉6-0大胜费内巴切",
-      "summary": "阿斯顿维拉在欧冠比赛中以6-0大胜费内巴切。",
-      "body": "阿斯顿维拉在2026年10月15日的欧冠比赛中以6-0战胜费内巴切。技术统计显示，阿斯顿维拉射门20次、射正11次，费内巴切射门15次、射正4次；控球率方面，阿斯顿维拉为44.8%，费内巴切为55.2%。传球成功率上，阿斯顿维拉为88.3%，费内巴切为87.2%。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-16T00:17:35.800Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575355"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-16T00:13:07.703156984Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575355"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-16T00:17:25.012494219Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_4WDCuM"
-        }
-      ]
-    },
-    {
-      "id": "match-review-b3971f22aa92",
-      "title": "皇家贝蒂斯3-2波尔图，控球与射门数据占优",
-      "summary": "皇家贝蒂斯在欧冠比赛中以3-2战胜波尔图，多项技术统计占据上风。",
-      "body": "皇家贝蒂斯以3-2击败波尔图。控球率方面，贝蒂斯55.5%高于波尔图的44.5%；射门17次对11次，射正7次对5次，传球504次对393次，传球成功率85.5%对81.2%，关键传球12次对6次，成功过人9次对5次，均领先于波尔图。犯规方面，贝蒂斯14次少于波尔图的15次；黄牌贝蒂斯4张，波尔图3张；红牌双方均为0张。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-16T00:17:37.511Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575356"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-16T00:13:07.703156984Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575356"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-16T00:17:25.012494219Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_09f77c"
-        }
-      ]
-    },
-    {
-      "id": "match-review-f3d5781e6d92",
-      "title": "顿涅茨克矿工3-1雅典AEK，控球传球占优拿下比赛",
-      "summary": "顿涅茨克矿工在欧冠比赛中以3-1击败雅典AEK，尽管射门次数略少，但凭借更高的控球率和传球成功率取得胜利。",
-      "body": "顿涅茨克矿工以3-1战胜雅典AEK。技术统计显示，矿工控球率53.9%对46.1%，传球434次对361次，传球成功率88.7%对85%，射正4次对3次，均占优。雅典AEK在射门13次对12次、关键传球9次对7次、成功过人12次对5次上领先，但未能转化为更多进球。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-16T00:17:39.241Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575357"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-16T00:13:07.703156984Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575357"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-16T00:17:25.012494219Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_2PAfzG"
-        }
-      ]
-    },
-    {
-      "id": "match-review-e4a89738d1b1",
-      "title": "斯图加特客场3-0完胜布拉迪斯拉发",
-      "summary": "斯图加特在欧冠客场以3-0击败布拉迪斯拉发，控球率与射正数均大幅领先。",
-      "body": "斯图加特客场3-0战胜布拉迪斯拉发。技术统计显示，斯图加特控球率64.1%对35.9%，射门16次对15次，射正8次对1次，传球632次对341次，传球成功率87.5%对79.8%，关键传球11次对10次。布拉迪斯拉发在成功过人上以8次对3次占优，犯规11次对15次，黄牌1张对3张，红牌均为0张。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-16T00:17:40.864Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575358"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-16T00:13:07.703156984Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575358"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-16T00:17:25.012494219Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0KZSEg"
-        }
-      ]
-    },
-    {
-      "id": "match-review-ce43c4c12145",
-      "title": "亚特兰大3-1威尼斯：控球劣势下射正效率制胜",
-      "summary": "亚特兰大在控球率仅36.3%的情况下，凭借更高的射正数和关键传球以3-1击败威尼斯。",
-      "body": "本场意甲比赛，亚特兰大以3-1战胜威尼斯。技术统计显示，亚特兰大控球率为36.3%，低于威尼斯的63.7%；射门22次对19次，射正11次对4次，关键传球17次对15次，均占优。威尼斯在传球598次对320次、传球成功率87.5%对81.9%、成功过人9次对3次上领先，但亚特兰大犯规14次对6次，黄牌0张对2张，红牌1张对0张。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-14T01:28:44.631Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "558579"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-14T01:24:33.550330241Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "558579"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-14T01:28:41.563612543Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_3WZAJ8"
-        }
-      ]
-    },
-    {
-      "id": "match-review-7fa111383e08",
-      "title": "都灵2-1乌迪内斯：射正效率决定胜负",
-      "summary": "都灵在控球率仅39%的情况下，凭借更高的射正效率以2-1战胜乌迪内斯。",
-      "body": "本场意甲比赛，都灵主场2-1击败乌迪内斯。技术统计显示，乌迪内斯在控球率（61%对39%）、射门（15对12）、传球（645对393）、传球成功率（89.5%对81.2%）和关键传球（10对4）上均占优，但都灵射正次数更多（4对1）。犯规方面乌迪内斯10次、都灵4次，黄牌乌迪内斯1张、都灵0张，红牌双方均为0。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-14T01:28:46.528Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "558587"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-14T01:24:33.550330241Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "558587"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-14T01:28:41.563612543Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0dRaIx"
-        }
-      ]
-    },
-    {
-      "id": "match-review-c5630f68bc1c",
-      "title": "考文垂4-1纽卡斯尔联，射正持平但效率悬殊",
-      "summary": "考文垂在控球率仅33.3%的情况下以4-1击败纽卡斯尔联，双方射正均为6次。",
-      "body": "考文垂以4-1战胜纽卡斯尔联。技术统计显示，纽卡斯尔联控球率66.7%高于考文垂的33.3%，射门19次也多于考文垂的9次，但双方射正均为6次。传球方面，纽卡斯尔联538次、成功率83.3%，考文垂251次、成功率71.7%；关键传球纽卡斯尔联13次，考文垂2次。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-14T01:28:48.362Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "560597"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-14T01:24:33.550330241Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "560597"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-14T01:28:41.563612543Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_37OokP"
         }
       ]
     }
