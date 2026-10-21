@@ -1,6 +1,6 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-10-21T00:31:30.220259061Z",
+  "updatedAt" : "2026-10-21T14:53:35.688244403Z",
   "range" : {
     "from" : "2026-10-13",
     "to" : "2026-10-21"
@@ -5460,7 +5460,7 @@
     "teamHome" : "LEV",
     "teamAway" : "ATH",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
+    "status" : "2026-10-21 18:00:00Z",
     "hs" : 0,
     "as" : 0
   }, {
@@ -5604,7 +5604,7 @@
     "teamHome" : "ALA",
     "teamAway" : "MAL",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
+    "status" : "2026-10-23 19:00:00Z",
     "hs" : null,
     "as" : null
   }, {
@@ -5628,7 +5628,7 @@
     "teamHome" : "RAY",
     "teamAway" : "ELC",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
+    "status" : "2026-10-24 12:00:00Z",
     "hs" : null,
     "as" : null
   }, {
@@ -5748,19 +5748,7 @@
     "teamHome" : "SAN",
     "teamAway" : "ESP",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559655",
-    "league" : "法甲",
-    "utcDate" : "2026-10-24T15:15:00Z",
-    "home" : "Toulouse",
-    "away" : "Troyes",
-    "teamHome" : "TOU",
-    "teamAway" : "ETR",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
+    "status" : "2026-10-24 14:15:00Z",
     "hs" : null,
     "as" : null
   }, {
@@ -5796,7 +5784,7 @@
     "teamHome" : "VAL",
     "teamAway" : "VIL",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
+    "status" : "2026-10-24 16:30:00Z",
     "hs" : null,
     "as" : null
   }, {
@@ -5844,7 +5832,7 @@
     "teamHome" : "ATL",
     "teamAway" : "DEP",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
+    "status" : "2026-10-24 19:00:00Z",
     "hs" : null,
     "as" : null
   }, {
@@ -6011,6 +5999,18 @@
     "away" : "Lorient",
     "teamHome" : "ANG",
     "teamAway" : "FCL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559655",
+    "league" : "法甲",
+    "utcDate" : "2026-10-25T16:15:00Z",
+    "home" : "Toulouse",
+    "away" : "Troyes",
+    "teamHome" : "TOU",
+    "teamAway" : "ETR",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -9112,6 +9112,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559609",
+    "league" : "法甲",
+    "utcDate" : "2026-12-04T19:45:00Z",
+    "home" : "Toulouse",
+    "away" : "巴黎圣日耳曼",
+    "teamHome" : "TOU",
+    "teamAway" : "PSG",
+    "colors" : [ "#7377db", "#4b67b2" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "565875",
     "league" : "德甲",
     "utcDate" : "2026-12-05T00:00:00Z",
@@ -9220,114 +9232,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "559603",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Troyes",
-    "away" : "Olympique Lyon",
-    "teamHome" : "ETR",
-    "teamAway" : "LYO",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559604",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Monaco",
-    "away" : "Angers SCO",
-    "teamHome" : "ASM",
-    "teamAway" : "ANG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559605",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "RC Lens",
-    "away" : "Le Havre",
-    "teamHome" : "RCL",
-    "teamAway" : "HAC",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559606",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Lille",
-    "away" : "Auxerre",
-    "teamHome" : "LIL",
-    "teamAway" : "AJA",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559607",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Marseille",
-    "away" : "Nice",
-    "teamHome" : "MAR",
-    "teamAway" : "NIC",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559608",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Stade Rennais",
-    "away" : "Brest",
-    "teamHome" : "REN",
-    "teamAway" : "BRE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559609",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Toulouse",
-    "away" : "巴黎圣日耳曼",
-    "teamHome" : "TOU",
-    "teamAway" : "PSG",
-    "colors" : [ "#7377db", "#4b67b2" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559610",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Strasbourg",
-    "away" : "Lorient",
-    "teamHome" : "RC ",
-    "teamAway" : "FCL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559611",
-    "league" : "法甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Paris FC",
-    "away" : "Le Mans",
-    "teamHome" : "PFC",
-    "teamAway" : "LMF",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "560676",
     "league" : "英超",
     "utcDate" : "2026-12-05T12:30:00Z",
@@ -9400,6 +9304,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559606",
+    "league" : "法甲",
+    "utcDate" : "2026-12-05T16:15:00Z",
+    "home" : "Lille",
+    "away" : "Auxerre",
+    "teamHome" : "LIL",
+    "teamAway" : "AJA",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558501",
     "league" : "意甲",
     "utcDate" : "2026-12-05T17:00:00Z",
@@ -9431,6 +9347,54 @@
     "away" : "Lecce",
     "teamHome" : "NAP",
     "teamAway" : "USL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559604",
+    "league" : "法甲",
+    "utcDate" : "2026-12-05T19:45:00Z",
+    "home" : "Monaco",
+    "away" : "Angers SCO",
+    "teamHome" : "ASM",
+    "teamAway" : "ANG",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559605",
+    "league" : "法甲",
+    "utcDate" : "2026-12-05T19:45:00Z",
+    "home" : "RC Lens",
+    "away" : "Le Havre",
+    "teamHome" : "RCL",
+    "teamAway" : "HAC",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559610",
+    "league" : "法甲",
+    "utcDate" : "2026-12-05T19:45:00Z",
+    "home" : "Strasbourg",
+    "away" : "Lorient",
+    "teamHome" : "RC ",
+    "teamAway" : "FCL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559611",
+    "league" : "法甲",
+    "utcDate" : "2026-12-05T19:45:00Z",
+    "home" : "Paris FC",
+    "away" : "Le Mans",
+    "teamHome" : "PFC",
+    "teamAway" : "LMF",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -9616,6 +9580,30 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559603",
+    "league" : "法甲",
+    "utcDate" : "2026-12-06T14:00:00Z",
+    "home" : "Troyes",
+    "away" : "Olympique Lyon",
+    "teamHome" : "ETR",
+    "teamAway" : "LYO",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559608",
+    "league" : "法甲",
+    "utcDate" : "2026-12-06T16:15:00Z",
+    "home" : "Stade Rennais",
+    "away" : "Brest",
+    "teamHome" : "REN",
+    "teamAway" : "BRE",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "560672",
     "league" : "英超",
     "utcDate" : "2026-12-06T16:30:00Z",
@@ -9647,6 +9635,18 @@
     "away" : "Parma",
     "teamHome" : "MIL",
     "teamAway" : "PAR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559607",
+    "league" : "法甲",
+    "utcDate" : "2026-12-06T19:45:00Z",
+    "home" : "Marseille",
+    "away" : "Nice",
+    "teamHome" : "MAR",
+    "teamAway" : "NIC",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -9904,6 +9904,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559602",
+    "league" : "法甲",
+    "utcDate" : "2026-12-11T19:45:00Z",
+    "home" : "Auxerre",
+    "away" : "Toulouse",
+    "teamHome" : "AJA",
+    "teamAway" : "TOU",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "565884",
     "league" : "德甲",
     "utcDate" : "2026-12-12T00:00:00Z",
@@ -10012,102 +10024,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "559595",
-    "league" : "法甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Nice",
-    "away" : "RC Lens",
-    "teamHome" : "NIC",
-    "teamAway" : "RCL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559596",
-    "league" : "法甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "巴黎圣日耳曼",
-    "away" : "Paris FC",
-    "teamHome" : "PSG",
-    "teamAway" : "PFC",
-    "colors" : [ "#4b67b2", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559597",
-    "league" : "法甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Angers SCO",
-    "away" : "Strasbourg",
-    "teamHome" : "ANG",
-    "teamAway" : "RC ",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559598",
-    "league" : "法甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Brest",
-    "away" : "Troyes",
-    "teamHome" : "BRE",
-    "teamAway" : "ETR",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559599",
-    "league" : "法甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Le Havre",
-    "away" : "Le Mans",
-    "teamHome" : "HAC",
-    "teamAway" : "LMF",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559600",
-    "league" : "法甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Stade Rennais",
-    "away" : "Monaco",
-    "teamHome" : "REN",
-    "teamAway" : "ASM",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559601",
-    "league" : "法甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Lorient",
-    "away" : "Lille",
-    "teamHome" : "FCL",
-    "teamAway" : "LIL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559602",
-    "league" : "法甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Auxerre",
-    "away" : "Toulouse",
-    "teamHome" : "AJA",
-    "teamAway" : "TOU",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "558494",
     "league" : "意甲",
     "utcDate" : "2026-12-12T14:00:00Z",
@@ -10156,6 +10072,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559596",
+    "league" : "法甲",
+    "utcDate" : "2026-12-12T16:15:00Z",
+    "home" : "巴黎圣日耳曼",
+    "away" : "Paris FC",
+    "teamHome" : "PSG",
+    "teamAway" : "PFC",
+    "colors" : [ "#4b67b2", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558492",
     "league" : "意甲",
     "utcDate" : "2026-12-12T17:00:00Z",
@@ -10187,6 +10115,54 @@
     "away" : "Bologna",
     "teamHome" : "COM",
     "teamAway" : "BOL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559595",
+    "league" : "法甲",
+    "utcDate" : "2026-12-12T19:45:00Z",
+    "home" : "Nice",
+    "away" : "RC Lens",
+    "teamHome" : "NIC",
+    "teamAway" : "RCL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559597",
+    "league" : "法甲",
+    "utcDate" : "2026-12-12T19:45:00Z",
+    "home" : "Angers SCO",
+    "away" : "Strasbourg",
+    "teamHome" : "ANG",
+    "teamAway" : "RC ",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559598",
+    "league" : "法甲",
+    "utcDate" : "2026-12-12T19:45:00Z",
+    "home" : "Brest",
+    "away" : "Troyes",
+    "teamHome" : "BRE",
+    "teamAway" : "ETR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559599",
+    "league" : "法甲",
+    "utcDate" : "2026-12-12T19:45:00Z",
+    "home" : "Le Havre",
+    "away" : "Le Mans",
+    "teamHome" : "HAC",
+    "teamAway" : "LMF",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -10368,6 +10344,30 @@
     "teamHome" : "INT",
     "teamAway" : "TOR",
     "colors" : [ "#3279bd", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559601",
+    "league" : "法甲",
+    "utcDate" : "2026-12-13T14:00:00Z",
+    "home" : "Lorient",
+    "away" : "Lille",
+    "teamHome" : "FCL",
+    "teamAway" : "LIL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559600",
+    "league" : "法甲",
+    "utcDate" : "2026-12-13T16:15:00Z",
+    "home" : "Stade Rennais",
+    "away" : "Monaco",
+    "teamHome" : "REN",
+    "teamAway" : "ASM",
+    "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -11188,102 +11188,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "559586",
-    "league" : "法甲",
-    "utcDate" : "2027-01-02T00:00:00Z",
-    "home" : "Le Mans",
-    "away" : "Olympique Lyon",
-    "teamHome" : "LMF",
-    "teamAway" : "LYO",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559587",
-    "league" : "法甲",
-    "utcDate" : "2027-01-02T00:00:00Z",
-    "home" : "Brest",
-    "away" : "Marseille",
-    "teamHome" : "BRE",
-    "teamAway" : "MAR",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559588",
-    "league" : "法甲",
-    "utcDate" : "2027-01-02T00:00:00Z",
-    "home" : "Troyes",
-    "away" : "Stade Rennais",
-    "teamHome" : "ETR",
-    "teamAway" : "REN",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559589",
-    "league" : "法甲",
-    "utcDate" : "2027-01-02T00:00:00Z",
-    "home" : "Toulouse",
-    "away" : "Angers SCO",
-    "teamHome" : "TOU",
-    "teamAway" : "ANG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559590",
-    "league" : "法甲",
-    "utcDate" : "2027-01-02T00:00:00Z",
-    "home" : "Monaco",
-    "away" : "Nice",
-    "teamHome" : "ASM",
-    "teamAway" : "NIC",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559591",
-    "league" : "法甲",
-    "utcDate" : "2027-01-02T00:00:00Z",
-    "home" : "Paris FC",
-    "away" : "Le Havre",
-    "teamHome" : "PFC",
-    "teamAway" : "HAC",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559592",
-    "league" : "法甲",
-    "utcDate" : "2027-01-02T00:00:00Z",
-    "home" : "Lorient",
-    "away" : "Auxerre",
-    "teamHome" : "FCL",
-    "teamAway" : "AJA",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559593",
-    "league" : "法甲",
-    "utcDate" : "2027-01-02T00:00:00Z",
-    "home" : "Lille",
-    "away" : "Strasbourg",
-    "teamHome" : "LIL",
-    "teamAway" : "RC ",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "558473",
     "league" : "意甲",
     "utcDate" : "2027-01-02T11:30:00Z",
@@ -11392,6 +11296,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559587",
+    "league" : "法甲",
+    "utcDate" : "2027-01-02T16:00:00Z",
+    "home" : "Brest",
+    "away" : "Marseille",
+    "teamHome" : "BRE",
+    "teamAway" : "MAR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558471",
     "league" : "意甲",
     "utcDate" : "2027-01-02T17:00:00Z",
@@ -11423,6 +11339,66 @@
     "away" : "Milan",
     "teamHome" : "MON",
     "teamAway" : "MIL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559588",
+    "league" : "法甲",
+    "utcDate" : "2027-01-02T20:00:00Z",
+    "home" : "Troyes",
+    "away" : "Stade Rennais",
+    "teamHome" : "ETR",
+    "teamAway" : "REN",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559589",
+    "league" : "法甲",
+    "utcDate" : "2027-01-02T20:00:00Z",
+    "home" : "Toulouse",
+    "away" : "Angers SCO",
+    "teamHome" : "TOU",
+    "teamAway" : "ANG",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559590",
+    "league" : "法甲",
+    "utcDate" : "2027-01-02T20:00:00Z",
+    "home" : "Monaco",
+    "away" : "Nice",
+    "teamHome" : "ASM",
+    "teamAway" : "NIC",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559591",
+    "league" : "法甲",
+    "utcDate" : "2027-01-02T20:00:00Z",
+    "home" : "Paris FC",
+    "away" : "Le Havre",
+    "teamHome" : "PFC",
+    "teamAway" : "HAC",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559592",
+    "league" : "法甲",
+    "utcDate" : "2027-01-02T20:00:00Z",
+    "home" : "Lorient",
+    "away" : "Auxerre",
+    "teamHome" : "FCL",
+    "teamAway" : "AJA",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -11591,6 +11567,30 @@
     "away" : "Lecce",
     "teamHome" : "COM",
     "teamAway" : "USL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559586",
+    "league" : "法甲",
+    "utcDate" : "2027-01-03T14:00:00Z",
+    "home" : "Le Mans",
+    "away" : "Olympique Lyon",
+    "teamHome" : "LMF",
+    "teamAway" : "LYO",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559593",
+    "league" : "法甲",
+    "utcDate" : "2027-01-03T16:15:00Z",
+    "home" : "Lille",
+    "away" : "Strasbourg",
+    "teamHome" : "LIL",
+    "teamAway" : "RC ",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -12340,6 +12340,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559576",
+    "league" : "法甲",
+    "utcDate" : "2027-01-15T19:45:00Z",
+    "home" : "Marseille",
+    "away" : "Lille",
+    "teamHome" : "MAR",
+    "teamAway" : "LIL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "565920",
     "league" : "德甲",
     "utcDate" : "2027-01-16T00:00:00Z",
@@ -12444,114 +12456,6 @@
     "teamHome" : "BVB",
     "teamAway" : "SCF",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559576",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Marseille",
-    "away" : "Lille",
-    "teamHome" : "MAR",
-    "teamAway" : "LIL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559577",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Olympique Lyon",
-    "away" : "Lorient",
-    "teamHome" : "LYO",
-    "teamAway" : "FCL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559578",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Paris FC",
-    "away" : "Toulouse",
-    "teamHome" : "PFC",
-    "teamAway" : "TOU",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559579",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Stade Rennais",
-    "away" : "RC Lens",
-    "teamHome" : "REN",
-    "teamAway" : "RCL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559580",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Nice",
-    "away" : "Le Havre",
-    "teamHome" : "NIC",
-    "teamAway" : "HAC",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559581",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Auxerre",
-    "away" : "Troyes",
-    "teamHome" : "AJA",
-    "teamAway" : "ETR",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559582",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Strasbourg",
-    "away" : "Le Mans",
-    "teamHome" : "RC ",
-    "teamAway" : "LMF",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559583",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Monaco",
-    "away" : "Brest",
-    "teamHome" : "ASM",
-    "teamAway" : "BRE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559584",
-    "league" : "法甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Angers SCO",
-    "away" : "巴黎圣日耳曼",
-    "teamHome" : "ANG",
-    "teamAway" : "PSG",
-    "colors" : [ "#7377db", "#4b67b2" ],
     "status" : "SCHEDULED",
     "hs" : null,
     "as" : null
@@ -12671,6 +12575,66 @@
     "away" : "Fulham",
     "teamHome" : "NEW",
     "teamAway" : "FUL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559584",
+    "league" : "法甲",
+    "utcDate" : "2027-01-16T16:15:00Z",
+    "home" : "Angers SCO",
+    "away" : "巴黎圣日耳曼",
+    "teamHome" : "ANG",
+    "teamAway" : "PSG",
+    "colors" : [ "#7377db", "#4b67b2" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559579",
+    "league" : "法甲",
+    "utcDate" : "2027-01-16T19:45:00Z",
+    "home" : "Stade Rennais",
+    "away" : "RC Lens",
+    "teamHome" : "REN",
+    "teamAway" : "RCL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559580",
+    "league" : "法甲",
+    "utcDate" : "2027-01-16T19:45:00Z",
+    "home" : "Nice",
+    "away" : "Le Havre",
+    "teamHome" : "NIC",
+    "teamAway" : "HAC",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559581",
+    "league" : "法甲",
+    "utcDate" : "2027-01-16T19:45:00Z",
+    "home" : "Auxerre",
+    "away" : "Troyes",
+    "teamHome" : "AJA",
+    "teamAway" : "ETR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559582",
+    "league" : "法甲",
+    "utcDate" : "2027-01-16T19:45:00Z",
+    "home" : "Strasbourg",
+    "away" : "Le Mans",
+    "teamHome" : "RC ",
+    "teamAway" : "LMF",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -12916,6 +12880,42 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559578",
+    "league" : "法甲",
+    "utcDate" : "2027-01-17T14:00:00Z",
+    "home" : "Paris FC",
+    "away" : "Toulouse",
+    "teamHome" : "PFC",
+    "teamAway" : "TOU",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559583",
+    "league" : "法甲",
+    "utcDate" : "2027-01-17T16:15:00Z",
+    "home" : "Monaco",
+    "away" : "Brest",
+    "teamHome" : "ASM",
+    "teamAway" : "BRE",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559577",
+    "league" : "法甲",
+    "utcDate" : "2027-01-17T19:45:00Z",
+    "home" : "Olympique Lyon",
+    "away" : "Lorient",
+    "teamHome" : "LYO",
+    "teamAway" : "FCL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "575292",
     "league" : "欧冠",
     "utcDate" : "2027-01-19T17:45:00Z",
@@ -13132,6 +13132,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559572",
+    "league" : "法甲",
+    "utcDate" : "2027-01-22T19:45:00Z",
+    "home" : "Troyes",
+    "away" : "Monaco",
+    "teamHome" : "ETR",
+    "teamAway" : "ASM",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "565929",
     "league" : "德甲",
     "utcDate" : "2027-01-23T00:00:00Z",
@@ -13235,114 +13247,6 @@
     "away" : "Elversberg",
     "teamHome" : "B04",
     "teamAway" : "ELV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559567",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Le Havre",
-    "away" : "Stade Rennais",
-    "teamHome" : "HAC",
-    "teamAway" : "REN",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559568",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Strasbourg",
-    "away" : "Olympique Lyon",
-    "teamHome" : "RC ",
-    "teamAway" : "LYO",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559569",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Lille",
-    "away" : "Paris FC",
-    "teamHome" : "LIL",
-    "teamAway" : "PFC",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559570",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "RC Lens",
-    "away" : "Brest",
-    "teamHome" : "RCL",
-    "teamAway" : "BRE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559571",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "巴黎圣日耳曼",
-    "away" : "Auxerre",
-    "teamHome" : "PSG",
-    "teamAway" : "AJA",
-    "colors" : [ "#4b67b2", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559572",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Troyes",
-    "away" : "Monaco",
-    "teamHome" : "ETR",
-    "teamAway" : "ASM",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559573",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Lorient",
-    "away" : "Marseille",
-    "teamHome" : "FCL",
-    "teamAway" : "MAR",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559574",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Le Mans",
-    "away" : "Angers SCO",
-    "teamHome" : "LMF",
-    "teamAway" : "ANG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559575",
-    "league" : "法甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Toulouse",
-    "away" : "Nice",
-    "teamHome" : "TOU",
-    "teamAway" : "NIC",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "SCHEDULED",
     "hs" : null,
@@ -13463,6 +13367,66 @@
     "away" : "Tottenham",
     "teamHome" : "CRY",
     "teamAway" : "TOT",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559569",
+    "league" : "法甲",
+    "utcDate" : "2027-01-23T16:15:00Z",
+    "home" : "Lille",
+    "away" : "Paris FC",
+    "teamHome" : "LIL",
+    "teamAway" : "PFC",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559570",
+    "league" : "法甲",
+    "utcDate" : "2027-01-23T19:45:00Z",
+    "home" : "RC Lens",
+    "away" : "Brest",
+    "teamHome" : "RCL",
+    "teamAway" : "BRE",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559571",
+    "league" : "法甲",
+    "utcDate" : "2027-01-23T19:45:00Z",
+    "home" : "巴黎圣日耳曼",
+    "away" : "Auxerre",
+    "teamHome" : "PSG",
+    "teamAway" : "AJA",
+    "colors" : [ "#4b67b2", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559574",
+    "league" : "法甲",
+    "utcDate" : "2027-01-23T19:45:00Z",
+    "home" : "Le Mans",
+    "away" : "Angers SCO",
+    "teamHome" : "LMF",
+    "teamAway" : "ANG",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559575",
+    "league" : "法甲",
+    "utcDate" : "2027-01-23T19:45:00Z",
+    "home" : "Toulouse",
+    "away" : "Nice",
+    "teamHome" : "TOU",
+    "teamAway" : "NIC",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -13708,6 +13672,42 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559567",
+    "league" : "法甲",
+    "utcDate" : "2027-01-24T14:00:00Z",
+    "home" : "Le Havre",
+    "away" : "Stade Rennais",
+    "teamHome" : "HAC",
+    "teamAway" : "REN",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559573",
+    "league" : "法甲",
+    "utcDate" : "2027-01-24T16:15:00Z",
+    "home" : "Lorient",
+    "away" : "Marseille",
+    "teamHome" : "FCL",
+    "teamAway" : "MAR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559568",
+    "league" : "法甲",
+    "utcDate" : "2027-01-24T19:45:00Z",
+    "home" : "Strasbourg",
+    "away" : "Olympique Lyon",
+    "teamHome" : "RC ",
+    "teamAway" : "LYO",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "575281",
     "league" : "欧冠",
     "utcDate" : "2027-01-27T20:00:00Z",
@@ -13924,6 +13924,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559564",
+    "league" : "法甲",
+    "utcDate" : "2027-01-29T19:45:00Z",
+    "home" : "Brest",
+    "away" : "Strasbourg",
+    "teamHome" : "BRE",
+    "teamAway" : "RC ",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "565938",
     "league" : "德甲",
     "utcDate" : "2027-01-30T00:00:00Z",
@@ -14028,114 +14040,6 @@
     "teamHome" : "FCB",
     "teamAway" : "S04",
     "colors" : [ "#d64545", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559558",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Paris FC",
-    "away" : "Auxerre",
-    "teamHome" : "PFC",
-    "teamAway" : "AJA",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559559",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Olympique Lyon",
-    "away" : "Lille",
-    "teamHome" : "LYO",
-    "teamAway" : "LIL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559560",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Stade Rennais",
-    "away" : "Lorient",
-    "teamHome" : "REN",
-    "teamAway" : "FCL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559561",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Le Mans",
-    "away" : "Nice",
-    "teamHome" : "LMF",
-    "teamAway" : "NIC",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559562",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Marseille",
-    "away" : "Troyes",
-    "teamHome" : "MAR",
-    "teamAway" : "ETR",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559563",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Angers SCO",
-    "away" : "Le Havre",
-    "teamHome" : "ANG",
-    "teamAway" : "HAC",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559564",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Brest",
-    "away" : "Strasbourg",
-    "teamHome" : "BRE",
-    "teamAway" : "RC ",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559565",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Monaco",
-    "away" : "巴黎圣日耳曼",
-    "teamHome" : "ASM",
-    "teamAway" : "PSG",
-    "colors" : [ "#7377db", "#4b67b2" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559566",
-    "league" : "法甲",
-    "utcDate" : "2027-01-30T00:00:00Z",
-    "home" : "Toulouse",
-    "away" : "RC Lens",
-    "teamHome" : "TOU",
-    "teamAway" : "RCL",
-    "colors" : [ "#7377db", "#7377db" ],
     "status" : "SCHEDULED",
     "hs" : null,
     "as" : null
@@ -14255,6 +14159,66 @@
     "away" : "Ipswich Town",
     "teamHome" : "AVL",
     "teamAway" : "IPS",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559565",
+    "league" : "法甲",
+    "utcDate" : "2027-01-30T16:15:00Z",
+    "home" : "Monaco",
+    "away" : "巴黎圣日耳曼",
+    "teamHome" : "ASM",
+    "teamAway" : "PSG",
+    "colors" : [ "#7377db", "#4b67b2" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559558",
+    "league" : "法甲",
+    "utcDate" : "2027-01-30T19:45:00Z",
+    "home" : "Paris FC",
+    "away" : "Auxerre",
+    "teamHome" : "PFC",
+    "teamAway" : "AJA",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559561",
+    "league" : "法甲",
+    "utcDate" : "2027-01-30T19:45:00Z",
+    "home" : "Le Mans",
+    "away" : "Nice",
+    "teamHome" : "LMF",
+    "teamAway" : "NIC",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559563",
+    "league" : "法甲",
+    "utcDate" : "2027-01-30T19:45:00Z",
+    "home" : "Angers SCO",
+    "away" : "Le Havre",
+    "teamHome" : "ANG",
+    "teamAway" : "HAC",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559566",
+    "league" : "法甲",
+    "utcDate" : "2027-01-30T19:45:00Z",
+    "home" : "Toulouse",
+    "away" : "RC Lens",
+    "teamHome" : "TOU",
+    "teamAway" : "RCL",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -14497,6 +14461,42 @@
     "teamAway" : "INT",
     "colors" : [ "#7377db", "#3279bd" ],
     "status" : "SCHEDULED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559560",
+    "league" : "法甲",
+    "utcDate" : "2027-01-31T14:00:00Z",
+    "home" : "Stade Rennais",
+    "away" : "Lorient",
+    "teamHome" : "REN",
+    "teamAway" : "FCL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559562",
+    "league" : "法甲",
+    "utcDate" : "2027-01-31T16:15:00Z",
+    "home" : "Marseille",
+    "away" : "Troyes",
+    "teamHome" : "MAR",
+    "teamAway" : "ETR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559559",
+    "league" : "法甲",
+    "utcDate" : "2027-01-31T19:45:00Z",
+    "home" : "Olympique Lyon",
+    "away" : "Lille",
+    "teamHome" : "LYO",
+    "teamAway" : "LIL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
@@ -23494,6 +23494,7 @@
       "startDate" : "2026-08-21",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 65,
           "sourceName" : "Manchester City FC",
@@ -23794,8 +23795,7 @@
           "gd" : "-8",
           "gf" : 6,
           "ga" : 14
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "西甲" : {
@@ -23803,6 +23803,7 @@
       "startDate" : "2026-08-16",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 81,
           "sourceName" : "FC Barcelona",
@@ -24103,8 +24104,7 @@
           "gd" : "-12",
           "gf" : 6,
           "ga" : 18
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "意甲" : {
@@ -24112,6 +24112,7 @@
       "startDate" : "2026-08-23",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 108,
           "sourceName" : "FC Internazionale Milano",
@@ -24412,8 +24413,7 @@
           "gd" : "-10",
           "gf" : 6,
           "ga" : 16
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "德甲" : {
@@ -24421,6 +24421,7 @@
       "startDate" : "2026-08-28",
       "endDate" : "2027-05-22",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 5,
           "sourceName" : "FC Bayern München",
@@ -24691,8 +24692,7 @@
           "gd" : "-12",
           "gf" : 8,
           "ga" : 20
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "法甲" : {
@@ -24700,6 +24700,7 @@
       "startDate" : "2026-08-22",
       "endDate" : "2027-05-29",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 523,
           "sourceName" : "Olympique Lyonnais",
@@ -24970,8 +24971,7 @@
           "gd" : "-6",
           "gf" : 5,
           "ga" : 11
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "欧冠" : {
@@ -24979,6 +24979,7 @@
       "startDate" : "2026-09-08",
       "endDate" : "2027-01-27",
       "groups" : [ {
+        "name" : "League phase",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -25519,8 +25520,7 @@
           "gd" : "-12",
           "gf" : 1,
           "ga" : 13
-        } ],
-        "name" : "League phase"
+        } ]
       } ]
     }
   }
