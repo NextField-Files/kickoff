@@ -68128,6 +68128,30 @@
           "appearances" : 3
         }
       }, {
+        "id" : "p_2UFMMe",
+        "name" : "Hwang In-Beom",
+        "team" : "FC Porto",
+        "position" : null,
+        "appearances" : 3,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 0.0,
+          "passes" : 41.0,
+          "keyPasses" : 4.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 0.0,
+          "interceptions" : 2.0,
+          "clearances" : 0.0,
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "shotsOnTarget" : 0.0,
+          "shots" : 1.0,
+          "passAccuracy" : 78.0,
+          "appearances" : 3
+        }
+      }, {
         "id" : "p_0gSTWv",
         "name" : "Hákon Arnar Haraldsson",
         "team" : "Lille",
@@ -68347,30 +68371,6 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 93.1,
-          "appearances" : 3
-        }
-      }, {
-        "id" : "p_2UFMMe",
-        "name" : "In-Beom Hwang",
-        "team" : "FC Porto",
-        "position" : null,
-        "appearances" : 3,
-        "values" : {
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 0.0,
-          "passes" : 41.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 0.0,
-          "interceptions" : 2.0,
-          "clearances" : 0.0,
-          "yellowCards" : 0.0,
-          "redCards" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "passAccuracy" : 78.0,
           "appearances" : 3
         }
       }, {
@@ -80532,5 +80532,5 @@
     }
   },
   "requestCount" : 2007,
-  "updatedAt" : "2026-10-22T14:59:52.298683488Z"
+  "updatedAt" : "2026-10-23T00:36:45.846741389Z"
 }

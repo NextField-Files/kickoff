@@ -1,9 +1,9 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-10-22T14:54:46.931233978Z",
+  "updatedAt" : "2026-10-23T00:31:31.015065033Z",
   "range" : {
-    "from" : "2026-10-14",
-    "to" : "2026-10-22"
+    "from" : "2026-10-15",
+    "to" : "2026-10-23"
   },
   "matches" : [ {
     "id" : "575370",
@@ -741,105 +741,6 @@
     "as" : 0,
     "teamHome" : "SGE",
     "teamAway" : "KOE",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "575352",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T19:00:00Z",
-    "home" : "Roma",
-    "away" : "皇家马德里",
-    "hs" : 3,
-    "as" : 4,
-    "teamHome" : "ROM",
-    "teamAway" : "RMA",
-    "colors" : [ "#7377db", "#d6b652" ]
-  }, {
-    "id" : "575353",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T19:00:00Z",
-    "home" : "曼城",
-    "away" : "巴黎圣日耳曼",
-    "hs" : 2,
-    "as" : 4,
-    "teamHome" : "MCI",
-    "teamAway" : "PSG",
-    "colors" : [ "#54a8dc", "#4b67b2" ]
-  }, {
-    "id" : "575354",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T19:00:00Z",
-    "home" : "Bodø/Glimt",
-    "away" : "Dortmund",
-    "hs" : 1,
-    "as" : 0,
-    "teamHome" : "FK",
-    "teamAway" : "BVB",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "575355",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T19:00:00Z",
-    "home" : "Aston Villa",
-    "away" : "Fenerbahçe",
-    "hs" : 6,
-    "as" : 0,
-    "teamHome" : "AVL",
-    "teamAway" : "FEN",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "575356",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T19:00:00Z",
-    "home" : "Real Betis",
-    "away" : "Porto",
-    "hs" : 3,
-    "as" : 2,
-    "teamHome" : "BET",
-    "teamAway" : "FCP",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "575357",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T19:00:00Z",
-    "home" : "Shaktar",
-    "away" : "PAE AEK",
-    "hs" : 3,
-    "as" : 1,
-    "teamHome" : "SHD",
-    "teamAway" : "AEK",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "575358",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T19:00:00Z",
-    "home" : "Sl. Bratislava",
-    "away" : "Stuttgart",
-    "hs" : 0,
-    "as" : 3,
-    "teamHome" : "SBA",
-    "teamAway" : "VFB",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "575350",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T16:45:00Z",
-    "home" : "LASK",
-    "away" : "利物浦",
-    "hs" : 3,
-    "as" : 6,
-    "teamHome" : "LIN",
-    "teamAway" : "LIV",
-    "colors" : [ "#7377db", "#c93640" ]
-  }, {
-    "id" : "575351",
-    "league" : "欧冠",
-    "utcDate" : "2026-10-14T16:45:00Z",
-    "home" : "Feyenoord",
-    "away" : "Como 1907",
-    "hs" : 3,
-    "as" : 2,
-    "teamHome" : "FEY",
-    "teamAway" : "COM",
     "colors" : [ "#7377db", "#7377db" ]
   } ],
   "fixtures" : [ {
