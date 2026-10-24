@@ -5,12 +5,12 @@
   "leagues" : {
     "英超" : {
       "season" : "2026/2027",
-      "finishedMatches" : 70,
-      "teamStatsMatches" : 70,
-      "playerStatsMatches" : 70,
-      "advancedTeamMatches" : 70,
-      "advancedPlayerMatches" : 70,
-      "cardEventsMatches" : 70,
+      "finishedMatches" : 71,
+      "teamStatsMatches" : 71,
+      "playerStatsMatches" : 71,
+      "advancedTeamMatches" : 71,
+      "advancedPlayerMatches" : 71,
+      "cardEventsMatches" : 71,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_1iaglr",
@@ -301,28 +301,28 @@
       }, {
         "id" : "t_2C9laO",
         "name" : "Ipswich Town",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 11.0,
-          "goalsAgainst" : 15.0,
+          "goals" : 12.0,
+          "goalsAgainst" : 16.0,
           "cleanSheets" : 0.0,
-          "saves" : 23.0,
-          "fouls" : 82.0,
+          "saves" : 26.0,
+          "fouls" : 91.0,
           "redCards" : 1.0,
-          "yellowCards" : 12.0,
-          "offsides" : 13.0,
-          "shotsOnTarget" : 31.0,
-          "shots" : 77.0,
-          "passes" : 2793.0,
-          "keyPasses" : 57.0,
-          "dribblesAttempted" : 115.0,
-          "dribblesCompleted" : 43.0,
-          "tackles" : 117.0,
-          "interceptions" : 111.0,
-          "clearances" : 173.0,
-          "passAccuracy" : 81.5,
-          "possession" : 43.3,
-          "shotsPerGame" : 11.0
+          "yellowCards" : 13.0,
+          "offsides" : 15.0,
+          "shotsOnTarget" : 34.0,
+          "shots" : 84.0,
+          "passes" : 3249.0,
+          "keyPasses" : 59.0,
+          "dribblesAttempted" : 138.0,
+          "dribblesCompleted" : 53.0,
+          "tackles" : 131.0,
+          "interceptions" : 122.0,
+          "clearances" : 195.0,
+          "passAccuracy" : 81.4,
+          "possession" : 44.1,
+          "shotsPerGame" : 10.5
         }
       }, {
         "id" : "t_19Nr9K",
@@ -457,27 +457,27 @@
       }, {
         "id" : "t_0msSwp",
         "name" : "Nottingham Forest",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 5.0,
-          "goalsAgainst" : 9.0,
+          "goals" : 6.0,
+          "goalsAgainst" : 10.0,
           "cleanSheets" : 1.0,
-          "saves" : 15.0,
-          "fouls" : 99.0,
+          "saves" : 17.0,
+          "fouls" : 110.0,
           "redCards" : 0.0,
-          "yellowCards" : 16.0,
-          "offsides" : 14.0,
-          "shotsOnTarget" : 25.0,
-          "shots" : 120.0,
-          "passes" : 2565.0,
-          "keyPasses" : 77.0,
-          "dribblesAttempted" : 101.0,
-          "dribblesCompleted" : 45.0,
-          "tackles" : 126.0,
-          "interceptions" : 99.0,
-          "clearances" : 208.0,
-          "passAccuracy" : 78.0,
-          "possession" : 45.9,
+          "yellowCards" : 17.0,
+          "offsides" : 15.0,
+          "shotsOnTarget" : 30.0,
+          "shots" : 137.0,
+          "passes" : 3036.0,
+          "keyPasses" : 88.0,
+          "dribblesAttempted" : 115.0,
+          "dribblesCompleted" : 52.0,
+          "tackles" : 148.0,
+          "interceptions" : 120.0,
+          "clearances" : 216.0,
+          "passAccuracy" : 78.2,
+          "possession" : 46.5,
           "shotsPerGame" : 17.1
         }
       }, {
@@ -584,25 +584,25 @@
         "name" : "Abdoul Ouattara",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 1.0,
           "assists" : 1.0,
-          "fouls" : 1.0,
-          "passes" : 170.0,
+          "fouls" : 2.0,
+          "passes" : 210.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 5.0,
-          "interceptions" : 8.0,
-          "clearances" : 13.0,
+          "tackles" : 6.0,
+          "interceptions" : 9.0,
+          "clearances" : 17.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 3.0,
           "offsides" : 1.0,
-          "passAccuracy" : 87.0,
-          "appearances" : 7
+          "passAccuracy" : 86.2,
+          "appearances" : 8
         }
       }, {
         "id" : "p_25z5j8",
@@ -631,25 +631,25 @@
         "name" : "Abdul Fatawu",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
           "fouls" : 10.0,
-          "passes" : 101.0,
+          "passes" : 119.0,
           "keyPasses" : 8.0,
-          "dribblesAttempted" : 29.0,
+          "dribblesAttempted" : 33.0,
           "dribblesCompleted" : 15.0,
-          "tackles" : 11.0,
+          "tackles" : 12.0,
           "interceptions" : 6.0,
-          "clearances" : 4.0,
+          "clearances" : 5.0,
           "yellowCards" : 4.0,
           "redCards" : 1.0,
-          "offsides" : 1.0,
+          "offsides" : 2.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 4.0,
-          "passAccuracy" : 61.4,
-          "appearances" : 6
+          "shots" : 5.0,
+          "passAccuracy" : 61.3,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2VIcoo",
@@ -1355,7 +1355,7 @@
         "name" : "Arnaud Kalimuendo-Muinga",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -1370,7 +1370,7 @@
           "interceptions" : 0.0,
           "clearances" : 1.0,
           "passAccuracy" : 60.0,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_32MdAj",
@@ -1471,22 +1471,22 @@
         "name" : "Azor Matusiwa",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 0.0,
-          "passes" : 12.0,
+          "fouls" : 1.0,
+          "passes" : 19.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 1.0,
           "interceptions" : 1.0,
           "clearances" : 0.0,
-          "passAccuracy" : 91.7,
-          "appearances" : 2
+          "passAccuracy" : 94.8,
+          "appearances" : 3
         }
       }, {
         "id" : "p_4Y6EBi",
@@ -2123,22 +2123,24 @@
         "name" : "Callum Hudson-Odoi",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 1.0,
-          "passes" : 21.0,
+          "passes" : 34.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 3.0,
+          "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 0.0,
+          "tackles" : 1.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
-          "passAccuracy" : 71.4,
-          "appearances" : 7
+          "shotsOnTarget" : 0.0,
+          "shots" : 1.0,
+          "passAccuracy" : 70.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2pqITI",
@@ -2457,7 +2459,7 @@
         "name" : "Chris Wood",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -2474,7 +2476,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 62.5,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_2aWexr",
@@ -2503,21 +2505,21 @@
         "name" : "Christian Walton",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "fouls" : 0.0,
-          "saves" : 8.0,
-          "passes" : 100.0,
+          "saves" : 11.0,
+          "passes" : 126.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
           "clearances" : 1.0,
-          "passAccuracy" : 67.0,
-          "appearances" : 7
+          "passAccuracy" : 65.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2Osulp",
@@ -2560,12 +2562,12 @@
         "name" : "Chuba Akpom",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 1.0,
-          "passes" : 21.0,
+          "passes" : 24.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 1.0,
@@ -2576,8 +2578,8 @@
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 3.0,
-          "passAccuracy" : 76.2,
-          "appearances" : 6
+          "passAccuracy" : 70.8,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1skJAA",
@@ -2799,49 +2801,49 @@
         "name" : "Daizen Maeda",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 3.0,
           "shots" : 4.0,
           "fouls" : 8.0,
-          "passes" : 74.0,
+          "passes" : 76.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 5.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 10.0,
+          "dribblesAttempted" : 9.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 11.0,
           "interceptions" : 7.0,
           "clearances" : 7.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 74.3,
-          "appearances" : 7
+          "passAccuracy" : 73.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1ztoJZ",
         "name" : "Dan Ndoye",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 2.0,
           "assists" : 0.0,
           "fouls" : 9.0,
-          "passes" : 72.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 17.0,
+          "passes" : 85.0,
+          "keyPasses" : 5.0,
+          "dribblesAttempted" : 18.0,
           "dribblesCompleted" : 7.0,
           "tackles" : 3.0,
           "interceptions" : 10.0,
-          "clearances" : 4.0,
+          "clearances" : 5.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 4.0,
-          "shots" : 17.0,
+          "shots" : 19.0,
           "offsides" : 4.0,
-          "passAccuracy" : 70.8,
-          "appearances" : 7
+          "passAccuracy" : 69.4,
+          "appearances" : 8
         }
       }, {
         "id" : "p_40D1eU",
@@ -2978,25 +2980,25 @@
         "name" : "Daniel Muñoz",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 8.0,
-          "fouls" : 9.0,
-          "passes" : 184.0,
-          "keyPasses" : 5.0,
-          "dribblesAttempted" : 6.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 12.0,
+          "shots" : 9.0,
+          "fouls" : 11.0,
+          "passes" : 229.0,
+          "keyPasses" : 6.0,
+          "dribblesAttempted" : 7.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 17.0,
           "interceptions" : 7.0,
-          "clearances" : 15.0,
+          "clearances" : 17.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 3.0,
-          "passAccuracy" : 82.0,
-          "appearances" : 7
+          "passAccuracy" : 82.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1Xu9qX",
@@ -3026,32 +3028,32 @@
         "name" : "Dara O'Shea",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 6.0,
-          "passes" : 297.0,
+          "passes" : 347.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 14.0,
-          "interceptions" : 11.0,
-          "clearances" : 39.0,
+          "tackles" : 15.0,
+          "interceptions" : 13.0,
+          "clearances" : 42.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 2.0,
-          "offsides" : 2.0,
-          "passAccuracy" : 74.7,
-          "appearances" : 7
+          "offsides" : 3.0,
+          "passAccuracy" : 76.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1K6XwQ",
         "name" : "Darnell Furlong",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -3066,7 +3068,7 @@
           "interceptions" : 1.0,
           "clearances" : 1.0,
           "passAccuracy" : 75.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_1gE7Gs",
@@ -3592,25 +3594,25 @@
         "name" : "Emersonn",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 2.0,
           "shotsOnTarget" : 4.0,
           "shots" : 14.0,
-          "fouls" : 3.0,
-          "passes" : 61.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 9.0,
+          "fouls" : 4.0,
+          "passes" : 69.0,
+          "keyPasses" : 5.0,
+          "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 5.0,
           "tackles" : 4.0,
           "interceptions" : 5.0,
-          "clearances" : 4.0,
+          "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 3.0,
-          "passAccuracy" : 73.8,
-          "appearances" : 7
+          "passAccuracy" : 72.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1KJ9Xc",
@@ -3932,22 +3934,22 @@
         "name" : "Exequiel Palacios",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 6.0,
-          "passes" : 280.0,
-          "keyPasses" : 3.0,
-          "dribblesAttempted" : 4.0,
+          "passes" : 365.0,
+          "keyPasses" : 4.0,
+          "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 16.0,
-          "interceptions" : 10.0,
-          "clearances" : 7.0,
+          "tackles" : 18.0,
+          "interceptions" : 11.0,
+          "clearances" : 9.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.0,
-          "appearances" : 6
+          "passAccuracy" : 89.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4Rboah",
@@ -4040,22 +4042,22 @@
         "name" : "Florentino",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 4.0,
-          "passes" : 76.0,
+          "passes" : 135.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 7.0,
-          "interceptions" : 8.0,
-          "clearances" : 4.0,
-          "passAccuracy" : 85.5,
-          "appearances" : 5
+          "dribblesAttempted" : 3.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 10.0,
+          "interceptions" : 9.0,
+          "clearances" : 7.0,
+          "passAccuracy" : 83.0,
+          "appearances" : 6
         }
       }, {
         "id" : "p_06lEAz",
@@ -4713,7 +4715,7 @@
         "name" : "Ibrahim Sangaré",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -4730,7 +4732,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 76.2,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_2dN9Ma",
@@ -4855,48 +4857,48 @@
         "name" : "Issa Diop",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 5.0,
-          "passes" : 346.0,
+          "fouls" : 7.0,
+          "passes" : 397.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 8.0,
-          "interceptions" : 17.0,
-          "clearances" : 30.0,
-          "yellowCards" : 0.0,
+          "interceptions" : 18.0,
+          "clearances" : 35.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 91.3,
-          "appearances" : 7
+          "passAccuracy" : 91.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0QAwIo",
         "name" : "Jack Clarke",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 1.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 4.0,
-          "fouls" : 2.0,
-          "passes" : 103.0,
+          "shots" : 5.0,
+          "fouls" : 3.0,
+          "passes" : 113.0,
           "keyPasses" : 5.0,
-          "dribblesAttempted" : 3.0,
-          "dribblesCompleted" : 1.0,
+          "dribblesAttempted" : 4.0,
+          "dribblesCompleted" : 2.0,
           "tackles" : 3.0,
-          "interceptions" : 4.0,
+          "interceptions" : 5.0,
           "clearances" : 2.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 75.7,
-          "appearances" : 7
+          "passAccuracy" : 75.2,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0aKGHI",
@@ -4976,7 +4978,7 @@
         "name" : "Jacob Greaves",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -4994,7 +4996,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "passAccuracy" : 88.5,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_1MkeDu",
@@ -5050,24 +5052,24 @@
         "name" : "Jaden Philogene-Bidace",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 3.0,
-          "fouls" : 2.0,
-          "passes" : 36.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 4.0,
+          "fouls" : 3.0,
+          "passes" : 53.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 5.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 1.0,
-          "interceptions" : 3.0,
+          "dribblesAttempted" : 9.0,
+          "dribblesCompleted" : 3.0,
+          "tackles" : 3.0,
+          "interceptions" : 4.0,
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 77.8,
-          "appearances" : 4
+          "passAccuracy" : 75.5,
+          "appearances" : 5
         }
       }, {
         "id" : "p_098Qx4",
@@ -5099,24 +5101,24 @@
         "name" : "Jair Cunha",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 7.0,
-          "passes" : 161.0,
+          "passes" : 234.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 8.0,
-          "interceptions" : 8.0,
-          "clearances" : 28.0,
+          "interceptions" : 12.0,
+          "clearances" : 30.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 2.0,
-          "passAccuracy" : 80.1,
-          "appearances" : 6
+          "shotsOnTarget" : 1.0,
+          "shots" : 3.0,
+          "passAccuracy" : 81.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_27ST0s",
@@ -5267,24 +5269,24 @@
         "name" : "James McAtee",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 8.0,
-          "passes" : 279.0,
+          "fouls" : 9.0,
+          "passes" : 336.0,
           "keyPasses" : 17.0,
-          "dribblesAttempted" : 4.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 10.0,
-          "interceptions" : 10.0,
-          "clearances" : 11.0,
+          "dribblesAttempted" : 5.0,
+          "dribblesCompleted" : 3.0,
+          "tackles" : 17.0,
+          "interceptions" : 13.0,
+          "clearances" : 12.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 3.0,
-          "shots" : 12.0,
-          "passAccuracy" : 77.8,
-          "appearances" : 7
+          "shotsOnTarget" : 4.0,
+          "shots" : 13.0,
+          "passAccuracy" : 78.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4AuElG",
@@ -5889,11 +5891,11 @@
         "name" : "John Victor",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_2R9Ynq",
@@ -6268,25 +6270,25 @@
         "name" : "Julio Enciso",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 2.0,
-          "goals" : 0.0,
-          "shotsOnTarget" : 5.0,
-          "shots" : 19.0,
+          "goals" : 1.0,
+          "shotsOnTarget" : 7.0,
+          "shots" : 23.0,
           "offsides" : 2.0,
           "fouls" : 4.0,
-          "passes" : 162.0,
+          "passes" : 191.0,
           "keyPasses" : 8.0,
-          "dribblesAttempted" : 36.0,
-          "dribblesCompleted" : 9.0,
+          "dribblesAttempted" : 42.0,
+          "dribblesCompleted" : 15.0,
           "tackles" : 5.0,
           "interceptions" : 7.0,
           "clearances" : 2.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 82.1,
-          "appearances" : 7
+          "passAccuracy" : 80.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1h9Zsq",
@@ -6706,7 +6708,7 @@
         "name" : "Kjell Scherpen",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "fouls" : 0.0,
           "saves" : 15.0,
@@ -6720,7 +6722,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 69.4,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_3qHFXs",
@@ -6853,25 +6855,25 @@
         "name" : "Leif Davis",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 2.0,
           "assists" : 1.0,
           "fouls" : 4.0,
-          "passes" : 207.0,
+          "passes" : 251.0,
           "keyPasses" : 6.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 6.0,
-          "interceptions" : 6.0,
-          "clearances" : 20.0,
+          "interceptions" : 8.0,
+          "clearances" : 23.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 3.0,
           "shots" : 7.0,
           "offsides" : 1.0,
-          "passAccuracy" : 71.5,
-          "appearances" : 7
+          "passAccuracy" : 73.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_44aGGb",
@@ -7105,25 +7107,25 @@
         "name" : "Liam Delap",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 18.0,
-          "fouls" : 8.0,
-          "passes" : 76.0,
+          "shots" : 21.0,
+          "fouls" : 11.0,
+          "passes" : 92.0,
           "keyPasses" : 7.0,
-          "dribblesAttempted" : 12.0,
+          "dribblesAttempted" : 14.0,
           "dribblesCompleted" : 8.0,
-          "tackles" : 3.0,
-          "interceptions" : 1.0,
+          "tackles" : 4.0,
+          "interceptions" : 2.0,
           "clearances" : 7.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
-          "passAccuracy" : 59.2,
-          "appearances" : 6
+          "passAccuracy" : 59.8,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3G5Pv2",
@@ -7226,12 +7228,12 @@
         "name" : "Luca Netz",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 1.0,
-          "passes" : 16.0,
+          "fouls" : 2.0,
+          "passes" : 18.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -7240,8 +7242,8 @@
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 87.5,
-          "appearances" : 7
+          "passAccuracy" : 88.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0DojTs",
@@ -7692,7 +7694,7 @@
         "name" : "Marcelino Núñez",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -7709,7 +7711,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 86.8,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_4d3Hv8",
@@ -8278,21 +8280,21 @@
         "name" : "Matz Sels",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 15.0,
-          "passes" : 138.0,
+          "saves" : 17.0,
+          "passes" : 170.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
-          "clearances" : 6.0,
+          "clearances" : 7.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 62.3,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_0ogEyt",
@@ -8806,25 +8808,25 @@
         "name" : "Morgan Gibbs-White",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 2.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 3.0,
-          "shots" : 11.0,
+          "shotsOnTarget" : 4.0,
+          "shots" : 13.0,
           "offsides" : 2.0,
           "fouls" : 4.0,
-          "passes" : 241.0,
-          "keyPasses" : 15.0,
-          "dribblesAttempted" : 18.0,
-          "dribblesCompleted" : 6.0,
-          "tackles" : 7.0,
+          "passes" : 276.0,
+          "keyPasses" : 18.0,
+          "dribblesAttempted" : 23.0,
+          "dribblesCompleted" : 9.0,
+          "tackles" : 8.0,
           "interceptions" : 7.0,
           "clearances" : 2.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 78.4,
-          "appearances" : 6
+          "passAccuracy" : 77.5,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1Hb4kD",
@@ -8856,24 +8858,24 @@
         "name" : "Murillo",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
-          "fouls" : 10.0,
-          "passes" : 319.0,
+          "fouls" : 12.0,
+          "passes" : 388.0,
           "keyPasses" : 6.0,
-          "dribblesAttempted" : 12.0,
+          "dribblesAttempted" : 13.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 14.0,
-          "interceptions" : 18.0,
+          "tackles" : 15.0,
+          "interceptions" : 22.0,
           "clearances" : 48.0,
-          "yellowCards" : 3.0,
+          "yellowCards" : 4.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 3.0,
-          "shots" : 12.0,
-          "passAccuracy" : 85.9,
-          "appearances" : 7
+          "shotsOnTarget" : 4.0,
+          "shots" : 14.0,
+          "passAccuracy" : 85.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_12aGDa",
@@ -8962,25 +8964,25 @@
         "name" : "Neco Williams",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "goals" : 0.0,
+          "goals" : 1.0,
           "assists" : 0.0,
-          "offsides" : 1.0,
+          "offsides" : 2.0,
           "fouls" : 8.0,
-          "passes" : 251.0,
-          "keyPasses" : 9.0,
-          "dribblesAttempted" : 5.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 16.0,
+          "passes" : 269.0,
+          "keyPasses" : 11.0,
+          "dribblesAttempted" : 6.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 18.0,
           "interceptions" : 10.0,
           "clearances" : 19.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 10.0,
-          "passAccuracy" : 74.5,
-          "appearances" : 7
+          "shotsOnTarget" : 2.0,
+          "shots" : 12.0,
+          "passAccuracy" : 74.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3Xaaxz",
@@ -9153,24 +9155,24 @@
         "name" : "Nikola Milenković",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 2.0,
-          "fouls" : 5.0,
-          "passes" : 93.0,
-          "keyPasses" : 0.0,
+          "shots" : 3.0,
+          "fouls" : 6.0,
+          "passes" : 145.0,
+          "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 5.0,
-          "interceptions" : 2.0,
-          "clearances" : 20.0,
+          "interceptions" : 8.0,
+          "clearances" : 21.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 81.7,
-          "appearances" : 4
+          "passAccuracy" : 84.8,
+          "appearances" : 5
         }
       }, {
         "id" : "p_189Ovm",
@@ -9350,7 +9352,7 @@
         "name" : "Ola Aina",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -9367,7 +9369,7 @@
           "yellowCards" : 3.0,
           "redCards" : 0.0,
           "passAccuracy" : 69.7,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_1PfXEl",
@@ -9494,7 +9496,7 @@
         "name" : "Ousmane Diomande",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -9512,7 +9514,7 @@
           "shots" : 3.0,
           "offsides" : 1.0,
           "passAccuracy" : 88.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_1LS99X",
@@ -10389,11 +10391,11 @@
         "name" : "Ryan Yates",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_1bid3X",
@@ -11682,24 +11684,24 @@
         "name" : "Xaver Schlager",
         "team" : "Nottingham Forest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 7.0,
-          "passes" : 213.0,
-          "keyPasses" : 3.0,
-          "dribblesAttempted" : 4.0,
-          "dribblesCompleted" : 4.0,
-          "tackles" : 24.0,
-          "interceptions" : 10.0,
+          "fouls" : 8.0,
+          "passes" : 259.0,
+          "keyPasses" : 6.0,
+          "dribblesAttempted" : 5.0,
+          "dribblesCompleted" : 5.0,
+          "tackles" : 28.0,
+          "interceptions" : 13.0,
           "clearances" : 6.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 10.0,
-          "passAccuracy" : 84.0,
-          "appearances" : 7
+          "shots" : 11.0,
+          "passAccuracy" : 84.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1nzQD9",
@@ -11906,25 +11908,25 @@
         "name" : "Zian Flemming",
         "team" : "Ipswich Town",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 2.0,
           "shotsOnTarget" : 5.0,
           "shots" : 7.0,
           "offsides" : 1.0,
-          "fouls" : 5.0,
-          "passes" : 26.0,
+          "fouls" : 7.0,
+          "passes" : 33.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 1.0,
-          "interceptions" : 1.0,
+          "tackles" : 4.0,
+          "interceptions" : 2.0,
           "clearances" : 1.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 57.7,
-          "appearances" : 5
+          "passAccuracy" : 60.6,
+          "appearances" : 6
         }
       }, {
         "id" : "p_3YwFnk",
@@ -12064,12 +12066,12 @@
     },
     "西甲" : {
       "season" : "2026/2027",
-      "finishedMatches" : 89,
-      "teamStatsMatches" : 89,
-      "playerStatsMatches" : 89,
-      "advancedTeamMatches" : 89,
-      "advancedPlayerMatches" : 89,
-      "cardEventsMatches" : 89,
+      "finishedMatches" : 90,
+      "teamStatsMatches" : 90,
+      "playerStatsMatches" : 90,
+      "advancedTeamMatches" : 90,
+      "advancedPlayerMatches" : 90,
+      "cardEventsMatches" : 90,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_3kZPrE",
@@ -12204,28 +12206,28 @@
       }, {
         "id" : "t_1cpTpB",
         "name" : "Deportivo Alavés",
-        "games" : 9,
+        "games" : 10,
         "values" : {
-          "goals" : 13.0,
-          "goalsAgainst" : 10.0,
+          "goals" : 14.0,
+          "goalsAgainst" : 11.0,
           "cleanSheets" : 3.0,
-          "saves" : 29.0,
-          "fouls" : 123.0,
+          "saves" : 31.0,
+          "fouls" : 137.0,
           "redCards" : 1.0,
-          "yellowCards" : 15.0,
+          "yellowCards" : 17.0,
           "offsides" : 30.0,
-          "shotsOnTarget" : 43.0,
-          "shots" : 115.0,
-          "passes" : 3084.0,
-          "keyPasses" : 71.0,
-          "dribblesAttempted" : 168.0,
-          "dribblesCompleted" : 64.0,
-          "tackles" : 163.0,
-          "interceptions" : 167.0,
-          "clearances" : 235.0,
-          "passAccuracy" : 77.8,
-          "possession" : 42.4,
-          "shotsPerGame" : 12.8
+          "shotsOnTarget" : 47.0,
+          "shots" : 133.0,
+          "passes" : 3527.0,
+          "keyPasses" : 84.0,
+          "dribblesAttempted" : 193.0,
+          "dribblesCompleted" : 69.0,
+          "tackles" : 187.0,
+          "interceptions" : 183.0,
+          "clearances" : 249.0,
+          "passAccuracy" : 78.3,
+          "possession" : 43.2,
+          "shotsPerGame" : 13.3
         }
       }, {
         "id" : "t_2PLTQW",
@@ -12334,28 +12336,28 @@
       }, {
         "id" : "t_2DcXQn",
         "name" : "Málaga",
-        "games" : 9,
+        "games" : 10,
         "values" : {
-          "goals" : 6.0,
-          "goalsAgainst" : 18.0,
+          "goals" : 7.0,
+          "goalsAgainst" : 19.0,
           "cleanSheets" : 1.0,
-          "saves" : 34.0,
-          "fouls" : 104.0,
+          "saves" : 37.0,
+          "fouls" : 116.0,
           "redCards" : 0.0,
-          "yellowCards" : 22.0,
-          "offsides" : 13.0,
-          "shotsOnTarget" : 27.0,
-          "shots" : 102.0,
-          "passes" : 4278.0,
-          "keyPasses" : 70.0,
-          "dribblesAttempted" : 187.0,
-          "dribblesCompleted" : 88.0,
-          "tackles" : 151.0,
-          "interceptions" : 116.0,
-          "clearances" : 188.0,
-          "passAccuracy" : 85.7,
-          "possession" : 51.0,
-          "shotsPerGame" : 11.3
+          "yellowCards" : 23.0,
+          "offsides" : 15.0,
+          "shotsOnTarget" : 30.0,
+          "shots" : 109.0,
+          "passes" : 4729.0,
+          "keyPasses" : 77.0,
+          "dribblesAttempted" : 203.0,
+          "dribblesCompleted" : 95.0,
+          "tackles" : 178.0,
+          "interceptions" : 128.0,
+          "clearances" : 228.0,
+          "passAccuracy" : 85.4,
+          "possession" : 50.9,
+          "shotsPerGame" : 10.9
         }
       }, {
         "id" : "t_0HBI4G",
@@ -12665,24 +12667,24 @@
         "name" : "Abderrahman Rebbach",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 4.0,
           "shots" : 7.0,
           "fouls" : 13.0,
-          "passes" : 231.0,
+          "passes" : 247.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 23.0,
+          "dribblesAttempted" : 28.0,
           "dribblesCompleted" : 8.0,
-          "tackles" : 17.0,
-          "interceptions" : 20.0,
+          "tackles" : 20.0,
+          "interceptions" : 21.0,
           "clearances" : 10.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "passAccuracy" : 71.0,
-          "appearances" : 9
+          "passAccuracy" : 70.0,
+          "appearances" : 10
         }
       }, {
         "id" : "p_0viVgr",
@@ -12785,7 +12787,7 @@
         "name" : "Adam Aznou",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
@@ -12793,16 +12795,16 @@
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "fouls" : 3.0,
-          "passes" : 31.0,
+          "fouls" : 6.0,
+          "passes" : 45.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 8.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 3.0,
-          "interceptions" : 2.0,
-          "clearances" : 2.0,
-          "passAccuracy" : 77.4,
-          "appearances" : 3
+          "dribblesAttempted" : 10.0,
+          "dribblesCompleted" : 3.0,
+          "tackles" : 6.0,
+          "interceptions" : 3.0,
+          "clearances" : 3.0,
+          "passAccuracy" : 68.9,
+          "appearances" : 4
         }
       }, {
         "id" : "p_1ua3fF",
@@ -12971,39 +12973,39 @@
         }
       }, {
         "id" : "p_1H3xuS",
-        "name" : "Adrián Nino",
+        "name" : "Adrián Niño",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
-          "goals" : 3.0,
-          "shotsOnTarget" : 5.0,
-          "shots" : 10.0,
-          "fouls" : 2.0,
-          "passes" : 25.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 3.0,
+          "goals" : 4.0,
+          "shotsOnTarget" : 6.0,
+          "shots" : 11.0,
+          "fouls" : 4.0,
+          "passes" : 32.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 1.0,
-          "interceptions" : 1.0,
-          "clearances" : 0.0,
+          "interceptions" : 2.0,
+          "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "offsides" : 2.0,
-          "passAccuracy" : 80.0,
-          "appearances" : 5
+          "offsides" : 4.0,
+          "passAccuracy" : 81.2,
+          "appearances" : 6
         }
       }, {
         "id" : "p_34HKjs",
         "name" : "Adrián Rodriguez",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_2Yx8nY",
@@ -13105,22 +13107,24 @@
         "name" : "Aitor Mañas",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "goals" : 0.0,
+          "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 3.0,
-          "passes" : 16.0,
+          "passes" : 18.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 0.0,
-          "interceptions" : 1.0,
+          "interceptions" : 3.0,
           "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 68.8,
-          "appearances" : 7
+          "shotsOnTarget" : 2.0,
+          "shots" : 2.0,
+          "passAccuracy" : 72.2,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1MaetX",
@@ -13527,11 +13531,11 @@
         "name" : "Alfonso Herrero",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "fouls" : 1.0,
-          "saves" : 34.0,
-          "passes" : 331.0,
+          "saves" : 37.0,
+          "passes" : 360.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -13540,8 +13544,8 @@
           "clearances" : 6.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 75.9,
-          "appearances" : 9
+          "passAccuracy" : 74.5,
+          "appearances" : 10
         }
       }, {
         "id" : "p_3PMhxG",
@@ -13999,24 +14003,24 @@
         "name" : "Antonio Blanco",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 7.0,
+          "shots" : 8.0,
           "fouls" : 15.0,
-          "passes" : 353.0,
+          "passes" : 399.0,
           "keyPasses" : 4.0,
           "dribblesAttempted" : 8.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 19.0,
-          "interceptions" : 25.0,
+          "tackles" : 21.0,
+          "interceptions" : 26.0,
           "clearances" : 11.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "passAccuracy" : 85.3,
-          "appearances" : 9
+          "passAccuracy" : 85.5,
+          "appearances" : 10
         }
       }, {
         "id" : "p_08CUph",
@@ -14047,22 +14051,22 @@
         "name" : "Antonio Sivera",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 29.0,
-          "passes" : 176.0,
+          "saves" : 31.0,
+          "passes" : 195.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 1.0,
           "interceptions" : 1.0,
-          "clearances" : 8.0,
+          "clearances" : 9.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "assists" : 1.0,
-          "passAccuracy" : 69.3,
-          "appearances" : 9
+          "passAccuracy" : 71.8,
+          "appearances" : 10
         }
       }, {
         "id" : "p_1IIuQu",
@@ -14731,49 +14735,49 @@
         "name" : "Carles Aleñá",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 3.0,
-          "fouls" : 3.0,
-          "passes" : 107.0,
-          "keyPasses" : 3.0,
+          "fouls" : 5.0,
+          "passes" : 119.0,
+          "keyPasses" : 6.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 3.0,
-          "interceptions" : 6.0,
+          "interceptions" : 7.0,
           "clearances" : 2.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 84.1,
-          "appearances" : 9
+          "passAccuracy" : 83.2,
+          "appearances" : 10
         }
       }, {
         "id" : "p_3ZIo53",
         "name" : "Carlos Dotor",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
-          "fouls" : 9.0,
-          "passes" : 320.0,
+          "fouls" : 11.0,
+          "passes" : 363.0,
           "keyPasses" : 5.0,
           "dribblesAttempted" : 9.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 18.0,
-          "interceptions" : 8.0,
-          "clearances" : 4.0,
-          "yellowCards" : 1.0,
+          "tackles" : 20.0,
+          "interceptions" : 9.0,
+          "clearances" : 5.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 4.0,
+          "shots" : 6.0,
           "offsides" : 2.0,
-          "passAccuracy" : 85.6,
-          "appearances" : 8
+          "passAccuracy" : 84.9,
+          "appearances" : 9
         }
       }, {
         "id" : "p_3OyS0o",
@@ -14805,11 +14809,11 @@
         "name" : "Carlos López",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_1u10eK",
@@ -14862,7 +14866,7 @@
         "name" : "Carlos Protesoni",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -14879,32 +14883,32 @@
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
           "passAccuracy" : 80.0,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_2Wgtu5",
         "name" : "Carlos Puga",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "offsides" : 1.0,
           "fouls" : 13.0,
-          "passes" : 213.0,
+          "passes" : 254.0,
           "keyPasses" : 3.0,
-          "dribblesAttempted" : 18.0,
-          "dribblesCompleted" : 11.0,
-          "tackles" : 18.0,
-          "interceptions" : 13.0,
-          "clearances" : 15.0,
+          "dribblesAttempted" : 23.0,
+          "dribblesCompleted" : 14.0,
+          "tackles" : 26.0,
+          "interceptions" : 15.0,
+          "clearances" : 18.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "passAccuracy" : 78.9,
-          "appearances" : 9
+          "passAccuracy" : 79.5,
+          "appearances" : 10
         }
       }, {
         "id" : "p_1hL7KK",
@@ -15040,25 +15044,25 @@
         "name" : "Chupe",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 6.0,
-          "shots" : 21.0,
+          "shotsOnTarget" : 7.0,
+          "shots" : 22.0,
           "fouls" : 11.0,
-          "passes" : 141.0,
-          "keyPasses" : 2.0,
+          "passes" : 146.0,
+          "keyPasses" : 3.0,
           "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 5.0,
           "interceptions" : 5.0,
-          "clearances" : 11.0,
+          "clearances" : 12.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 4.0,
-          "passAccuracy" : 61.7,
-          "appearances" : 9
+          "passAccuracy" : 63.0,
+          "appearances" : 10
         }
       }, {
         "id" : "p_2IGAPn",
@@ -15239,24 +15243,24 @@
         "name" : "Dani Lorenzo",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 6.0,
-          "passes" : 360.0,
-          "keyPasses" : 5.0,
-          "dribblesAttempted" : 16.0,
-          "dribblesCompleted" : 10.0,
-          "tackles" : 11.0,
-          "interceptions" : 12.0,
-          "clearances" : 2.0,
+          "fouls" : 9.0,
+          "passes" : 394.0,
+          "keyPasses" : 6.0,
+          "dribblesAttempted" : 19.0,
+          "dribblesCompleted" : 12.0,
+          "tackles" : 16.0,
+          "interceptions" : 13.0,
+          "clearances" : 5.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
-          "passAccuracy" : 92.2,
-          "appearances" : 8
+          "passAccuracy" : 91.6,
+          "appearances" : 9
         }
       }, {
         "id" : "p_2AXnpo",
@@ -15417,25 +15421,25 @@
         "name" : "David Larrubia",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 4.0,
           "shots" : 15.0,
           "fouls" : 7.0,
-          "passes" : 249.0,
-          "keyPasses" : 13.0,
-          "dribblesAttempted" : 63.0,
+          "passes" : 291.0,
+          "keyPasses" : 15.0,
+          "dribblesAttempted" : 67.0,
           "dribblesCompleted" : 25.0,
-          "tackles" : 26.0,
-          "interceptions" : 14.0,
-          "clearances" : 5.0,
+          "tackles" : 29.0,
+          "interceptions" : 15.0,
+          "clearances" : 7.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 79.5,
-          "appearances" : 9
+          "passAccuracy" : 79.0,
+          "appearances" : 10
         }
       }, {
         "id" : "p_2dy6jX",
@@ -15561,24 +15565,24 @@
         "name" : "Denis Suárez",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 2.0,
           "fouls" : 4.0,
-          "passes" : 191.0,
-          "keyPasses" : 13.0,
-          "dribblesAttempted" : 13.0,
+          "passes" : 220.0,
+          "keyPasses" : 16.0,
+          "dribblesAttempted" : 14.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 5.0,
+          "tackles" : 6.0,
           "interceptions" : 6.0,
           "clearances" : 3.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 78.5,
-          "appearances" : 9
+          "passAccuracy" : 80.5,
+          "appearances" : 10
         }
       }, {
         "id" : "p_1NThn7",
@@ -15884,22 +15888,22 @@
         "name" : "Einar Galilea",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 5.0,
-          "passes" : 333.0,
+          "fouls" : 6.0,
+          "passes" : 384.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 7.0,
-          "interceptions" : 6.0,
-          "clearances" : 25.0,
+          "tackles" : 8.0,
+          "interceptions" : 9.0,
+          "clearances" : 36.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.4,
-          "appearances" : 9
+          "passAccuracy" : 90.1,
+          "appearances" : 10
         }
       }, {
         "id" : "p_1AaOAc",
@@ -15951,7 +15955,7 @@
         "name" : "Eneko Jauregi",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -15968,7 +15972,7 @@
           "shotsOnTarget" : 1.0,
           "shots" : 1.0,
           "passAccuracy" : 75.0,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_2ftUEl",
@@ -16291,7 +16295,7 @@
         "name" : "Fernando Calero",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -16308,7 +16312,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 95.1,
-          "appearances" : 2
+          "appearances" : 3
         }
       }, {
         "id" : "p_3N4jSS",
@@ -17077,7 +17081,7 @@
         "name" : "Haitam Abaida",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -17094,7 +17098,7 @@
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "passAccuracy" : 58.8,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_39OYrt",
@@ -17231,24 +17235,24 @@
         "name" : "Hugo Novoa",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 1.0,
+          "shots" : 2.0,
           "fouls" : 0.0,
-          "passes" : 12.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 3.0,
-          "interceptions" : 0.0,
+          "passes" : 42.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 3.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 6.0,
+          "interceptions" : 2.0,
           "clearances" : 0.0,
-          "passAccuracy" : 50.0,
-          "appearances" : 9
+          "passAccuracy" : 73.8,
+          "appearances" : 10
         }
       }, {
         "id" : "p_1O5XP9",
@@ -17894,7 +17898,7 @@
         "name" : "Izan Merino",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -17911,7 +17915,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "passAccuracy" : 92.1,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_2oFpv0",
@@ -18275,22 +18279,24 @@
         "name" : "Jens-Lys Cajuste",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 6.0,
+          "passes" : 7.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 1.0,
           "interceptions" : 0.0,
-          "clearances" : 0.0,
+          "clearances" : 2.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 83.3,
-          "appearances" : 3
+          "shotsOnTarget" : 0.0,
+          "shots" : 1.0,
+          "passAccuracy" : 85.7,
+          "appearances" : 4
         }
       }, {
         "id" : "p_03GcNa",
@@ -18823,7 +18829,7 @@
         "name" : "Jonny Otto",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -18840,7 +18846,7 @@
           "shotsOnTarget" : 1.0,
           "shots" : 3.0,
           "passAccuracy" : 84.4,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_1cJdkW",
@@ -19136,24 +19142,24 @@
         "name" : "José Salinas",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 6.0,
-          "passes" : 165.0,
+          "passes" : 174.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 2.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 10.0,
+          "tackles" : 12.0,
           "interceptions" : 7.0,
-          "clearances" : 12.0,
+          "clearances" : 14.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 2.0,
           "passAccuracy" : 87.3,
-          "appearances" : 8
+          "appearances" : 9
         }
       }, {
         "id" : "p_10KW4k",
@@ -19255,24 +19261,24 @@
         "name" : "Juan Berrocal",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 42.0,
+          "passes" : 44.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 1.0,
+          "tackles" : 2.0,
           "interceptions" : 2.0,
-          "clearances" : 11.0,
+          "clearances" : 13.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "passAccuracy" : 95.2,
-          "appearances" : 5
+          "passAccuracy" : 90.9,
+          "appearances" : 6
         }
       }, {
         "id" : "p_472bto",
@@ -19328,11 +19334,11 @@
         "name" : "Juan Fernandez",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_2ZkBM3",
@@ -19971,25 +19977,25 @@
         "name" : "Lucas Boyé",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 0.0,
           "goals" : 5.0,
           "shotsOnTarget" : 10.0,
-          "shots" : 21.0,
-          "fouls" : 20.0,
-          "passes" : 133.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 17.0,
-          "dribblesCompleted" : 2.0,
+          "shots" : 23.0,
+          "fouls" : 25.0,
+          "passes" : 147.0,
+          "keyPasses" : 5.0,
+          "dribblesAttempted" : 22.0,
+          "dribblesCompleted" : 3.0,
           "tackles" : 16.0,
-          "interceptions" : 6.0,
-          "clearances" : 8.0,
-          "yellowCards" : 0.0,
+          "interceptions" : 8.0,
+          "clearances" : 9.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "offsides" : 5.0,
-          "passAccuracy" : 75.9,
-          "appearances" : 8
+          "passAccuracy" : 74.2,
+          "appearances" : 9
         }
       }, {
         "id" : "p_2CtaoL",
@@ -20704,7 +20710,7 @@
         "name" : "Mariano Díaz",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 4.0,
           "goals" : 3.0,
@@ -20712,17 +20718,17 @@
           "shots" : 13.0,
           "offsides" : 9.0,
           "fouls" : 6.0,
-          "passes" : 73.0,
-          "keyPasses" : 7.0,
+          "passes" : 80.0,
+          "keyPasses" : 8.0,
           "dribblesAttempted" : 16.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 1.0,
+          "tackles" : 2.0,
           "interceptions" : 2.0,
           "clearances" : 3.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 75.3,
-          "appearances" : 9
+          "passAccuracy" : 76.2,
+          "appearances" : 10
         }
       }, {
         "id" : "p_25DuUw",
@@ -21039,7 +21045,7 @@
         "name" : "Miguel Rodríguez",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -21054,7 +21060,7 @@
           "interceptions" : 0.0,
           "clearances" : 1.0,
           "passAccuracy" : 66.7,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_1gS4i8",
@@ -21356,25 +21362,25 @@
         "name" : "Nahuel Tenaglia",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 7.0,
-          "fouls" : 7.0,
-          "passes" : 297.0,
+          "shots" : 10.0,
+          "fouls" : 9.0,
+          "passes" : 343.0,
           "keyPasses" : 3.0,
-          "dribblesAttempted" : 12.0,
+          "dribblesAttempted" : 13.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 18.0,
-          "interceptions" : 17.0,
-          "clearances" : 32.0,
-          "yellowCards" : 2.0,
+          "tackles" : 22.0,
+          "interceptions" : 18.0,
+          "clearances" : 37.0,
+          "yellowCards" : 3.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
-          "passAccuracy" : 78.1,
-          "appearances" : 9
+          "passAccuracy" : 78.7,
+          "appearances" : 10
         }
       }, {
         "id" : "p_1ssPin",
@@ -21576,25 +21582,25 @@
         "name" : "Nicolás Valentini",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 4.0,
-          "fouls" : 3.0,
-          "passes" : 194.0,
+          "fouls" : 4.0,
+          "passes" : 240.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 7.0,
-          "interceptions" : 4.0,
-          "clearances" : 22.0,
+          "tackles" : 8.0,
+          "interceptions" : 6.0,
+          "clearances" : 23.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 70.6,
-          "appearances" : 8
+          "passAccuracy" : 71.7,
+          "appearances" : 9
         }
       }, {
         "id" : "p_1wLyBD",
@@ -21953,25 +21959,25 @@
         "name" : "Pablo Ibánez",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 17.0,
-          "passes" : 271.0,
+          "passes" : 316.0,
           "keyPasses" : 5.0,
-          "dribblesAttempted" : 19.0,
-          "dribblesCompleted" : 11.0,
-          "tackles" : 14.0,
-          "interceptions" : 23.0,
-          "clearances" : 14.0,
+          "dribblesAttempted" : 21.0,
+          "dribblesCompleted" : 12.0,
+          "tackles" : 20.0,
+          "interceptions" : 26.0,
+          "clearances" : 15.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 11.0,
+          "shots" : 13.0,
           "offsides" : 1.0,
-          "passAccuracy" : 77.9,
-          "appearances" : 9
+          "passAccuracy" : 79.1,
+          "appearances" : 10
         }
       }, {
         "id" : "p_2vE8cE",
@@ -22536,24 +22542,24 @@
         "name" : "Rafa Rodríguez",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 10.0,
           "fouls" : 4.0,
-          "passes" : 123.0,
-          "keyPasses" : 2.0,
+          "passes" : 136.0,
+          "keyPasses" : 3.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 3.0,
-          "interceptions" : 3.0,
-          "clearances" : 6.0,
+          "interceptions" : 4.0,
+          "clearances" : 7.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 86.2,
-          "appearances" : 9
+          "passAccuracy" : 85.3,
+          "appearances" : 10
         }
       }, {
         "id" : "p_41ddxg",
@@ -22595,47 +22601,47 @@
         "name" : "Rafita",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
+          "shots" : 2.0,
           "offsides" : 2.0,
           "fouls" : 6.0,
-          "passes" : 386.0,
+          "passes" : 448.0,
           "keyPasses" : 4.0,
           "dribblesAttempted" : 15.0,
           "dribblesCompleted" : 7.0,
-          "tackles" : 11.0,
-          "interceptions" : 16.0,
-          "clearances" : 24.0,
+          "tackles" : 12.0,
+          "interceptions" : 17.0,
+          "clearances" : 26.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 88.4,
-          "appearances" : 9
+          "passAccuracy" : 89.3,
+          "appearances" : 10
         }
       }, {
         "id" : "p_38OKD9",
         "name" : "Ramón Enríquez",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 0.0,
-          "assists" : 0.0,
+          "assists" : 1.0,
           "fouls" : 2.0,
-          "passes" : 182.0,
-          "keyPasses" : 3.0,
+          "passes" : 228.0,
+          "keyPasses" : 4.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 1.0,
           "interceptions" : 4.0,
-          "clearances" : 3.0,
+          "clearances" : 4.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "passAccuracy" : 92.3,
-          "appearances" : 9
+          "passAccuracy" : 91.2,
+          "appearances" : 10
         }
       }, {
         "id" : "p_1Zr3kD",
@@ -23177,6 +23183,17 @@
           "appearances" : 4
         }
       }, {
+        "id" : "p_0HmgKI",
+        "name" : "Rubén Montero",
+        "team" : "Deportivo Alavés",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "appearances" : 1
+        }
+      }, {
         "id" : "p_2PFhSx",
         "name" : "Rubén Sánchez",
         "team" : "Elche",
@@ -23407,11 +23424,11 @@
         "name" : "Selu Diallo",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_1xh7uk",
@@ -23843,16 +23860,16 @@
         "name" : "Toni Martínez",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 15.0,
+          "shotsOnTarget" : 4.0,
+          "shots" : 18.0,
           "fouls" : 6.0,
-          "passes" : 69.0,
+          "passes" : 71.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 5.0,
+          "dribblesAttempted" : 6.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 5.0,
           "interceptions" : 1.0,
@@ -23860,8 +23877,8 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "offsides" : 5.0,
-          "passAccuracy" : 60.8,
-          "appearances" : 8
+          "passAccuracy" : 61.9,
+          "appearances" : 9
         }
       }, {
         "id" : "p_1xr5Cw",
@@ -24197,24 +24214,24 @@
         "name" : "Ville Koski",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 10.0,
-          "passes" : 276.0,
+          "passes" : 349.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 7.0,
-          "interceptions" : 12.0,
-          "clearances" : 52.0,
+          "tackles" : 8.0,
+          "interceptions" : 13.0,
+          "clearances" : 56.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 2.0,
-          "passAccuracy" : 87.0,
-          "appearances" : 9
+          "shots" : 3.0,
+          "passAccuracy" : 87.1,
+          "appearances" : 10
         }
       }, {
         "id" : "p_2LE0rN",
@@ -24350,7 +24367,7 @@
         "name" : "Xanet Oláiz",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -24365,7 +24382,7 @@
           "interceptions" : 0.0,
           "clearances" : 2.0,
           "passAccuracy" : 85.7,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_0HYrZ6",
@@ -24604,12 +24621,12 @@
         "name" : "Youssef Enríquez",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 2.0,
-          "passes" : 62.0,
+          "fouls" : 4.0,
+          "passes" : 88.0,
           "keyPasses" : 4.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
@@ -24619,9 +24636,9 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "passAccuracy" : 80.6,
-          "appearances" : 9
+          "shots" : 2.0,
+          "passAccuracy" : 77.3,
+          "appearances" : 10
         }
       }, {
         "id" : "p_3i0uDV",
@@ -24819,6 +24836,17 @@
           "appearances" : 1
         }
       }, {
+        "id" : "p_4SjxdP",
+        "name" : "p_4SjxdP",
+        "team" : "Málaga",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "yellowCards" : 1.0,
+          "redCards" : 0.0,
+          "appearances" : 1
+        }
+      }, {
         "id" : "p_0yP3MQ",
         "name" : "Álex Baena",
         "team" : "Atlético Madrid",
@@ -24908,11 +24936,11 @@
         "name" : "Álex Pastor",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 8
+          "appearances" : 9
         }
       }, {
         "id" : "p_2X7tV9",
@@ -25148,49 +25176,49 @@
         "name" : "Ángel Pérez",
         "team" : "Deportivo Alavés",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 3.0,
           "goals" : 0.0,
           "shotsOnTarget" : 5.0,
-          "shots" : 12.0,
+          "shots" : 14.0,
           "offsides" : 6.0,
-          "fouls" : 6.0,
-          "passes" : 161.0,
-          "keyPasses" : 11.0,
-          "dribblesAttempted" : 26.0,
-          "dribblesCompleted" : 11.0,
-          "tackles" : 7.0,
+          "fouls" : 8.0,
+          "passes" : 191.0,
+          "keyPasses" : 14.0,
+          "dribblesAttempted" : 33.0,
+          "dribblesCompleted" : 13.0,
+          "tackles" : 9.0,
           "interceptions" : 12.0,
-          "clearances" : 5.0,
+          "clearances" : 6.0,
           "yellowCards" : 0.0,
           "redCards" : 1.0,
-          "passAccuracy" : 67.1,
-          "appearances" : 8
+          "passAccuracy" : 68.6,
+          "appearances" : 9
         }
       }, {
         "id" : "p_3ywLyc",
         "name" : "Ángel Recio",
         "team" : "Málaga",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 6.0,
-          "passes" : 532.0,
+          "fouls" : 7.0,
+          "passes" : 584.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 10.0,
+          "tackles" : 11.0,
           "interceptions" : 5.0,
-          "clearances" : 34.0,
+          "clearances" : 41.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 7.0,
-          "passAccuracy" : 92.5,
-          "appearances" : 9
+          "passAccuracy" : 91.8,
+          "appearances" : 10
         }
       }, {
         "id" : "p_3d9NHM",
@@ -25288,12 +25316,12 @@
     },
     "意甲" : {
       "season" : "2026/2027",
-      "finishedMatches" : 70,
-      "teamStatsMatches" : 70,
-      "playerStatsMatches" : 70,
-      "advancedTeamMatches" : 70,
-      "advancedPlayerMatches" : 70,
-      "cardEventsMatches" : 70,
+      "finishedMatches" : 71,
+      "teamStatsMatches" : 71,
+      "playerStatsMatches" : 71,
+      "advancedTeamMatches" : 71,
+      "advancedPlayerMatches" : 71,
+      "cardEventsMatches" : 71,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_0r0zEG",
@@ -25610,28 +25638,28 @@
       }, {
         "id" : "t_1pp2Qa",
         "name" : "Monza",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 13.0,
-          "goalsAgainst" : 15.0,
+          "goals" : 15.0,
+          "goalsAgainst" : 18.0,
           "cleanSheets" : 1.0,
-          "saves" : 21.0,
-          "fouls" : 85.0,
+          "saves" : 25.0,
+          "fouls" : 89.0,
           "redCards" : 1.0,
           "yellowCards" : 11.0,
-          "offsides" : 24.0,
-          "shotsOnTarget" : 42.0,
-          "shots" : 100.0,
-          "passes" : 2668.0,
-          "keyPasses" : 73.0,
-          "dribblesAttempted" : 107.0,
-          "dribblesCompleted" : 45.0,
-          "tackles" : 107.0,
-          "interceptions" : 114.0,
-          "clearances" : 163.0,
-          "passAccuracy" : 79.3,
-          "possession" : 44.6,
-          "shotsPerGame" : 14.3
+          "offsides" : 26.0,
+          "shotsOnTarget" : 45.0,
+          "shots" : 107.0,
+          "passes" : 3103.0,
+          "keyPasses" : 79.0,
+          "dribblesAttempted" : 121.0,
+          "dribblesCompleted" : 53.0,
+          "tackles" : 121.0,
+          "interceptions" : 141.0,
+          "clearances" : 183.0,
+          "passAccuracy" : 79.7,
+          "possession" : 45.2,
+          "shotsPerGame" : 13.4
         }
       }, {
         "id" : "t_2toJRF",
@@ -25740,28 +25768,28 @@
       }, {
         "id" : "t_1fXtzU",
         "name" : "Torino",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 10.0,
-          "goalsAgainst" : 9.0,
+          "goals" : 13.0,
+          "goalsAgainst" : 11.0,
           "cleanSheets" : 1.0,
-          "saves" : 22.0,
-          "fouls" : 67.0,
+          "saves" : 24.0,
+          "fouls" : 75.0,
           "redCards" : 0.0,
-          "yellowCards" : 6.0,
-          "offsides" : 12.0,
-          "shotsOnTarget" : 22.0,
-          "shots" : 68.0,
-          "passes" : 3233.0,
-          "keyPasses" : 44.0,
-          "dribblesAttempted" : 95.0,
-          "dribblesCompleted" : 44.0,
-          "tackles" : 102.0,
-          "interceptions" : 84.0,
-          "clearances" : 172.0,
-          "passAccuracy" : 83.8,
+          "yellowCards" : 7.0,
+          "offsides" : 13.0,
+          "shotsOnTarget" : 29.0,
+          "shots" : 85.0,
+          "passes" : 3691.0,
+          "keyPasses" : 55.0,
+          "dribblesAttempted" : 117.0,
+          "dribblesCompleted" : 55.0,
+          "tackles" : 116.0,
+          "interceptions" : 100.0,
+          "clearances" : 196.0,
+          "passAccuracy" : 83.2,
           "possession" : 50.5,
-          "shotsPerGame" : 9.7
+          "shotsPerGame" : 10.6
         }
       }, {
         "id" : "t_2ur07g",
@@ -25880,7 +25908,7 @@
         "name" : "Adam Bakoune",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -25898,7 +25926,7 @@
           "shots" : 1.0,
           "offsides" : 1.0,
           "passAccuracy" : 64.5,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_4b8BtP",
@@ -26409,25 +26437,25 @@
         "name" : "Alessio Cacciamani",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
-          "fouls" : 4.0,
-          "passes" : 174.0,
-          "keyPasses" : 3.0,
-          "dribblesAttempted" : 19.0,
-          "dribblesCompleted" : 8.0,
+          "fouls" : 5.0,
+          "passes" : 198.0,
+          "keyPasses" : 5.0,
+          "dribblesAttempted" : 21.0,
+          "dribblesCompleted" : 9.0,
           "tackles" : 6.0,
-          "interceptions" : 8.0,
-          "clearances" : 14.0,
+          "interceptions" : 10.0,
+          "clearances" : 15.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "offsides" : 1.0,
-          "passAccuracy" : 72.4,
-          "appearances" : 7
+          "passAccuracy" : 72.2,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4QLcBq",
@@ -26635,11 +26663,11 @@
         "name" : "Aljaž Strajnar",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_1Dxzry",
@@ -26804,32 +26832,32 @@
         "name" : "Andrea Carboni",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 10.0,
-          "passes" : 333.0,
+          "passes" : 374.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 11.0,
-          "interceptions" : 11.0,
-          "clearances" : 18.0,
+          "tackles" : 13.0,
+          "interceptions" : 12.0,
+          "clearances" : 22.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 5.0,
           "offsides" : 1.0,
-          "passAccuracy" : 78.7,
-          "appearances" : 7
+          "passAccuracy" : 79.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3wjdQj",
         "name" : "Andrea Colpani",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
@@ -26847,7 +26875,7 @@
           "shots" : 7.0,
           "offsides" : 1.0,
           "passAccuracy" : 80.9,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_2z5MJk",
@@ -27126,22 +27154,24 @@
         "name" : "Ardian Ismajli",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 4.0,
-          "passes" : 205.0,
+          "fouls" : 6.0,
+          "passes" : 252.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 3.0,
-          "interceptions" : 10.0,
-          "clearances" : 33.0,
-          "yellowCards" : 1.0,
+          "tackles" : 5.0,
+          "interceptions" : 11.0,
+          "clearances" : 44.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 89.8,
-          "appearances" : 7
+          "shotsOnTarget" : 0.0,
+          "shots" : 1.0,
+          "passAccuracy" : 89.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2KJhq5",
@@ -27707,7 +27737,7 @@
         "name" : "Cesare Casadei",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -27722,7 +27752,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 65.0,
-          "appearances" : 3
+          "appearances" : 4
         }
       }, {
         "id" : "p_4DNRbi",
@@ -27919,25 +27949,25 @@
         "name" : "Ché Adams",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 3.0,
-          "shotsOnTarget" : 4.0,
-          "shots" : 7.0,
+          "shotsOnTarget" : 5.0,
+          "shots" : 11.0,
           "fouls" : 3.0,
-          "passes" : 75.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 2.0,
-          "dribblesCompleted" : 1.0,
+          "passes" : 103.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 4.0,
+          "dribblesCompleted" : 2.0,
           "tackles" : 2.0,
           "interceptions" : 1.0,
           "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 85.3,
-          "appearances" : 5
+          "passAccuracy" : 81.5,
+          "appearances" : 6
         }
       }, {
         "id" : "p_2A0pfM",
@@ -28037,11 +28067,11 @@
         "name" : "Cristiano Biraghi",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_2AxCEP",
@@ -28072,37 +28102,37 @@
         "name" : "Cyril Ngonge",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 7.0,
+          "passes" : 15.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
+          "dribblesAttempted" : 2.0,
+          "dribblesCompleted" : 2.0,
           "tackles" : 0.0,
           "interceptions" : 1.0,
           "clearances" : 0.0,
-          "passAccuracy" : 85.7,
-          "appearances" : 3
+          "passAccuracy" : 80.0,
+          "appearances" : 4
         }
       }, {
         "id" : "p_1KDT5Q",
         "name" : "Daniel Bragança",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 3.0,
-          "passes" : 146.0,
+          "passes" : 154.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 3.0,
-          "dribblesCompleted" : 1.0,
+          "dribblesAttempted" : 4.0,
+          "dribblesCompleted" : 2.0,
           "tackles" : 6.0,
           "interceptions" : 7.0,
           "clearances" : 6.0,
@@ -28110,8 +28140,8 @@
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 5.0,
-          "passAccuracy" : 89.7,
-          "appearances" : 5
+          "passAccuracy" : 89.6,
+          "appearances" : 6
         }
       }, {
         "id" : "p_2CPKq0",
@@ -28278,25 +28308,25 @@
         "name" : "Dany Mota",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 2.0,
           "goals" : 0.0,
           "shotsOnTarget" : 7.0,
-          "shots" : 12.0,
-          "fouls" : 3.0,
-          "passes" : 72.0,
-          "keyPasses" : 7.0,
-          "dribblesAttempted" : 8.0,
-          "dribblesCompleted" : 3.0,
+          "shots" : 13.0,
+          "fouls" : 4.0,
+          "passes" : 96.0,
+          "keyPasses" : 8.0,
+          "dribblesAttempted" : 9.0,
+          "dribblesCompleted" : 4.0,
           "tackles" : 3.0,
-          "interceptions" : 1.0,
-          "clearances" : 2.0,
+          "interceptions" : 3.0,
+          "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
-          "passAccuracy" : 75.0,
-          "appearances" : 6
+          "passAccuracy" : 76.1,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3gF2ci",
@@ -28535,7 +28565,7 @@
         "name" : "Demba Thiam",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "fouls" : 0.0,
           "saves" : 4.0,
@@ -28549,7 +28579,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 67.4,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3j7JzN",
@@ -28625,7 +28655,7 @@
         "name" : "Diego Mascardi",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "fouls" : 0.0,
           "saves" : 7.0,
@@ -28639,7 +28669,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 75.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_0BtZrR",
@@ -28917,7 +28947,7 @@
         "name" : "Duván Zapata",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -28932,56 +28962,56 @@
           "interceptions" : 1.0,
           "clearances" : 3.0,
           "passAccuracy" : 50.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_4Zd1HJ",
         "name" : "Ebenezer Akinsanmiro",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
           "fouls" : 9.0,
-          "passes" : 240.0,
-          "keyPasses" : 5.0,
-          "dribblesAttempted" : 8.0,
-          "dribblesCompleted" : 6.0,
+          "passes" : 302.0,
+          "keyPasses" : 7.0,
+          "dribblesAttempted" : 11.0,
+          "dribblesCompleted" : 8.0,
           "tackles" : 7.0,
-          "interceptions" : 10.0,
-          "clearances" : 6.0,
+          "interceptions" : 11.0,
+          "clearances" : 7.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "passAccuracy" : 87.5,
-          "appearances" : 6
+          "passAccuracy" : 87.7,
+          "appearances" : 7
         }
       }, {
         "id" : "p_13i5DN",
         "name" : "Eddy Kouadio",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 10.0,
-          "passes" : 284.0,
+          "passes" : 300.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 2.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 19.0,
-          "interceptions" : 21.0,
-          "clearances" : 26.0,
+          "dribblesAttempted" : 3.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 21.0,
+          "interceptions" : 24.0,
+          "clearances" : 27.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 3.0,
           "shots" : 3.0,
           "offsides" : 1.0,
-          "passAccuracy" : 83.1,
-          "appearances" : 7
+          "passAccuracy" : 83.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3dimQT",
@@ -29383,7 +29413,7 @@
         "name" : "Eray Cömert",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
@@ -29400,7 +29430,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "passAccuracy" : 92.3,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3SsoXK",
@@ -29432,7 +29462,7 @@
         "name" : "Exequiel Zeballos",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
@@ -29449,7 +29479,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 65.0,
-          "appearances" : 3
+          "appearances" : 4
         }
       }, {
         "id" : "p_0yPAwb",
@@ -29789,24 +29819,24 @@
         "name" : "Foe Ondoa",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
           "fouls" : 5.0,
-          "passes" : 105.0,
+          "passes" : 125.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 6.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 5.0,
-          "interceptions" : 4.0,
-          "clearances" : 5.0,
+          "tackles" : 6.0,
+          "interceptions" : 7.0,
+          "clearances" : 8.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 4.0,
-          "passAccuracy" : 89.5,
-          "appearances" : 7
+          "passAccuracy" : 84.8,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0g6xVH",
@@ -30120,7 +30150,7 @@
         "name" : "Gaetano Oristanio",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -30137,7 +30167,7 @@
           "interceptions" : 1.0,
           "clearances" : 0.0,
           "passAccuracy" : 50.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_43yE7b",
@@ -30532,25 +30562,25 @@
         "name" : "Giovanni Simeone",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 2.0,
           "shotsOnTarget" : 4.0,
-          "shots" : 15.0,
-          "offsides" : 4.0,
+          "shots" : 17.0,
+          "offsides" : 5.0,
           "fouls" : 3.0,
-          "passes" : 100.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 6.0,
-          "dribblesCompleted" : 3.0,
-          "tackles" : 4.0,
-          "interceptions" : 4.0,
-          "clearances" : 3.0,
+          "passes" : 123.0,
+          "keyPasses" : 4.0,
+          "dribblesAttempted" : 11.0,
+          "dribblesCompleted" : 7.0,
+          "tackles" : 6.0,
+          "interceptions" : 6.0,
+          "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 68.0,
-          "appearances" : 7
+          "passAccuracy" : 65.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_32xBHY",
@@ -30695,41 +30725,41 @@
         "name" : "Gustavo Varela",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 1.0,
-          "goals" : 6.0,
-          "shotsOnTarget" : 7.0,
-          "shots" : 14.0,
+          "goals" : 7.0,
+          "shotsOnTarget" : 8.0,
+          "shots" : 16.0,
           "offsides" : 6.0,
           "fouls" : 5.0,
-          "passes" : 89.0,
+          "passes" : 99.0,
           "keyPasses" : 7.0,
           "dribblesAttempted" : 20.0,
           "dribblesCompleted" : 7.0,
           "tackles" : 1.0,
           "interceptions" : 5.0,
-          "clearances" : 5.0,
+          "clearances" : 6.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 76.4,
-          "appearances" : 6
+          "passAccuracy" : 76.8,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0DXEYs",
         "name" : "Gvidas Gineitis",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
-          "assists" : 1.0,
-          "fouls" : 4.0,
-          "passes" : 105.0,
-          "keyPasses" : 2.0,
+          "assists" : 2.0,
+          "fouls" : 5.0,
+          "passes" : 122.0,
+          "keyPasses" : 4.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 6.0,
+          "tackles" : 7.0,
           "interceptions" : 1.0,
           "clearances" : 4.0,
           "yellowCards" : 1.0,
@@ -30737,8 +30767,8 @@
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "offsides" : 1.0,
-          "passAccuracy" : 79.1,
-          "appearances" : 7
+          "passAccuracy" : 79.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2aTQn7",
@@ -30917,6 +30947,17 @@
           "redCards" : 0.0,
           "passAccuracy" : 66.7,
           "appearances" : 5
+        }
+      }, {
+        "id" : "p_1DlOld",
+        "name" : "Idrissa Touré",
+        "team" : "Monza",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "appearances" : 1
         }
       }, {
         "id" : "p_3zS6Xj",
@@ -31273,24 +31314,24 @@
         "name" : "Jay Robinson",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 2.0,
           "assists" : 0.0,
-          "fouls" : 2.0,
-          "passes" : 71.0,
+          "fouls" : 3.0,
+          "passes" : 89.0,
           "keyPasses" : 3.0,
-          "dribblesAttempted" : 13.0,
-          "dribblesCompleted" : 4.0,
-          "tackles" : 5.0,
-          "interceptions" : 2.0,
+          "dribblesAttempted" : 16.0,
+          "dribblesCompleted" : 5.0,
+          "tackles" : 7.0,
+          "interceptions" : 3.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 5.0,
-          "shots" : 9.0,
-          "passAccuracy" : 67.6,
-          "appearances" : 7
+          "shotsOnTarget" : 6.0,
+          "shots" : 10.0,
+          "passAccuracy" : 70.8,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2kEUIT",
@@ -32182,24 +32223,24 @@
         "name" : "Kian Fitz-Jim",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
-          "goals" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 2.0,
+          "goals" : 1.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 3.0,
           "fouls" : 1.0,
-          "passes" : 210.0,
+          "passes" : 242.0,
           "keyPasses" : 7.0,
-          "dribblesAttempted" : 12.0,
-          "dribblesCompleted" : 7.0,
+          "dribblesAttempted" : 13.0,
+          "dribblesCompleted" : 8.0,
           "tackles" : 3.0,
-          "interceptions" : 5.0,
+          "interceptions" : 6.0,
           "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 88.6,
-          "appearances" : 7
+          "passAccuracy" : 88.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3J1QE0",
@@ -32431,11 +32472,11 @@
         "name" : "Lapo Siviero",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_4EjyOL",
@@ -32675,7 +32716,7 @@
         "name" : "Leonardo Colombo",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
@@ -32690,7 +32731,7 @@
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "passAccuracy" : 68.8,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_4T3vzk",
@@ -32901,24 +32942,24 @@
         "name" : "Lorenzo Lucchesi",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 11.0,
-          "passes" : 201.0,
+          "fouls" : 13.0,
+          "passes" : 243.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 8.0,
-          "interceptions" : 15.0,
-          "clearances" : 27.0,
+          "tackles" : 9.0,
+          "interceptions" : 21.0,
+          "clearances" : 29.0,
           "yellowCards" : 2.0,
           "redCards" : 1.0,
           "shotsOnTarget" : 3.0,
           "shots" : 4.0,
-          "passAccuracy" : 94.0,
-          "appearances" : 6
+          "passAccuracy" : 94.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2jyw7B",
@@ -33119,11 +33160,11 @@
         "name" : "Lucas Perri",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 15.0,
-          "passes" : 188.0,
+          "saves" : 17.0,
+          "passes" : 222.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -33132,8 +33173,8 @@
           "clearances" : 2.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 62.8,
-          "appearances" : 5
+          "passAccuracy" : 63.5,
+          "appearances" : 6
         }
       }, {
         "id" : "p_4Dr1gf",
@@ -33863,24 +33904,24 @@
         "name" : "Mathis Mout",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
           "fouls" : 1.0,
-          "passes" : 82.0,
+          "passes" : 88.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 7.0,
-          "interceptions" : 5.0,
+          "tackles" : 9.0,
+          "interceptions" : 6.0,
           "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 70.7,
-          "appearances" : 7
+          "passAccuracy" : 70.4,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1cSetY",
@@ -34395,14 +34436,14 @@
         "name" : "Michael Folorunsho",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 7.0,
+          "shots" : 8.0,
           "fouls" : 5.0,
-          "passes" : 196.0,
+          "passes" : 219.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 1.0,
@@ -34411,8 +34452,8 @@
           "clearances" : 6.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "passAccuracy" : 80.1,
-          "appearances" : 6
+          "passAccuracy" : 79.9,
+          "appearances" : 7
         }
       }, {
         "id" : "p_05oHwK",
@@ -34744,22 +34785,24 @@
         "name" : "Nathan Patterson",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 3.0,
-          "passes" : 38.0,
+          "passes" : 42.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 3.0,
-          "interceptions" : 1.0,
-          "clearances" : 5.0,
+          "tackles" : 4.0,
+          "interceptions" : 3.0,
+          "clearances" : 6.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 73.7,
-          "appearances" : 5
+          "shotsOnTarget" : 0.0,
+          "shots" : 1.0,
+          "passAccuracy" : 76.2,
+          "appearances" : 6
         }
       }, {
         "id" : "p_0q4oer",
@@ -35274,24 +35317,24 @@
         "name" : "Nikola Vlašić",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "goals" : 0.0,
+          "goals" : 1.0,
           "assists" : 0.0,
-          "fouls" : 8.0,
-          "passes" : 235.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 10.0,
-          "dribblesCompleted" : 3.0,
+          "fouls" : 10.0,
+          "passes" : 287.0,
+          "keyPasses" : 6.0,
+          "dribblesAttempted" : 13.0,
+          "dribblesCompleted" : 4.0,
           "tackles" : 3.0,
-          "interceptions" : 5.0,
+          "interceptions" : 7.0,
           "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 6.0,
-          "passAccuracy" : 83.8,
-          "appearances" : 7
+          "shotsOnTarget" : 3.0,
+          "shots" : 7.0,
+          "passAccuracy" : 84.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0R2q1p",
@@ -35348,21 +35391,21 @@
         "name" : "Noel Törnqvist",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "fouls" : 0.0,
-          "saves" : 16.0,
-          "passes" : 79.0,
+          "saves" : 20.0,
+          "passes" : 106.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
-          "interceptions" : 0.0,
+          "interceptions" : 1.0,
           "clearances" : 1.0,
-          "passAccuracy" : 64.6,
-          "appearances" : 6
+          "passAccuracy" : 71.7,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2LEwWi",
@@ -35534,7 +35577,7 @@
         "name" : "Omari Forson",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -35552,7 +35595,7 @@
           "shots" : 2.0,
           "offsides" : 1.0,
           "passAccuracy" : 80.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_1NFLRa",
@@ -35787,36 +35830,36 @@
         "name" : "Patrick Ciurria",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 1
+          "appearances" : 2
         }
       }, {
         "id" : "p_1JDZYF",
         "name" : "Patrick Cutrone",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "offsides" : 3.0,
+          "offsides" : 5.0,
           "fouls" : 4.0,
-          "passes" : 55.0,
+          "passes" : 59.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 3.0,
           "tackles" : 3.0,
-          "interceptions" : 0.0,
+          "interceptions" : 1.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 6.0,
-          "passAccuracy" : 65.5,
-          "appearances" : 6
+          "passAccuracy" : 66.1,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0FZHRF",
@@ -36014,35 +36057,35 @@
         "name" : "Pietro Comuzzo",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 5.0,
+          "shotsOnTarget" : 2.0,
+          "shots" : 6.0,
           "fouls" : 8.0,
-          "passes" : 302.0,
+          "passes" : 351.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 16.0,
-          "interceptions" : 11.0,
-          "clearances" : 13.0,
+          "tackles" : 18.0,
+          "interceptions" : 13.0,
+          "clearances" : 15.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 91.1,
-          "appearances" : 7
+          "passAccuracy" : 88.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3VtzDm",
         "name" : "Pietro Pellegri",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 2
+          "appearances" : 3
         }
       }, {
         "id" : "p_0jdUYi",
@@ -36249,23 +36292,25 @@
         "name" : "Rafik Belghali",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
-          "goals" : 0.0,
+          "goals" : 1.0,
           "assists" : 3.0,
           "fouls" : 3.0,
-          "passes" : 120.0,
+          "passes" : 159.0,
           "keyPasses" : 5.0,
-          "dribblesAttempted" : 5.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 7.0,
-          "interceptions" : 2.0,
-          "clearances" : 10.0,
+          "dribblesAttempted" : 8.0,
+          "dribblesCompleted" : 3.0,
+          "tackles" : 10.0,
+          "interceptions" : 3.0,
+          "clearances" : 11.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
-          "passAccuracy" : 74.1,
-          "appearances" : 5
+          "shotsOnTarget" : 2.0,
+          "shots" : 2.0,
+          "passAccuracy" : 74.8,
+          "appearances" : 6
         }
       }, {
         "id" : "p_1cxv88",
@@ -36476,25 +36521,25 @@
         "name" : "Ricardo Mangas",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 2.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 4.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 5.0,
           "offsides" : 3.0,
           "fouls" : 4.0,
-          "passes" : 166.0,
-          "keyPasses" : 10.0,
-          "dribblesAttempted" : 12.0,
-          "dribblesCompleted" : 3.0,
-          "tackles" : 7.0,
-          "interceptions" : 10.0,
-          "clearances" : 13.0,
+          "passes" : 200.0,
+          "keyPasses" : 12.0,
+          "dribblesAttempted" : 15.0,
+          "dribblesCompleted" : 4.0,
+          "tackles" : 8.0,
+          "interceptions" : 11.0,
+          "clearances" : 15.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 71.7,
-          "appearances" : 7
+          "passAccuracy" : 74.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2uVVHu",
@@ -36770,24 +36815,24 @@
         "name" : "Rolando Mandragora",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 1.0,
           "assists" : 1.0,
-          "fouls" : 9.0,
-          "passes" : 258.0,
-          "keyPasses" : 7.0,
+          "fouls" : 10.0,
+          "passes" : 286.0,
+          "keyPasses" : 8.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 8.0,
-          "interceptions" : 9.0,
-          "clearances" : 7.0,
+          "tackles" : 9.0,
+          "interceptions" : 10.0,
+          "clearances" : 10.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 6.0,
-          "shots" : 8.0,
-          "passAccuracy" : 86.8,
-          "appearances" : 7
+          "shots" : 10.0,
+          "passAccuracy" : 87.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0g9xDf",
@@ -36878,7 +36923,7 @@
         "name" : "Saba Goglichidze",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -36887,15 +36932,15 @@
           "shotsOnTarget" : 1.0,
           "shots" : 1.0,
           "fouls" : 0.0,
-          "passes" : 63.0,
+          "passes" : 116.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 3.0,
-          "interceptions" : 4.0,
-          "clearances" : 9.0,
-          "passAccuracy" : 95.2,
-          "appearances" : 7
+          "tackles" : 4.0,
+          "interceptions" : 9.0,
+          "clearances" : 11.0,
+          "passAccuracy" : 89.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_21QXJX",
@@ -37009,25 +37054,25 @@
         "name" : "Samuele Birindelli",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 2.0,
           "goals" : 0.0,
           "shotsOnTarget" : 4.0,
-          "shots" : 11.0,
+          "shots" : 12.0,
           "offsides" : 5.0,
           "fouls" : 6.0,
-          "passes" : 241.0,
-          "keyPasses" : 10.0,
-          "dribblesAttempted" : 7.0,
+          "passes" : 288.0,
+          "keyPasses" : 11.0,
+          "dribblesAttempted" : 8.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 9.0,
-          "interceptions" : 10.0,
-          "clearances" : 12.0,
+          "tackles" : 11.0,
+          "interceptions" : 11.0,
+          "clearances" : 15.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 75.9,
-          "appearances" : 7
+          "passAccuracy" : 72.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0CH46g",
@@ -37080,14 +37125,14 @@
         "name" : "Sandro Kulenović",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 2.0,
           "assists" : 0.0,
           "fouls" : 4.0,
-          "passes" : 22.0,
+          "passes" : 30.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 1.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 1.0,
           "interceptions" : 1.0,
@@ -37097,8 +37142,8 @@
           "shotsOnTarget" : 3.0,
           "shots" : 5.0,
           "offsides" : 2.0,
-          "passAccuracy" : 68.2,
-          "appearances" : 7
+          "passAccuracy" : 63.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2VXO6P",
@@ -37191,24 +37236,24 @@
         "name" : "Saúl Coco",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 6.0,
-          "fouls" : 4.0,
-          "passes" : 402.0,
+          "fouls" : 5.0,
+          "passes" : 463.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 4.0,
+          "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 11.0,
-          "interceptions" : 6.0,
-          "clearances" : 32.0,
+          "tackles" : 12.0,
+          "interceptions" : 7.0,
+          "clearances" : 35.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 91.8,
-          "appearances" : 7
+          "passAccuracy" : 90.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0sBHOF",
@@ -38056,11 +38101,11 @@
         "name" : "Valentin Antov",
         "team" : "Monza",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_152yUu",
@@ -38562,24 +38607,24 @@
         "name" : "Zakaria Aboukhlal",
         "team" : "Torino",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 2.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 4.0,
           "fouls" : 2.0,
-          "passes" : 15.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 3.0,
-          "dribblesCompleted" : 3.0,
-          "tackles" : 0.0,
-          "interceptions" : 0.0,
+          "passes" : 19.0,
+          "keyPasses" : 1.0,
+          "dribblesAttempted" : 5.0,
+          "dribblesCompleted" : 4.0,
+          "tackles" : 1.0,
+          "interceptions" : 1.0,
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 73.3,
-          "appearances" : 7
+          "passAccuracy" : 68.4,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0QTf2M",
@@ -38826,12 +38871,12 @@
     },
     "德甲" : {
       "season" : "2026/2027",
-      "finishedMatches" : 54,
-      "teamStatsMatches" : 54,
-      "playerStatsMatches" : 54,
-      "advancedTeamMatches" : 54,
-      "advancedPlayerMatches" : 54,
-      "cardEventsMatches" : 54,
+      "finishedMatches" : 55,
+      "teamStatsMatches" : 55,
+      "playerStatsMatches" : 55,
+      "advancedTeamMatches" : 55,
+      "advancedPlayerMatches" : 55,
+      "cardEventsMatches" : 55,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_0x6Gji",
@@ -38966,28 +39011,28 @@
       }, {
         "id" : "t_2g37DO",
         "name" : "Borussia Mönchengladbach",
-        "games" : 6,
+        "games" : 7,
         "values" : {
-          "goals" : 8.0,
-          "goalsAgainst" : 20.0,
+          "goals" : 11.0,
+          "goalsAgainst" : 22.0,
           "cleanSheets" : 0.0,
-          "saves" : 33.0,
-          "fouls" : 89.0,
+          "saves" : 36.0,
+          "fouls" : 103.0,
           "redCards" : 1.0,
-          "yellowCards" : 17.0,
-          "offsides" : 15.0,
-          "shotsOnTarget" : 27.0,
-          "shots" : 91.0,
-          "passes" : 2437.0,
-          "keyPasses" : 58.0,
-          "dribblesAttempted" : 81.0,
-          "dribblesCompleted" : 30.0,
-          "tackles" : 92.0,
-          "interceptions" : 93.0,
-          "clearances" : 173.0,
-          "passAccuracy" : 79.4,
-          "possession" : 48.6,
-          "shotsPerGame" : 15.2
+          "yellowCards" : 21.0,
+          "offsides" : 17.0,
+          "shotsOnTarget" : 33.0,
+          "shots" : 107.0,
+          "passes" : 2716.0,
+          "keyPasses" : 69.0,
+          "dribblesAttempted" : 90.0,
+          "dribblesCompleted" : 35.0,
+          "tackles" : 103.0,
+          "interceptions" : 114.0,
+          "clearances" : 203.0,
+          "passAccuracy" : 78.0,
+          "possession" : 45.9,
+          "shotsPerGame" : 15.3
         }
       }, {
         "id" : "t_0acTGj",
@@ -39252,28 +39297,28 @@
       }, {
         "id" : "t_0iJNOA",
         "name" : "VfB Stuttgart",
-        "games" : 6,
+        "games" : 7,
         "values" : {
-          "goals" : 8.0,
-          "goalsAgainst" : 10.0,
+          "goals" : 10.0,
+          "goalsAgainst" : 13.0,
           "cleanSheets" : 1.0,
-          "saves" : 21.0,
-          "fouls" : 59.0,
+          "saves" : 23.0,
+          "fouls" : 68.0,
           "redCards" : 0.0,
-          "yellowCards" : 6.0,
-          "offsides" : 8.0,
-          "shotsOnTarget" : 35.0,
-          "shots" : 103.0,
-          "passes" : 3028.0,
-          "keyPasses" : 77.0,
-          "dribblesAttempted" : 87.0,
-          "dribblesCompleted" : 40.0,
-          "tackles" : 82.0,
-          "interceptions" : 101.0,
-          "clearances" : 188.0,
-          "passAccuracy" : 82.3,
-          "possession" : 54.5,
-          "shotsPerGame" : 17.2
+          "yellowCards" : 8.0,
+          "offsides" : 10.0,
+          "shotsOnTarget" : 40.0,
+          "shots" : 118.0,
+          "passes" : 3724.0,
+          "keyPasses" : 89.0,
+          "dribblesAttempted" : 95.0,
+          "dribblesCompleted" : 45.0,
+          "tackles" : 86.0,
+          "interceptions" : 113.0,
+          "clearances" : 210.0,
+          "passAccuracy" : 82.6,
+          "possession" : 56.7,
+          "shotsPerGame" : 16.9
         }
       }, {
         "id" : "t_2vkbPM",
@@ -39769,11 +39814,11 @@
         "name" : "Ameen Al Dakhil",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 3
+          "appearances" : 4
         }
       }, {
         "id" : "p_26ugOP",
@@ -39876,24 +39921,24 @@
         "name" : "Angelo Stiller",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 2.0,
-          "fouls" : 6.0,
-          "passes" : 382.0,
+          "fouls" : 8.0,
+          "passes" : 487.0,
           "keyPasses" : 10.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 3.0,
-          "interceptions" : 9.0,
-          "clearances" : 6.0,
+          "interceptions" : 10.0,
+          "clearances" : 7.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 3.0,
-          "passAccuracy" : 90.6,
-          "appearances" : 6
+          "shotsOnTarget" : 1.0,
+          "shots" : 4.0,
+          "passAccuracy" : 88.5,
+          "appearances" : 7
         }
       }, {
         "id" : "p_05o5f1",
@@ -40095,24 +40140,24 @@
         "name" : "Atakan Karazor",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "yellowCards" : 0.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "fouls" : 3.0,
-          "passes" : 100.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 1.0,
+          "fouls" : 5.0,
+          "passes" : 152.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 3.0,
+          "dribblesCompleted" : 2.0,
           "tackles" : 5.0,
-          "interceptions" : 5.0,
-          "clearances" : 8.0,
-          "passAccuracy" : 85.0,
-          "appearances" : 6
+          "interceptions" : 6.0,
+          "clearances" : 10.0,
+          "passAccuracy" : 80.3,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4B7GsJ",
@@ -40305,25 +40350,25 @@
         "name" : "Bilal El Khannouss",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "offsides" : 2.0,
           "fouls" : 0.0,
-          "passes" : 157.0,
-          "keyPasses" : 9.0,
+          "passes" : 178.0,
+          "keyPasses" : 10.0,
           "dribblesAttempted" : 11.0,
           "dribblesCompleted" : 6.0,
-          "tackles" : 12.0,
+          "tackles" : 13.0,
           "interceptions" : 5.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 7.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 8.0,
           "passAccuracy" : 80.3,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3nfsBa",
@@ -40575,25 +40620,25 @@
         "name" : "Chris Führich",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "offsides" : 1.0,
           "fouls" : 0.0,
-          "passes" : 175.0,
-          "keyPasses" : 9.0,
-          "dribblesAttempted" : 13.0,
-          "dribblesCompleted" : 5.0,
+          "passes" : 231.0,
+          "keyPasses" : 15.0,
+          "dribblesAttempted" : 16.0,
+          "dribblesCompleted" : 7.0,
           "tackles" : 9.0,
-          "interceptions" : 2.0,
+          "interceptions" : 3.0,
           "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 3.0,
           "shots" : 4.0,
-          "passAccuracy" : 80.0,
-          "appearances" : 5
+          "passAccuracy" : 82.3,
+          "appearances" : 6
         }
       }, {
         "id" : "p_1kcKWM",
@@ -40853,35 +40898,35 @@
         "name" : "Daiki Hashioka",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "fouls" : 2.0,
-          "passes" : 81.0,
+          "passes" : 107.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 2.0,
-          "interceptions" : 2.0,
-          "clearances" : 17.0,
+          "interceptions" : 6.0,
+          "clearances" : 24.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 69.1,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_1kHHU7",
         "name" : "Daniel Batz",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_1eJWYn",
@@ -41003,22 +41048,22 @@
         "name" : "David Herold",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 3.0,
-          "passes" : 44.0,
+          "passes" : 45.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 6.0,
           "interceptions" : 0.0,
-          "clearances" : 5.0,
+          "clearances" : 6.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 75.0,
-          "appearances" : 6
+          "passAccuracy" : 75.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3BBcRU",
@@ -41148,25 +41193,25 @@
         "name" : "Deniz Undav",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 9.0,
-          "passes" : 132.0,
+          "passes" : 143.0,
           "keyPasses" : 5.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 2.0,
-          "interceptions" : 4.0,
+          "tackles" : 3.0,
+          "interceptions" : 5.0,
           "clearances" : 4.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 4.0,
-          "shots" : 12.0,
+          "shots" : 13.0,
           "offsides" : 1.0,
-          "passAccuracy" : 70.5,
-          "appearances" : 6
+          "passAccuracy" : 72.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1v89VK",
@@ -41184,21 +41229,21 @@
         "name" : "Dennis Seimen",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 6.0,
-          "passes" : 59.0,
+          "saves" : 8.0,
+          "passes" : 94.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
-          "interceptions" : 0.0,
+          "interceptions" : 1.0,
           "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 84.8,
-          "appearances" : 2
+          "passAccuracy" : 78.8,
+          "appearances" : 3
         }
       }, {
         "id" : "p_31rqWM",
@@ -41277,15 +41322,15 @@
         "name" : "Dženan Pejčinović",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 13.0,
+          "shots" : 15.0,
           "fouls" : 2.0,
-          "passes" : 107.0,
-          "keyPasses" : 5.0,
+          "passes" : 132.0,
+          "keyPasses" : 6.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 2.0,
@@ -41293,8 +41338,8 @@
           "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 67.3,
-          "appearances" : 6
+          "passAccuracy" : 68.2,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1r5EHr",
@@ -41509,25 +41554,25 @@
         "name" : "Ermedin Demirović",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
-          "goals" : 1.0,
-          "shotsOnTarget" : 8.0,
-          "shots" : 17.0,
-          "fouls" : 5.0,
-          "passes" : 74.0,
+          "goals" : 3.0,
+          "shotsOnTarget" : 10.0,
+          "shots" : 21.0,
+          "fouls" : 6.0,
+          "passes" : 91.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 8.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 1.0,
-          "interceptions" : 3.0,
-          "clearances" : 2.0,
+          "interceptions" : 5.0,
+          "clearances" : 3.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "offsides" : 1.0,
-          "passAccuracy" : 67.6,
-          "appearances" : 6
+          "offsides" : 3.0,
+          "passAccuracy" : 67.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2d393q",
@@ -41583,7 +41628,7 @@
         "name" : "Fabian Bredlow",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "fouls" : 0.0,
           "saves" : 15.0,
@@ -41597,7 +41642,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 71.5,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_0Wctu4",
@@ -41628,22 +41673,24 @@
         "name" : "Fabio Chiarodia",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 82.0,
+          "passes" : 113.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 0.0,
-          "interceptions" : 0.0,
-          "clearances" : 7.0,
-          "passAccuracy" : 86.6,
-          "appearances" : 5
+          "tackles" : 2.0,
+          "interceptions" : 2.0,
+          "clearances" : 12.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 1.0,
+          "passAccuracy" : 86.7,
+          "appearances" : 6
         }
       }, {
         "id" : "p_2bjp2b",
@@ -41859,25 +41906,25 @@
         "name" : "Finn Jeltsch",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
           "fouls" : 5.0,
-          "passes" : 284.0,
+          "passes" : 364.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 8.0,
           "interceptions" : 9.0,
-          "clearances" : 22.0,
+          "clearances" : 27.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 9.0,
           "offsides" : 1.0,
-          "passAccuracy" : 89.1,
-          "appearances" : 6
+          "passAccuracy" : 89.8,
+          "appearances" : 7
         }
       }, {
         "id" : "p_364KMH",
@@ -41942,24 +41989,24 @@
         "name" : "Florian Neuhaus",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
-          "yellowCards" : 1.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
           "assists" : 1.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 3.0,
-          "fouls" : 3.0,
-          "passes" : 67.0,
-          "keyPasses" : 8.0,
-          "dribblesAttempted" : 2.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 3.0,
-          "interceptions" : 2.0,
-          "clearances" : 2.0,
-          "passAccuracy" : 73.1,
-          "appearances" : 4
+          "shotsOnTarget" : 3.0,
+          "shots" : 6.0,
+          "fouls" : 5.0,
+          "passes" : 107.0,
+          "keyPasses" : 10.0,
+          "dribblesAttempted" : 4.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 4.0,
+          "interceptions" : 7.0,
+          "clearances" : 3.0,
+          "passAccuracy" : 72.0,
+          "appearances" : 5
         }
       }, {
         "id" : "p_0yP97j",
@@ -42248,14 +42295,14 @@
         "name" : "Grischa Prömel",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 9.0,
+          "shots" : 11.0,
           "fouls" : 5.0,
-          "passes" : 188.0,
+          "passes" : 209.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -42264,8 +42311,8 @@
           "clearances" : 8.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 83.0,
-          "appearances" : 6
+          "passAccuracy" : 84.2,
+          "appearances" : 7
         }
       }, {
         "id" : "p_07MUZ3",
@@ -42427,32 +42474,32 @@
         "name" : "Hugo Bolin",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 2.0,
           "shotsOnTarget" : 6.0,
-          "shots" : 16.0,
+          "shots" : 18.0,
           "offsides" : 3.0,
-          "fouls" : 7.0,
-          "passes" : 138.0,
-          "keyPasses" : 7.0,
+          "fouls" : 8.0,
+          "passes" : 156.0,
+          "keyPasses" : 10.0,
           "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 10.0,
+          "tackles" : 11.0,
           "interceptions" : 7.0,
           "clearances" : 6.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 78.2,
-          "appearances" : 6
+          "passAccuracy" : 75.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3JPUU7",
         "name" : "Iaia Manco Danfa",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -42467,7 +42514,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 0.0,
-          "appearances" : 1
+          "appearances" : 2
         }
       }, {
         "id" : "p_2sQv0j",
@@ -42678,13 +42725,13 @@
         "name" : "Jamie Leweling",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 2.0,
-          "passes" : 100.0,
-          "keyPasses" : 4.0,
+          "assists" : 1.0,
+          "fouls" : 3.0,
+          "passes" : 117.0,
+          "keyPasses" : 5.0,
           "dribblesAttempted" : 17.0,
           "dribblesCompleted" : 9.0,
           "tackles" : 0.0,
@@ -42695,8 +42742,8 @@
           "offsides" : 1.0,
           "shotsOnTarget" : 1.0,
           "shots" : 2.0,
-          "passAccuracy" : 70.0,
-          "appearances" : 6
+          "passAccuracy" : 70.1,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0DeO7p",
@@ -42937,14 +42984,14 @@
         "name" : "Jeff Chabot",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 3.0,
           "shots" : 7.0,
           "fouls" : 9.0,
-          "passes" : 270.0,
+          "passes" : 271.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -42953,8 +43000,8 @@
           "clearances" : 49.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.0,
-          "appearances" : 6
+          "passAccuracy" : 89.7,
+          "appearances" : 7
         }
       }, {
         "id" : "p_01BdFH",
@@ -43275,25 +43322,25 @@
         "name" : "Joseph Scally",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "assists" : 0.0,
-          "goals" : 2.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 6.0,
+          "assists" : 1.0,
+          "goals" : 3.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 7.0,
           "offsides" : 2.0,
-          "fouls" : 3.0,
-          "passes" : 139.0,
-          "keyPasses" : 1.0,
+          "fouls" : 6.0,
+          "passes" : 149.0,
+          "keyPasses" : 2.0,
           "dribblesAttempted" : 12.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 12.0,
+          "tackles" : 14.0,
           "interceptions" : 7.0,
-          "clearances" : 17.0,
-          "yellowCards" : 1.0,
+          "clearances" : 19.0,
+          "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "passAccuracy" : 78.4,
-          "appearances" : 6
+          "passAccuracy" : 79.2,
+          "appearances" : 7
         }
       }, {
         "id" : "p_449paG",
@@ -43762,7 +43809,7 @@
         "name" : "Kevin Stöger",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -43777,28 +43824,6 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 81.5,
-          "appearances" : 5
-        }
-      }, {
-        "id" : "p_1AGOyg",
-        "name" : "Kim Min-Jae",
-        "team" : "Bayern München",
-        "position" : null,
-        "appearances" : 6,
-        "values" : {
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 6.0,
-          "passes" : 232.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 4.0,
-          "interceptions" : 7.0,
-          "clearances" : 10.0,
-          "yellowCards" : 1.0,
-          "redCards" : 0.0,
-          "passAccuracy" : 94.0,
           "appearances" : 6
         }
       }, {
@@ -44045,24 +44070,24 @@
         "name" : "Leo Sauer",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 3.0,
-          "fouls" : 1.0,
-          "passes" : 29.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 2.0,
+          "shots" : 4.0,
+          "fouls" : 3.0,
+          "passes" : 54.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 0.0,
+          "tackles" : 1.0,
           "interceptions" : 0.0,
           "clearances" : 1.0,
-          "yellowCards" : 0.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 65.5,
-          "appearances" : 5
+          "passAccuracy" : 75.9,
+          "appearances" : 6
         }
       }, {
         "id" : "p_3nOX6f",
@@ -44093,7 +44118,7 @@
         "name" : "Leonidas Stergiou",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -44108,7 +44133,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 100.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_2jK9ip",
@@ -44209,6 +44234,28 @@
           "appearances" : 3
         }
       }, {
+        "id" : "p_2CXEsG",
+        "name" : "Lion Schweers",
+        "team" : "Borussia Mönchengladbach",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 1.0,
+          "passes" : 3.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 0.0,
+          "interceptions" : 0.0,
+          "clearances" : 3.0,
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "passAccuracy" : 66.7,
+          "appearances" : 1
+        }
+      }, {
         "id" : "p_0ALqFl",
         "name" : "Livan Burcu",
         "team" : "Union Berlin",
@@ -44261,22 +44308,24 @@
         "name" : "Lorenz Assignon",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 3.0,
+          "passes" : 40.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 0.0,
-          "interceptions" : 0.0,
-          "clearances" : 0.0,
-          "passAccuracy" : 66.7,
-          "appearances" : 2
+          "tackles" : 1.0,
+          "interceptions" : 2.0,
+          "clearances" : 1.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 2.0,
+          "passAccuracy" : 85.0,
+          "appearances" : 3
         }
       }, {
         "id" : "p_2piu7n",
@@ -44697,24 +44746,24 @@
         "name" : "Lukas Ullrich",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 2.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 8.0,
-          "fouls" : 10.0,
-          "passes" : 161.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 8.0,
+          "fouls" : 11.0,
+          "passes" : 180.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 9.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 10.0,
-          "interceptions" : 16.0,
-          "clearances" : 9.0,
-          "yellowCards" : 1.0,
+          "tackles" : 12.0,
+          "interceptions" : 19.0,
+          "clearances" : 12.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 72.7,
-          "appearances" : 6
+          "passAccuracy" : 70.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_442ZUZ",
@@ -45156,12 +45205,12 @@
         "name" : "Mathieu Nguefack",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 3.0,
-          "passes" : 63.0,
+          "passes" : 65.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 2.0,
@@ -45172,8 +45221,8 @@
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 84.1,
-          "appearances" : 6
+          "passAccuracy" : 84.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1LJpMc",
@@ -45464,24 +45513,24 @@
         "name" : "Maximilian Mittelstädt",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 1.0,
           "goals" : 1.0,
           "shotsOnTarget" : 1.0,
           "shots" : 5.0,
-          "fouls" : 4.0,
-          "passes" : 270.0,
-          "keyPasses" : 15.0,
-          "dribblesAttempted" : 10.0,
-          "dribblesCompleted" : 5.0,
+          "fouls" : 5.0,
+          "passes" : 359.0,
+          "keyPasses" : 16.0,
+          "dribblesAttempted" : 12.0,
+          "dribblesCompleted" : 7.0,
           "tackles" : 15.0,
-          "interceptions" : 16.0,
-          "clearances" : 24.0,
+          "interceptions" : 18.0,
+          "clearances" : 31.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 78.5,
-          "appearances" : 5
+          "passAccuracy" : 79.7,
+          "appearances" : 6
         }
       }, {
         "id" : "p_1xHD3m",
@@ -45750,6 +45799,28 @@
           "appearances" : 5
         }
       }, {
+        "id" : "p_1AGOyg",
+        "name" : "Min-Jae Kim",
+        "team" : "Bayern München",
+        "position" : null,
+        "appearances" : 6,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 6.0,
+          "passes" : 232.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 1.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 4.0,
+          "interceptions" : 7.0,
+          "clearances" : 10.0,
+          "yellowCards" : 1.0,
+          "redCards" : 0.0,
+          "passAccuracy" : 94.0,
+          "appearances" : 6
+        }
+      }, {
         "id" : "p_25B0u3",
         "name" : "Mio Backhaus",
         "team" : "Freiburg",
@@ -45823,11 +45894,11 @@
         "name" : "Moritz Nicolas",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 33.0,
-          "passes" : 190.0,
+          "saves" : 36.0,
+          "passes" : 224.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -45836,8 +45907,8 @@
           "clearances" : 2.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 77.4,
-          "appearances" : 6
+          "passAccuracy" : 72.3,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2KeMGg",
@@ -46934,24 +47005,24 @@
         "name" : "Philipp Sander",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 10.0,
-          "fouls" : 14.0,
-          "passes" : 308.0,
+          "fouls" : 15.0,
+          "passes" : 345.0,
           "keyPasses" : 4.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 15.0,
-          "interceptions" : 15.0,
-          "clearances" : 13.0,
+          "tackles" : 18.0,
+          "interceptions" : 18.0,
+          "clearances" : 19.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 82.8,
-          "appearances" : 6
+          "passAccuracy" : 81.2,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0UjCdw",
@@ -47105,22 +47176,24 @@
         "name" : "Ramon Hendriks",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 224.0,
+          "passes" : 328.0,
           "keyPasses" : 4.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 5.0,
-          "interceptions" : 3.0,
-          "clearances" : 20.0,
+          "interceptions" : 4.0,
+          "clearances" : 25.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 89.7,
-          "appearances" : 6
+          "shotsOnTarget" : 0.0,
+          "shots" : 1.0,
+          "passAccuracy" : 90.9,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4TFJE2",
@@ -47461,25 +47534,25 @@
         "name" : "Robin Hack",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 2.0,
-          "offsides" : 2.0,
-          "fouls" : 4.0,
-          "passes" : 71.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 6.0,
-          "dribblesCompleted" : 2.0,
+          "shots" : 3.0,
+          "offsides" : 3.0,
+          "fouls" : 6.0,
+          "passes" : 79.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 8.0,
+          "dribblesCompleted" : 3.0,
           "tackles" : 3.0,
-          "interceptions" : 5.0,
+          "interceptions" : 6.0,
           "clearances" : 2.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 66.2,
-          "appearances" : 6
+          "passAccuracy" : 64.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_14MrbH",
@@ -48043,24 +48116,25 @@
         "name" : "Shuto Machino",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 3.0,
           "redCards" : 0.0,
           "assists" : 0.0,
-          "goals" : 1.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 6.0,
+          "goals" : 2.0,
+          "shotsOnTarget" : 2.0,
+          "shots" : 9.0,
           "fouls" : 1.0,
-          "passes" : 27.0,
+          "passes" : 44.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 1.0,
-          "interceptions" : 1.0,
+          "interceptions" : 2.0,
           "clearances" : 3.0,
-          "passAccuracy" : 66.6,
-          "appearances" : 6
+          "offsides" : 1.0,
+          "passAccuracy" : 63.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3KgwDN",
@@ -48776,25 +48850,25 @@
         "name" : "Wael Mohya",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "goals" : 1.0,
-          "assists" : 0.0,
+          "goals" : 2.0,
+          "assists" : 1.0,
           "fouls" : 5.0,
-          "passes" : 82.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 15.0,
-          "dribblesCompleted" : 5.0,
+          "passes" : 93.0,
+          "keyPasses" : 6.0,
+          "dribblesAttempted" : 19.0,
+          "dribblesCompleted" : 8.0,
           "tackles" : 5.0,
-          "interceptions" : 6.0,
+          "interceptions" : 8.0,
           "clearances" : 4.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 3.0,
-          "shots" : 7.0,
+          "shotsOnTarget" : 5.0,
+          "shots" : 11.0,
           "offsides" : 1.0,
-          "passAccuracy" : 81.7,
-          "appearances" : 6
+          "passAccuracy" : 82.8,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0iPk01",
@@ -48921,7 +48995,7 @@
         "name" : "Yanik Spalt",
         "team" : "VfB Stuttgart",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -48936,7 +49010,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 95.8,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_4fTYls",
@@ -49086,11 +49160,22 @@
         "name" : "Yukhym Konoplya",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 2
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 0.0,
+          "passes" : 3.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 0.0,
+          "interceptions" : 0.0,
+          "clearances" : 2.0,
+          "passAccuracy" : 66.7,
+          "appearances" : 3
         }
       }, {
         "id" : "p_1xvuEB",
@@ -49170,25 +49255,25 @@
         "name" : "Zento Uno",
         "team" : "Borussia Mönchengladbach",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "fouls" : 3.0,
-          "passes" : 41.0,
-          "keyPasses" : 1.0,
+          "shots" : 2.0,
+          "fouls" : 6.0,
+          "passes" : 60.0,
+          "keyPasses" : 2.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 3.0,
           "interceptions" : 4.0,
           "clearances" : 3.0,
-          "yellowCards" : 1.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 78.0,
-          "appearances" : 2
+          "passAccuracy" : 73.3,
+          "appearances" : 3
         }
       }, {
         "id" : "p_09VNPh",
@@ -49297,12 +49382,12 @@
     },
     "法甲" : {
       "season" : "2026/2027",
-      "finishedMatches" : 63,
-      "teamStatsMatches" : 63,
-      "playerStatsMatches" : 63,
-      "advancedTeamMatches" : 63,
-      "advancedPlayerMatches" : 63,
-      "cardEventsMatches" : 63,
+      "finishedMatches" : 64,
+      "teamStatsMatches" : 64,
+      "playerStatsMatches" : 64,
+      "advancedTeamMatches" : 64,
+      "advancedPlayerMatches" : 64,
+      "cardEventsMatches" : 64,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_0ZkdUF",
@@ -49359,28 +49444,28 @@
       }, {
         "id" : "t_0EMLtg",
         "name" : "Brest",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 13.0,
-          "goalsAgainst" : 10.0,
+          "goals" : 14.0,
+          "goalsAgainst" : 12.0,
           "cleanSheets" : 0.0,
           "saves" : 21.0,
-          "fouls" : 100.0,
+          "fouls" : 114.0,
           "redCards" : 0.0,
-          "yellowCards" : 9.0,
-          "offsides" : 12.0,
-          "shotsOnTarget" : 41.0,
-          "shots" : 122.0,
-          "passes" : 2864.0,
-          "keyPasses" : 81.0,
-          "dribblesAttempted" : 117.0,
-          "dribblesCompleted" : 48.0,
-          "tackles" : 125.0,
-          "interceptions" : 134.0,
-          "clearances" : 174.0,
-          "passAccuracy" : 81.0,
-          "possession" : 46.0,
-          "shotsPerGame" : 17.4
+          "yellowCards" : 12.0,
+          "offsides" : 13.0,
+          "shotsOnTarget" : 48.0,
+          "shots" : 135.0,
+          "passes" : 3320.0,
+          "keyPasses" : 88.0,
+          "dribblesAttempted" : 131.0,
+          "dribblesCompleted" : 53.0,
+          "tackles" : 139.0,
+          "interceptions" : 145.0,
+          "clearances" : 192.0,
+          "passAccuracy" : 80.8,
+          "possession" : 46.6,
+          "shotsPerGame" : 16.9
         }
       }, {
         "id" : "t_4BCeSu",
@@ -49593,28 +49678,28 @@
       }, {
         "id" : "t_0QUJ2Y",
         "name" : "Nice",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 6.0,
-          "goalsAgainst" : 9.0,
+          "goals" : 8.0,
+          "goalsAgainst" : 10.0,
           "cleanSheets" : 1.0,
-          "saves" : 20.0,
-          "fouls" : 66.0,
+          "saves" : 26.0,
+          "fouls" : 81.0,
           "redCards" : 0.0,
-          "yellowCards" : 13.0,
-          "offsides" : 21.0,
-          "shotsOnTarget" : 26.0,
-          "shots" : 82.0,
-          "passes" : 3884.0,
-          "keyPasses" : 57.0,
-          "dribblesAttempted" : 111.0,
-          "dribblesCompleted" : 42.0,
-          "tackles" : 118.0,
-          "interceptions" : 113.0,
-          "clearances" : 157.0,
-          "passAccuracy" : 85.7,
-          "possession" : 54.5,
-          "shotsPerGame" : 11.7
+          "yellowCards" : 18.0,
+          "offsides" : 25.0,
+          "shotsOnTarget" : 28.0,
+          "shots" : 91.0,
+          "passes" : 4341.0,
+          "keyPasses" : 61.0,
+          "dribblesAttempted" : 125.0,
+          "dribblesCompleted" : 45.0,
+          "tackles" : 138.0,
+          "interceptions" : 127.0,
+          "clearances" : 185.0,
+          "passAccuracy" : 85.0,
+          "possession" : 53.9,
+          "shotsPerGame" : 11.4
         }
       }, {
         "id" : "t_0LMnwp",
@@ -50250,24 +50335,24 @@
         "name" : "Alidu Seidu",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 1.0,
-          "passes" : 26.0,
+          "fouls" : 2.0,
+          "passes" : 86.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 0.0,
-          "interceptions" : 1.0,
-          "clearances" : 0.0,
+          "tackles" : 2.0,
+          "interceptions" : 2.0,
+          "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "passAccuracy" : 92.3,
-          "appearances" : 3
+          "shots" : 2.0,
+          "passAccuracy" : 89.5,
+          "appearances" : 4
         }
       }, {
         "id" : "p_4VMYsQ",
@@ -50939,24 +51024,24 @@
         "name" : "Axel Witsel",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 2.0,
-          "passes" : 254.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 5.0,
+          "passes" : 292.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 6.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 3.0,
+          "tackles" : 4.0,
           "interceptions" : 13.0,
-          "clearances" : 5.0,
+          "clearances" : 7.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 7.0,
-          "passAccuracy" : 95.3,
-          "appearances" : 6
+          "passAccuracy" : 94.5,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4clbld",
@@ -51221,24 +51306,24 @@
         "name" : "Bradley Locko",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 6.0,
-          "passes" : 299.0,
+          "fouls" : 7.0,
+          "passes" : 348.0,
           "keyPasses" : 6.0,
-          "dribblesAttempted" : 10.0,
-          "dribblesCompleted" : 7.0,
-          "tackles" : 17.0,
-          "interceptions" : 14.0,
-          "clearances" : 21.0,
-          "yellowCards" : 2.0,
+          "dribblesAttempted" : 12.0,
+          "dribblesCompleted" : 8.0,
+          "tackles" : 18.0,
+          "interceptions" : 15.0,
+          "clearances" : 22.0,
+          "yellowCards" : 3.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "passAccuracy" : 79.3,
-          "appearances" : 7
+          "shots" : 3.0,
+          "passAccuracy" : 79.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_05ocxt",
@@ -51980,7 +52065,7 @@
         "name" : "Djelan Morana",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -51995,31 +52080,31 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 100.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_46rLKJ",
         "name" : "Djibril Coulibaly",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 10.0,
-          "passes" : 192.0,
+          "passes" : 200.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 7.0,
+          "dribblesAttempted" : 8.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 5.0,
-          "interceptions" : 8.0,
-          "clearances" : 7.0,
+          "tackles" : 6.0,
+          "interceptions" : 9.0,
+          "clearances" : 8.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 5.0,
-          "passAccuracy" : 89.6,
-          "appearances" : 7
+          "passAccuracy" : 88.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3dsmYY",
@@ -52074,7 +52159,7 @@
         "name" : "Djylian N'Guessan",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -52091,7 +52176,7 @@
           "interceptions" : 2.0,
           "clearances" : 0.0,
           "passAccuracy" : 100.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_43i3j0",
@@ -52216,21 +52301,21 @@
         "name" : "Egil Selvik",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "fouls" : 0.0,
           "saves" : 21.0,
-          "passes" : 193.0,
+          "passes" : 230.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
-          "clearances" : 7.0,
+          "clearances" : 9.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 76.2,
-          "appearances" : 7
+          "passAccuracy" : 75.2,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3Ffua9",
@@ -52307,25 +52392,25 @@
         "name" : "Elye Wahi",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "assists" : 0.0,
-          "goals" : 2.0,
-          "shotsOnTarget" : 5.0,
-          "shots" : 11.0,
-          "fouls" : 1.0,
-          "passes" : 79.0,
+          "assists" : 1.0,
+          "goals" : 3.0,
+          "shotsOnTarget" : 6.0,
+          "shots" : 12.0,
+          "fouls" : 2.0,
+          "passes" : 98.0,
           "keyPasses" : 5.0,
-          "dribblesAttempted" : 10.0,
+          "dribblesAttempted" : 12.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 1.0,
+          "tackles" : 3.0,
           "interceptions" : 2.0,
-          "clearances" : 1.0,
-          "yellowCards" : 2.0,
+          "clearances" : 2.0,
+          "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "offsides" : 10.0,
-          "passAccuracy" : 78.5,
-          "appearances" : 6
+          "offsides" : 13.0,
+          "passAccuracy" : 79.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_473sT3",
@@ -53016,14 +53101,14 @@
         "name" : "Gauthier Hein",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 6.0,
           "fouls" : 3.0,
-          "passes" : 362.0,
+          "passes" : 395.0,
           "keyPasses" : 9.0,
           "dribblesAttempted" : 14.0,
           "dribblesCompleted" : 6.0,
@@ -53033,32 +53118,32 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 88.4,
-          "appearances" : 7
+          "passAccuracy" : 88.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3Sur8L",
         "name" : "Gautier Lloris",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "assists" : 1.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 5.0,
-          "fouls" : 1.0,
-          "passes" : 252.0,
+          "shotsOnTarget" : 2.0,
+          "shots" : 6.0,
+          "fouls" : 3.0,
+          "passes" : 310.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 5.0,
-          "interceptions" : 10.0,
-          "clearances" : 24.0,
-          "passAccuracy" : 90.9,
-          "appearances" : 7
+          "tackles" : 6.0,
+          "interceptions" : 11.0,
+          "clearances" : 28.0,
+          "passAccuracy" : 89.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2nA59j",
@@ -53380,24 +53465,25 @@
         "name" : "Hamza Koutoune",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "fouls" : 3.0,
-          "passes" : 4.0,
+          "fouls" : 5.0,
+          "passes" : 14.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 1.0,
+          "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 0.0,
-          "interceptions" : 0.0,
-          "clearances" : 0.0,
-          "yellowCards" : 0.0,
+          "tackles" : 1.0,
+          "interceptions" : 1.0,
+          "clearances" : 2.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 75.0,
-          "appearances" : 5
+          "offsides" : 1.0,
+          "passAccuracy" : 71.4,
+          "appearances" : 6
         }
       }, {
         "id" : "p_03snH5",
@@ -53497,24 +53583,24 @@
         "name" : "Hicham Boudaoui",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 4.0,
-          "passes" : 80.0,
+          "fouls" : 6.0,
+          "passes" : 103.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 3.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 6.0,
-          "interceptions" : 3.0,
-          "clearances" : 2.0,
+          "dribblesAttempted" : 7.0,
+          "dribblesCompleted" : 4.0,
+          "tackles" : 8.0,
+          "interceptions" : 6.0,
+          "clearances" : 4.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 87.5,
-          "appearances" : 4
+          "passAccuracy" : 90.3,
+          "appearances" : 5
         }
       }, {
         "id" : "p_0M05q3",
@@ -53557,24 +53643,24 @@
         "name" : "Hugo Magnetti",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 2.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 4.0,
+          "shotsOnTarget" : 2.0,
+          "shots" : 6.0,
           "fouls" : 7.0,
-          "passes" : 221.0,
-          "keyPasses" : 6.0,
-          "dribblesAttempted" : 5.0,
-          "dribblesCompleted" : 3.0,
-          "tackles" : 19.0,
-          "interceptions" : 14.0,
+          "passes" : 267.0,
+          "keyPasses" : 8.0,
+          "dribblesAttempted" : 6.0,
+          "dribblesCompleted" : 4.0,
+          "tackles" : 22.0,
+          "interceptions" : 15.0,
           "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.5,
-          "appearances" : 6
+          "passAccuracy" : 89.9,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1TFUtI",
@@ -53631,7 +53717,7 @@
         "name" : "Ibrahim Kanté",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -53639,16 +53725,16 @@
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 3.0,
-          "fouls" : 1.0,
-          "passes" : 12.0,
+          "fouls" : 2.0,
+          "passes" : 15.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 1.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
-          "passAccuracy" : 91.7,
-          "appearances" : 4
+          "passAccuracy" : 93.3,
+          "appearances" : 5
         }
       }, {
         "id" : "p_3Dkppq",
@@ -53850,24 +53936,24 @@
         "name" : "Isak Jansson",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "yellowCards" : 0.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 0.0,
-          "passes" : 11.0,
+          "fouls" : 1.0,
+          "passes" : 13.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 1.0,
-          "interceptions" : 0.0,
+          "interceptions" : 1.0,
           "clearances" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 2.0,
-          "passAccuracy" : 54.5,
-          "appearances" : 7
+          "passAccuracy" : 53.8,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2LUQfK",
@@ -54269,24 +54355,24 @@
         "name" : "Jonathan Clauss",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 1.0,
           "shotsOnTarget" : 6.0,
-          "shots" : 16.0,
+          "shots" : 17.0,
           "fouls" : 2.0,
-          "passes" : 348.0,
+          "passes" : 382.0,
           "keyPasses" : 14.0,
           "dribblesAttempted" : 11.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 11.0,
-          "interceptions" : 5.0,
+          "tackles" : 12.0,
+          "interceptions" : 6.0,
           "clearances" : 11.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 74.2,
-          "appearances" : 7
+          "passAccuracy" : 74.4,
+          "appearances" : 8
         }
       }, {
         "id" : "p_02vhJT",
@@ -54385,39 +54471,39 @@
         "name" : "Joris Chotard",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 2.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 8.0,
-          "fouls" : 6.0,
-          "passes" : 323.0,
-          "keyPasses" : 16.0,
+          "fouls" : 8.0,
+          "passes" : 368.0,
+          "keyPasses" : 18.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 9.0,
-          "interceptions" : 15.0,
+          "tackles" : 11.0,
+          "interceptions" : 18.0,
           "clearances" : 17.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 80.2,
-          "appearances" : 7
+          "passAccuracy" : 79.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2a2R9b",
         "name" : "Joseph Boende",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 4.0,
-          "passes" : 76.0,
+          "fouls" : 5.0,
+          "passes" : 86.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 6.0,
-          "dribblesCompleted" : 1.0,
+          "dribblesAttempted" : 7.0,
+          "dribblesCompleted" : 2.0,
           "tackles" : 5.0,
           "interceptions" : 6.0,
           "clearances" : 2.0,
@@ -54425,8 +54511,8 @@
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
-          "passAccuracy" : 77.6,
-          "appearances" : 7
+          "passAccuracy" : 77.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4PAT23",
@@ -54637,7 +54723,7 @@
         "name" : "Justin Bourgault",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -54651,7 +54737,7 @@
           "tackles" : 0.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_0eArw5",
@@ -54708,25 +54794,25 @@
         "name" : "Kamory Doumbia",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 4.0,
           "shotsOnTarget" : 6.0,
-          "shots" : 14.0,
-          "fouls" : 8.0,
-          "passes" : 204.0,
+          "shots" : 15.0,
+          "fouls" : 9.0,
+          "passes" : 232.0,
           "keyPasses" : 6.0,
-          "dribblesAttempted" : 14.0,
+          "dribblesAttempted" : 15.0,
           "dribblesCompleted" : 7.0,
           "tackles" : 10.0,
           "interceptions" : 13.0,
           "clearances" : 1.0,
-          "yellowCards" : 3.0,
+          "yellowCards" : 4.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 85.3,
-          "appearances" : 7
+          "passAccuracy" : 84.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3rUrCY",
@@ -54853,24 +54939,24 @@
         "name" : "Kenny Lala",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 3.0,
-          "passes" : 273.0,
-          "keyPasses" : 8.0,
-          "dribblesAttempted" : 5.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 8.0,
-          "interceptions" : 10.0,
-          "clearances" : 22.0,
+          "passes" : 317.0,
+          "keyPasses" : 9.0,
+          "dribblesAttempted" : 6.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 9.0,
+          "interceptions" : 11.0,
+          "clearances" : 26.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 6.0,
-          "passAccuracy" : 74.7,
-          "appearances" : 7
+          "shotsOnTarget" : 3.0,
+          "shots" : 8.0,
+          "passAccuracy" : 74.4,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0FHJT7",
@@ -55552,31 +55638,31 @@
         "name" : "Lucas Tousart",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 4.0,
-          "shots" : 5.0,
+          "shotsOnTarget" : 5.0,
+          "shots" : 6.0,
           "fouls" : 3.0,
-          "passes" : 153.0,
+          "passes" : 213.0,
           "keyPasses" : 4.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 4.0,
-          "interceptions" : 7.0,
-          "clearances" : 28.0,
+          "dribblesAttempted" : 2.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 5.0,
+          "interceptions" : 9.0,
+          "clearances" : 32.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 84.3,
-          "appearances" : 7
+          "passAccuracy" : 83.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_30nYUf",
         "name" : "Luck Zogbé",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -55593,32 +55679,32 @@
           "interceptions" : 4.0,
           "clearances" : 3.0,
           "passAccuracy" : 74.2,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_3qrtYN",
         "name" : "Ludovic Ajorque",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
-          "goals" : 2.0,
-          "shotsOnTarget" : 6.0,
-          "shots" : 18.0,
+          "goals" : 3.0,
+          "shotsOnTarget" : 7.0,
+          "shots" : 19.0,
           "offsides" : 5.0,
-          "fouls" : 19.0,
-          "passes" : 178.0,
+          "fouls" : 21.0,
+          "passes" : 203.0,
           "keyPasses" : 10.0,
           "dribblesAttempted" : 7.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 3.0,
+          "tackles" : 7.0,
           "interceptions" : 0.0,
-          "clearances" : 7.0,
-          "yellowCards" : 2.0,
+          "clearances" : 9.0,
+          "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "passAccuracy" : 75.3,
-          "appearances" : 7
+          "passAccuracy" : 75.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_36o8YN",
@@ -55837,24 +55923,25 @@
         "name" : "Mama Baldé",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 1.0,
           "goals" : 2.0,
           "shotsOnTarget" : 3.0,
           "shots" : 10.0,
-          "fouls" : 4.0,
-          "passes" : 72.0,
-          "keyPasses" : 3.0,
-          "dribblesAttempted" : 17.0,
+          "fouls" : 6.0,
+          "passes" : 90.0,
+          "keyPasses" : 4.0,
+          "dribblesAttempted" : 18.0,
           "dribblesCompleted" : 5.0,
           "tackles" : 5.0,
-          "interceptions" : 3.0,
-          "clearances" : 0.0,
+          "interceptions" : 4.0,
+          "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 63.9,
-          "appearances" : 6
+          "offsides" : 1.0,
+          "passAccuracy" : 64.4,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0FcLpM",
@@ -55953,24 +56040,24 @@
         "name" : "Mamady Diambou",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 6.0,
           "fouls" : 4.0,
-          "passes" : 66.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 0.0,
+          "passes" : 74.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 8.0,
           "interceptions" : 1.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.9,
-          "appearances" : 4
+          "passAccuracy" : 91.9,
+          "appearances" : 5
         }
       }, {
         "id" : "p_3LcK7m",
@@ -56092,11 +56179,11 @@
         "name" : "Mathieu Patouillet",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_0aawjW",
@@ -56114,12 +56201,12 @@
         "name" : "Mathis Laine",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 2.0,
+          "passes" : 5.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 3.0,
@@ -56128,8 +56215,8 @@
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 100.0,
-          "appearances" : 5
+          "passAccuracy" : 80.0,
+          "appearances" : 6
         }
       }, {
         "id" : "p_1QuHWA",
@@ -56631,49 +56718,49 @@
         "name" : "Mohamed Abdelmonem",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 3.0,
-          "passes" : 400.0,
+          "fouls" : 4.0,
+          "passes" : 457.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 20.0,
-          "interceptions" : 12.0,
-          "clearances" : 27.0,
+          "tackles" : 21.0,
+          "interceptions" : 14.0,
+          "clearances" : 36.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
-          "passAccuracy" : 92.0,
-          "appearances" : 7
+          "passAccuracy" : 91.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3c51wq",
         "name" : "Mohamed Amoura",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 1.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 8.0,
-          "fouls" : 7.0,
-          "passes" : 115.0,
-          "keyPasses" : 4.0,
+          "shots" : 12.0,
+          "fouls" : 9.0,
+          "passes" : 140.0,
+          "keyPasses" : 6.0,
           "dribblesAttempted" : 13.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 9.0,
+          "tackles" : 10.0,
           "interceptions" : 3.0,
-          "clearances" : 2.0,
+          "clearances" : 4.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 3.0,
-          "passAccuracy" : 79.2,
-          "appearances" : 5
+          "passAccuracy" : 75.0,
+          "appearances" : 6
         }
       }, {
         "id" : "p_47UBJM",
@@ -56773,7 +56860,7 @@
         "name" : "Morgan Sanson",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -56788,7 +56875,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 50.0,
-          "appearances" : 1
+          "appearances" : 2
         }
       }, {
         "id" : "p_2031fY",
@@ -56965,7 +57052,7 @@
         "name" : "Nathan N'Goumou",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -56983,7 +57070,7 @@
           "redCards" : 0.0,
           "offsides" : 3.0,
           "passAccuracy" : 75.0,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_1UiUYB",
@@ -57183,25 +57270,25 @@
         "name" : "Niels Nkounkou",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 8.0,
-          "passes" : 156.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 18.0,
-          "dribblesCompleted" : 4.0,
-          "tackles" : 14.0,
-          "interceptions" : 14.0,
-          "clearances" : 13.0,
-          "yellowCards" : 1.0,
+          "fouls" : 10.0,
+          "passes" : 197.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 22.0,
+          "dribblesCompleted" : 5.0,
+          "tackles" : 17.0,
+          "interceptions" : 17.0,
+          "clearances" : 14.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 3.0,
           "offsides" : 1.0,
-          "passAccuracy" : 67.3,
-          "appearances" : 5
+          "passAccuracy" : 66.5,
+          "appearances" : 6
         }
       }, {
         "id" : "p_3Wi1Dp",
@@ -57327,24 +57414,24 @@
         "name" : "Noah Edjouma",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 3.0,
+          "shots" : 4.0,
           "fouls" : 0.0,
-          "passes" : 11.0,
+          "passes" : 17.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 2.0,
+          "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
-          "passAccuracy" : 54.5,
-          "appearances" : 3
+          "passAccuracy" : 64.7,
+          "appearances" : 4
         }
       }, {
         "id" : "p_1GVseZ",
@@ -57895,25 +57982,25 @@
         "name" : "Pathé Mboup",
         "team" : "Brest",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 2.0,
-          "shotsOnTarget" : 11.0,
-          "shots" : 21.0,
-          "fouls" : 22.0,
-          "passes" : 145.0,
+          "shotsOnTarget" : 12.0,
+          "shots" : 23.0,
+          "fouls" : 24.0,
+          "passes" : 161.0,
           "keyPasses" : 7.0,
-          "dribblesAttempted" : 23.0,
+          "dribblesAttempted" : 26.0,
           "dribblesCompleted" : 8.0,
-          "tackles" : 13.0,
-          "interceptions" : 17.0,
+          "tackles" : 14.0,
+          "interceptions" : 18.0,
           "clearances" : 1.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "offsides" : 4.0,
-          "passAccuracy" : 77.9,
-          "appearances" : 7
+          "passAccuracy" : 78.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0yCHLj",
@@ -59062,24 +59149,24 @@
         "name" : "Sofiane Diop",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 2.0,
-          "goals" : 0.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 2.0,
-          "fouls" : 2.0,
-          "passes" : 143.0,
+          "goals" : 1.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 4.0,
+          "fouls" : 4.0,
+          "passes" : 153.0,
           "keyPasses" : 9.0,
           "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 6.0,
-          "tackles" : 5.0,
+          "tackles" : 8.0,
           "interceptions" : 5.0,
           "clearances" : 1.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 77.6,
-          "appearances" : 7
+          "passAccuracy" : 76.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3fzDMR",
@@ -59369,11 +59456,11 @@
         "name" : "Teddy Boulhendi",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_2tNnvQ",
@@ -59985,7 +60072,7 @@
         "name" : "Xavier Mandza",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -60002,7 +60089,7 @@
           "shotsOnTarget" : 1.0,
           "shots" : 5.0,
           "passAccuracy" : 87.1,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_1EHTTy",
@@ -60219,25 +60306,25 @@
         "name" : "Youssouf Ndayishimiye",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 4.0,
-          "passes" : 581.0,
+          "fouls" : 5.0,
+          "passes" : 639.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 7.0,
-          "interceptions" : 13.0,
-          "clearances" : 41.0,
+          "tackles" : 9.0,
+          "interceptions" : 14.0,
+          "clearances" : 45.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "offsides" : 1.0,
-          "passAccuracy" : 91.9,
-          "appearances" : 7
+          "passAccuracy" : 91.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0pb6zT",
@@ -60289,21 +60376,21 @@
         "name" : "Yéhvann Diouf",
         "team" : "Nice",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "fouls" : 1.0,
-          "saves" : 20.0,
-          "passes" : 290.0,
+          "saves" : 26.0,
+          "passes" : 329.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 0.0,
+          "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
-          "clearances" : 5.0,
-          "yellowCards" : 0.0,
+          "clearances" : 6.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 81.4,
-          "appearances" : 7
+          "passAccuracy" : 80.2,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4SXEB4",
@@ -60368,6 +60455,17 @@
         "id" : "p_0M4QVk",
         "name" : "p_0M4QVk",
         "team" : "Paris Saint-Germain",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "yellowCards" : 1.0,
+          "redCards" : 0.0,
+          "appearances" : 1
+        }
+      }, {
+        "id" : "p_2kGH0n",
+        "name" : "p_2kGH0n",
+        "team" : "Nice",
         "position" : null,
         "appearances" : 1,
         "values" : {
@@ -67819,6 +67917,28 @@
           "appearances" : 3
         }
       }, {
+        "id" : "p_4LVF8h",
+        "name" : "Han-Beom Lee",
+        "team" : "Club Brugge",
+        "position" : null,
+        "appearances" : 3,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 4.0,
+          "passes" : 114.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 1.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 2.0,
+          "interceptions" : 5.0,
+          "clearances" : 8.0,
+          "yellowCards" : 1.0,
+          "redCards" : 0.0,
+          "passAccuracy" : 92.1,
+          "appearances" : 3
+        }
+      }, {
         "id" : "p_1uTUbZ",
         "name" : "Hans Vanaken",
         "team" : "Club Brugge",
@@ -70827,28 +70947,6 @@
           "appearances" : 3
         }
       }, {
-        "id" : "p_1AGOyg",
-        "name" : "Kim Min-Jae",
-        "team" : "Bayern München",
-        "position" : null,
-        "appearances" : 3,
-        "values" : {
-          "yellowCards" : 0.0,
-          "redCards" : 0.0,
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 1.0,
-          "passes" : 89.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 2.0,
-          "interceptions" : 3.0,
-          "clearances" : 3.0,
-          "passAccuracy" : 85.4,
-          "appearances" : 3
-        }
-      }, {
         "id" : "p_0yp4F7",
         "name" : "Kiril Fesyun",
         "team" : "Shakhtar Donetsk",
@@ -71308,28 +71406,6 @@
           "redCards" : 0.0,
           "offsides" : 1.0,
           "passAccuracy" : 84.3,
-          "appearances" : 3
-        }
-      }, {
-        "id" : "p_4LVF8h",
-        "name" : "Lee Han-Beom",
-        "team" : "Club Brugge",
-        "position" : null,
-        "appearances" : 3,
-        "values" : {
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 4.0,
-          "passes" : 114.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 2.0,
-          "interceptions" : 5.0,
-          "clearances" : 8.0,
-          "yellowCards" : 1.0,
-          "redCards" : 0.0,
-          "passAccuracy" : 92.1,
           "appearances" : 3
         }
       }, {
@@ -74111,6 +74187,28 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 86.5,
+          "appearances" : 3
+        }
+      }, {
+        "id" : "p_1AGOyg",
+        "name" : "Min-Jae Kim",
+        "team" : "Bayern München",
+        "position" : null,
+        "appearances" : 3,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 1.0,
+          "passes" : 89.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 2.0,
+          "interceptions" : 3.0,
+          "clearances" : 3.0,
+          "passAccuracy" : 85.4,
           "appearances" : 3
         }
       }, {
@@ -80531,6 +80629,6 @@
       } ]
     }
   },
-  "requestCount" : 2007,
-  "updatedAt" : "2026-10-23T14:48:37.811080429Z"
+  "requestCount" : 2032,
+  "updatedAt" : "2026-10-24T00:32:24.313343561Z"
 }
