@@ -5,12 +5,12 @@
   "leagues" : {
     "英超" : {
       "season" : "2026/2027",
-      "finishedMatches" : 71,
-      "teamStatsMatches" : 71,
-      "playerStatsMatches" : 71,
-      "advancedTeamMatches" : 71,
-      "advancedPlayerMatches" : 71,
-      "cardEventsMatches" : 71,
+      "finishedMatches" : 72,
+      "teamStatsMatches" : 72,
+      "playerStatsMatches" : 72,
+      "advancedTeamMatches" : 72,
+      "advancedPlayerMatches" : 72,
+      "cardEventsMatches" : 72,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_1iaglr",
@@ -67,28 +67,28 @@
       }, {
         "id" : "t_4RqKpo",
         "name" : "Aston Villa",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 7.0,
-          "goalsAgainst" : 11.0,
+          "goals" : 9.0,
+          "goalsAgainst" : 12.0,
           "cleanSheets" : 2.0,
-          "saves" : 22.0,
-          "fouls" : 73.0,
+          "saves" : 28.0,
+          "fouls" : 94.0,
           "redCards" : 1.0,
-          "yellowCards" : 14.0,
-          "offsides" : 7.0,
-          "shotsOnTarget" : 22.0,
-          "shots" : 83.0,
-          "passes" : 2732.0,
-          "keyPasses" : 59.0,
-          "dribblesAttempted" : 110.0,
-          "dribblesCompleted" : 45.0,
-          "tackles" : 121.0,
-          "interceptions" : 111.0,
-          "clearances" : 188.0,
-          "passAccuracy" : 83.2,
-          "possession" : 47.3,
-          "shotsPerGame" : 11.9
+          "yellowCards" : 18.0,
+          "offsides" : 8.0,
+          "shotsOnTarget" : 24.0,
+          "shots" : 91.0,
+          "passes" : 3020.0,
+          "keyPasses" : 66.0,
+          "dribblesAttempted" : 122.0,
+          "dribblesCompleted" : 48.0,
+          "tackles" : 152.0,
+          "interceptions" : 127.0,
+          "clearances" : 210.0,
+          "passAccuracy" : 83.0,
+          "possession" : 46.1,
+          "shotsPerGame" : 11.4
         }
       }, {
         "id" : "t_2ihyjC",
@@ -379,27 +379,27 @@
       }, {
         "id" : "t_0UCNPX",
         "name" : "Manchester City",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 19.0,
-          "goalsAgainst" : 7.0,
+          "goals" : 20.0,
+          "goalsAgainst" : 9.0,
           "cleanSheets" : 3.0,
           "saves" : 21.0,
-          "fouls" : 74.0,
+          "fouls" : 91.0,
           "redCards" : 1.0,
-          "yellowCards" : 9.0,
-          "offsides" : 12.0,
-          "shotsOnTarget" : 37.0,
-          "shots" : 102.0,
-          "passes" : 4334.0,
-          "keyPasses" : 74.0,
-          "dribblesAttempted" : 136.0,
-          "dribblesCompleted" : 65.0,
-          "tackles" : 87.0,
-          "interceptions" : 83.0,
-          "clearances" : 130.0,
+          "yellowCards" : 13.0,
+          "offsides" : 14.0,
+          "shotsOnTarget" : 44.0,
+          "shots" : 117.0,
+          "passes" : 4854.0,
+          "keyPasses" : 87.0,
+          "dribblesAttempted" : 176.0,
+          "dribblesCompleted" : 82.0,
+          "tackles" : 100.0,
+          "interceptions" : 96.0,
+          "clearances" : 145.0,
           "passAccuracy" : 88.3,
-          "possession" : 64.2,
+          "possession" : 64.0,
           "shotsPerGame" : 14.6
         }
       }, {
@@ -609,22 +609,24 @@
         "name" : "Abdukodir Khusanov",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 2.0,
-          "passes" : 262.0,
+          "fouls" : 6.0,
+          "passes" : 330.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 2.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 7.0,
-          "interceptions" : 7.0,
-          "clearances" : 4.0,
+          "dribblesAttempted" : 3.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 15.0,
+          "interceptions" : 9.0,
+          "clearances" : 9.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 95.1,
-          "appearances" : 7
+          "shotsOnTarget" : 1.0,
+          "shots" : 1.0,
+          "passAccuracy" : 93.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1xlH9a",
@@ -982,24 +984,24 @@
         "name" : "Alysson Edward",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
-          "fouls" : 3.0,
-          "passes" : 49.0,
+          "fouls" : 7.0,
+          "passes" : 56.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 9.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 4.0,
-          "interceptions" : 6.0,
+          "dribblesAttempted" : 11.0,
+          "dribblesCompleted" : 3.0,
+          "tackles" : 7.0,
+          "interceptions" : 7.0,
           "clearances" : 2.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 1.0,
-          "passAccuracy" : 79.6,
-          "appearances" : 6
+          "shots" : 3.0,
+          "passAccuracy" : 78.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_220Dot",
@@ -1447,7 +1449,7 @@
         "name" : "Ayyoub Bouaddi",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -1464,7 +1466,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "passAccuracy" : 93.8,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3hJO23",
@@ -1796,24 +1798,24 @@
         "name" : "Boubacar Kamara",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
-          "fouls" : 13.0,
-          "passes" : 315.0,
+          "fouls" : 18.0,
+          "passes" : 344.0,
           "keyPasses" : 4.0,
           "dribblesAttempted" : 8.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 15.0,
-          "interceptions" : 11.0,
-          "clearances" : 15.0,
+          "tackles" : 21.0,
+          "interceptions" : 13.0,
+          "clearances" : 19.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 87.9,
-          "appearances" : 7
+          "passAccuracy" : 88.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_44PYcV",
@@ -1966,11 +1968,22 @@
         "name" : "Brian Madjo",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
-          "yellowCards" : 0.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "appearances" : 1
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 1.0,
+          "passes" : 2.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 2.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 0.0,
+          "interceptions" : 0.0,
+          "clearances" : 0.0,
+          "passAccuracy" : 50.0,
+          "appearances" : 2
         }
       }, {
         "id" : "p_1lPV7t",
@@ -3522,24 +3535,24 @@
         "name" : "Elliot Anderson",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
-          "fouls" : 7.0,
-          "passes" : 510.0,
-          "keyPasses" : 5.0,
-          "dribblesAttempted" : 10.0,
-          "dribblesCompleted" : 6.0,
-          "tackles" : 14.0,
-          "interceptions" : 14.0,
-          "clearances" : 10.0,
-          "yellowCards" : 1.0,
+          "fouls" : 9.0,
+          "passes" : 583.0,
+          "keyPasses" : 8.0,
+          "dribblesAttempted" : 12.0,
+          "dribblesCompleted" : 8.0,
+          "tackles" : 15.0,
+          "interceptions" : 15.0,
+          "clearances" : 11.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 6.0,
-          "passAccuracy" : 88.6,
-          "appearances" : 7
+          "passAccuracy" : 89.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2uu1nI",
@@ -3643,25 +3656,25 @@
         "name" : "Emiliano Buendía",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 2.0,
           "shots" : 14.0,
           "offsides" : 1.0,
-          "fouls" : 5.0,
-          "passes" : 201.0,
+          "fouls" : 6.0,
+          "passes" : 206.0,
           "keyPasses" : 8.0,
           "dribblesAttempted" : 8.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 18.0,
-          "interceptions" : 15.0,
+          "tackles" : 21.0,
+          "interceptions" : 16.0,
           "clearances" : 1.0,
-          "yellowCards" : 1.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 72.2,
-          "appearances" : 7
+          "passAccuracy" : 72.8,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2o1R3c",
@@ -3689,25 +3702,25 @@
         "name" : "Enzo Fernández",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 6.0,
-          "passes" : 276.0,
-          "keyPasses" : 7.0,
-          "dribblesAttempted" : 4.0,
+          "passes" : 348.0,
+          "keyPasses" : 9.0,
+          "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 4.0,
-          "interceptions" : 11.0,
+          "interceptions" : 12.0,
           "clearances" : 4.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 4.0,
-          "shots" : 8.0,
+          "shots" : 9.0,
           "offsides" : 3.0,
-          "passAccuracy" : 84.8,
-          "appearances" : 6
+          "passAccuracy" : 87.3,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1OVq56",
@@ -3764,25 +3777,25 @@
         "name" : "Erling Haaland",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
-          "goals" : 8.0,
-          "shotsOnTarget" : 13.0,
-          "shots" : 27.0,
+          "goals" : 9.0,
+          "shotsOnTarget" : 15.0,
+          "shots" : 30.0,
           "fouls" : 6.0,
-          "passes" : 90.0,
+          "passes" : 97.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 10.0,
+          "dribblesAttempted" : 11.0,
           "dribblesCompleted" : 5.0,
           "tackles" : 1.0,
           "interceptions" : 4.0,
-          "clearances" : 10.0,
+          "clearances" : 11.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 66.7,
-          "appearances" : 7
+          "passAccuracy" : 66.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0noAr9",
@@ -4196,7 +4209,7 @@
         "name" : "George Hemmings",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -4214,7 +4227,7 @@
           "shots" : 1.0,
           "offsides" : 1.0,
           "passAccuracy" : 72.9,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_3LWwfh",
@@ -4271,22 +4284,22 @@
         "name" : "Gerónimo Rulli",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_1aixH1",
         "name" : "Gianluigi Donnarumma",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "fouls" : 0.0,
           "saves" : 21.0,
-          "passes" : 188.0,
+          "passes" : 201.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -4295,8 +4308,8 @@
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 77.1,
-          "appearances" : 7
+          "passAccuracy" : 78.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1W0AHh",
@@ -4643,48 +4656,48 @@
         "name" : "Ian Maatsen",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 5.0,
-          "fouls" : 5.0,
-          "passes" : 102.0,
+          "shots" : 7.0,
+          "fouls" : 7.0,
+          "passes" : 127.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 7.0,
-          "interceptions" : 8.0,
+          "tackles" : 11.0,
+          "interceptions" : 10.0,
           "clearances" : 9.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 82.4,
-          "appearances" : 4
+          "passAccuracy" : 81.1,
+          "appearances" : 5
         }
       }, {
         "id" : "p_3xRkyt",
         "name" : "Ibrahim Mbaye",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 5.0,
           "fouls" : 2.0,
-          "passes" : 28.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 6.0,
+          "passes" : 32.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 7.0,
           "dribblesCompleted" : 3.0,
           "tackles" : 1.0,
-          "interceptions" : 2.0,
-          "clearances" : 1.0,
-          "passAccuracy" : 92.9,
-          "appearances" : 5
+          "interceptions" : 3.0,
+          "clearances" : 2.0,
+          "passAccuracy" : 87.5,
+          "appearances" : 6
         }
       }, {
         "id" : "p_3DSn7S",
@@ -4800,24 +4813,25 @@
         "name" : "Iliman Ndiaye",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "assists" : 2.0,
+          "assists" : 3.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 3.0,
-          "shots" : 11.0,
+          "shotsOnTarget" : 4.0,
+          "shots" : 13.0,
           "fouls" : 6.0,
-          "passes" : 233.0,
-          "keyPasses" : 7.0,
-          "dribblesAttempted" : 28.0,
-          "dribblesCompleted" : 9.0,
+          "passes" : 265.0,
+          "keyPasses" : 8.0,
+          "dribblesAttempted" : 32.0,
+          "dribblesCompleted" : 10.0,
           "tackles" : 12.0,
           "interceptions" : 9.0,
           "clearances" : 6.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 82.8,
-          "appearances" : 7
+          "offsides" : 1.0,
+          "passAccuracy" : 82.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0mDmHR",
@@ -5818,24 +5832,24 @@
         "name" : "Johan Manzambi",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "goals" : 2.0,
           "assists" : 2.0,
           "fouls" : 0.0,
-          "passes" : 74.0,
+          "passes" : 81.0,
           "keyPasses" : 7.0,
-          "dribblesAttempted" : 11.0,
+          "dribblesAttempted" : 13.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 2.0,
-          "interceptions" : 3.0,
-          "clearances" : 1.0,
-          "yellowCards" : 0.0,
+          "tackles" : 5.0,
+          "interceptions" : 4.0,
+          "clearances" : 4.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 4.0,
-          "shots" : 14.0,
-          "passAccuracy" : 83.8,
-          "appearances" : 4
+          "shots" : 15.0,
+          "passAccuracy" : 83.9,
+          "appearances" : 5
         }
       }, {
         "id" : "p_3jfbcw",
@@ -5867,24 +5881,24 @@
         "name" : "John McGinn",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "assists" : 2.0,
+          "assists" : 3.0,
           "goals" : 1.0,
           "shotsOnTarget" : 3.0,
           "shots" : 7.0,
           "fouls" : 8.0,
-          "passes" : 166.0,
-          "keyPasses" : 9.0,
-          "dribblesAttempted" : 11.0,
+          "passes" : 177.0,
+          "keyPasses" : 13.0,
+          "dribblesAttempted" : 12.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 10.0,
-          "interceptions" : 7.0,
-          "clearances" : 4.0,
+          "tackles" : 11.0,
+          "interceptions" : 9.0,
+          "clearances" : 6.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 71.1,
-          "appearances" : 7
+          "passAccuracy" : 70.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2HgkA1",
@@ -6123,22 +6137,22 @@
         "name" : "João Gomes",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
-          "fouls" : 5.0,
-          "passes" : 102.0,
-          "keyPasses" : 3.0,
+          "fouls" : 6.0,
+          "passes" : 127.0,
+          "keyPasses" : 4.0,
           "dribblesAttempted" : 6.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 12.0,
-          "interceptions" : 9.0,
-          "clearances" : 5.0,
+          "tackles" : 13.0,
+          "interceptions" : 12.0,
+          "clearances" : 6.0,
           "yellowCards" : 2.0,
           "redCards" : 1.0,
-          "passAccuracy" : 90.2,
-          "appearances" : 4
+          "passAccuracy" : 90.6,
+          "appearances" : 5
         }
       }, {
         "id" : "p_48SKOM",
@@ -6169,24 +6183,24 @@
         "name" : "Joško Gvardiol",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 3.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 4.0,
-          "fouls" : 4.0,
-          "passes" : 253.0,
-          "keyPasses" : 4.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 7.0,
+          "fouls" : 6.0,
+          "passes" : 293.0,
+          "keyPasses" : 6.0,
           "dribblesAttempted" : 7.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 11.0,
-          "interceptions" : 8.0,
-          "clearances" : 12.0,
+          "tackles" : 14.0,
+          "interceptions" : 12.0,
+          "clearances" : 14.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 83.8,
-          "appearances" : 7
+          "passAccuracy" : 84.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0w0r86",
@@ -6364,24 +6378,24 @@
         "name" : "Jérémy Doku",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "assists" : 1.0,
           "goals" : 1.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 4.0,
+          "shots" : 7.0,
           "fouls" : 2.0,
-          "passes" : 77.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 10.0,
-          "dribblesCompleted" : 4.0,
+          "passes" : 116.0,
+          "keyPasses" : 6.0,
+          "dribblesAttempted" : 29.0,
+          "dribblesCompleted" : 12.0,
           "tackles" : 1.0,
           "interceptions" : 0.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 83.1,
-          "appearances" : 3
+          "passAccuracy" : 79.3,
+          "appearances" : 4
         }
       }, {
         "id" : "p_3HKHHt",
@@ -6833,7 +6847,7 @@
         "name" : "Lamare Bogarde",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -6848,7 +6862,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 100.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_2fTcTY",
@@ -6913,24 +6927,24 @@
         "name" : "Leon Goretzka",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "fouls" : 0.0,
-          "passes" : 5.0,
+          "fouls" : 1.0,
+          "passes" : 8.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 1.0,
           "interceptions" : 0.0,
-          "clearances" : 5.0,
+          "clearances" : 6.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 80.0,
-          "appearances" : 1
+          "passAccuracy" : 75.0,
+          "appearances" : 2
         }
       }, {
         "id" : "p_254nmd",
@@ -7670,24 +7684,24 @@
         "name" : "Marc Guéhi",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 1.0,
           "shotsOnTarget" : 1.0,
           "shots" : 3.0,
-          "fouls" : 5.0,
-          "passes" : 549.0,
+          "fouls" : 6.0,
+          "passes" : 577.0,
           "keyPasses" : 5.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 4.0,
           "tackles" : 6.0,
-          "interceptions" : 6.0,
-          "clearances" : 26.0,
-          "yellowCards" : 0.0,
+          "interceptions" : 7.0,
+          "clearances" : 29.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 94.4,
-          "appearances" : 7
+          "passAccuracy" : 94.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0BPosc",
@@ -7718,7 +7732,7 @@
         "name" : "Marco Bizot",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "fouls" : 0.0,
           "saves" : 3.0,
@@ -7732,7 +7746,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 77.8,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_11XWgo",
@@ -7938,7 +7952,7 @@
         "name" : "Mateo Kovačić",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
@@ -7953,7 +7967,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 95.2,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_0yykYj",
@@ -8256,24 +8270,24 @@
         "name" : "Matty Cash",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 11.0,
-          "passes" : 188.0,
-          "keyPasses" : 2.0,
+          "fouls" : 15.0,
+          "passes" : 209.0,
+          "keyPasses" : 3.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 14.0,
-          "interceptions" : 6.0,
-          "clearances" : 20.0,
-          "yellowCards" : 3.0,
+          "tackles" : 22.0,
+          "interceptions" : 7.0,
+          "clearances" : 22.0,
+          "yellowCards" : 4.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
-          "passAccuracy" : 82.5,
-          "appearances" : 6
+          "passAccuracy" : 82.8,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4fDFAn",
@@ -9084,7 +9098,7 @@
         "name" : "Nico O'Reilly",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -9101,32 +9115,32 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 87.8,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3giUjN",
         "name" : "Nicolas Jackson",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
-          "goals" : 2.0,
+          "goals" : 4.0,
           "assists" : 0.0,
-          "fouls" : 2.0,
-          "passes" : 95.0,
+          "fouls" : 3.0,
+          "passes" : 110.0,
           "keyPasses" : 6.0,
-          "dribblesAttempted" : 22.0,
-          "dribblesCompleted" : 12.0,
-          "tackles" : 2.0,
+          "dribblesAttempted" : 25.0,
+          "dribblesCompleted" : 14.0,
+          "tackles" : 3.0,
           "interceptions" : 4.0,
           "clearances" : 1.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 5.0,
-          "shots" : 16.0,
-          "offsides" : 3.0,
-          "passAccuracy" : 75.8,
-          "appearances" : 6
+          "shotsOnTarget" : 7.0,
+          "shots" : 19.0,
+          "offsides" : 4.0,
+          "passAccuracy" : 73.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_199c8J",
@@ -9616,22 +9630,22 @@
         "name" : "Pau Torres",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 2.0,
-          "passes" : 93.0,
+          "passes" : 142.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 1.0,
           "interceptions" : 1.0,
-          "clearances" : 10.0,
+          "clearances" : 13.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 79.6,
-          "appearances" : 6
+          "passAccuracy" : 81.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_1hk9Kg",
@@ -9710,24 +9724,24 @@
         "name" : "Phil Foden",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 2.0,
           "goals" : 1.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 9.0,
+          "shots" : 10.0,
           "fouls" : 4.0,
-          "passes" : 181.0,
-          "keyPasses" : 11.0,
-          "dribblesAttempted" : 8.0,
+          "passes" : 204.0,
+          "keyPasses" : 12.0,
+          "dribblesAttempted" : 9.0,
           "dribblesCompleted" : 3.0,
           "tackles" : 6.0,
-          "interceptions" : 1.0,
+          "interceptions" : 2.0,
           "clearances" : 4.0,
           "yellowCards" : 1.0,
           "redCards" : 1.0,
-          "passAccuracy" : 85.6,
-          "appearances" : 5
+          "passAccuracy" : 86.3,
+          "appearances" : 6
         }
       }, {
         "id" : "p_4aXTsg",
@@ -9829,35 +9843,35 @@
         "name" : "Rayan Aït-Nouri",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_3rEFLS",
         "name" : "Rayan Cherki",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 4.0,
           "assists" : 2.0,
-          "fouls" : 5.0,
-          "passes" : 314.0,
-          "keyPasses" : 12.0,
-          "dribblesAttempted" : 13.0,
-          "dribblesCompleted" : 8.0,
+          "fouls" : 7.0,
+          "passes" : 333.0,
+          "keyPasses" : 13.0,
+          "dribblesAttempted" : 15.0,
+          "dribblesCompleted" : 9.0,
           "tackles" : 3.0,
           "interceptions" : 4.0,
           "clearances" : 2.0,
-          "yellowCards" : 1.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 5.0,
-          "shots" : 14.0,
-          "passAccuracy" : 89.5,
-          "appearances" : 7
+          "shotsOnTarget" : 6.0,
+          "shots" : 15.0,
+          "passAccuracy" : 88.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0C0UVV",
@@ -10014,24 +10028,24 @@
         "name" : "Rico Lewis",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 1.0,
-          "fouls" : 1.0,
-          "passes" : 25.0,
+          "fouls" : 3.0,
+          "passes" : 44.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 1.0,
+          "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 0.0,
-          "interceptions" : 2.0,
+          "tackles" : 1.0,
+          "interceptions" : 3.0,
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 84.0,
-          "appearances" : 6
+          "passAccuracy" : 79.6,
+          "appearances" : 7
         }
       }, {
         "id" : "p_2aw3Dn",
@@ -10244,24 +10258,24 @@
         "name" : "Ross Barkley",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 8.0,
-          "fouls" : 4.0,
-          "passes" : 216.0,
+          "fouls" : 5.0,
+          "passes" : 220.0,
           "keyPasses" : 7.0,
-          "dribblesAttempted" : 3.0,
+          "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 7.0,
           "interceptions" : 5.0,
-          "clearances" : 5.0,
+          "clearances" : 6.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.3,
-          "appearances" : 7
+          "passAccuracy" : 89.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2JaKpD",
@@ -10342,24 +10356,25 @@
         "name" : "Ryan McAidoo",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "fouls" : 0.0,
-          "passes" : 8.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 3.0,
-          "dribblesCompleted" : 2.0,
+          "fouls" : 1.0,
+          "passes" : 19.0,
+          "keyPasses" : 1.0,
+          "dribblesAttempted" : 11.0,
+          "dribblesCompleted" : 6.0,
           "tackles" : 2.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
-          "yellowCards" : 0.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 62.5,
-          "appearances" : 2
+          "offsides" : 1.0,
+          "passAccuracy" : 68.4,
+          "appearances" : 3
         }
       }, {
         "id" : "p_2viYB9",
@@ -10402,24 +10417,24 @@
         "name" : "Rúben Dias",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 10.0,
-          "passes" : 601.0,
+          "fouls" : 13.0,
+          "passes" : 677.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 2.0,
-          "interceptions" : 4.0,
-          "clearances" : 26.0,
+          "interceptions" : 6.0,
+          "clearances" : 29.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 3.0,
           "shots" : 5.0,
-          "passAccuracy" : 92.4,
-          "appearances" : 7
+          "passAccuracy" : 92.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2rLCvd",
@@ -11267,7 +11282,7 @@
         "name" : "Tyrone Mings",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -11284,7 +11299,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 4.0,
           "passAccuracy" : 87.3,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_02ws4k",
@@ -11348,24 +11363,24 @@
         "name" : "Victor Nilsson Lindelöf",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 1.0,
-          "passes" : 362.0,
+          "passes" : 401.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 1.0,
-          "interceptions" : 4.0,
-          "clearances" : 42.0,
+          "tackles" : 2.0,
+          "interceptions" : 6.0,
+          "clearances" : 46.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 1.0,
-          "passAccuracy" : 91.2,
-          "appearances" : 7
+          "passAccuracy" : 90.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2CJyTw",
@@ -11490,7 +11505,7 @@
         "name" : "Vitor Reis",
         "team" : "Manchester City",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -11505,7 +11520,7 @@
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "passAccuracy" : 100.0,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_3sJ0Ji",
@@ -11933,21 +11948,21 @@
         "name" : "Zion Suzuki",
         "team" : "Aston Villa",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "fouls" : 0.0,
-          "saves" : 19.0,
-          "passes" : 209.0,
+          "saves" : 25.0,
+          "passes" : 251.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
           "clearances" : 10.0,
-          "passAccuracy" : 75.6,
-          "appearances" : 7
+          "passAccuracy" : 75.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0Jyddq",
@@ -50286,7 +50301,7 @@
         }
       }, {
         "id" : "p_1GkC6p",
-        "name" : "Alexsandro",
+        "name" : "Alexsandro Ribeiro",
         "team" : "Lille",
         "position" : null,
         "appearances" : 6,
@@ -62356,7 +62371,7 @@
         }
       }, {
         "id" : "p_1GkC6p",
-        "name" : "Alexsandro",
+        "name" : "Alexsandro Ribeiro",
         "team" : "Lille",
         "position" : null,
         "appearances" : 3,
@@ -80629,6 +80644,6 @@
       } ]
     }
   },
-  "requestCount" : 2032,
-  "updatedAt" : "2026-10-24T00:32:24.313343561Z"
+  "requestCount" : 2037,
+  "updatedAt" : "2026-10-24T13:57:40.881378559Z"
 }
