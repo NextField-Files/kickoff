@@ -25388,12 +25388,12 @@
     },
     "意甲" : {
       "season" : "2026/2027",
-      "finishedMatches" : 75,
-      "teamStatsMatches" : 75,
-      "playerStatsMatches" : 75,
-      "advancedTeamMatches" : 75,
-      "advancedPlayerMatches" : 75,
-      "cardEventsMatches" : 75,
+      "finishedMatches" : 76,
+      "teamStatsMatches" : 76,
+      "playerStatsMatches" : 76,
+      "advancedTeamMatches" : 76,
+      "advancedPlayerMatches" : 76,
+      "cardEventsMatches" : 76,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_0r0zEG",
@@ -25502,28 +25502,28 @@
       }, {
         "id" : "t_3QzSiW",
         "name" : "Fiorentina",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 8.0,
-          "goalsAgainst" : 17.0,
+          "goals" : 9.0,
+          "goalsAgainst" : 19.0,
           "cleanSheets" : 0.0,
-          "saves" : 21.0,
-          "fouls" : 77.0,
+          "saves" : 30.0,
+          "fouls" : 91.0,
           "redCards" : 0.0,
-          "yellowCards" : 14.0,
-          "offsides" : 11.0,
-          "shotsOnTarget" : 38.0,
-          "shots" : 116.0,
-          "passes" : 2736.0,
-          "keyPasses" : 79.0,
-          "dribblesAttempted" : 145.0,
-          "dribblesCompleted" : 70.0,
-          "tackles" : 103.0,
-          "interceptions" : 95.0,
-          "clearances" : 150.0,
-          "passAccuracy" : 82.4,
-          "possession" : 47.2,
-          "shotsPerGame" : 16.6
+          "yellowCards" : 17.0,
+          "offsides" : 14.0,
+          "shotsOnTarget" : 40.0,
+          "shots" : 123.0,
+          "passes" : 3048.0,
+          "keyPasses" : 83.0,
+          "dribblesAttempted" : 161.0,
+          "dribblesCompleted" : 73.0,
+          "tackles" : 120.0,
+          "interceptions" : 113.0,
+          "clearances" : 186.0,
+          "passAccuracy" : 82.2,
+          "possession" : 45.9,
+          "shotsPerGame" : 15.4
         }
       }, {
         "id" : "t_1YXpHZ",
@@ -25580,28 +25580,28 @@
       }, {
         "id" : "t_3CPHHF",
         "name" : "Inter",
-        "games" : 7,
+        "games" : 8,
         "values" : {
-          "goals" : 21.0,
-          "goalsAgainst" : 9.0,
+          "goals" : 23.0,
+          "goalsAgainst" : 10.0,
           "cleanSheets" : 2.0,
-          "saves" : 17.0,
-          "fouls" : 57.0,
+          "saves" : 18.0,
+          "fouls" : 70.0,
           "redCards" : 0.0,
           "yellowCards" : 11.0,
-          "offsides" : 17.0,
-          "shotsOnTarget" : 51.0,
-          "shots" : 152.0,
-          "passes" : 4378.0,
-          "keyPasses" : 106.0,
-          "dribblesAttempted" : 74.0,
-          "dribblesCompleted" : 40.0,
-          "tackles" : 112.0,
-          "interceptions" : 105.0,
-          "clearances" : 129.0,
-          "passAccuracy" : 88.5,
+          "offsides" : 18.0,
+          "shotsOnTarget" : 62.0,
+          "shots" : 185.0,
+          "passes" : 4958.0,
+          "keyPasses" : 130.0,
+          "dribblesAttempted" : 90.0,
+          "dribblesCompleted" : 46.0,
+          "tackles" : 132.0,
+          "interceptions" : 126.0,
+          "clearances" : 142.0,
+          "passAccuracy" : 88.4,
           "possession" : 62.2,
-          "shotsPerGame" : 21.7
+          "shotsPerGame" : 23.1
         }
       }, {
         "id" : "t_4ZwKDn",
@@ -26286,7 +26286,7 @@
         "name" : "Aleksandar Stanković",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -26303,7 +26303,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
           "passAccuracy" : 94.7,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_0vsGZ3",
@@ -26332,24 +26332,25 @@
         "name" : "Alessandro Bastoni",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 5.0,
-          "passes" : 468.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 1.0,
+          "fouls" : 7.0,
+          "passes" : 528.0,
+          "keyPasses" : 7.0,
+          "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 13.0,
-          "interceptions" : 8.0,
+          "tackles" : 14.0,
+          "interceptions" : 9.0,
           "clearances" : 10.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
-          "passAccuracy" : 88.5,
-          "appearances" : 7
+          "offsides" : 1.0,
+          "passAccuracy" : 89.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1E1qVa",
@@ -26698,24 +26699,24 @@
         "name" : "Alieu Njie",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 4.0,
           "shots" : 12.0,
           "fouls" : 6.0,
-          "passes" : 117.0,
+          "passes" : 130.0,
           "keyPasses" : 11.0,
-          "dribblesAttempted" : 16.0,
-          "dribblesCompleted" : 9.0,
-          "tackles" : 6.0,
+          "dribblesAttempted" : 19.0,
+          "dribblesCompleted" : 11.0,
+          "tackles" : 7.0,
           "interceptions" : 6.0,
           "clearances" : 8.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 76.9,
-          "appearances" : 7
+          "passAccuracy" : 78.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1hTvqh",
@@ -27022,49 +27023,49 @@
         "name" : "Andy Diouf",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
-          "assists" : 3.0,
-          "fouls" : 3.0,
-          "passes" : 210.0,
-          "keyPasses" : 12.0,
-          "dribblesAttempted" : 14.0,
-          "dribblesCompleted" : 6.0,
-          "tackles" : 7.0,
+          "assists" : 4.0,
+          "fouls" : 4.0,
+          "passes" : 253.0,
+          "keyPasses" : 15.0,
+          "dribblesAttempted" : 19.0,
+          "dribblesCompleted" : 8.0,
+          "tackles" : 12.0,
           "interceptions" : 3.0,
           "clearances" : 4.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 5.0,
-          "passAccuracy" : 91.0,
-          "appearances" : 7
+          "shots" : 7.0,
+          "passAccuracy" : 90.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0CgEhq",
         "name" : "Ange-Yoan Bonny",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 2.0,
-          "shotsOnTarget" : 4.0,
-          "shots" : 8.0,
+          "shotsOnTarget" : 6.0,
+          "shots" : 11.0,
           "fouls" : 4.0,
-          "passes" : 50.0,
+          "passes" : 59.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 6.0,
-          "dribblesCompleted" : 3.0,
+          "dribblesAttempted" : 7.0,
+          "dribblesCompleted" : 4.0,
           "tackles" : 7.0,
-          "interceptions" : 5.0,
+          "interceptions" : 7.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 3.0,
-          "passAccuracy" : 78.0,
-          "appearances" : 7
+          "passAccuracy" : 79.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1mqZq4",
@@ -27177,11 +27178,11 @@
         "name" : "Antonio Pirrò",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 2
+          "appearances" : 3
         }
       }, {
         "id" : "p_0X7FV3",
@@ -27360,6 +27361,17 @@
           "redCards" : 0.0,
           "passAccuracy" : 86.5,
           "appearances" : 3
+        }
+      }, {
+        "id" : "p_3OmoqX",
+        "name" : "Arnis Ademi",
+        "team" : "Fiorentina",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "appearances" : 1
         }
       }, {
         "id" : "p_05zCUh",
@@ -27606,14 +27618,14 @@
         "name" : "Beto",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 6.0,
           "fouls" : 4.0,
-          "passes" : 22.0,
+          "passes" : 24.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 2.0,
@@ -27623,8 +27635,8 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
-          "passAccuracy" : 59.1,
-          "appearances" : 5
+          "passAccuracy" : 54.2,
+          "appearances" : 6
         }
       }, {
         "id" : "p_1HruUH",
@@ -27689,11 +27701,11 @@
         "name" : "Brando Mazzeo",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_2yf6RM",
@@ -27771,25 +27783,25 @@
         "name" : "Carlos Augusto",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "goals" : 2.0,
           "assists" : 2.0,
           "fouls" : 4.0,
-          "passes" : 205.0,
-          "keyPasses" : 5.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 2.0,
-          "interceptions" : 9.0,
-          "clearances" : 14.0,
+          "passes" : 257.0,
+          "keyPasses" : 10.0,
+          "dribblesAttempted" : 2.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 3.0,
+          "interceptions" : 12.0,
+          "clearances" : 19.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 3.0,
+          "shots" : 6.0,
           "offsides" : 2.0,
-          "passAccuracy" : 89.7,
-          "appearances" : 7
+          "passAccuracy" : 87.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3TedyM",
@@ -27867,32 +27879,32 @@
         "name" : "Cher Ndour",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 9.0,
-          "fouls" : 7.0,
-          "passes" : 247.0,
+          "shots" : 10.0,
+          "fouls" : 8.0,
+          "passes" : 279.0,
           "keyPasses" : 6.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 4.0,
-          "tackles" : 9.0,
+          "tackles" : 12.0,
           "interceptions" : 13.0,
-          "clearances" : 6.0,
+          "clearances" : 12.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 85.0,
-          "appearances" : 7
+          "passAccuracy" : 84.2,
+          "appearances" : 8
         }
       }, {
         "id" : "p_38wz0d",
         "name" : "Christ Inao Oulaï",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -27909,7 +27921,7 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 91.5,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_2PNxhl",
@@ -28546,11 +28558,11 @@
         "name" : "David de Gea",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 21.0,
-          "passes" : 119.0,
+          "saves" : 30.0,
+          "passes" : 142.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -28559,8 +28571,8 @@
           "clearances" : 2.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 69.8,
-          "appearances" : 7
+          "passAccuracy" : 69.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4DKMvq",
@@ -28819,7 +28831,7 @@
         "name" : "Djed Spence",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -28834,7 +28846,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 57.1,
-          "appearances" : 2
+          "appearances" : 3
         }
       }, {
         "id" : "p_2SZaS1",
@@ -28889,24 +28901,24 @@
         "name" : "Dodô",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "fouls" : 2.0,
-          "passes" : 54.0,
+          "passes" : 56.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 4.0,
-          "interceptions" : 1.0,
+          "interceptions" : 2.0,
           "clearances" : 2.0,
-          "yellowCards" : 0.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 81.4,
-          "appearances" : 7
+          "passAccuracy" : 82.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1cDSaC",
@@ -29701,25 +29713,25 @@
         "name" : "Federico Dimarco",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 4.0,
-          "shots" : 12.0,
+          "shotsOnTarget" : 5.0,
+          "shots" : 13.0,
           "fouls" : 2.0,
-          "passes" : 315.0,
+          "passes" : 336.0,
           "keyPasses" : 18.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 5.0,
           "interceptions" : 5.0,
-          "clearances" : 6.0,
+          "clearances" : 7.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
           "passAccuracy" : 81.9,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_2HxsKn",
@@ -29973,25 +29985,25 @@
         "name" : "Francesco Pio Esposito",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 2.0,
-          "shotsOnTarget" : 7.0,
-          "shots" : 15.0,
+          "shotsOnTarget" : 8.0,
+          "shots" : 17.0,
           "fouls" : 5.0,
-          "passes" : 117.0,
-          "keyPasses" : 6.0,
-          "dribblesAttempted" : 2.0,
+          "passes" : 125.0,
+          "keyPasses" : 7.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 3.0,
-          "interceptions" : 2.0,
+          "interceptions" : 4.0,
           "clearances" : 2.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 68.4,
-          "appearances" : 7
+          "passAccuracy" : 68.8,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3QhZtA",
@@ -30069,24 +30081,24 @@
         "name" : "Franco Mastantuono",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 3.0,
           "shotsOnTarget" : 9.0,
-          "shots" : 27.0,
-          "fouls" : 4.0,
-          "passes" : 182.0,
-          "keyPasses" : 12.0,
-          "dribblesAttempted" : 38.0,
+          "shots" : 29.0,
+          "fouls" : 6.0,
+          "passes" : 208.0,
+          "keyPasses" : 13.0,
+          "dribblesAttempted" : 41.0,
           "dribblesCompleted" : 16.0,
-          "tackles" : 10.0,
-          "interceptions" : 9.0,
-          "clearances" : 1.0,
+          "tackles" : 12.0,
+          "interceptions" : 10.0,
+          "clearances" : 2.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 79.7,
-          "appearances" : 7
+          "passAccuracy" : 79.8,
+          "appearances" : 8
         }
       }, {
         "id" : "p_35TpPR",
@@ -30884,24 +30896,24 @@
         "name" : "Hakan Çalhanoglu",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 3.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 5.0,
-          "fouls" : 2.0,
-          "passes" : 239.0,
-          "keyPasses" : 6.0,
+          "shots" : 7.0,
+          "fouls" : 3.0,
+          "passes" : 291.0,
+          "keyPasses" : 11.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 6.0,
+          "tackles" : 7.0,
           "interceptions" : 9.0,
-          "clearances" : 0.0,
+          "clearances" : 1.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 87.4,
-          "appearances" : 5
+          "passAccuracy" : 89.7,
+          "appearances" : 6
         }
       }, {
         "id" : "p_1IMGqV",
@@ -30981,24 +30993,24 @@
         "name" : "Henrikh Mkhitaryan",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 8.0,
-          "fouls" : 0.0,
-          "passes" : 116.0,
+          "shots" : 11.0,
+          "fouls" : 2.0,
+          "passes" : 164.0,
           "keyPasses" : 4.0,
-          "dribblesAttempted" : 2.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 4.0,
-          "interceptions" : 6.0,
+          "tackles" : 5.0,
+          "interceptions" : 9.0,
           "clearances" : 2.0,
-          "passAccuracy" : 84.5,
-          "appearances" : 6
+          "passAccuracy" : 81.7,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0gVATy",
@@ -31156,11 +31168,21 @@
         "name" : "Ivan Provedel",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "fouls" : 0.0,
+          "saves" : 1.0,
+          "passes" : 28.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 0.0,
+          "interceptions" : 0.0,
+          "clearances" : 0.0,
+          "passAccuracy" : 96.4,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3GmwX3",
@@ -31725,7 +31747,7 @@
         "name" : "Josep Martínez",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "fouls" : 0.0,
           "saves" : 17.0,
@@ -31739,7 +31761,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 89.4,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_3ZLN67",
@@ -31814,22 +31836,22 @@
         "name" : "João Mário",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 3.0,
-          "passes" : 92.0,
+          "passes" : 93.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 5.0,
           "dribblesCompleted" : 3.0,
           "tackles" : 4.0,
           "interceptions" : 3.0,
-          "clearances" : 7.0,
+          "clearances" : 8.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 80.5,
-          "appearances" : 7
+          "passAccuracy" : 80.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1ECNOV",
@@ -32790,6 +32812,17 @@
           "appearances" : 7
         }
       }, {
+        "id" : "p_4Qtgdi",
+        "name" : "Leon Jakirović",
+        "team" : "Inter",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "appearances" : 1
+        }
+      }, {
         "id" : "p_4bOPjk",
         "name" : "Leonardo Balerdi",
         "team" : "Roma",
@@ -32818,11 +32851,11 @@
         "name" : "Leonardo Bovio",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 4
+          "appearances" : 5
         }
       }, {
         "id" : "p_35fUXz",
@@ -33168,11 +33201,11 @@
         "name" : "Luca Lezzerini",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_3wpauw",
@@ -33515,24 +33548,24 @@
         "name" : "Manuel Akanji",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 7.0,
-          "fouls" : 4.0,
-          "passes" : 368.0,
-          "keyPasses" : 3.0,
+          "shots" : 8.0,
+          "fouls" : 5.0,
+          "passes" : 457.0,
+          "keyPasses" : 6.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 13.0,
-          "interceptions" : 15.0,
-          "clearances" : 26.0,
+          "tackles" : 14.0,
+          "interceptions" : 20.0,
+          "clearances" : 28.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 94.8,
-          "appearances" : 7
+          "passAccuracy" : 94.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_00dema",
@@ -33644,24 +33677,25 @@
         "name" : "Marco Brescianini",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 1.0,
-          "fouls" : 1.0,
-          "passes" : 53.0,
+          "fouls" : 3.0,
+          "passes" : 76.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 3.0,
+          "dribblesAttempted" : 6.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 2.0,
-          "interceptions" : 3.0,
-          "clearances" : 2.0,
+          "tackles" : 4.0,
+          "interceptions" : 7.0,
+          "clearances" : 6.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 94.3,
-          "appearances" : 7
+          "offsides" : 1.0,
+          "passAccuracy" : 86.8,
+          "appearances" : 8
         }
       }, {
         "id" : "p_44sPMQ",
@@ -33747,25 +33781,25 @@
         "name" : "Marcus Thuram",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "assists" : 2.0,
-          "goals" : 4.0,
-          "shotsOnTarget" : 7.0,
-          "shots" : 19.0,
-          "fouls" : 9.0,
-          "passes" : 89.0,
-          "keyPasses" : 6.0,
-          "dribblesAttempted" : 6.0,
+          "goals" : 5.0,
+          "shotsOnTarget" : 11.0,
+          "shots" : 28.0,
+          "fouls" : 11.0,
+          "passes" : 109.0,
+          "keyPasses" : 7.0,
+          "dribblesAttempted" : 7.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 5.0,
+          "tackles" : 8.0,
           "interceptions" : 1.0,
-          "clearances" : 3.0,
+          "clearances" : 4.0,
           "offsides" : 5.0,
-          "passAccuracy" : 82.0,
-          "appearances" : 7
+          "passAccuracy" : 78.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3zn1v6",
@@ -33796,25 +33830,25 @@
         "name" : "Marin Pongračić",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 1.0,
           "assists" : 0.0,
-          "fouls" : 5.0,
-          "passes" : 93.0,
+          "fouls" : 6.0,
+          "passes" : 112.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 0.0,
-          "interceptions" : 4.0,
-          "clearances" : 11.0,
+          "tackles" : 1.0,
+          "interceptions" : 5.0,
+          "clearances" : 12.0,
           "shotsOnTarget" : 1.0,
           "shots" : 2.0,
           "offsides" : 1.0,
-          "passAccuracy" : 90.3,
-          "appearances" : 7
+          "passAccuracy" : 91.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3kcY1i",
@@ -34004,25 +34038,25 @@
         "name" : "Mateo Pellegrino",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 2.0,
           "assists" : 0.0,
           "fouls" : 4.0,
-          "passes" : 88.0,
-          "keyPasses" : 8.0,
-          "dribblesAttempted" : 9.0,
+          "passes" : 95.0,
+          "keyPasses" : 9.0,
+          "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 5.0,
           "tackles" : 2.0,
-          "interceptions" : 1.0,
-          "clearances" : 4.0,
+          "interceptions" : 3.0,
+          "clearances" : 6.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 8.0,
-          "offsides" : 2.0,
-          "passAccuracy" : 71.6,
-          "appearances" : 7
+          "shots" : 9.0,
+          "offsides" : 3.0,
+          "passAccuracy" : 70.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4bjVcT",
@@ -34264,6 +34298,30 @@
           "appearances" : 1
         }
       }, {
+        "id" : "p_3nSElt",
+        "name" : "Matteo Lavelli",
+        "team" : "Inter",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "assists" : 0.0,
+          "goals" : 0.0,
+          "shotsOnTarget" : 0.0,
+          "shots" : 2.0,
+          "fouls" : 0.0,
+          "passes" : 1.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 1.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 0.0,
+          "interceptions" : 0.0,
+          "clearances" : 0.0,
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "passAccuracy" : 100.0,
+          "appearances" : 1
+        }
+      }, {
         "id" : "p_3LhZ08",
         "name" : "Matteo Palma",
         "team" : "Udinese",
@@ -34399,11 +34457,11 @@
         "name" : "Mattia Mosconi",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 3
+          "appearances" : 4
         }
       }, {
         "id" : "p_42wWAc",
@@ -35207,24 +35265,24 @@
         "name" : "Nicolò Barella",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 2.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 6.0,
-          "shots" : 11.0,
-          "fouls" : 4.0,
-          "passes" : 363.0,
-          "keyPasses" : 15.0,
-          "dribblesAttempted" : 11.0,
+          "shotsOnTarget" : 7.0,
+          "shots" : 14.0,
+          "fouls" : 5.0,
+          "passes" : 426.0,
+          "keyPasses" : 16.0,
+          "dribblesAttempted" : 12.0,
           "dribblesCompleted" : 9.0,
-          "tackles" : 5.0,
-          "interceptions" : 6.0,
+          "tackles" : 8.0,
+          "interceptions" : 9.0,
           "clearances" : 2.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 86.5,
-          "appearances" : 7
+          "passAccuracy" : 85.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2Z3Nce",
@@ -35315,24 +35373,24 @@
         "name" : "Nicolò Fagioli",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
-          "assists" : 1.0,
+          "assists" : 2.0,
           "fouls" : 5.0,
-          "passes" : 366.0,
-          "keyPasses" : 5.0,
-          "dribblesAttempted" : 14.0,
-          "dribblesCompleted" : 8.0,
-          "tackles" : 15.0,
-          "interceptions" : 7.0,
-          "clearances" : 12.0,
+          "passes" : 417.0,
+          "keyPasses" : 6.0,
+          "dribblesAttempted" : 15.0,
+          "dribblesCompleted" : 9.0,
+          "tackles" : 16.0,
+          "interceptions" : 9.0,
+          "clearances" : 14.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 4.0,
           "shots" : 10.0,
-          "passAccuracy" : 85.8,
-          "appearances" : 7
+          "passAccuracy" : 86.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0YRg1e",
@@ -35637,11 +35695,11 @@
         "name" : "Oliver Christensen",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_0BKkey",
@@ -36115,25 +36173,25 @@
         "name" : "Petar Sučić",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
-          "fouls" : 2.0,
-          "passes" : 264.0,
+          "fouls" : 3.0,
+          "passes" : 279.0,
           "keyPasses" : 5.0,
-          "dribblesAttempted" : 5.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 8.0,
+          "dribblesAttempted" : 8.0,
+          "dribblesCompleted" : 4.0,
+          "tackles" : 9.0,
           "interceptions" : 3.0,
           "clearances" : 2.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 4.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 5.0,
           "offsides" : 1.0,
-          "passAccuracy" : 90.5,
-          "appearances" : 7
+          "passAccuracy" : 90.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1W2Jfw",
@@ -36231,24 +36289,24 @@
         "name" : "Piotr Zieliński",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 2.0,
-          "goals" : 1.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 11.0,
-          "fouls" : 1.0,
-          "passes" : 319.0,
+          "goals" : 2.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 12.0,
+          "fouls" : 2.0,
+          "passes" : 333.0,
           "keyPasses" : 6.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 3.0,
+          "tackles" : 4.0,
           "interceptions" : 2.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 93.4,
-          "appearances" : 7
+          "passAccuracy" : 93.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2vxnKj",
@@ -36290,7 +36348,7 @@
         "name" : "Pote",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -36308,7 +36366,7 @@
           "shots" : 5.0,
           "offsides" : 1.0,
           "passAccuracy" : 76.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_3PHs3M",
@@ -36337,7 +36395,7 @@
         "name" : "Radu Drăgușin",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
@@ -36345,17 +36403,17 @@
           "shots" : 3.0,
           "offsides" : 1.0,
           "fouls" : 10.0,
-          "passes" : 223.0,
+          "passes" : 256.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 1.0,
+          "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 5.0,
-          "interceptions" : 18.0,
-          "clearances" : 37.0,
+          "tackles" : 7.0,
+          "interceptions" : 21.0,
+          "clearances" : 45.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 87.9,
-          "appearances" : 7
+          "passAccuracy" : 87.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4SpelD",
@@ -36409,11 +36467,11 @@
         "name" : "Raffaele Di Gennaro",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_46HgDy",
@@ -38215,25 +38273,25 @@
         "name" : "Valde",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 2.0,
-          "passes" : 181.0,
-          "keyPasses" : 4.0,
-          "dribblesAttempted" : 7.0,
+          "fouls" : 6.0,
+          "passes" : 210.0,
+          "keyPasses" : 5.0,
+          "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 5.0,
-          "interceptions" : 3.0,
-          "clearances" : 10.0,
-          "yellowCards" : 0.0,
+          "interceptions" : 4.0,
+          "clearances" : 13.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 2.0,
+          "shots" : 3.0,
           "offsides" : 1.0,
-          "passAccuracy" : 77.3,
-          "appearances" : 7
+          "passAccuracy" : 78.6,
+          "appearances" : 8
         }
       }, {
         "id" : "p_2GSxYJ",
@@ -38319,24 +38377,24 @@
         "name" : "Viery",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "yellowCards" : 1.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 8.0,
-          "passes" : 163.0,
+          "fouls" : 10.0,
+          "passes" : 172.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 9.0,
+          "tackles" : 10.0,
           "interceptions" : 5.0,
-          "clearances" : 11.0,
+          "clearances" : 15.0,
           "shotsOnTarget" : 1.0,
           "shots" : 1.0,
-          "passAccuracy" : 84.7,
-          "appearances" : 7
+          "passAccuracy" : 84.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0kRZIJ",
@@ -38442,24 +38500,24 @@
         "name" : "Wilfried Gnonto",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 4.0,
-          "fouls" : 1.0,
-          "passes" : 100.0,
+          "shotsOnTarget" : 2.0,
+          "shots" : 5.0,
+          "fouls" : 3.0,
+          "passes" : 101.0,
           "keyPasses" : 3.0,
-          "dribblesAttempted" : 2.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 5.0,
+          "tackles" : 6.0,
           "interceptions" : 1.0,
-          "clearances" : 4.0,
+          "clearances" : 5.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 79.0,
-          "appearances" : 5
+          "passAccuracy" : 79.2,
+          "appearances" : 6
         }
       }, {
         "id" : "p_2biLpd",
@@ -38604,24 +38662,24 @@
         "name" : "Yann Aurel Bisseck",
         "team" : "Inter",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 2.0,
           "shots" : 5.0,
-          "fouls" : 1.0,
-          "passes" : 313.0,
-          "keyPasses" : 3.0,
+          "fouls" : 2.0,
+          "passes" : 370.0,
+          "keyPasses" : 5.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 11.0,
-          "interceptions" : 10.0,
-          "clearances" : 19.0,
+          "tackles" : 13.0,
+          "interceptions" : 12.0,
+          "clearances" : 22.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 92.3,
-          "appearances" : 7
+          "passAccuracy" : 91.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4E1uRI",
@@ -38908,24 +38966,25 @@
         "name" : "Álex Jiménez",
         "team" : "Fiorentina",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
-          "goals" : 1.0,
+          "goals" : 2.0,
           "assists" : 1.0,
           "fouls" : 1.0,
-          "passes" : 210.0,
+          "passes" : 251.0,
           "keyPasses" : 7.0,
           "dribblesAttempted" : 12.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 12.0,
-          "interceptions" : 6.0,
-          "clearances" : 12.0,
+          "tackles" : 15.0,
+          "interceptions" : 9.0,
+          "clearances" : 15.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 4.0,
-          "passAccuracy" : 74.8,
-          "appearances" : 7
+          "shotsOnTarget" : 2.0,
+          "shots" : 5.0,
+          "offsides" : 1.0,
+          "passAccuracy" : 75.3,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0a09ij",
@@ -80970,6 +81029,6 @@
       } ]
     }
   },
-  "requestCount" : 2127,
-  "updatedAt" : "2026-10-25T00:17:17.325395696Z"
+  "requestCount" : 2132,
+  "updatedAt" : "2026-10-25T14:14:13.547029303Z"
 }
