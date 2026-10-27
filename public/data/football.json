@@ -1,9 +1,9 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-10-27T01:22:20.204936169Z",
+  "updatedAt" : "2026-10-27T15:45:58.610129879Z",
   "range" : {
-    "from" : "2026-10-19",
-    "to" : "2026-10-27"
+    "to" : "2026-10-27",
+    "from" : "2026-10-19"
   },
   "matches" : [ {
     "id" : "564721",
@@ -6212,6 +6212,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559646",
+    "league" : "法甲",
+    "utcDate" : "2026-10-30T18:00:00Z",
+    "home" : "Nice",
+    "away" : "Stade Rennais",
+    "teamHome" : "NIC",
+    "teamAway" : "REN",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "565846",
     "league" : "德甲",
     "utcDate" : "2026-10-30T19:30:00Z",
@@ -6416,18 +6428,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "559646",
-    "league" : "法甲",
-    "utcDate" : "2026-10-31T16:15:00Z",
-    "home" : "Nice",
-    "away" : "Stade Rennais",
-    "teamHome" : "NIC",
-    "teamAway" : "REN",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "558542",
     "league" : "意甲",
     "utcDate" : "2026-10-31T17:00:00Z",
@@ -6484,30 +6484,6 @@
     "teamHome" : "MIL",
     "teamAway" : "INT",
     "colors" : [ "#7377db", "#3279bd" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559640",
-    "league" : "法甲",
-    "utcDate" : "2026-10-31T19:45:00Z",
-    "home" : "Olympique Lyon",
-    "away" : "Angers SCO",
-    "teamHome" : "LYO",
-    "teamAway" : "ANG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "559641",
-    "league" : "法甲",
-    "utcDate" : "2026-10-31T19:45:00Z",
-    "home" : "Lorient",
-    "away" : "Brest",
-    "teamHome" : "FCL",
-    "teamAway" : "BRE",
-    "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -6632,6 +6608,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "559640",
+    "league" : "法甲",
+    "utcDate" : "2026-11-01T16:15:00Z",
+    "home" : "Olympique Lyon",
+    "away" : "Angers SCO",
+    "teamHome" : "LYO",
+    "teamAway" : "ANG",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "559642",
     "league" : "法甲",
     "utcDate" : "2026-11-01T16:15:00Z",
@@ -6747,6 +6735,18 @@
     "away" : "Parma",
     "teamHome" : "ATA",
     "teamAway" : "PAR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "559641",
+    "league" : "法甲",
+    "utcDate" : "2026-11-02T19:45:00Z",
+    "home" : "Lorient",
+    "away" : "Brest",
+    "teamHome" : "FCL",
+    "teamAway" : "BRE",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -23450,6 +23450,7 @@
       "startDate" : "2026-08-21",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 65,
           "sourceName" : "Manchester City FC",
@@ -23750,8 +23751,7 @@
           "gd" : "-8",
           "gf" : 6,
           "ga" : 14
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "西甲" : {
@@ -23759,6 +23759,7 @@
       "startDate" : "2026-08-16",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 81,
           "sourceName" : "FC Barcelona",
@@ -24059,8 +24060,7 @@
           "gd" : "-12",
           "gf" : 7,
           "ga" : 19
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "意甲" : {
@@ -24068,6 +24068,7 @@
       "startDate" : "2026-08-23",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 108,
           "sourceName" : "FC Internazionale Milano",
@@ -24368,8 +24369,7 @@
           "gd" : "-11",
           "gf" : 6,
           "ga" : 17
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "德甲" : {
@@ -24377,6 +24377,7 @@
       "startDate" : "2026-08-28",
       "endDate" : "2027-05-22",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 5,
           "sourceName" : "FC Bayern München",
@@ -24647,8 +24648,7 @@
           "gd" : "-11",
           "gf" : 11,
           "ga" : 22
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "法甲" : {
@@ -24656,6 +24656,7 @@
       "startDate" : "2026-08-22",
       "endDate" : "2027-05-29",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -24926,8 +24927,7 @@
           "gd" : "-7",
           "gf" : 8,
           "ga" : 15
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "欧冠" : {
@@ -24935,6 +24935,7 @@
       "startDate" : "2026-09-08",
       "endDate" : "2027-01-27",
       "groups" : [ {
+        "name" : "League phase",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -25475,8 +25476,7 @@
           "gd" : "-12",
           "gf" : 1,
           "ga" : 13
-        } ],
-        "name" : "League phase"
+        } ]
       } ]
     }
   }
