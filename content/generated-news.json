@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "match-review-040cac59ab53",
+      "title": "巴黎圣日耳曼2-0里昂：控球与射门全面占优",
+      "summary": "巴黎圣日耳曼主场2比0击败里昂，控球率、射门与传球数据均明显领先。",
+      "body": "巴黎圣日耳曼以2比0战胜里昂。控球率方面，巴黎圣日耳曼为67.9%，里昂为32.1%。射门17比8、射正10比5，传球756比341，传球成功率92.1%比85.9%，关键传球15比7，成功过人7比4，巴黎圣日耳曼在上述各项均占优；犯规8比14，里昂更多，黄牌2比1，红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-27T01:28:25.834Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "559648"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-27T01:22:20.204936169Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "559648"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-27T01:28:23.445528286Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_3DY8iO"
+        }
+      ]
+    },
+    {
+      "id": "match-review-bc87d9455dae",
+      "title": "塞维利亚主场2-0击败奥萨苏纳",
+      "summary": "塞维利亚在主场以2-0战胜奥萨苏纳，尽管控球率处于劣势，但射门和射正次数明显占优。",
+      "body": "本场比赛塞维利亚控球率为44.9%，低于奥萨苏纳的55.1%，但主队全场完成17次射门、7次射正，均高于客队的10次和2次。传球方面，奥萨苏纳以503次传球和82.5%的传球成功率领先于塞维利亚的405次和78.8%，而塞维利亚在关键传球（11比5）和成功过人（6比4）上占优。犯规和黄牌数据分别为塞维利亚11次犯规、1张黄牌，奥萨苏纳8次犯规、2张黄牌，双方均无红牌。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-27T01:28:27.813Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564721"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-27T01:22:20.204936169Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564721"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-27T01:28:23.445528286Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1XOUXe"
+        }
+      ]
+    },
+    {
       "id": "match-review-731d856109e5",
       "title": "毕尔巴鄂竞技4-0赫塔费：控球与传球效率全面占优",
       "summary": "毕尔巴鄂竞技主场4比0击败赫塔费，控球率、射门、射正、传球及传球成功率等多项数据均领先对手。",
@@ -1563,60 +1617,6 @@
           "updatedAt": "2026-10-21T00:36:42.286491711Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_0CgrSZ"
-        }
-      ]
-    },
-    {
-      "id": "match-review-0cfe8713d46c",
-      "title": "曼城5-1大胜雅典AEK，控球与射门全面占优",
-      "summary": "曼城主场5比1击败雅典AEK，控球率、射门与射正等多项统计均领先对手。",
-      "body": "曼城以63.3%的控球率高于雅典AEK的36.7%，射门17次对11次，射正7次对3次。传球方面曼城672次、成功率92.9%，对手386次、88.6%；关键传球12比6，成功过人9比7。犯规雅典AEK10次多于曼城的6次，黄牌曼城1张、对手0张，红牌双方均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-21T00:36:48.192Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575361"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-21T00:31:30.220259061Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575361"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-21T00:36:42.286491711Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_3L83Uf"
-        }
-      ]
-    },
-    {
-      "id": "match-review-3ba5308bc87c",
-      "title": "欧冠：斯图加特1-1马德里竞技",
-      "summary": "斯图加特与马德里竞技在欧冠比赛中1-1战平，主队在多项技术统计上占优。",
-      "body": "斯图加特控球率为53.9%，马德里竞技为46.1%。斯图加特射门18次、射正5次，马德里竞技射门10次、射正3次。传球方面，斯图加特529次、成功率86.4%，马德里竞技433次、成功率85.9%；关键传球11比8，成功过人5比5。犯规15比7，黄牌1比0，红牌0比1。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-21T00:36:49.453Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575362"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-21T00:31:30.220259061Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575362"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-21T00:36:42.286491711Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_12BHNW"
         }
       ]
     }
