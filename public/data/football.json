@@ -1,11 +1,44 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-10-27T15:45:58.610129879Z",
+  "updatedAt" : "2026-10-28T01:06:14.504685893Z",
   "range" : {
-    "to" : "2026-10-27",
-    "from" : "2026-10-19"
+    "from" : "2026-10-20",
+    "to" : "2026-10-28"
   },
   "matches" : [ {
+    "id" : "558555",
+    "league" : "意甲",
+    "utcDate" : "2026-10-27T19:45:00Z",
+    "home" : "Roma",
+    "away" : "Cagliari",
+    "hs" : 4,
+    "as" : 2,
+    "teamHome" : "ROM",
+    "teamAway" : "CAG",
+    "colors" : [ "#7377db", "#7377db" ]
+  }, {
+    "id" : "558557",
+    "league" : "意甲",
+    "utcDate" : "2026-10-27T19:45:00Z",
+    "home" : "Torino",
+    "away" : "Como 1907",
+    "hs" : 1,
+    "as" : 3,
+    "teamHome" : "TOR",
+    "teamAway" : "COM",
+    "colors" : [ "#7377db", "#7377db" ]
+  }, {
+    "id" : "558556",
+    "league" : "意甲",
+    "utcDate" : "2026-10-27T17:30:00Z",
+    "home" : "Sassuolo",
+    "away" : "Lazio",
+    "hs" : 2,
+    "as" : 6,
+    "teamHome" : "SAS",
+    "teamAway" : "LAZ",
+    "colors" : [ "#7377db", "#7377db" ]
+  }, {
     "id" : "564721",
     "league" : "西甲",
     "utcDate" : "2026-10-26T20:00:00Z",
@@ -741,50 +774,6 @@
     "as" : 2,
     "teamHome" : "FEN",
     "teamAway" : "SLP",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "560606",
-    "league" : "英超",
-    "utcDate" : "2026-10-19T19:00:00Z",
-    "home" : "Tottenham",
-    "away" : "Coventry City",
-    "hs" : 3,
-    "as" : 1,
-    "teamHome" : "TOT",
-    "teamAway" : "COV",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "564717",
-    "league" : "西甲",
-    "utcDate" : "2026-10-19T19:00:00Z",
-    "home" : "Getafe",
-    "away" : "Rayo Vallecano",
-    "hs" : 1,
-    "as" : 1,
-    "teamHome" : "GET",
-    "teamAway" : "RAY",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "558578",
-    "league" : "意甲",
-    "utcDate" : "2026-10-19T18:45:00Z",
-    "home" : "Parma",
-    "away" : "Torino",
-    "hs" : 0,
-    "as" : 3,
-    "teamHome" : "PAR",
-    "teamAway" : "TOR",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "558576",
-    "league" : "意甲",
-    "utcDate" : "2026-10-19T16:30:00Z",
-    "home" : "Monza",
-    "away" : "Cagliari",
-    "hs" : 4,
-    "as" : 0,
-    "teamHome" : "MON",
-    "teamAway" : "CAG",
     "colors" : [ "#7377db", "#7377db" ]
   } ],
   "fixtures" : [ {
@@ -6088,9 +6077,9 @@
     "teamHome" : "SAS",
     "teamAway" : "LAZ",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
+    "status" : "FINISHED",
+    "hs" : 2,
+    "as" : 6
   }, {
     "id" : "558555",
     "league" : "意甲",
@@ -6100,9 +6089,9 @@
     "teamHome" : "ROM",
     "teamAway" : "CAG",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
+    "status" : "FINISHED",
+    "hs" : 4,
+    "as" : 2
   }, {
     "id" : "558557",
     "league" : "意甲",
@@ -6112,9 +6101,9 @@
     "teamHome" : "TOR",
     "teamAway" : "COM",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
+    "status" : "FINISHED",
+    "hs" : 1,
+    "as" : 3
   }, {
     "id" : "558549",
     "league" : "意甲",
@@ -24070,10 +24059,25 @@
       "groups" : [ {
         "name" : "Matchday",
         "rows" : [ {
+          "id" : 110,
+          "sourceName" : "SS Lazio",
+          "code" : "LAZ",
+          "pos" : 1,
+          "team" : "Lazio",
+          "color" : "#7377db",
+          "pts" : 25,
+          "p" : 9,
+          "w" : 8,
+          "d" : 1,
+          "l" : 0,
+          "gd" : "+15",
+          "gf" : 22,
+          "ga" : 7
+        }, {
           "id" : 108,
           "sourceName" : "FC Internazionale Milano",
           "code" : "INT",
-          "pos" : 1,
+          "pos" : 2,
           "team" : "国际米兰",
           "color" : "#3279bd",
           "pts" : 22,
@@ -24085,40 +24089,40 @@
           "gf" : 23,
           "ga" : 10
         }, {
-          "id" : 110,
-          "sourceName" : "SS Lazio",
-          "code" : "LAZ",
-          "pos" : 2,
-          "team" : "Lazio",
-          "color" : "#7377db",
-          "pts" : 22,
-          "p" : 8,
-          "w" : 7,
-          "d" : 1,
-          "l" : 0,
-          "gd" : "+11",
-          "gf" : 16,
-          "ga" : 5
-        }, {
           "id" : 100,
           "sourceName" : "AS Roma",
           "code" : "ROM",
           "pos" : 3,
           "team" : "Roma",
           "color" : "#7377db",
-          "pts" : 18,
-          "p" : 8,
-          "w" : 5,
+          "pts" : 21,
+          "p" : 9,
+          "w" : 6,
           "d" : 3,
           "l" : 0,
-          "gd" : "+13",
-          "gf" : 19,
-          "ga" : 6
+          "gd" : "+15",
+          "gf" : 23,
+          "ga" : 8
+        }, {
+          "id" : 7397,
+          "sourceName" : "Como 1907",
+          "code" : "COM",
+          "pos" : 4,
+          "team" : "Como 1907",
+          "color" : "#7377db",
+          "pts" : 20,
+          "p" : 9,
+          "w" : 6,
+          "d" : 2,
+          "l" : 1,
+          "gd" : "+9",
+          "gf" : 17,
+          "ga" : 8
         }, {
           "id" : 98,
           "sourceName" : "AC Milan",
           "code" : "MIL",
-          "pos" : 4,
+          "pos" : 5,
           "team" : "Milan",
           "color" : "#7377db",
           "pts" : 18,
@@ -24128,21 +24132,6 @@
           "l" : 0,
           "gd" : "+9",
           "gf" : 16,
-          "ga" : 7
-        }, {
-          "id" : 7397,
-          "sourceName" : "Como 1907",
-          "code" : "COM",
-          "pos" : 5,
-          "team" : "Como 1907",
-          "color" : "#7377db",
-          "pts" : 17,
-          "p" : 8,
-          "w" : 5,
-          "d" : 2,
-          "l" : 1,
-          "gd" : "+7",
-          "gf" : 14,
           "ga" : 7
         }, {
           "id" : 470,
@@ -24182,13 +24171,13 @@
           "team" : "Torino",
           "color" : "#7377db",
           "pts" : 13,
-          "p" : 8,
+          "p" : 9,
           "w" : 4,
           "d" : 1,
-          "l" : 3,
-          "gd" : "+2",
-          "gf" : 13,
-          "ga" : 11
+          "l" : 4,
+          "gd" : "0",
+          "gf" : 14,
+          "ga" : 14
         }, {
           "id" : 104,
           "sourceName" : "Cagliari Calcio",
@@ -24197,13 +24186,13 @@
           "team" : "Cagliari",
           "color" : "#7377db",
           "pts" : 13,
-          "p" : 8,
+          "p" : 9,
           "w" : 4,
           "d" : 1,
-          "l" : 3,
-          "gd" : "-3",
-          "gf" : 6,
-          "ga" : 9
+          "l" : 4,
+          "gd" : "-5",
+          "gf" : 8,
+          "ga" : 13
         }, {
           "id" : 113,
           "sourceName" : "SSC Napoli",
@@ -24272,13 +24261,13 @@
           "team" : "Sassuolo",
           "color" : "#7377db",
           "pts" : 8,
-          "p" : 8,
+          "p" : 9,
           "w" : 2,
           "d" : 2,
-          "l" : 4,
-          "gd" : "-4",
-          "gf" : 12,
-          "ga" : 16
+          "l" : 5,
+          "gd" : "-8",
+          "gf" : 14,
+          "ga" : 22
         }, {
           "id" : 5911,
           "sourceName" : "AC Monza",

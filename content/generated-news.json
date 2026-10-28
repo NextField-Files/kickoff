@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "match-review-175b5b70d463",
+      "title": "萨索洛主场2-6不敌拉齐奥",
+      "summary": "萨索洛主场2比6负于拉齐奥，拉齐奥在控球率、射门、射正、传球、传球成功率、关键传球等多项统计上占优。",
+      "body": "萨索洛主场2比6负于拉齐奥。控球率方面，萨索洛为41.8%，拉齐奥为58.2%。射门方面，萨索洛9次、射正1次，拉齐奥16次、射正8次；传球方面，萨索洛438次、成功率87.4%，拉齐奥625次、成功率90.7%。关键传球萨索洛3次、拉齐奥11次，成功过人萨索洛9次、拉齐奥10次，犯规萨索洛7次、拉齐奥13次，黄牌双方各1张，红牌萨索洛1张、拉齐奥0张。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-28T01:12:34.172Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558556"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-28T01:06:14.504685893Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558556"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-28T01:12:31.060129462Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0Apv0v"
+        }
+      ]
+    },
+    {
+      "id": "match-review-a2a6e9857625",
+      "title": "罗马4-2卡利亚里：控球与传球效率支撑主场胜局",
+      "summary": "罗马主场4比2击败卡利亚里，控球率与传球成功率均占优。",
+      "body": "罗马以60.1%的控球率领先卡利亚里的39.9%，传球数585比371、传球成功率85.5%比77.6%同样占优。射门方面罗马20次、卡利亚里19次，射正数双方均为8次；关键传球卡利亚里16次略多于罗马15次。犯规双方各8次，黄牌卡利亚里1张、罗马0张，红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-28T01:12:35.963Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558555"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-28T01:06:14.504685893Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558555"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-28T01:12:31.060129462Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_2L71CW"
+        }
+      ]
+    },
+    {
+      "id": "match-review-85bfdd825fab",
+      "title": "都灵主场1-3不敌科莫，控球与传球数据全面落后",
+      "summary": "都灵在主场以1比3负于科莫，科莫在控球率、射门、传球等多项数据上占据明显优势。",
+      "body": "本场比赛都灵1比3不敌科莫。控球率方面，都灵为28.2%，科莫为71.8%；射门次数都灵11次、科莫18次，射正次数双方均为5次。传球数据上，都灵267次、成功率76%，科莫725次、成功率88.7%；关键传球都灵5次、科莫10次。成功过人方面都灵8次、科莫2次，犯规都灵10次、科莫3次，黄牌都灵1张、科莫0张，红牌双方均为0张。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-28T01:12:37.704Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558557"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-28T01:06:14.504685893Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558557"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-28T01:12:31.060129462Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0sBSLz"
+        }
+      ]
+    },
+    {
       "id": "match-review-040cac59ab53",
       "title": "巴黎圣日耳曼2-0里昂：控球与射门全面占优",
       "summary": "巴黎圣日耳曼主场2比0击败里昂，控球率、射门与传球数据均明显领先。",
@@ -1536,87 +1617,6 @@
           "updatedAt": "2026-10-22T14:59:52.298683488Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_45WQej"
-        }
-      ]
-    },
-    {
-      "id": "match-review-3ba1f3921482",
-      "title": "皇家贝蒂斯1-0费耶诺德：射门与射正优势转化为胜局",
-      "summary": "皇家贝蒂斯主场1比0击败费耶诺德，射门23比12、射正10比2均明显占优。",
-      "body": "皇家贝蒂斯以1比0战胜费耶诺德。控球率方面，贝蒂斯为47.3%，费耶诺德为52.7%；传球数贝蒂斯510次，费耶诺德572次。射门贝蒂斯23次、射正10次，费耶诺德分别为12次和2次；关键传球贝蒂斯17次，费耶诺德7次。传球成功率贝蒂斯87.1%，费耶诺德86%；成功过人贝蒂斯7次，费耶诺德11次。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-22T15:00:09.896Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575376"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-22T14:54:46.931233978Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575376"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-22T14:59:52.298683488Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_2Sd0n0"
-        }
-      ]
-    },
-    {
-      "id": "match-review-a156b2401eaa",
-      "title": "欧冠：沙巴足球俱乐部1-2多特蒙德",
-      "summary": "多特蒙德客场2-1击败沙巴足球俱乐部，射门与射正数据均占优。",
-      "body": "本场比赛多特蒙德以2-1取胜。控球率方面，多特蒙德为54.7%，沙巴足球俱乐部为45.3%。射门次数上，多特蒙德22次、射正9次，均高于沙巴足球俱乐部的13次射门和4次射正。传球数据方面，多特蒙德500次、成功率82%，沙巴足球俱乐部402次、成功率79.6%。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-21T00:36:45.038Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575359"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-21T00:31:30.220259061Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575359"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-21T00:36:42.286491711Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_1wcz8f"
-        }
-      ]
-    },
-    {
-      "id": "match-review-c8190c11faef",
-      "title": "欧冠：费内巴切2-2布拉格斯拉维亚，射门与射正持平",
-      "summary": "费内巴切与布拉格斯拉维亚在欧冠比赛中2-2战平，双方射门和射正次数完全相同。",
-      "body": "费内巴切与布拉格斯拉维亚以2-2握手言和。控球率方面，布拉格斯拉维亚以51%略高于费内巴切的49%；传球数和传球成功率也由客队小幅领先（416对401、82.9%对80.8%）。射门与射正两队均为15次和4次，关键传球费内巴切12次多于10次，成功过人10次对6次占优，犯规12次少于15次，黄牌3张多于1张，红牌均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-21T00:36:46.541Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575360"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-21T00:31:30.220259061Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575360"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-21T00:36:42.286491711Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0CgrSZ"
         }
       ]
     }

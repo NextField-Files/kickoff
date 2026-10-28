@@ -1,7 +1,133 @@
 {
   "source": "Kickoff",
-  "updatedAt": "2026-10-27T15:51:43.714Z",
+  "updatedAt": "2026-10-28T01:12:48.236Z",
   "items": [
+    {
+      "id": "match-review-85bfdd825fab",
+      "title": "都灵主场1-3不敌科莫，控球与传球数据全面落后",
+      "summary": "都灵在主场以1比3负于科莫，科莫在控球率、射门、传球等多项数据上占据明显优势。",
+      "body": "本场比赛都灵1比3不敌科莫。控球率方面，都灵为28.2%，科莫为71.8%；射门次数都灵11次、科莫18次，射正次数双方均为5次。传球数据上，都灵267次、成功率76%，科莫725次、成功率88.7%；关键传球都灵5次、科莫10次。成功过人方面都灵8次、科莫2次，犯规都灵10次、科莫3次，黄牌都灵1张、科莫0张，红牌双方均为0张。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-28T01:12:37.704Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558557"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-28T01:06:14.504685893Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558557"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-28T01:12:31.060129462Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0sBSLz"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "都灵主场1-3不敌科莫，控球与传球数据全面落后",
+        "zh-TW": "杜林主場1-3不敵科莫，控球與傳球數據全面落後",
+        "en": "Torino lost 1-3 to Como at home, comprehensively behind in possession and passing data"
+      },
+      "localizedSummaries": {
+        "zh-CN": "都灵在主场以1比3负于科莫，科莫在控球率、射门、传球等多项数据上占据明显优势。",
+        "zh-TW": "杜林在主場以1比3負於科莫，科莫在控球率、射門、傳球等多項數據上佔據明顯優勢。",
+        "en": "Torino lost 1-3 to Como at home, with Como holding a clear advantage in multiple data categories including possession, shots, and passing."
+      },
+      "localizedBodies": {
+        "zh-CN": "本场比赛都灵1比3不敌科莫。控球率方面，都灵为28.2%，科莫为71.8%；射门次数都灵11次、科莫18次，射正次数双方均为5次。传球数据上，都灵267次、成功率76%，科莫725次、成功率88.7%；关键传球都灵5次、科莫10次。成功过人方面都灵8次、科莫2次，犯规都灵10次、科莫3次，黄牌都灵1张、科莫0张，红牌双方均为0张。数据来源：PitchAPI match statistics。",
+        "zh-TW": "本場比賽杜林1比3不敵科莫。控球率方面，杜林為28.2%，科莫為71.8%；射門次數杜林11次、科莫18次，射正次數雙方均為5次。傳球數據上，杜林267次、成功率76%，科莫725次、成功率88.7%；關鍵傳球杜林5次、科莫10次。成功過人方面杜林8次、科莫2次，犯規杜林10次、科莫3次，黃牌杜林1張、科莫0張，紅牌雙方均為0張。數據來源：PitchAPI match statistics。",
+        "en": "In this match, Torino lost 1-3 to Como. In terms of possession, Torino had 28.2%, Como had 71.8%; shots were Torino 11, Como 18, shots on target were 5 for both sides. In passing data, Torino had 267 passes with a success rate of 76%, Como had 725 passes with a success rate of 88.7%; key passes were Torino 5, Como 10. Successful dribbles were Torino 8, Como 2, fouls were Torino 10, Como 3, yellow cards were Torino 1, Como 0, red cards were 0 for both sides. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-a2a6e9857625",
+      "title": "罗马4-2卡利亚里：控球与传球效率支撑主场胜局",
+      "summary": "罗马主场4比2击败卡利亚里，控球率与传球成功率均占优。",
+      "body": "罗马以60.1%的控球率领先卡利亚里的39.9%，传球数585比371、传球成功率85.5%比77.6%同样占优。射门方面罗马20次、卡利亚里19次，射正数双方均为8次；关键传球卡利亚里16次略多于罗马15次。犯规双方各8次，黄牌卡利亚里1张、罗马0张，红牌均为0。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-28T01:12:35.963Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558555"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-28T01:06:14.504685893Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558555"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-28T01:12:31.060129462Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_2L71CW"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "罗马4-2卡利亚里：控球与传球效率支撑主场胜局",
+        "zh-TW": "羅馬4-2卡利亞里：控球與傳球效率支撐主場勝局",
+        "en": "Roma 4-2 Cagliari: Possession and Passing Efficiency Underpin Home Win"
+      },
+      "localizedSummaries": {
+        "zh-CN": "罗马主场4比2击败卡利亚里，控球率与传球成功率均占优。",
+        "zh-TW": "羅馬主場4比2擊敗卡利亞里，控球率與傳球成功率均佔優。",
+        "en": "Roma beat Cagliari 4-2 at home, leading in both possession and pass success rate."
+      },
+      "localizedBodies": {
+        "zh-CN": "罗马以60.1%的控球率领先卡利亚里的39.9%，传球数585比371、传球成功率85.5%比77.6%同样占优。射门方面罗马20次、卡利亚里19次，射正数双方均为8次；关键传球卡利亚里16次略多于罗马15次。犯规双方各8次，黄牌卡利亚里1张、罗马0张，红牌均为0。数据来源：PitchAPI match statistics。",
+        "zh-TW": "羅馬以60.1%的控球率領先卡利亞里的39.9%，傳球數585比371、傳球成功率85.5%比77.6%同樣佔優。射門方面羅馬20次、卡利亞里19次，射正數雙方均為8次；關鍵傳球卡利亞里16次略多於羅馬15次。犯規雙方各8次，黃牌卡利亞里1張、羅馬0張，紅牌均為0。數據來源：PitchAPI match statistics。",
+        "en": "Roma led Cagliari in possession with 60.1% to 39.9%, and also led in passes 585 to 371 and pass success rate 85.5% to 77.6%. In shots, Roma had 20 and Cagliari 19, with both sides recording 8 shots on target; Cagliari had slightly more key passes with 16 to Roma's 15. Both sides committed 8 fouls, Cagliari received 1 yellow card and Roma 0, and both had 0 red cards. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-175b5b70d463",
+      "title": "萨索洛主场2-6不敌拉齐奥",
+      "summary": "萨索洛主场2比6负于拉齐奥，拉齐奥在控球率、射门、射正、传球、传球成功率、关键传球等多项统计上占优。",
+      "body": "萨索洛主场2比6负于拉齐奥。控球率方面，萨索洛为41.8%，拉齐奥为58.2%。射门方面，萨索洛9次、射正1次，拉齐奥16次、射正8次；传球方面，萨索洛438次、成功率87.4%，拉齐奥625次、成功率90.7%。关键传球萨索洛3次、拉齐奥11次，成功过人萨索洛9次、拉齐奥10次，犯规萨索洛7次、拉齐奥13次，黄牌双方各1张，红牌萨索洛1张、拉齐奥0张。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-28T01:12:34.172Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558556"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-28T01:06:14.504685893Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558556"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-28T01:12:31.060129462Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0Apv0v"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "萨索洛主场2-6不敌拉齐奥",
+        "zh-TW": "薩索洛主場2-6不敵拉齊奧",
+        "en": "Sassuolo lose 2-6 at home to Lazio"
+      },
+      "localizedSummaries": {
+        "zh-CN": "萨索洛主场2比6负于拉齐奥，拉齐奥在控球率、射门、射正、传球、传球成功率、关键传球等多项统计上占优。",
+        "zh-TW": "薩索洛主場2比6負於拉齊奧，拉齊奧在控球率、射門、射正、傳球、傳球成功率、關鍵傳球等多項統計上佔優。",
+        "en": "Sassuolo lost 2-6 at home to Lazio, with Lazio leading in multiple statistics including possession, shots, shots on target, passes, pass accuracy and key passes."
+      },
+      "localizedBodies": {
+        "zh-CN": "萨索洛主场2比6负于拉齐奥。控球率方面，萨索洛为41.8%，拉齐奥为58.2%。射门方面，萨索洛9次、射正1次，拉齐奥16次、射正8次；传球方面，萨索洛438次、成功率87.4%，拉齐奥625次、成功率90.7%。关键传球萨索洛3次、拉齐奥11次，成功过人萨索洛9次、拉齐奥10次，犯规萨索洛7次、拉齐奥13次，黄牌双方各1张，红牌萨索洛1张、拉齐奥0张。数据来源：PitchAPI match statistics。",
+        "zh-TW": "薩索洛主場2比6負於拉齊奧。控球率方面，薩索洛為41.8%，拉齊奧為58.2%。射門方面，薩索洛9次、射正1次，拉齊奧16次、射正8次；傳球方面，薩索洛438次、成功率87.4%，拉齊奧625次、成功率90.7%。關鍵傳球薩索洛3次、拉齊奧11次，成功過人薩索洛9次、拉齊奧10次，犯規薩索洛7次、拉齊奧13次，黃牌雙方各1張，紅牌薩索洛1張、拉齊奧0張。數據來源：PitchAPI match statistics。",
+        "en": "Sassuolo lost 2-6 at home to Lazio. In terms of possession, Sassuolo had 41.8% and Lazio 58.2%. For shots, Sassuolo had 9 with 1 on target, while Lazio had 16 with 8 on target; for passes, Sassuolo had 438 with an 87.4% success rate, and Lazio had 625 with a 90.7% success rate. Key passes were 3 for Sassuolo and 11 for Lazio, successful dribbles were 9 for Sassuolo and 10 for Lazio, fouls were 7 for Sassuolo and 13 for Lazio, each side received 1 yellow card, and Sassuolo received 1 red card while Lazio received 0. Data source: PitchAPI match statistics."
+      }
+    },
     {
       "id": "match-review-bc87d9455dae",
       "title": "塞维利亚主场2-0击败奥萨苏纳",
@@ -2019,48 +2145,6 @@
       }
     },
     {
-      "id": "match-review-3ba1f3921482",
-      "title": "皇家贝蒂斯1-0费耶诺德：射门与射正优势转化为胜局",
-      "summary": "皇家贝蒂斯主场1比0击败费耶诺德，射门23比12、射正10比2均明显占优。",
-      "body": "皇家贝蒂斯以1比0战胜费耶诺德。控球率方面，贝蒂斯为47.3%，费耶诺德为52.7%；传球数贝蒂斯510次，费耶诺德572次。射门贝蒂斯23次、射正10次，费耶诺德分别为12次和2次；关键传球贝蒂斯17次，费耶诺德7次。传球成功率贝蒂斯87.1%，费耶诺德86%；成功过人贝蒂斯7次，费耶诺德11次。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-22T15:00:09.896Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575376"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-22T14:54:46.931233978Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575376"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-22T14:59:52.298683488Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_2Sd0n0"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "皇家贝蒂斯1-0费耶诺德：射门与射正优势转化为胜局",
-        "zh-TW": "皇家貝蒂斯1-0飛燕諾：射門與射正優勢轉化為勝局",
-        "en": "Real Betis 1-0 Feyenoord: Shooting and Shots on Target Advantage Converted into Victory"
-      },
-      "localizedSummaries": {
-        "zh-CN": "皇家贝蒂斯主场1比0击败费耶诺德，射门23比12、射正10比2均明显占优。",
-        "zh-TW": "皇家貝蒂斯主場1比0擊敗飛燕諾，射門23比12、射正10比2均明顯佔優。",
-        "en": "Real Betis defeated Feyenoord 1-0 at home, with a clear advantage in shots at 23 to 12 and shots on target at 10 to 2."
-      },
-      "localizedBodies": {
-        "zh-CN": "皇家贝蒂斯以1比0战胜费耶诺德。控球率方面，贝蒂斯为47.3%，费耶诺德为52.7%；传球数贝蒂斯510次，费耶诺德572次。射门贝蒂斯23次、射正10次，费耶诺德分别为12次和2次；关键传球贝蒂斯17次，费耶诺德7次。传球成功率贝蒂斯87.1%，费耶诺德86%；成功过人贝蒂斯7次，费耶诺德11次。数据来源：PitchAPI match statistics。",
-        "zh-TW": "皇家貝蒂斯以1比0戰勝飛燕諾。控球率方面，貝蒂斯為47.3%，飛燕諾為52.7%；傳球數貝蒂斯510次，飛燕諾572次。射門貝蒂斯23次、射正10次，飛燕諾分別為12次和2次；關鍵傳球貝蒂斯17次，飛燕諾7次。傳球成功率貝蒂斯87.1%，飛燕諾86%；成功過人貝蒂斯7次，飛燕諾11次。數據來源：PitchAPI match statistics。",
-        "en": "Real Betis defeated Feyenoord 1-0. In terms of possession, Betis had 47.3% and Feyenoord 52.7%; passes were 510 for Betis and 572 for Feyenoord. Shots were 23 for Betis with 10 on target, while Feyenoord had 12 and 2 respectively; key passes were 17 for Betis and 7 for Feyenoord. Pass success rate was 87.1% for Betis and 86% for Feyenoord; successful dribbles were 7 for Betis and 11 for Feyenoord. Data source: PitchAPI match statistics."
-      }
-    },
-    {
       "id": "match-review-1f96f78f2f47",
       "title": "葡萄牙体育主场2-3不敌林茨",
       "summary": "葡萄牙体育在欧冠比赛中主场2比3负于林茨。",
@@ -2436,90 +2520,6 @@
         "zh-CN": "科莫以54.4%的控球率领先曼联的45.6%，传球663次、传球成功率89.3%均高于曼联的543次和86.6%。射门方面曼联13次多于科莫11次，但科莫射正8次，曼联仅4次。关键传球科莫9次对曼联7次，成功过人曼联6次多于科莫4次；犯规曼联11次、黄牌3张，均多于科莫的10次和1张，双方红牌均为0。数据来源：PitchAPI match statistics。",
         "zh-TW": "科莫以54.4%的控球率領先曼聯的45.6%，傳球663次、傳球成功率89.3%均高於曼聯的543次和86.6%。射門方面曼聯13次多於科莫11次，但科莫射正8次，曼聯僅4次。關鍵傳球科莫9次對曼聯7次，成功過人曼聯6次多於科莫4次；犯規曼聯11次、黃牌3張，均多於科莫的10次和1張，雙方紅牌均為0。數據來源：PitchAPI match statistics。",
         "en": "Como led Manchester United with 54.4% possession compared to 45.6%, and their 663 passes and 89.3% pass success rate were both higher than Manchester United's 543 and 86.6%. In terms of shots, Manchester United had 13, more than Como's 11, but Como had 8 shots on target while Manchester United had only 4. Key passes were 9 for Como versus 7 for Manchester United, and successful dribbles were 6 for Manchester United, more than Como's 4; Manchester United committed 11 fouls and received 3 yellow cards, both more than Como's 10 and 1, with both teams receiving 0 red cards. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-c8190c11faef",
-      "title": "欧冠：费内巴切2-2布拉格斯拉维亚，射门与射正持平",
-      "summary": "费内巴切与布拉格斯拉维亚在欧冠比赛中2-2战平，双方射门和射正次数完全相同。",
-      "body": "费内巴切与布拉格斯拉维亚以2-2握手言和。控球率方面，布拉格斯拉维亚以51%略高于费内巴切的49%；传球数和传球成功率也由客队小幅领先（416对401、82.9%对80.8%）。射门与射正两队均为15次和4次，关键传球费内巴切12次多于10次，成功过人10次对6次占优，犯规12次少于15次，黄牌3张多于1张，红牌均为0。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-21T00:36:46.541Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575360"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-21T00:31:30.220259061Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575360"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-21T00:36:42.286491711Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0CgrSZ"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "欧冠：费内巴切2-2布拉格斯拉维亚，射门与射正持平",
-        "zh-TW": "歐冠：費內巴切2-2布拉格斯拉維亞，射門與射正持平",
-        "en": "Champions League: Fenerbahçe 2-2 Slavia Prague, shots and shots on target level"
-      },
-      "localizedSummaries": {
-        "zh-CN": "费内巴切与布拉格斯拉维亚在欧冠比赛中2-2战平，双方射门和射正次数完全相同。",
-        "zh-TW": "費內巴切與布拉格斯拉維亞在歐冠比賽中2-2戰平，雙方射門和射正次數完全相同。",
-        "en": "Fenerbahçe and Slavia Prague drew 2-2 in the Champions League, with both teams recording identical numbers of shots and shots on target."
-      },
-      "localizedBodies": {
-        "zh-CN": "费内巴切与布拉格斯拉维亚以2-2握手言和。控球率方面，布拉格斯拉维亚以51%略高于费内巴切的49%；传球数和传球成功率也由客队小幅领先（416对401、82.9%对80.8%）。射门与射正两队均为15次和4次，关键传球费内巴切12次多于10次，成功过人10次对6次占优，犯规12次少于15次，黄牌3张多于1张，红牌均为0。数据来源：PitchAPI match statistics。",
-        "zh-TW": "費內巴切與布拉格斯拉維亞以2-2握手言和。控球率方面，布拉格斯拉維亞以51%略高於費內巴切的49%；傳球數和傳球成功率也由客隊小幅領先（416對401、82.9%對80.8%）。射門與射正兩隊均為15次和4次，關鍵傳球費內巴切12次多於10次，成功過人10次對6次佔優，犯規12次少於15次，黃牌3張多於1張，紅牌均為0。數據來源：PitchAPI match statistics。",
-        "en": "Fenerbahçe and Slavia Prague played out a 2-2 draw. In terms of possession, Slavia Prague held a slight edge with 51% compared to Fenerbahçe's 49%; the away side also led marginally in passes and pass accuracy (416 vs 401, 82.9% vs 80.8%). Both teams had 15 shots and 4 shots on target. Fenerbahçe had more key passes (12 vs 10) and successful dribbles (10 vs 6), committed fewer fouls (12 vs 15), received more yellow cards (3 vs 1), and both teams had 0 red cards. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-a156b2401eaa",
-      "title": "欧冠：沙巴足球俱乐部1-2多特蒙德",
-      "summary": "多特蒙德客场2-1击败沙巴足球俱乐部，射门与射正数据均占优。",
-      "body": "本场比赛多特蒙德以2-1取胜。控球率方面，多特蒙德为54.7%，沙巴足球俱乐部为45.3%。射门次数上，多特蒙德22次、射正9次，均高于沙巴足球俱乐部的13次射门和4次射正。传球数据方面，多特蒙德500次、成功率82%，沙巴足球俱乐部402次、成功率79.6%。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-21T00:36:45.038Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575359"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-21T00:31:30.220259061Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575359"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-21T00:36:42.286491711Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_1wcz8f"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "欧冠：沙巴足球俱乐部1-2多特蒙德",
-        "zh-TW": "歐冠：沙巴足球俱樂部1-2多特蒙德",
-        "en": "Champions League: Qarabağ FK 1-2 Borussia Dortmund"
-      },
-      "localizedSummaries": {
-        "zh-CN": "多特蒙德客场2-1击败沙巴足球俱乐部，射门与射正数据均占优。",
-        "zh-TW": "多特蒙德客場2-1擊敗沙巴足球俱樂部，射門與射正數據均佔優。",
-        "en": "Borussia Dortmund defeated Qarabağ FK 2-1 away, leading in both shots and shots on target."
-      },
-      "localizedBodies": {
-        "zh-CN": "本场比赛多特蒙德以2-1取胜。控球率方面，多特蒙德为54.7%，沙巴足球俱乐部为45.3%。射门次数上，多特蒙德22次、射正9次，均高于沙巴足球俱乐部的13次射门和4次射正。传球数据方面，多特蒙德500次、成功率82%，沙巴足球俱乐部402次、成功率79.6%。数据来源：PitchAPI match statistics。",
-        "zh-TW": "本場比賽多特蒙德以2-1取勝。控球率方面，多特蒙德為54.7%，沙巴足球俱樂部為45.3%。射門次數上，多特蒙德22次、射正9次，均高於沙巴足球俱樂部的13次射門和4次射正。傳球數據方面，多特蒙德500次、成功率82%，沙巴足球俱樂部402次、成功率79.6%。數據來源：PitchAPI match statistics。",
-        "en": "Borussia Dortmund won this match 2-1. In terms of possession, Borussia Dortmund had 54.7%, while Qarabağ FK had 45.3%. In shots, Borussia Dortmund had 22 and 9 on target, both higher than Qarabağ FK's 13 shots and 4 on target. In passing data, Borussia Dortmund had 500 passes with an 82% success rate, while Qarabağ FK had 402 with a 79.6% success rate. Data source: PitchAPI match statistics."
       }
     }
   ]
