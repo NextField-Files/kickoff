@@ -2,7 +2,7 @@
   "source" : "pitchapi.dev",
   "schemaVersion" : 1,
   "season" : "2026/2027",
-  "updatedAt" : "2026-10-29T01:48:36.782156299Z",
+  "updatedAt" : "2026-10-29T16:44:55.836993016Z",
   "requestCount" : 2287,
   "leagues" : {
     "英超" : [ {
@@ -1078,16 +1078,7 @@
         "yellowCards" : 3.0,
         "offsides" : 0.0,
         "shotsOnTarget" : 2.0,
-        "shots" : 12.0,
-        "passes" : 363.0,
-        "passAccuracy" : 77.1,
-        "keyPasses" : 7.0,
-        "dribblesAttempted" : 21.0,
-        "dribblesCompleted" : 6.0,
-        "tackles" : 10.0,
-        "interceptions" : 19.0,
-        "clearances" : 31.0,
-        "possession" : 49.4
+        "shots" : 12.0
       },
       "awayStats" : {
         "saves" : 1.0,
@@ -1096,19 +1087,10 @@
         "yellowCards" : 2.0,
         "offsides" : 3.0,
         "shotsOnTarget" : 5.0,
-        "shots" : 14.0,
-        "passes" : 379.0,
-        "passAccuracy" : 77.6,
-        "keyPasses" : 7.0,
-        "dribblesAttempted" : 10.0,
-        "dribblesCompleted" : 5.0,
-        "tackles" : 20.0,
-        "interceptions" : 14.0,
-        "clearances" : 27.0,
-        "possession" : 50.6
+        "shots" : 14.0
       },
       "teamStatsVerified" : true,
-      "advancedStatsVerified" : true
+      "advancedStatsVerified" : false
     }, {
       "id" : "m_44cwox",
       "date" : "2026-09-05T14:00:00Z",
@@ -12351,16 +12333,7 @@
         "yellowCards" : 0.0,
         "offsides" : 0.0,
         "shotsOnTarget" : 6.0,
-        "shots" : 18.0,
-        "passes" : 336.0,
-        "passAccuracy" : 78.6,
-        "keyPasses" : 10.0,
-        "dribblesAttempted" : 8.0,
-        "dribblesCompleted" : 4.0,
-        "tackles" : 18.0,
-        "interceptions" : 13.0,
-        "clearances" : 43.0,
-        "possession" : 41.5
+        "shots" : 18.0
       },
       "awayStats" : {
         "saves" : 3.0,
@@ -12369,19 +12342,10 @@
         "yellowCards" : 2.0,
         "offsides" : 0.0,
         "shotsOnTarget" : 4.0,
-        "shots" : 15.0,
-        "passes" : 496.0,
-        "passAccuracy" : 83.3,
-        "keyPasses" : 10.0,
-        "dribblesAttempted" : 15.0,
-        "dribblesCompleted" : 5.0,
-        "tackles" : 13.0,
-        "interceptions" : 15.0,
-        "clearances" : 30.0,
-        "possession" : 58.5
+        "shots" : 15.0
       },
       "teamStatsVerified" : true,
-      "advancedStatsVerified" : true
+      "advancedStatsVerified" : false
     }, {
       "id" : "m_3OT7Pa",
       "date" : "2026-08-29T13:30:00Z",
@@ -13317,16 +13281,7 @@
         "yellowCards" : 0.0,
         "offsides" : 1.0,
         "shotsOnTarget" : 5.0,
-        "shots" : 18.0,
-        "passes" : 492.0,
-        "passAccuracy" : 79.9,
-        "keyPasses" : 12.0,
-        "dribblesAttempted" : 14.0,
-        "dribblesCompleted" : 6.0,
-        "tackles" : 22.0,
-        "interceptions" : 21.0,
-        "clearances" : 26.0,
-        "possession" : 54.9
+        "shots" : 18.0
       },
       "awayStats" : {
         "saves" : 4.0,
@@ -13335,19 +13290,10 @@
         "yellowCards" : 2.0,
         "offsides" : 3.0,
         "shotsOnTarget" : 5.0,
-        "shots" : 11.0,
-        "passes" : 398.0,
-        "passAccuracy" : 80.2,
-        "keyPasses" : 10.0,
-        "dribblesAttempted" : 23.0,
-        "dribblesCompleted" : 8.0,
-        "tackles" : 22.0,
-        "interceptions" : 28.0,
-        "clearances" : 44.0,
-        "possession" : 45.1
+        "shots" : 11.0
       },
       "teamStatsVerified" : true,
-      "advancedStatsVerified" : true
+      "advancedStatsVerified" : false
     }, {
       "id" : "m_0vc9Ho",
       "date" : "2026-09-12T13:30:00Z",
