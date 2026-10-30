@@ -1,9 +1,9 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-10-30T01:48:23.301932025Z",
+  "updatedAt" : "2026-10-30T16:34:22.833303094Z",
   "range" : {
-    "from" : "2026-10-22",
-    "to" : "2026-10-30"
+    "to" : "2026-10-30",
+    "from" : "2026-10-22"
   },
   "matches" : [ {
     "id" : "558551",
@@ -23307,6 +23307,7 @@
       "startDate" : "2026-08-21",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 65,
           "sourceName" : "Manchester City FC",
@@ -23607,8 +23608,7 @@
           "gd" : "-8",
           "gf" : 6,
           "ga" : 14
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "西甲" : {
@@ -23616,6 +23616,7 @@
       "startDate" : "2026-08-16",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 81,
           "sourceName" : "FC Barcelona",
@@ -23916,8 +23917,7 @@
           "gd" : "-12",
           "gf" : 7,
           "ga" : 19
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "意甲" : {
@@ -23925,6 +23925,7 @@
       "startDate" : "2026-08-23",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 108,
           "sourceName" : "FC Internazionale Milano",
@@ -24225,8 +24226,7 @@
           "gd" : "-13",
           "gf" : 6,
           "ga" : 19
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "德甲" : {
@@ -24234,6 +24234,7 @@
       "startDate" : "2026-08-28",
       "endDate" : "2027-05-22",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 5,
           "sourceName" : "FC Bayern München",
@@ -24504,8 +24505,7 @@
           "gd" : "-11",
           "gf" : 11,
           "ga" : 22
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "法甲" : {
@@ -24513,6 +24513,7 @@
       "startDate" : "2026-08-22",
       "endDate" : "2027-05-29",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -24783,8 +24784,7 @@
           "gd" : "-7",
           "gf" : 8,
           "ga" : 15
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "欧冠" : {
@@ -24792,6 +24792,7 @@
       "startDate" : "2026-09-08",
       "endDate" : "2027-01-27",
       "groups" : [ {
+        "name" : "League phase",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -25332,8 +25333,7 @@
           "gd" : "-12",
           "gf" : 1,
           "ga" : 13
-        } ],
-        "name" : "League phase"
+        } ]
       } ]
     }
   }
