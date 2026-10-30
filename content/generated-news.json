@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "match-review-6873276362dc",
+      "title": "弗罗西诺内5-1大胜莱切，控球与射门全面占优",
+      "summary": "弗罗西诺内主场5-1击败莱切，控球率、射门、射正、传球等多项数据均领先对手。",
+      "body": "弗罗西诺内以5-1战胜莱切。控球率方面，弗罗西诺内58.8%对莱切41.2%；射门26次对15次，射正9次对6次。传球355次对234次，传球成功率70.1%对60.3%，关键传球20次对10次；成功过人双方均为9次。犯规弗罗西诺内10次、莱切17次，黄牌0对3，红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-30T01:54:16.546Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558558"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-30T01:48:23.301932025Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558558"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-30T01:54:13.821497578Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_002ZzY"
+        }
+      ]
+    },
+    {
+      "id": "match-review-cdc1d5c2b05a",
+      "title": "佛罗伦萨2-2亚特兰大：紫百合射门26次难分胜负",
+      "summary": "佛罗伦萨与亚特兰大2-2战平，主队射门26次远超客队10次，但射正数反以4-5落后。",
+      "body": "佛罗伦萨控球率50.4%略高于亚特兰大的49.6%，射门26次对10次占据明显优势，关键传球13次也多于对手的7次。不过亚特兰大射正5次多于佛罗伦萨的4次，传球467次与成功率85.7%均略高于主队的464次和85.3%。犯规方面亚特兰大13次多于佛罗伦萨10次，黄牌则是主队3张、客队2张，双方均无红牌。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-30T01:54:18.504Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558551"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-30T01:48:23.301932025Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558551"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-30T01:54:13.821497578Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0h3uIF"
+        }
+      ]
+    },
+    {
       "id": "match-review-e7fd2d127191",
       "title": "AC米兰主场2-4不敌博洛尼亚",
       "summary": "AC米兰在主场以2比4负于博洛尼亚。",
@@ -1563,60 +1617,6 @@
           "updatedAt": "2026-10-22T14:59:52.298683488Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_2fv7yB"
-        }
-      ]
-    },
-    {
-      "id": "match-review-fc3f8518c92f",
-      "title": "莱万特3-1毕尔巴鄂竞技：射正效率与红牌影响下的比分反差",
-      "summary": "莱万特主场3-1击败毕尔巴鄂竞技，尽管控球与射门次数落后，但射正数更高且对手被罚下一人。",
-      "body": "本场比赛莱万特以3-1战胜毕尔巴鄂竞技。技术统计显示，毕尔巴鄂竞技控球率61.8%高于莱万特的38.2%，射门21次也多于莱万特的12次，传球550次对330次、传球成功率83.5%对77.3%均占优。然而莱万特射正7次高于对手的4次，毕尔巴鄂竞技红牌1张而莱万特为0张。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-22T14:59:58.096Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "564685"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-22T14:54:46.931233978Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "564685"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-22T14:59:52.298683488Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0bCfNS"
-        }
-      ]
-    },
-    {
-      "id": "match-review-91d8f0ef65ea",
-      "title": "皇马主场4-1击败莱比锡，控球与射门全面占优",
-      "summary": "皇家马德里在欧冠比赛中主场4-1战胜莱比锡，控球率、射门和传球等多项数据均领先对手。",
-      "body": "皇家马德里以64%的控球率领先莱比锡的36%，全场射门18次对11次，射正11次对6次。传球方面皇马完成739次、成功率90.1%，莱比锡为401次、87.3%；关键传球14比9，成功过人8比7。犯规13比12，双方各得1张黄牌、均无红牌。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-22T14:59:59.482Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575370"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-22T14:54:46.931233978Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575370"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-22T14:59:52.298683488Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_1LBGR1"
         }
       ]
     }

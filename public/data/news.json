@@ -1,7 +1,91 @@
 {
   "source": "Kickoff",
-  "updatedAt": "2026-10-29T16:44:57.297Z",
+  "updatedAt": "2026-10-30T01:54:25.726Z",
   "items": [
+    {
+      "id": "match-review-cdc1d5c2b05a",
+      "title": "佛罗伦萨2-2亚特兰大：紫百合射门26次难分胜负",
+      "summary": "佛罗伦萨与亚特兰大2-2战平，主队射门26次远超客队10次，但射正数反以4-5落后。",
+      "body": "佛罗伦萨控球率50.4%略高于亚特兰大的49.6%，射门26次对10次占据明显优势，关键传球13次也多于对手的7次。不过亚特兰大射正5次多于佛罗伦萨的4次，传球467次与成功率85.7%均略高于主队的464次和85.3%。犯规方面亚特兰大13次多于佛罗伦萨10次，黄牌则是主队3张、客队2张，双方均无红牌。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-30T01:54:18.504Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558551"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-30T01:48:23.301932025Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558551"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-30T01:54:13.821497578Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0h3uIF"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "佛罗伦萨2-2亚特兰大：紫百合射门26次难分胜负",
+        "zh-TW": "佛羅倫斯2-2亞特蘭大：紫百合射門26次難分勝負",
+        "en": "Fiorentina 2-2 Atalanta: Viola Unable to Settle It Despite 26 Shots"
+      },
+      "localizedSummaries": {
+        "zh-CN": "佛罗伦萨与亚特兰大2-2战平，主队射门26次远超客队10次，但射正数反以4-5落后。",
+        "zh-TW": "佛羅倫斯與亞特蘭大2-2戰平，主隊射門26次遠超客隊10次，但射正數反以4-5落後。",
+        "en": "Fiorentina drew 2-2 with Atalanta; the hosts took 26 shots, far more than the visitors' 10, but trailed 4-5 in shots on target."
+      },
+      "localizedBodies": {
+        "zh-CN": "佛罗伦萨控球率50.4%略高于亚特兰大的49.6%，射门26次对10次占据明显优势，关键传球13次也多于对手的7次。不过亚特兰大射正5次多于佛罗伦萨的4次，传球467次与成功率85.7%均略高于主队的464次和85.3%。犯规方面亚特兰大13次多于佛罗伦萨10次，黄牌则是主队3张、客队2张，双方均无红牌。数据来源：PitchAPI match statistics。",
+        "zh-TW": "佛羅倫斯控球率50.4%略高於亞特蘭大的49.6%，射門26次對10次佔據明顯優勢，關鍵傳球13次也多於對手的7次。不過亞特蘭大射正5次多於佛羅倫斯的4次，傳球467次與成功率85.7%均略高於主隊的464次和85.3%。犯規方面亞特蘭大13次多於佛羅倫斯10次，黃牌則是主隊3張、客隊2張，雙方均無紅牌。數據來源：PitchAPI match statistics。",
+        "en": "Fiorentina had 50.4% possession, slightly above Atalanta's 49.6%, and held a clear advantage in shots at 26 to 10, with 13 key passes also more than the opponent's 7. However, Atalanta had 5 shots on target, more than Fiorentina's 4, and their 467 passes with an 85.7% success rate were slightly above the hosts' 464 and 85.3%. In fouls, Atalanta committed 13, more than Fiorentina's 10; yellow cards were 3 for the hosts and 2 for the visitors, with no red cards for either side. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-6873276362dc",
+      "title": "弗罗西诺内5-1大胜莱切，控球与射门全面占优",
+      "summary": "弗罗西诺内主场5-1击败莱切，控球率、射门、射正、传球等多项数据均领先对手。",
+      "body": "弗罗西诺内以5-1战胜莱切。控球率方面，弗罗西诺内58.8%对莱切41.2%；射门26次对15次，射正9次对6次。传球355次对234次，传球成功率70.1%对60.3%，关键传球20次对10次；成功过人双方均为9次。犯规弗罗西诺内10次、莱切17次，黄牌0对3，红牌均为0。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-30T01:54:16.546Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558558"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-30T01:48:23.301932025Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558558"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-30T01:54:13.821497578Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_002ZzY"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "弗罗西诺内5-1大胜莱切，控球与射门全面占优",
+        "zh-TW": "弗羅西諾內5-1大勝萊切，控球與射門全面佔優",
+        "en": "Frosinone Thrash Lecce 5-1, Dominating Possession and Shots"
+      },
+      "localizedSummaries": {
+        "zh-CN": "弗罗西诺内主场5-1击败莱切，控球率、射门、射正、传球等多项数据均领先对手。",
+        "zh-TW": "弗羅西諾內主場5-1擊敗萊切，控球率、射門、射正、傳球等多項數據均領先對手。",
+        "en": "Frosinone defeated Lecce 5-1 at home, leading in possession, shots, shots on target, passes and multiple other metrics."
+      },
+      "localizedBodies": {
+        "zh-CN": "弗罗西诺内以5-1战胜莱切。控球率方面，弗罗西诺内58.8%对莱切41.2%；射门26次对15次，射正9次对6次。传球355次对234次，传球成功率70.1%对60.3%，关键传球20次对10次；成功过人双方均为9次。犯规弗罗西诺内10次、莱切17次，黄牌0对3，红牌均为0。数据来源：PitchAPI match statistics。",
+        "zh-TW": "弗羅西諾內以5-1戰勝萊切。控球率方面，弗羅西諾內58.8%對萊切41.2%；射門26次對15次，射正9次對6次。傳球355次對234次，傳球成功率70.1%對60.3%，關鍵傳球20次對10次；成功過人雙方均為9次。犯規弗羅西諾內10次、萊切17次，黃牌0對3，紅牌均為0。數據來源：PitchAPI match statistics。",
+        "en": "Frosinone beat Lecce 5-1. In possession, Frosinone had 58.8% to Lecce's 41.2%; shots 26 to 15, shots on target 9 to 6. Passes 355 to 234, pass accuracy 70.1% to 60.3%, key passes 20 to 10; successful dribbles were 9 for both sides. Fouls: Frosinone 10, Lecce 17; yellow cards 0 to 3, red cards 0 for both. Data source: PitchAPI match statistics."
+      }
+    },
     {
       "id": "match-review-4e2fdb8a92a7",
       "title": "蒙扎主场1-4不敌那不勒斯",
@@ -2352,90 +2436,6 @@
         "zh-CN": "斯图加特控球率为70.2%，门兴格拉德巴赫为29.8%；传球数斯图加特696次、门兴279次，传球成功率分别为83.8%和65.6%。射门方面门兴16次、斯图加特15次，射正门兴6次、斯图加特5次。犯规门兴14次、斯图加特9次，黄牌门兴4张、斯图加特2张，红牌双方均为0张；成功过人双方均为5次。数据来源：PitchAPI match statistics。",
         "zh-TW": "斯圖加特控球率為70.2%，門興格拉德巴赫為29.8%；傳球數斯圖加特696次、門興279次，傳球成功率分別為83.8%和65.6%。射門方面門興16次、斯圖加特15次，射正門興6次、斯圖加特5次。犯規門興14次、斯圖加特9次，黃牌門興4張、斯圖加特2張，紅牌雙方均為0張；成功過人雙方均為5次。數據來源：PitchAPI match statistics。",
         "en": "Stuttgart had 70.2% possession, Borussia Mönchengladbach 29.8%; passes were 696 for Stuttgart and 279 for Mönchengladbach, with pass accuracy of 83.8% and 65.6% respectively. In shots, Borussia Mönchengladbach had 16 and Stuttgart 15; shots on target were 6 for Borussia Mönchengladbach and 5 for Stuttgart. Fouls were 14 for Borussia Mönchengladbach and 9 for Stuttgart; yellow cards were 4 for Borussia Mönchengladbach and 2 for Stuttgart, with 0 red cards for both sides; successful dribbles were 5 for both sides. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-91d8f0ef65ea",
-      "title": "皇马主场4-1击败莱比锡，控球与射门全面占优",
-      "summary": "皇家马德里在欧冠比赛中主场4-1战胜莱比锡，控球率、射门和传球等多项数据均领先对手。",
-      "body": "皇家马德里以64%的控球率领先莱比锡的36%，全场射门18次对11次，射正11次对6次。传球方面皇马完成739次、成功率90.1%，莱比锡为401次、87.3%；关键传球14比9，成功过人8比7。犯规13比12，双方各得1张黄牌、均无红牌。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-22T14:59:59.482Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575370"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-22T14:54:46.931233978Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575370"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-22T14:59:52.298683488Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_1LBGR1"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "皇马主场4-1击败莱比锡，控球与射门全面占优",
-        "zh-TW": "皇馬主場4-1擊敗萊比錫，控球與射門全面佔優",
-        "en": "Real Madrid beat Leipzig 4-1 at home, dominating possession and shots"
-      },
-      "localizedSummaries": {
-        "zh-CN": "皇家马德里在欧冠比赛中主场4-1战胜莱比锡，控球率、射门和传球等多项数据均领先对手。",
-        "zh-TW": "皇家馬德里在歐冠比賽中主場4-1戰勝萊比錫，控球率、射門和傳球等多項數據均領先對手。",
-        "en": "Real Madrid defeated Leipzig 4-1 at home in the Champions League, leading in possession, shots, passing and multiple other statistics."
-      },
-      "localizedBodies": {
-        "zh-CN": "皇家马德里以64%的控球率领先莱比锡的36%，全场射门18次对11次，射正11次对6次。传球方面皇马完成739次、成功率90.1%，莱比锡为401次、87.3%；关键传球14比9，成功过人8比7。犯规13比12，双方各得1张黄牌、均无红牌。数据来源：PitchAPI match statistics。",
-        "zh-TW": "皇家馬德里以64%的控球率領先萊比錫的36%，全場射門18次對11次，射正11次對6次。傳球方面皇馬完成739次、成功率90.1%，萊比錫為401次、87.3%；關鍵傳球14比9，成功過人8比7。犯規13比12，雙方各得1張黃牌、均無紅牌。數據來源：PitchAPI match statistics。",
-        "en": "Real Madrid led Leipzig with 64% possession to 36%, with 18 total shots to 11 and 11 shots on target to 6. In passing, Real Madrid completed 739 passes with a 90.1% success rate, while Leipzig had 401 at 87.3%; key passes were 14 to 9, and successful dribbles were 8 to 7. Fouls were 13 to 12, each side received 1 yellow card, and neither had a red card. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-fc3f8518c92f",
-      "title": "莱万特3-1毕尔巴鄂竞技：射正效率与红牌影响下的比分反差",
-      "summary": "莱万特主场3-1击败毕尔巴鄂竞技，尽管控球与射门次数落后，但射正数更高且对手被罚下一人。",
-      "body": "本场比赛莱万特以3-1战胜毕尔巴鄂竞技。技术统计显示，毕尔巴鄂竞技控球率61.8%高于莱万特的38.2%，射门21次也多于莱万特的12次，传球550次对330次、传球成功率83.5%对77.3%均占优。然而莱万特射正7次高于对手的4次，毕尔巴鄂竞技红牌1张而莱万特为0张。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-22T14:59:58.096Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "564685"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-22T14:54:46.931233978Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "564685"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-22T14:59:52.298683488Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0bCfNS"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "莱万特3-1毕尔巴鄂竞技：射正效率与红牌影响下的比分反差",
-        "zh-TW": "萊萬特3-1畢爾包競技：射正效率與紅牌影響下的比分反差",
-        "en": "Levante 3-1 Athletic Bilbao: Scoreline Contrast Under Shooting Accuracy Efficiency and Red Card Impact"
-      },
-      "localizedSummaries": {
-        "zh-CN": "莱万特主场3-1击败毕尔巴鄂竞技，尽管控球与射门次数落后，但射正数更高且对手被罚下一人。",
-        "zh-TW": "萊萬特主場3-1擊敗畢爾包競技，儘管控球與射門次數落後，但射正數更高且對手被罰下一人。",
-        "en": "Levante defeated Athletic Bilbao 3-1 at home; despite trailing in possession and total shots, they had more shots on target and the opponent had a player sent off."
-      },
-      "localizedBodies": {
-        "zh-CN": "本场比赛莱万特以3-1战胜毕尔巴鄂竞技。技术统计显示，毕尔巴鄂竞技控球率61.8%高于莱万特的38.2%，射门21次也多于莱万特的12次，传球550次对330次、传球成功率83.5%对77.3%均占优。然而莱万特射正7次高于对手的4次，毕尔巴鄂竞技红牌1张而莱万特为0张。数据来源：PitchAPI match statistics。",
-        "zh-TW": "本場比賽萊萬特以3-1戰勝畢爾包競技。技術統計顯示，畢爾包競技控球率61.8%高於萊萬特的38.2%，射門21次也多於萊萬特的12次，傳球550次對330次、傳球成功率83.5%對77.3%均佔優。然而萊萬特射正7次高於對手的4次，畢爾包競技紅牌1張而萊萬特為0張。數據來源：PitchAPI match statistics。",
-        "en": "In this match, Levante defeated Athletic Bilbao 3-1. Technical statistics show that Athletic Bilbao had 61.8% possession, higher than Levante's 38.2%, and 21 shots, more than Levante's 12; they also led in passes 550 to 330 and pass success rate 83.5% to 77.3%. However, Levante had 7 shots on target, higher than the opponent's 4, and Athletic Bilbao received 1 red card while Levante received 0. Data source: PitchAPI match statistics."
       }
     },
     {
