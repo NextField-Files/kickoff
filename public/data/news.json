@@ -1,7 +1,91 @@
 {
   "source": "Kickoff",
-  "updatedAt": "2026-10-31T01:36:59.149Z",
+  "updatedAt": "2026-10-31T15:46:08.936Z",
   "items": [
+    {
+      "id": "match-review-4880c22571be",
+      "title": "莱万特0-2马德里竞技：马竞客场取胜，莱万特射门占优难破门",
+      "summary": "马德里竞技客场2-0击败莱万特，尽管莱万特在射门次数上以20比11领先。",
+      "body": "本场比赛马德里竞技以2比0战胜莱万特。技术统计显示，莱万特射门20次、射正4次，马竞射门11次、射正5次；控球率方面，莱万特为46.2%，马竞为53.8%。传球数据上，莱万特完成469次传球、成功率83.8%，马竞完成561次传球、成功率88.1%；关键传球莱万特10次、马竞8次，成功过人莱万特10次、马竞9次，犯规双方均为7次，黄牌和红牌均为0。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-31T15:46:02.713Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "564730"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-31T15:38:29.940775548Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564730"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-31T15:45:58.240643229Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0LxVGC"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "莱万特0-2马德里竞技：马竞客场取胜，莱万特射门占优难破门",
+        "zh-TW": "萊萬特0-2馬德里競技：馬競客場取勝，萊萬特射門佔優難破門",
+        "en": "Levante 0-2 Atletico Madrid: Atletico win away, Levante dominate shots but fail to score"
+      },
+      "localizedSummaries": {
+        "zh-CN": "马德里竞技客场2-0击败莱万特，尽管莱万特在射门次数上以20比11领先。",
+        "zh-TW": "馬德里競技客場2-0擊敗萊萬特，儘管萊萬特在射門次數上以20比11領先。",
+        "en": "Atletico Madrid defeated Levante 2-0 away, despite Levante leading in shots 20 to 11."
+      },
+      "localizedBodies": {
+        "zh-CN": "本场比赛马德里竞技以2比0战胜莱万特。技术统计显示，莱万特射门20次、射正4次，马竞射门11次、射正5次；控球率方面，莱万特为46.2%，马竞为53.8%。传球数据上，莱万特完成469次传球、成功率83.8%，马竞完成561次传球、成功率88.1%；关键传球莱万特10次、马竞8次，成功过人莱万特10次、马竞9次，犯规双方均为7次，黄牌和红牌均为0。数据来源：PitchAPI match statistics。",
+        "zh-TW": "本場比賽馬德里競技以2比0戰勝萊萬特。技術統計顯示，萊萬特射門20次、射正4次，馬競射門11次、射正5次；控球率方面，萊萬特為46.2%，馬競為53.8%。傳球數據上，萊萬特完成469次傳球、成功率83.8%，馬競完成561次傳球、成功率88.1%；關鍵傳球萊萬特10次、馬競8次，成功過人萊萬特10次、馬競9次，犯規雙方均為7次，黃牌和紅牌均為0。數據來源：PitchAPI match statistics。",
+        "en": "In this match, Atletico Madrid defeated Levante 2-0. Technical statistics show that Levante had 20 shots, 4 on target, while Atletico had 11 shots, 5 on target; in terms of possession, Levante had 46.2%, Atletico 53.8%. In passing data, Levante completed 469 passes with a success rate of 83.8%, Atletico completed 561 passes with a success rate of 88.1%; key passes were 10 for Levante and 8 for Atletico, successful dribbles were 10 for Levante and 9 for Atletico, fouls were 7 for both sides, and yellow and red cards were 0 for both. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-8053d07ee694",
+      "title": "切尔西2-0曼联：控球与射门效率占优",
+      "summary": "切尔西主场2比0击败曼联，控球率、射门与射正数均领先对手。",
+      "body": "切尔西以58.6%的控球率占据主动，全场18次射门、9次射正，均高于曼联的12次射门和5次射正。传球方面，切尔西531次、成功率88.7%，曼联370次、成功率77.8%；关键传球14比9。犯规与牌面数据上，曼联20次犯规、4张黄牌和1张红牌，切尔西为8次犯规、1张黄牌。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-31T15:46:00.682Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "560626"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-31T15:38:29.940775548Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560626"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-31T15:45:58.240643229Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0C3yM3"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "切尔西2-0曼联：控球与射门效率占优",
+        "zh-TW": "切爾西2-0曼聯：控球與射門效率佔優",
+        "en": "Chelsea 2-0 Manchester United: Superior Possession and Shooting Efficiency"
+      },
+      "localizedSummaries": {
+        "zh-CN": "切尔西主场2比0击败曼联，控球率、射门与射正数均领先对手。",
+        "zh-TW": "切爾西主場2比0擊敗曼聯，控球率、射門與射正數均領先對手。",
+        "en": "Chelsea defeated Manchester United 2-0 at home, leading in possession, shots, and shots on target."
+      },
+      "localizedBodies": {
+        "zh-CN": "切尔西以58.6%的控球率占据主动，全场18次射门、9次射正，均高于曼联的12次射门和5次射正。传球方面，切尔西531次、成功率88.7%，曼联370次、成功率77.8%；关键传球14比9。犯规与牌面数据上，曼联20次犯规、4张黄牌和1张红牌，切尔西为8次犯规、1张黄牌。数据来源：PitchAPI match statistics。",
+        "zh-TW": "切爾西以58.6%的控球率佔據主動，全場18次射門、9次射正，均高於曼聯的12次射門和5次射正。傳球方面，切爾西531次、成功率88.7%，曼聯370次、成功率77.8%；關鍵傳球14比9。犯規與牌面數據上，曼聯20次犯規、4張黃牌和1張紅牌，切爾西為8次犯規、1張黃牌。數據來源：PitchAPI match statistics。",
+        "en": "Chelsea dominated with 58.6% possession, recording 18 shots and 9 on target, both higher than Manchester United's 12 shots and 5 on target. In passing, Chelsea made 531 passes with an 88.7% success rate, while Manchester United had 370 passes with a 77.8% success rate; key passes were 14 to 9. In fouls and cards, Manchester United committed 20 fouls, received 4 yellow cards and 1 red card, while Chelsea had 8 fouls and 1 yellow card. Data source: PitchAPI match statistics."
+      }
+    },
     {
       "id": "match-review-8015fa642992",
       "title": "里尔1-0朗斯，控球与射门全面占优",
@@ -2436,90 +2520,6 @@
         "zh-CN": "阿斯顿维拉控球率37.3%，曼城62.7%；射门8比15，射正2比7，传球288比520，传球成功率80.2%比88.3%，关键传球7比13，成功过人3比17。犯规方面维拉21次、曼城17次，黄牌各4张，红牌均为0。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
         "zh-TW": "阿斯頓維拉控球率37.3%，曼城62.7%；射門8比15，射正2比7，傳球288比520，傳球成功率80.2%比88.3%，關鍵傳球7比13，成功過人3比17。犯規方面維拉21次、曼城17次，黃牌各4張，紅牌均為0。數據來源：PitchAPI match statistics；比賽按賽事、球隊、日期與確切比分匹配。",
         "en": "Aston Villa had 37.3% possession, Manchester City 62.7%; shots 8 to 15, shots on target 2 to 7, passes 288 to 520, pass accuracy 80.2% to 88.3%, key passes 7 to 13, successful dribbles 3 to 17. In fouls, Villa had 21 and Manchester City 17, each with 4 yellow cards and 0 red cards. Data source: PitchAPI match statistics; the match was matched by competition, team, date, and exact score."
-      }
-    },
-    {
-      "id": "match-review-87352e0b739e",
-      "title": "都灵3-2蒙扎：射门与射正占优助主队取胜",
-      "summary": "都灵主场3-2击败蒙扎，射门17比7、射正7比3均明显占优。",
-      "body": "都灵在控球率上以50.5%对49.5%略占上风，射门17比7、射正7比3、关键传球11比6均领先蒙扎。传球方面都灵458次多于蒙扎的435次，但传球成功率78.6%低于对手的82.1%。犯规都灵8次、蒙扎4次，黄牌都灵1张、蒙扎0张，红牌双方均为0。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-24T00:32:28.779Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "558567"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-24T00:27:13.215180890Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "558567"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-24T00:32:24.313343561Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0pSK27"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "都灵3-2蒙扎：射门与射正占优助主队取胜",
-        "zh-TW": "杜林3-2蒙沙：射門與射正佔優助主隊取勝",
-        "en": "Torino 3-2 Monza: Shooting and shots on target advantage help hosts win"
-      },
-      "localizedSummaries": {
-        "zh-CN": "都灵主场3-2击败蒙扎，射门17比7、射正7比3均明显占优。",
-        "zh-TW": "杜林主場3-2擊敗蒙沙，射門17比7、射正7比3均明顯佔優。",
-        "en": "Torino beat Monza 3-2 at home, with a clear advantage in shots at 17 to 7 and shots on target at 7 to 3."
-      },
-      "localizedBodies": {
-        "zh-CN": "都灵在控球率上以50.5%对49.5%略占上风，射门17比7、射正7比3、关键传球11比6均领先蒙扎。传球方面都灵458次多于蒙扎的435次，但传球成功率78.6%低于对手的82.1%。犯规都灵8次、蒙扎4次，黄牌都灵1张、蒙扎0张，红牌双方均为0。数据来源：PitchAPI match statistics。",
-        "zh-TW": "杜林在控球率上以50.5%對49.5%略佔上風，射門17比7、射正7比3、關鍵傳球11比6均領先蒙沙。傳球方面杜林458次多於蒙沙的435次，但傳球成功率78.6%低於對手的82.1%。犯規杜林8次、蒙沙4次，黃牌杜林1張、蒙沙0張，紅牌雙方均為0。數據來源：PitchAPI match statistics。",
-        "en": "Torino held a slight edge in possession at 50.5% to 49.5%, and led Monza in shots 17 to 7, shots on target 7 to 3, and key passes 11 to 6. In passing, Torino made 458 passes, more than Monza's 435, but their pass success rate of 78.6% was lower than the opponent's 82.1%. Torino committed 8 fouls and Monza 4; Torino received 1 yellow card and Monza 0, with both sides having 0 red cards. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-71dcac343654",
-      "title": "斯图加特主场2-3不敌门兴格拉德巴赫",
-      "summary": "斯图加特控球率高达70.2%，但门兴格拉德巴赫凭借更多射门和射正以3-2客场取胜。",
-      "body": "斯图加特控球率为70.2%，门兴格拉德巴赫为29.8%；传球数斯图加特696次、门兴279次，传球成功率分别为83.8%和65.6%。射门方面门兴16次、斯图加特15次，射正门兴6次、斯图加特5次。犯规门兴14次、斯图加特9次，黄牌门兴4张、斯图加特2张，红牌双方均为0张；成功过人双方均为5次。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-24T00:32:27.042Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "565833"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-24T00:27:13.215180890Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "565833"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-24T00:32:24.313343561Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_00TkE1"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "斯图加特主场2-3不敌门兴格拉德巴赫",
-        "zh-TW": "斯圖加特主場2-3不敵門興格拉德巴赫",
-        "en": "Stuttgart lose 2-3 at home to Borussia Mönchengladbach"
-      },
-      "localizedSummaries": {
-        "zh-CN": "斯图加特控球率高达70.2%，但门兴格拉德巴赫凭借更多射门和射正以3-2客场取胜。",
-        "zh-TW": "斯圖加特控球率高達70.2%，但門興格拉德巴赫憑藉更多射門和射正以3-2客場取勝。",
-        "en": "Stuttgart had 70.2% possession, but Borussia Mönchengladbach won 3-2 away thanks to more shots and shots on target."
-      },
-      "localizedBodies": {
-        "zh-CN": "斯图加特控球率为70.2%，门兴格拉德巴赫为29.8%；传球数斯图加特696次、门兴279次，传球成功率分别为83.8%和65.6%。射门方面门兴16次、斯图加特15次，射正门兴6次、斯图加特5次。犯规门兴14次、斯图加特9次，黄牌门兴4张、斯图加特2张，红牌双方均为0张；成功过人双方均为5次。数据来源：PitchAPI match statistics。",
-        "zh-TW": "斯圖加特控球率為70.2%，門興格拉德巴赫為29.8%；傳球數斯圖加特696次、門興279次，傳球成功率分別為83.8%和65.6%。射門方面門興16次、斯圖加特15次，射正門興6次、斯圖加特5次。犯規門興14次、斯圖加特9次，黃牌門興4張、斯圖加特2張，紅牌雙方均為0張；成功過人雙方均為5次。數據來源：PitchAPI match statistics。",
-        "en": "Stuttgart had 70.2% possession, Borussia Mönchengladbach 29.8%; passes were 696 for Stuttgart and 279 for Mönchengladbach, with pass accuracy of 83.8% and 65.6% respectively. In shots, Borussia Mönchengladbach had 16 and Stuttgart 15; shots on target were 6 for Borussia Mönchengladbach and 5 for Stuttgart. Fouls were 14 for Borussia Mönchengladbach and 9 for Stuttgart; yellow cards were 4 for Borussia Mönchengladbach and 2 for Stuttgart, with 0 red cards for both sides; successful dribbles were 5 for both sides. Data source: PitchAPI match statistics."
       }
     }
   ]

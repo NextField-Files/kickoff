@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "match-review-8053d07ee694",
+      "title": "切尔西2-0曼联：控球与射门效率占优",
+      "summary": "切尔西主场2比0击败曼联，控球率、射门与射正数均领先对手。",
+      "body": "切尔西以58.6%的控球率占据主动，全场18次射门、9次射正，均高于曼联的12次射门和5次射正。传球方面，切尔西531次、成功率88.7%，曼联370次、成功率77.8%；关键传球14比9。犯规与牌面数据上，曼联20次犯规、4张黄牌和1张红牌，切尔西为8次犯规、1张黄牌。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-31T15:46:00.682Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "560626"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-31T15:38:29.940775548Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560626"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-31T15:45:58.240643229Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0C3yM3"
+        }
+      ]
+    },
+    {
+      "id": "match-review-4880c22571be",
+      "title": "莱万特0-2马德里竞技：马竞客场取胜，莱万特射门占优难破门",
+      "summary": "马德里竞技客场2-0击败莱万特，尽管莱万特在射门次数上以20比11领先。",
+      "body": "本场比赛马德里竞技以2比0战胜莱万特。技术统计显示，莱万特射门20次、射正4次，马竞射门11次、射正5次；控球率方面，莱万特为46.2%，马竞为53.8%。传球数据上，莱万特完成469次传球、成功率83.8%，马竞完成561次传球、成功率88.1%；关键传球莱万特10次、马竞8次，成功过人莱万特10次、马竞9次，犯规双方均为7次，黄牌和红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-10-31T15:46:02.713Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564730"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-10-31T15:38:29.940775548Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564730"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-10-31T15:45:58.240643229Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0LxVGC"
+        }
+      ]
+    },
+    {
       "id": "match-review-a171a1836708",
       "title": "勒阿弗尔主场1-5不敌巴黎圣日耳曼",
       "summary": "法甲联赛中，勒阿弗尔主场1比5负于巴黎圣日耳曼。",
@@ -1563,60 +1617,6 @@
           "updatedAt": "2026-10-25T00:17:17.325395696Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_4e2kal"
-        }
-      ]
-    },
-    {
-      "id": "match-review-71dcac343654",
-      "title": "斯图加特主场2-3不敌门兴格拉德巴赫",
-      "summary": "斯图加特控球率高达70.2%，但门兴格拉德巴赫凭借更多射门和射正以3-2客场取胜。",
-      "body": "斯图加特控球率为70.2%，门兴格拉德巴赫为29.8%；传球数斯图加特696次、门兴279次，传球成功率分别为83.8%和65.6%。射门方面门兴16次、斯图加特15次，射正门兴6次、斯图加特5次。犯规门兴14次、斯图加特9次，黄牌门兴4张、斯图加特2张，红牌双方均为0张；成功过人双方均为5次。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-24T00:32:27.042Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "565833"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-24T00:27:13.215180890Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "565833"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-24T00:32:24.313343561Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_00TkE1"
-        }
-      ]
-    },
-    {
-      "id": "match-review-87352e0b739e",
-      "title": "都灵3-2蒙扎：射门与射正占优助主队取胜",
-      "summary": "都灵主场3-2击败蒙扎，射门17比7、射正7比3均明显占优。",
-      "body": "都灵在控球率上以50.5%对49.5%略占上风，射门17比7、射正7比3、关键传球11比6均领先蒙扎。传球方面都灵458次多于蒙扎的435次，但传球成功率78.6%低于对手的82.1%。犯规都灵8次、蒙扎4次，黄牌都灵1张、蒙扎0张，红牌双方均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-24T00:32:28.779Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "558567"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-24T00:27:13.215180890Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "558567"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-24T00:32:24.313343561Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0pSK27"
         }
       ]
     }

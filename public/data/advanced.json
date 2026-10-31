@@ -5,12 +5,12 @@
   "leagues" : {
     "英超" : {
       "season" : "2026/2027",
-      "finishedMatches" : 80,
-      "teamStatsMatches" : 80,
-      "playerStatsMatches" : 80,
-      "advancedTeamMatches" : 80,
-      "advancedPlayerMatches" : 80,
-      "cardEventsMatches" : 80,
+      "finishedMatches" : 81,
+      "teamStatsMatches" : 81,
+      "playerStatsMatches" : 81,
+      "advancedTeamMatches" : 81,
+      "advancedPlayerMatches" : 81,
+      "cardEventsMatches" : 81,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_1iaglr",
@@ -145,28 +145,28 @@
       }, {
         "id" : "t_4R934X",
         "name" : "Chelsea",
-        "games" : 8,
+        "games" : 9,
         "values" : {
-          "goals" : 17.0,
+          "goals" : 19.0,
           "goalsAgainst" : 15.0,
-          "cleanSheets" : 1.0,
-          "saves" : 33.0,
-          "fouls" : 79.0,
+          "cleanSheets" : 2.0,
+          "saves" : 36.0,
+          "fouls" : 87.0,
           "redCards" : 1.0,
-          "yellowCards" : 15.0,
-          "offsides" : 10.0,
-          "shotsOnTarget" : 43.0,
-          "shots" : 107.0,
-          "passes" : 3220.0,
-          "keyPasses" : 76.0,
-          "dribblesAttempted" : 113.0,
-          "dribblesCompleted" : 54.0,
-          "tackles" : 126.0,
-          "interceptions" : 128.0,
-          "clearances" : 212.0,
-          "passAccuracy" : 82.1,
-          "possession" : 46.5,
-          "shotsPerGame" : 13.4
+          "yellowCards" : 16.0,
+          "offsides" : 13.0,
+          "shotsOnTarget" : 52.0,
+          "shots" : 125.0,
+          "passes" : 3751.0,
+          "keyPasses" : 90.0,
+          "dribblesAttempted" : 129.0,
+          "dribblesCompleted" : 59.0,
+          "tackles" : 147.0,
+          "interceptions" : 154.0,
+          "clearances" : 223.0,
+          "passAccuracy" : 83.1,
+          "possession" : 47.8,
+          "shotsPerGame" : 13.9
         }
       }, {
         "id" : "t_0C4xyR",
@@ -405,28 +405,28 @@
       }, {
         "id" : "t_2I313i",
         "name" : "Manchester United",
-        "games" : 8,
+        "games" : 9,
         "values" : {
           "goals" : 10.0,
-          "goalsAgainst" : 13.0,
+          "goalsAgainst" : 15.0,
           "cleanSheets" : 0.0,
-          "saves" : 22.0,
-          "fouls" : 80.0,
-          "redCards" : 0.0,
-          "yellowCards" : 16.0,
-          "offsides" : 15.0,
-          "shotsOnTarget" : 40.0,
-          "shots" : 155.0,
-          "passes" : 4227.0,
-          "keyPasses" : 108.0,
-          "dribblesAttempted" : 134.0,
-          "dribblesCompleted" : 61.0,
-          "tackles" : 126.0,
-          "interceptions" : 130.0,
-          "clearances" : 159.0,
-          "passAccuracy" : 83.9,
-          "possession" : 56.1,
-          "shotsPerGame" : 19.4
+          "saves" : 29.0,
+          "fouls" : 100.0,
+          "redCards" : 1.0,
+          "yellowCards" : 20.0,
+          "offsides" : 17.0,
+          "shotsOnTarget" : 45.0,
+          "shots" : 167.0,
+          "passes" : 4597.0,
+          "keyPasses" : 117.0,
+          "dribblesAttempted" : 146.0,
+          "dribblesCompleted" : 65.0,
+          "tackles" : 148.0,
+          "interceptions" : 146.0,
+          "clearances" : 177.0,
+          "passAccuracy" : 83.4,
+          "possession" : 54.5,
+          "shotsPerGame" : 18.6
         }
       }, {
         "id" : "t_2eQl9k",
@@ -1008,25 +1008,25 @@
         "name" : "Amad Diallo",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 5.0,
-          "fouls" : 1.0,
-          "passes" : 65.0,
+          "shotsOnTarget" : 3.0,
+          "shots" : 9.0,
+          "fouls" : 3.0,
+          "passes" : 87.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 8.0,
-          "dribblesCompleted" : 3.0,
-          "tackles" : 6.0,
+          "dribblesAttempted" : 10.0,
+          "dribblesCompleted" : 5.0,
+          "tackles" : 7.0,
           "interceptions" : 3.0,
-          "clearances" : 1.0,
+          "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
-          "passAccuracy" : 87.7,
-          "appearances" : 3
+          "passAccuracy" : 87.4,
+          "appearances" : 4
         }
       }, {
         "id" : "p_4T4Wun",
@@ -1142,24 +1142,24 @@
         "name" : "Andrey Santos",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 4.0,
-          "passes" : 178.0,
+          "fouls" : 6.0,
+          "passes" : 206.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 9.0,
-          "interceptions" : 6.0,
-          "clearances" : 9.0,
+          "tackles" : 11.0,
+          "interceptions" : 9.0,
+          "clearances" : 12.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 1.0,
-          "passAccuracy" : 88.8,
-          "appearances" : 8
+          "shots" : 2.0,
+          "passAccuracy" : 87.9,
+          "appearances" : 9
         }
       }, {
         "id" : "p_4KuRne",
@@ -1429,24 +1429,25 @@
         "name" : "Ayden Heaven",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
           "fouls" : 2.0,
-          "passes" : 119.0,
+          "passes" : 129.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 3.0,
-          "interceptions" : 1.0,
-          "clearances" : 7.0,
+          "interceptions" : 2.0,
+          "clearances" : 8.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 88.3,
-          "appearances" : 6
+          "offsides" : 1.0,
+          "passAccuracy" : 88.4,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4HZ7pT",
@@ -2018,24 +2019,24 @@
         "name" : "Bruno Fernandes",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 1.0,
           "goals" : 3.0,
           "shotsOnTarget" : 6.0,
-          "shots" : 23.0,
-          "fouls" : 5.0,
-          "passes" : 407.0,
-          "keyPasses" : 18.0,
+          "shots" : 25.0,
+          "fouls" : 7.0,
+          "passes" : 467.0,
+          "keyPasses" : 21.0,
           "dribblesAttempted" : 10.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 6.0,
+          "tackles" : 9.0,
           "interceptions" : 5.0,
           "clearances" : 3.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 79.4,
-          "appearances" : 8
+          "passAccuracy" : 77.7,
+          "appearances" : 9
         }
       }, {
         "id" : "p_1csDgb",
@@ -2066,25 +2067,25 @@
         "name" : "Bryan Mbeumo",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 0.0,
           "goals" : 4.0,
-          "shotsOnTarget" : 11.0,
-          "shots" : 26.0,
+          "shotsOnTarget" : 12.0,
+          "shots" : 27.0,
           "offsides" : 3.0,
           "fouls" : 7.0,
-          "passes" : 226.0,
-          "keyPasses" : 10.0,
-          "dribblesAttempted" : 19.0,
+          "passes" : 243.0,
+          "keyPasses" : 12.0,
+          "dribblesAttempted" : 21.0,
           "dribblesCompleted" : 7.0,
-          "tackles" : 6.0,
-          "interceptions" : 9.0,
-          "clearances" : 2.0,
-          "yellowCards" : 1.0,
+          "tackles" : 8.0,
+          "interceptions" : 11.0,
+          "clearances" : 3.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 79.6,
-          "appearances" : 8
+          "passAccuracy" : 79.0,
+          "appearances" : 9
         }
       }, {
         "id" : "p_402hSM",
@@ -2277,24 +2278,24 @@
         "name" : "Carlos Baleba",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 4.0,
-          "fouls" : 3.0,
-          "passes" : 89.0,
+          "shots" : 5.0,
+          "fouls" : 5.0,
+          "passes" : 122.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 4.0,
-          "interceptions" : 9.0,
-          "clearances" : 2.0,
-          "passAccuracy" : 87.7,
-          "appearances" : 4
+          "tackles" : 5.0,
+          "interceptions" : 10.0,
+          "clearances" : 3.0,
+          "passAccuracy" : 83.6,
+          "appearances" : 5
         }
       }, {
         "id" : "p_1cMVcm",
@@ -2667,25 +2668,25 @@
         "name" : "Cole Palmer",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 3.0,
-          "goals" : 2.0,
-          "shotsOnTarget" : 7.0,
-          "shots" : 25.0,
+          "goals" : 3.0,
+          "shotsOnTarget" : 8.0,
+          "shots" : 28.0,
           "offsides" : 1.0,
-          "fouls" : 10.0,
-          "passes" : 252.0,
-          "keyPasses" : 17.0,
-          "dribblesAttempted" : 23.0,
-          "dribblesCompleted" : 11.0,
-          "tackles" : 10.0,
-          "interceptions" : 9.0,
+          "fouls" : 11.0,
+          "passes" : 309.0,
+          "keyPasses" : 20.0,
+          "dribblesAttempted" : 25.0,
+          "dribblesCompleted" : 12.0,
+          "tackles" : 12.0,
+          "interceptions" : 12.0,
           "clearances" : 1.0,
           "yellowCards" : 4.0,
           "redCards" : 1.0,
           "passAccuracy" : 79.0,
-          "appearances" : 8
+          "appearances" : 9
         }
       }, {
         "id" : "p_3eqjYM",
@@ -3028,14 +3029,14 @@
         "name" : "Danny Welbeck",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 1.0,
-          "passes" : 23.0,
+          "passes" : 27.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -3043,8 +3044,8 @@
           "interceptions" : 0.0,
           "clearances" : 1.0,
           "offsides" : 1.0,
-          "passAccuracy" : 91.3,
-          "appearances" : 8
+          "passAccuracy" : 92.6,
+          "appearances" : 9
         }
       }, {
         "id" : "p_1umqro",
@@ -3344,25 +3345,25 @@
         "name" : "Diogo Dalot",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 8.0,
-          "passes" : 284.0,
+          "fouls" : 9.0,
+          "passes" : 320.0,
           "keyPasses" : 11.0,
-          "dribblesAttempted" : 18.0,
+          "dribblesAttempted" : 21.0,
           "dribblesCompleted" : 7.0,
-          "tackles" : 14.0,
-          "interceptions" : 11.0,
-          "clearances" : 16.0,
+          "tackles" : 17.0,
+          "interceptions" : 14.0,
+          "clearances" : 18.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 9.0,
           "offsides" : 1.0,
-          "passAccuracy" : 76.1,
-          "appearances" : 8
+          "passAccuracy" : 75.9,
+          "appearances" : 9
         }
       }, {
         "id" : "p_1LnhdW",
@@ -3617,6 +3618,17 @@
           "appearances" : 6
         }
       }, {
+        "id" : "p_0iIXaZ",
+        "name" : "Emanuel Emegha",
+        "team" : "Chelsea",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "appearances" : 1
+        }
+      }, {
         "id" : "p_0hro26",
         "name" : "Emersonn",
         "team" : "Ipswich Town",
@@ -3816,25 +3828,25 @@
         "name" : "Estêvão",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 0.0,
-          "passes" : 22.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 1.0,
-          "interceptions" : 0.0,
-          "clearances" : 0.0,
+          "fouls" : 1.0,
+          "passes" : 48.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 6.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 2.0,
+          "interceptions" : 3.0,
+          "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 3.0,
-          "offsides" : 1.0,
-          "passAccuracy" : 77.3,
-          "appearances" : 8
+          "shotsOnTarget" : 5.0,
+          "shots" : 9.0,
+          "offsides" : 3.0,
+          "passAccuracy" : 79.2,
+          "appearances" : 9
         }
       }, {
         "id" : "p_1v8BB3",
@@ -4273,13 +4285,13 @@
         "name" : "Geovany Quenda",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "offsides" : 1.0,
           "fouls" : 1.0,
-          "passes" : 29.0,
+          "passes" : 31.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 1.0,
@@ -4290,8 +4302,8 @@
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "passAccuracy" : 75.9,
-          "appearances" : 7
+          "passAccuracy" : 77.4,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1ZvdSK",
@@ -4493,24 +4505,24 @@
         "name" : "Harry Maguire",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 9.0,
-          "fouls" : 7.0,
-          "passes" : 457.0,
+          "fouls" : 8.0,
+          "passes" : 492.0,
           "keyPasses" : 4.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 3.0,
-          "tackles" : 7.0,
-          "interceptions" : 16.0,
-          "clearances" : 33.0,
-          "yellowCards" : 3.0,
+          "tackles" : 9.0,
+          "interceptions" : 18.0,
+          "clearances" : 37.0,
+          "yellowCards" : 4.0,
           "redCards" : 0.0,
-          "passAccuracy" : 88.6,
-          "appearances" : 8
+          "passAccuracy" : 88.0,
+          "appearances" : 9
         }
       }, {
         "id" : "p_1ZH6lJ",
@@ -6071,23 +6083,25 @@
         "name" : "Josh Acheampong",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "offsides" : 1.0,
           "fouls" : 4.0,
-          "passes" : 169.0,
+          "passes" : 229.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 6.0,
+          "dribblesAttempted" : 7.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 17.0,
-          "interceptions" : 6.0,
+          "tackles" : 21.0,
+          "interceptions" : 9.0,
           "clearances" : 22.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 79.3,
-          "appearances" : 8
+          "shotsOnTarget" : 1.0,
+          "shots" : 2.0,
+          "passAccuracy" : 82.5,
+          "appearances" : 9
         }
       }, {
         "id" : "p_49iGOa",
@@ -6129,24 +6143,24 @@
         "name" : "Joshua Zirkzee",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
-          "yellowCards" : 0.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 1.0,
-          "passes" : 37.0,
+          "fouls" : 3.0,
+          "passes" : 38.0,
           "keyPasses" : 3.0,
-          "dribblesAttempted" : 5.0,
+          "dribblesAttempted" : 6.0,
           "dribblesCompleted" : 3.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
           "clearances" : 2.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 2.0,
-          "passAccuracy" : 73.0,
-          "appearances" : 8
+          "shotsOnTarget" : 1.0,
+          "shots" : 4.0,
+          "passAccuracy" : 73.7,
+          "appearances" : 9
         }
       }, {
         "id" : "p_179WVr",
@@ -6558,11 +6572,11 @@
         "name" : "Karl Darlow",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 8
+          "appearances" : 9
         }
       }, {
         "id" : "p_3W6Pvb",
@@ -6782,24 +6796,24 @@
         "name" : "Kobbie Mainoo",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 6.0,
-          "fouls" : 5.0,
-          "passes" : 358.0,
+          "fouls" : 6.0,
+          "passes" : 372.0,
           "keyPasses" : 6.0,
-          "dribblesAttempted" : 12.0,
-          "dribblesCompleted" : 9.0,
+          "dribblesAttempted" : 13.0,
+          "dribblesCompleted" : 10.0,
           "tackles" : 8.0,
-          "interceptions" : 13.0,
-          "clearances" : 3.0,
-          "yellowCards" : 0.0,
+          "interceptions" : 14.0,
+          "clearances" : 4.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 92.5,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_3GDs05",
@@ -6933,24 +6947,24 @@
         "name" : "Leny Yoro",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 1.0,
-          "passes" : 138.0,
-          "keyPasses" : 2.0,
+          "fouls" : 3.0,
+          "passes" : 170.0,
+          "keyPasses" : 4.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 8.0,
-          "interceptions" : 11.0,
-          "clearances" : 14.0,
+          "tackles" : 11.0,
+          "interceptions" : 12.0,
+          "clearances" : 17.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 87.0,
-          "appearances" : 8
+          "passAccuracy" : 87.7,
+          "appearances" : 9
         }
       }, {
         "id" : "p_3wtVNW",
@@ -6992,24 +7006,24 @@
         "name" : "Levi Colwill",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "fouls" : 6.0,
-          "passes" : 326.0,
-          "keyPasses" : 1.0,
+          "fouls" : 8.0,
+          "passes" : 382.0,
+          "keyPasses" : 2.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 7.0,
-          "interceptions" : 4.0,
-          "clearances" : 36.0,
+          "tackles" : 8.0,
+          "interceptions" : 5.0,
+          "clearances" : 41.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 87.7,
-          "appearances" : 8
+          "passAccuracy" : 88.2,
+          "appearances" : 9
         }
       }, {
         "id" : "p_4D5fmn",
@@ -7222,25 +7236,25 @@
         "name" : "Lisandro Martínez",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
-          "yellowCards" : 1.0,
-          "redCards" : 0.0,
+          "yellowCards" : 3.0,
+          "redCards" : 1.0,
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 3.0,
           "shots" : 8.0,
-          "fouls" : 5.0,
-          "passes" : 358.0,
-          "keyPasses" : 1.0,
+          "fouls" : 8.0,
+          "passes" : 382.0,
+          "keyPasses" : 2.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 5.0,
-          "interceptions" : 10.0,
+          "tackles" : 6.0,
+          "interceptions" : 11.0,
           "clearances" : 25.0,
           "offsides" : 1.0,
-          "passAccuracy" : 89.4,
-          "appearances" : 8
+          "passAccuracy" : 88.7,
+          "appearances" : 9
         }
       }, {
         "id" : "p_1ut8bp",
@@ -7539,7 +7553,7 @@
         "name" : "Mahdi Nicoll-Jazuli",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -7554,7 +7568,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 88.9,
-          "appearances" : 3
+          "appearances" : 4
         }
       }, {
         "id" : "p_1E46UG",
@@ -7656,14 +7670,14 @@
         "name" : "Malo Gusto",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 1.0,
-          "passes" : 113.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 1.0,
+          "passes" : 121.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 4.0,
           "interceptions" : 6.0,
@@ -7672,8 +7686,8 @@
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 79.7,
-          "appearances" : 7
+          "passAccuracy" : 80.2,
+          "appearances" : 8
         }
       }, {
         "id" : "p_042RVg",
@@ -7795,22 +7809,22 @@
         "name" : "Marco Palestra",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 12.0,
+          "passes" : 28.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 0.0,
+          "tackles" : 2.0,
           "interceptions" : 2.0,
-          "clearances" : 1.0,
+          "clearances" : 2.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 50.0,
-          "appearances" : 3
+          "passAccuracy" : 71.4,
+          "appearances" : 4
         }
       }, {
         "id" : "p_4Ic9OK",
@@ -7970,7 +7984,7 @@
         "name" : "Mason Mount",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -7978,16 +7992,16 @@
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 5.0,
-          "fouls" : 2.0,
-          "passes" : 73.0,
+          "fouls" : 3.0,
+          "passes" : 82.0,
           "keyPasses" : 4.0,
-          "dribblesAttempted" : 6.0,
+          "dribblesAttempted" : 7.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 3.0,
+          "tackles" : 4.0,
           "interceptions" : 2.0,
           "clearances" : 0.0,
-          "passAccuracy" : 83.6,
-          "appearances" : 6
+          "passAccuracy" : 85.4,
+          "appearances" : 7
         }
       }, {
         "id" : "p_0znJBB",
@@ -8040,24 +8054,25 @@
         "name" : "Matheus Cunha",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 2.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 5.0,
-          "shots" : 17.0,
-          "fouls" : 9.0,
-          "passes" : 212.0,
-          "keyPasses" : 10.0,
-          "dribblesAttempted" : 11.0,
-          "dribblesCompleted" : 4.0,
-          "tackles" : 9.0,
-          "interceptions" : 5.0,
+          "shotsOnTarget" : 6.0,
+          "shots" : 18.0,
+          "fouls" : 10.0,
+          "passes" : 240.0,
+          "keyPasses" : 11.0,
+          "dribblesAttempted" : 13.0,
+          "dribblesCompleted" : 5.0,
+          "tackles" : 12.0,
+          "interceptions" : 6.0,
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 80.2,
-          "appearances" : 8
+          "offsides" : 1.0,
+          "passAccuracy" : 79.6,
+          "appearances" : 9
         }
       }, {
         "id" : "p_2ayszD",
@@ -8302,11 +8317,11 @@
         "name" : "Matthijs de Ligt",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 2
+          "appearances" : 3
         }
       }, {
         "id" : "p_4XqTah",
@@ -8613,21 +8628,21 @@
         "name" : "Mike Penders",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
-          "yellowCards" : 0.0,
+          "yellowCards" : 1.0,
           "redCards" : 0.0,
           "fouls" : 0.0,
-          "saves" : 4.0,
-          "passes" : 39.0,
+          "saves" : 7.0,
+          "passes" : 62.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
-          "passAccuracy" : 61.5,
-          "appearances" : 8
+          "passAccuracy" : 71.0,
+          "appearances" : 9
         }
       }, {
         "id" : "p_3oy7bN",
@@ -8843,24 +8858,24 @@
         "name" : "Moisés Caicedo",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 4,
+        "appearances" : 5,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 5.0,
-          "passes" : 148.0,
+          "fouls" : 6.0,
+          "passes" : 200.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 2.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 6.0,
-          "interceptions" : 9.0,
+          "dribblesAttempted" : 5.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 8.0,
+          "interceptions" : 10.0,
           "clearances" : 6.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 90.5,
-          "appearances" : 4
+          "passAccuracy" : 92.0,
+          "appearances" : 5
         }
       }, {
         "id" : "p_2GtD0C",
@@ -8892,25 +8907,25 @@
         "name" : "Morgan Rogers",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 1.0,
-          "goals" : 4.0,
-          "shotsOnTarget" : 6.0,
-          "shots" : 20.0,
-          "fouls" : 9.0,
-          "passes" : 231.0,
-          "keyPasses" : 12.0,
-          "dribblesAttempted" : 19.0,
-          "dribblesCompleted" : 10.0,
-          "tackles" : 12.0,
-          "interceptions" : 5.0,
-          "clearances" : 9.0,
+          "goals" : 5.0,
+          "shotsOnTarget" : 7.0,
+          "shots" : 21.0,
+          "fouls" : 10.0,
+          "passes" : 269.0,
+          "keyPasses" : 15.0,
+          "dribblesAttempted" : 21.0,
+          "dribblesCompleted" : 11.0,
+          "tackles" : 14.0,
+          "interceptions" : 6.0,
+          "clearances" : 11.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "offsides" : 3.0,
-          "passAccuracy" : 74.9,
-          "appearances" : 8
+          "offsides" : 4.0,
+          "passAccuracy" : 75.5,
+          "appearances" : 9
         }
       }, {
         "id" : "p_3T1uZc",
@@ -9387,7 +9402,7 @@
         "name" : "Noussair Mazraoui",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -9404,7 +9419,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 88.3,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_0MAF8j",
@@ -9477,6 +9492,17 @@
           "shots" : 4.0,
           "passAccuracy" : 79.6,
           "appearances" : 8
+        }
+      }, {
+        "id" : "p_1rMhBj",
+        "name" : "Olutayo Subuloye",
+        "team" : "Chelsea",
+        "position" : null,
+        "appearances" : 1,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "appearances" : 1
         }
       }, {
         "id" : "p_10c5bX",
@@ -9698,25 +9724,25 @@
         "name" : "Pedro Neto",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 1.0,
           "goals" : 3.0,
-          "shotsOnTarget" : 10.0,
-          "shots" : 14.0,
+          "shotsOnTarget" : 12.0,
+          "shots" : 17.0,
           "fouls" : 10.0,
-          "passes" : 186.0,
+          "passes" : 208.0,
           "keyPasses" : 12.0,
-          "dribblesAttempted" : 21.0,
+          "dribblesAttempted" : 22.0,
           "dribblesCompleted" : 11.0,
-          "tackles" : 13.0,
-          "interceptions" : 9.0,
+          "tackles" : 14.0,
+          "interceptions" : 10.0,
           "clearances" : 8.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 77.9,
-          "appearances" : 8
+          "passAccuracy" : 79.3,
+          "appearances" : 9
         }
       }, {
         "id" : "p_0nWmNM",
@@ -9747,24 +9773,24 @@
         "name" : "Pep Chavarría",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
           "fouls" : 4.0,
-          "passes" : 152.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 2.0,
+          "passes" : 161.0,
+          "keyPasses" : 3.0,
+          "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 5.0,
-          "interceptions" : 6.0,
+          "interceptions" : 7.0,
           "clearances" : 12.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "passAccuracy" : 78.9,
-          "appearances" : 6
+          "passAccuracy" : 80.1,
+          "appearances" : 7
         }
       }, {
         "id" : "p_3pVR6Q",
@@ -10259,24 +10285,24 @@
         "name" : "Roméo Lavia",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
-          "assists" : 0.0,
+          "assists" : 1.0,
           "goals" : 1.0,
           "shotsOnTarget" : 2.0,
           "shots" : 2.0,
-          "fouls" : 2.0,
-          "passes" : 115.0,
-          "keyPasses" : 1.0,
+          "fouls" : 4.0,
+          "passes" : 186.0,
+          "keyPasses" : 3.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 2.0,
-          "tackles" : 7.0,
-          "interceptions" : 12.0,
+          "tackles" : 12.0,
+          "interceptions" : 19.0,
           "clearances" : 4.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 86.1,
-          "appearances" : 8
+          "passAccuracy" : 88.2,
+          "appearances" : 9
         }
       }, {
         "id" : "p_3YD9No",
@@ -10634,11 +10660,11 @@
         "name" : "Senne Lammens",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 22.0,
-          "passes" : 185.0,
+          "saves" : 29.0,
+          "passes" : 206.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -10647,8 +10673,8 @@
           "clearances" : 4.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 71.9,
-          "appearances" : 8
+          "passAccuracy" : 71.4,
+          "appearances" : 9
         }
       }, {
         "id" : "p_4J7Nnr",
@@ -10704,7 +10730,7 @@
         "name" : "Shea Lacey",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -10721,7 +10747,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
           "passAccuracy" : 63.1,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_36ZgEk",
@@ -11003,11 +11029,11 @@
         "name" : "Teddy Sharman-Lowe",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 1
+          "appearances" : 2
         }
       }, {
         "id" : "p_1RfpBt",
@@ -11420,24 +11446,24 @@
         "name" : "Valentín Barco",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 2.0,
+          "shots" : 3.0,
           "fouls" : 2.0,
-          "passes" : 83.0,
+          "passes" : 99.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 3.0,
+          "tackles" : 4.0,
           "interceptions" : 5.0,
           "clearances" : 0.0,
-          "passAccuracy" : 88.0,
-          "appearances" : 7
+          "passAccuracy" : 87.9,
+          "appearances" : 8
         }
       }, {
         "id" : "p_4U79m4",
@@ -11664,22 +11690,24 @@
         "name" : "Wesley Fofana",
         "team" : "Chelsea",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 4.0,
-          "passes" : 162.0,
+          "passes" : 233.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
           "tackles" : 7.0,
-          "interceptions" : 13.0,
-          "clearances" : 27.0,
+          "interceptions" : 18.0,
+          "clearances" : 29.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.7,
-          "appearances" : 7
+          "shotsOnTarget" : 1.0,
+          "shots" : 2.0,
+          "passAccuracy" : 90.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_3ZBhGa",
@@ -11900,7 +11928,7 @@
         "name" : "Youri Tielemans",
         "team" : "Manchester United",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
@@ -11917,7 +11945,7 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 87.0,
-          "appearances" : 8
+          "appearances" : 9
         }
       }, {
         "id" : "p_2xoong",
@@ -12163,12 +12191,12 @@
     },
     "西甲" : {
       "season" : "2026/2027",
-      "finishedMatches" : 100,
-      "teamStatsMatches" : 100,
-      "playerStatsMatches" : 100,
-      "advancedTeamMatches" : 100,
-      "advancedPlayerMatches" : 100,
-      "cardEventsMatches" : 100,
+      "finishedMatches" : 101,
+      "teamStatsMatches" : 101,
+      "playerStatsMatches" : 101,
+      "advancedTeamMatches" : 101,
+      "advancedPlayerMatches" : 101,
+      "cardEventsMatches" : 101,
       "discardedInconsistentMetricPairs" : 0,
       "teams" : [ {
         "id" : "t_3kZPrE",
@@ -12199,28 +12227,28 @@
       }, {
         "id" : "t_3NIiXl",
         "name" : "Atlético Madrid",
-        "games" : 10,
+        "games" : 11,
         "values" : {
-          "goals" : 20.0,
+          "goals" : 22.0,
           "goalsAgainst" : 8.0,
-          "cleanSheets" : 5.0,
-          "saves" : 25.0,
-          "fouls" : 120.0,
+          "cleanSheets" : 6.0,
+          "saves" : 29.0,
+          "fouls" : 127.0,
           "redCards" : 1.0,
           "yellowCards" : 24.0,
-          "offsides" : 19.0,
-          "shotsOnTarget" : 62.0,
-          "shots" : 180.0,
-          "passes" : 5835.0,
-          "keyPasses" : 136.0,
-          "dribblesAttempted" : 192.0,
-          "dribblesCompleted" : 94.0,
-          "tackles" : 166.0,
-          "interceptions" : 170.0,
-          "clearances" : 159.0,
-          "passAccuracy" : 87.6,
-          "possession" : 59.3,
-          "shotsPerGame" : 18.0
+          "offsides" : 24.0,
+          "shotsOnTarget" : 67.0,
+          "shots" : 191.0,
+          "passes" : 6396.0,
+          "keyPasses" : 144.0,
+          "dribblesAttempted" : 213.0,
+          "dribblesCompleted" : 103.0,
+          "tackles" : 180.0,
+          "interceptions" : 182.0,
+          "clearances" : 196.0,
+          "passAccuracy" : 87.7,
+          "possession" : 58.8,
+          "shotsPerGame" : 17.4
         }
       }, {
         "id" : "t_32jSEF",
@@ -12407,28 +12435,28 @@
       }, {
         "id" : "t_0NnBSa",
         "name" : "Levante",
-        "games" : 10,
+        "games" : 11,
         "values" : {
           "goals" : 16.0,
-          "goalsAgainst" : 19.0,
+          "goalsAgainst" : 21.0,
           "cleanSheets" : 2.0,
-          "saves" : 32.0,
-          "fouls" : 105.0,
+          "saves" : 35.0,
+          "fouls" : 112.0,
           "redCards" : 0.0,
           "yellowCards" : 15.0,
-          "offsides" : 9.0,
-          "shotsOnTarget" : 43.0,
-          "shots" : 113.0,
-          "passes" : 3745.0,
-          "keyPasses" : 59.0,
-          "dribblesAttempted" : 130.0,
-          "dribblesCompleted" : 57.0,
-          "tackles" : 182.0,
-          "interceptions" : 143.0,
-          "clearances" : 251.0,
-          "passAccuracy" : 79.7,
-          "possession" : 43.0,
-          "shotsPerGame" : 11.3
+          "offsides" : 10.0,
+          "shotsOnTarget" : 47.0,
+          "shots" : 133.0,
+          "passes" : 4214.0,
+          "keyPasses" : 69.0,
+          "dribblesAttempted" : 152.0,
+          "dribblesCompleted" : 67.0,
+          "tackles" : 198.0,
+          "interceptions" : 155.0,
+          "clearances" : 267.0,
+          "passAccuracy" : 80.2,
+          "possession" : 43.2,
+          "shotsPerGame" : 12.1
         }
       }, {
         "id" : "t_2DcXQn",
@@ -12966,15 +12994,15 @@
         "name" : "Ademola Lookman",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "assists" : 0.0,
           "goals" : 1.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 14.0,
+          "shots" : 15.0,
           "offsides" : 4.0,
           "fouls" : 9.0,
-          "passes" : 197.0,
+          "passes" : 199.0,
           "keyPasses" : 12.0,
           "dribblesAttempted" : 22.0,
           "dribblesCompleted" : 4.0,
@@ -12983,8 +13011,8 @@
           "clearances" : 0.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "passAccuracy" : 82.2,
-          "appearances" : 10
+          "passAccuracy" : 82.4,
+          "appearances" : 11
         }
       }, {
         "id" : "p_25FTzK",
@@ -13039,14 +13067,14 @@
         "name" : "Adrián De La Fuente",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "assists" : 0.0,
           "goals" : 2.0,
           "shotsOnTarget" : 5.0,
-          "shots" : 14.0,
+          "shots" : 16.0,
           "fouls" : 7.0,
-          "passes" : 467.0,
+          "passes" : 503.0,
           "keyPasses" : 3.0,
           "dribblesAttempted" : 2.0,
           "dribblesCompleted" : 1.0,
@@ -13055,8 +13083,8 @@
           "clearances" : 35.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
-          "passAccuracy" : 81.1,
-          "appearances" : 8
+          "passAccuracy" : 79.9,
+          "appearances" : 9
         }
       }, {
         "id" : "p_0L5oe5",
@@ -13406,24 +13434,24 @@
         "name" : "Alejandro Grimaldo",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "assists" : 2.0,
-          "goals" : 3.0,
-          "shotsOnTarget" : 7.0,
-          "shots" : 14.0,
+          "goals" : 4.0,
+          "shotsOnTarget" : 9.0,
+          "shots" : 16.0,
           "fouls" : 7.0,
-          "passes" : 425.0,
+          "passes" : 481.0,
           "keyPasses" : 13.0,
-          "dribblesAttempted" : 25.0,
-          "dribblesCompleted" : 12.0,
+          "dribblesAttempted" : 27.0,
+          "dribblesCompleted" : 13.0,
           "tackles" : 22.0,
           "interceptions" : 10.0,
-          "clearances" : 13.0,
-          "passAccuracy" : 84.5,
-          "appearances" : 10
+          "clearances" : 16.0,
+          "passAccuracy" : 85.2,
+          "appearances" : 11
         }
       }, {
         "id" : "p_0leK0x",
@@ -13605,24 +13633,25 @@
         "name" : "Alexander Sørloth",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 3.0,
-          "fouls" : 1.0,
-          "passes" : 14.0,
+          "fouls" : 3.0,
+          "passes" : 19.0,
           "keyPasses" : 0.0,
-          "dribblesAttempted" : 0.0,
+          "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
-          "interceptions" : 1.0,
-          "clearances" : 0.0,
+          "interceptions" : 2.0,
+          "clearances" : 2.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 64.3,
-          "appearances" : 3
+          "offsides" : 1.0,
+          "passAccuracy" : 68.4,
+          "appearances" : 4
         }
       }, {
         "id" : "p_3bkewS",
@@ -14301,7 +14330,7 @@
         "name" : "Arnau Ortiz",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -14319,7 +14348,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
           "passAccuracy" : 88.5,
-          "appearances" : 10
+          "appearances" : 11
         }
       }, {
         "id" : "p_3hxRNA",
@@ -14504,7 +14533,7 @@
         "name" : "Axel Tape",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -14519,7 +14548,7 @@
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "passAccuracy" : 100.0,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_0cimtz",
@@ -14576,25 +14605,25 @@
         "name" : "Aïssa Mandi",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
-          "fouls" : 3.0,
-          "passes" : 366.0,
-          "keyPasses" : 1.0,
+          "fouls" : 4.0,
+          "passes" : 434.0,
+          "keyPasses" : 2.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 11.0,
-          "interceptions" : 13.0,
-          "clearances" : 35.0,
+          "tackles" : 14.0,
+          "interceptions" : 15.0,
+          "clearances" : 38.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 93.2,
-          "appearances" : 10
+          "passAccuracy" : 93.6,
+          "appearances" : 11
         }
       }, {
         "id" : "p_0bZqpK",
@@ -15307,7 +15336,7 @@
         "name" : "Cristian Romero",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 2.0,
           "redCards" : 0.0,
@@ -15324,7 +15353,7 @@
           "interceptions" : 6.0,
           "clearances" : 20.0,
           "passAccuracy" : 93.3,
-          "appearances" : 7
+          "appearances" : 8
         }
       }, {
         "id" : "p_3AYq63",
@@ -15446,7 +15475,7 @@
         "name" : "Dani Martínez",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -15463,7 +15492,7 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 85.4,
-          "appearances" : 10
+          "appearances" : 11
         }
       }, {
         "id" : "p_4VY2QR",
@@ -15520,24 +15549,24 @@
         "name" : "Dani Requena",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "goals" : 1.0,
           "assists" : 1.0,
-          "fouls" : 13.0,
-          "passes" : 138.0,
+          "fouls" : 14.0,
+          "passes" : 166.0,
           "keyPasses" : 2.0,
-          "dribblesAttempted" : 10.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 16.0,
-          "interceptions" : 3.0,
-          "clearances" : 7.0,
-          "shotsOnTarget" : 3.0,
-          "shots" : 6.0,
-          "passAccuracy" : 85.5,
-          "appearances" : 9
+          "dribblesAttempted" : 11.0,
+          "dribblesCompleted" : 3.0,
+          "tackles" : 22.0,
+          "interceptions" : 4.0,
+          "clearances" : 10.0,
+          "shotsOnTarget" : 4.0,
+          "shots" : 8.0,
+          "passAccuracy" : 86.2,
+          "appearances" : 10
         }
       }, {
         "id" : "p_4a4mVh",
@@ -15977,25 +16006,25 @@
         "name" : "Dávid Hancko",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "assists" : 2.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
           "shots" : 12.0,
-          "fouls" : 2.0,
-          "passes" : 599.0,
-          "keyPasses" : 4.0,
+          "fouls" : 3.0,
+          "passes" : 677.0,
+          "keyPasses" : 5.0,
           "dribblesAttempted" : 7.0,
           "dribblesCompleted" : 7.0,
           "tackles" : 13.0,
-          "interceptions" : 15.0,
-          "clearances" : 35.0,
+          "interceptions" : 16.0,
+          "clearances" : 43.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "offsides" : 1.0,
-          "passAccuracy" : 90.3,
-          "appearances" : 10
+          "offsides" : 2.0,
+          "passAccuracy" : 90.4,
+          "appearances" : 11
         }
       }, {
         "id" : "p_2jPMvc",
@@ -16271,24 +16300,24 @@
         "name" : "Etta Eyong",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "assists" : 1.0,
           "goals" : 1.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 4.0,
-          "fouls" : 5.0,
-          "passes" : 18.0,
+          "shots" : 8.0,
+          "fouls" : 6.0,
+          "passes" : 28.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 0.0,
+          "dribblesAttempted" : 3.0,
+          "dribblesCompleted" : 1.0,
           "tackles" : 1.0,
           "interceptions" : 0.0,
           "clearances" : 0.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "passAccuracy" : 50.0,
-          "appearances" : 5
+          "passAccuracy" : 53.6,
+          "appearances" : 6
         }
       }, {
         "id" : "p_1yuYMp",
@@ -17084,25 +17113,25 @@
         "name" : "Giuliano Simeone",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
-          "goals" : 2.0,
+          "goals" : 3.0,
           "assists" : 2.0,
-          "fouls" : 10.0,
-          "passes" : 331.0,
+          "fouls" : 11.0,
+          "passes" : 379.0,
           "keyPasses" : 11.0,
-          "dribblesAttempted" : 14.0,
-          "dribblesCompleted" : 4.0,
-          "tackles" : 21.0,
-          "interceptions" : 20.0,
-          "clearances" : 5.0,
+          "dribblesAttempted" : 18.0,
+          "dribblesCompleted" : 5.0,
+          "tackles" : 22.0,
+          "interceptions" : 24.0,
+          "clearances" : 6.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 3.0,
-          "shots" : 13.0,
-          "offsides" : 6.0,
-          "passAccuracy" : 78.5,
-          "appearances" : 10
+          "shotsOnTarget" : 4.0,
+          "shots" : 15.0,
+          "offsides" : 8.0,
+          "passAccuracy" : 78.9,
+          "appearances" : 11
         }
       }, {
         "id" : "p_3dblaq",
@@ -17501,7 +17530,7 @@
         "name" : "Hugo Sotelo",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -17518,7 +17547,7 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 74.1,
-          "appearances" : 6
+          "appearances" : 7
         }
       }, {
         "id" : "p_1nwcrb",
@@ -17669,24 +17698,24 @@
         "name" : "Ifeanyi Ndukwe",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 2.0,
-          "passes" : 243.0,
+          "passes" : 296.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
-          "tackles" : 5.0,
-          "interceptions" : 7.0,
-          "clearances" : 33.0,
+          "tackles" : 8.0,
+          "interceptions" : 9.0,
+          "clearances" : 37.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 1.0,
-          "passAccuracy" : 89.7,
-          "appearances" : 9
+          "shots" : 2.0,
+          "passAccuracy" : 90.2,
+          "appearances" : 10
         }
       }, {
         "id" : "p_1CvGXp",
@@ -18082,25 +18111,25 @@
         "name" : "Iván Romero",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "assists" : 0.0,
           "goals" : 3.0,
-          "shotsOnTarget" : 11.0,
-          "shots" : 21.0,
-          "fouls" : 10.0,
-          "passes" : 157.0,
-          "keyPasses" : 6.0,
-          "dribblesAttempted" : 19.0,
-          "dribblesCompleted" : 8.0,
+          "shotsOnTarget" : 12.0,
+          "shots" : 22.0,
+          "fouls" : 11.0,
+          "passes" : 189.0,
+          "keyPasses" : 7.0,
+          "dribblesAttempted" : 21.0,
+          "dribblesCompleted" : 9.0,
           "tackles" : 13.0,
-          "interceptions" : 6.0,
-          "clearances" : 3.0,
+          "interceptions" : 8.0,
+          "clearances" : 5.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
-          "passAccuracy" : 77.7,
-          "appearances" : 10
+          "passAccuracy" : 77.8,
+          "appearances" : 11
         }
       }, {
         "id" : "p_3DN9k2",
@@ -18228,21 +18257,21 @@
         "name" : "Jan Oblak",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 25.0,
-          "passes" : 246.0,
+          "saves" : 29.0,
+          "passes" : 270.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 0.0,
           "interceptions" : 0.0,
-          "clearances" : 1.0,
+          "clearances" : 2.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 83.7,
-          "appearances" : 10
+          "passAccuracy" : 84.4,
+          "appearances" : 11
         }
       }, {
         "id" : "p_1JoLZM",
@@ -18548,25 +18577,25 @@
         "name" : "Jeremy Toljan",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
           "fouls" : 4.0,
-          "passes" : 139.0,
-          "keyPasses" : 2.0,
+          "passes" : 160.0,
+          "keyPasses" : 4.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 2.0,
           "tackles" : 5.0,
-          "interceptions" : 6.0,
+          "interceptions" : 7.0,
           "clearances" : 17.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
           "shotsOnTarget" : 0.0,
           "shots" : 4.0,
-          "passAccuracy" : 64.7,
-          "appearances" : 10
+          "passAccuracy" : 66.2,
+          "appearances" : 11
         }
       }, {
         "id" : "p_1mavE3",
@@ -18929,24 +18958,24 @@
         "name" : "Jon Olasagasti",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 1.0,
           "assists" : 1.0,
-          "fouls" : 9.0,
-          "passes" : 347.0,
-          "keyPasses" : 10.0,
+          "fouls" : 11.0,
+          "passes" : 407.0,
+          "keyPasses" : 11.0,
           "dribblesAttempted" : 9.0,
           "dribblesCompleted" : 5.0,
-          "tackles" : 22.0,
+          "tackles" : 24.0,
           "interceptions" : 11.0,
-          "clearances" : 8.0,
+          "clearances" : 11.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 3.0,
-          "shots" : 10.0,
-          "passAccuracy" : 71.2,
-          "appearances" : 10
+          "shots" : 13.0,
+          "passAccuracy" : 73.5,
+          "appearances" : 11
         }
       }, {
         "id" : "p_1K9k9i",
@@ -18999,7 +19028,7 @@
         "name" : "Jonathan David",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
@@ -19008,16 +19037,16 @@
           "shotsOnTarget" : 9.0,
           "shots" : 14.0,
           "fouls" : 1.0,
-          "passes" : 71.0,
+          "passes" : 75.0,
           "keyPasses" : 9.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 2.0,
+          "tackles" : 3.0,
           "interceptions" : 4.0,
           "clearances" : 2.0,
           "offsides" : 2.0,
-          "passAccuracy" : 81.7,
-          "appearances" : 7
+          "passAccuracy" : 80.0,
+          "appearances" : 8
         }
       }, {
         "id" : "p_18Y1ro",
@@ -19109,11 +19138,11 @@
         "name" : "Jorge Cabello",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 10
+          "appearances" : 11
         }
       }, {
         "id" : "p_4GngHd",
@@ -19153,7 +19182,7 @@
         "name" : "Jorge Domínguez",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -19168,7 +19197,7 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 81.2,
-          "appearances" : 10
+          "appearances" : 11
         }
       }, {
         "id" : "p_1xpyhn",
@@ -19663,11 +19692,11 @@
         "name" : "Juan Musso",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 10
+          "appearances" : 11
         }
       }, {
         "id" : "p_4A3eca",
@@ -19789,15 +19818,15 @@
         "name" : "Julián Álvarez",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 6,
+        "appearances" : 7,
         "values" : {
           "assists" : 1.0,
           "goals" : 1.0,
-          "shotsOnTarget" : 6.0,
-          "shots" : 15.0,
+          "shotsOnTarget" : 7.0,
+          "shots" : 16.0,
           "fouls" : 3.0,
-          "passes" : 131.0,
-          "keyPasses" : 7.0,
+          "passes" : 150.0,
+          "keyPasses" : 9.0,
           "dribblesAttempted" : 20.0,
           "dribblesCompleted" : 13.0,
           "tackles" : 2.0,
@@ -19805,8 +19834,8 @@
           "clearances" : 0.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 90.9,
-          "appearances" : 6
+          "passAccuracy" : 90.0,
+          "appearances" : 7
         }
       }, {
         "id" : "p_4XjiPA",
@@ -19859,25 +19888,25 @@
         "name" : "Kang-In Lee",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "assists" : 1.0,
           "goals" : 2.0,
           "shotsOnTarget" : 7.0,
-          "shots" : 25.0,
+          "shots" : 27.0,
           "fouls" : 13.0,
-          "passes" : 336.0,
+          "passes" : 371.0,
           "keyPasses" : 15.0,
-          "dribblesAttempted" : 24.0,
-          "dribblesCompleted" : 16.0,
-          "tackles" : 11.0,
+          "dribblesAttempted" : 30.0,
+          "dribblesCompleted" : 17.0,
+          "tackles" : 12.0,
           "interceptions" : 8.0,
           "clearances" : 3.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 82.1,
-          "appearances" : 10
+          "passAccuracy" : 82.8,
+          "appearances" : 11
         }
       }, {
         "id" : "p_04Degh",
@@ -20538,11 +20567,11 @@
         "name" : "Manel Usedo",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 2,
+        "appearances" : 3,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 2
+          "appearances" : 3
         }
       }, {
         "id" : "p_2S0Iwy",
@@ -20770,7 +20799,7 @@
         "name" : "Marc Pubill",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "yellowCards" : 3.0,
           "redCards" : 0.0,
@@ -20778,17 +20807,17 @@
           "goals" : 1.0,
           "shotsOnTarget" : 1.0,
           "shots" : 4.0,
-          "fouls" : 8.0,
-          "passes" : 385.0,
+          "fouls" : 9.0,
+          "passes" : 451.0,
           "keyPasses" : 2.0,
           "dribblesAttempted" : 4.0,
           "dribblesCompleted" : 1.0,
-          "tackles" : 7.0,
-          "interceptions" : 5.0,
-          "clearances" : 15.0,
+          "tackles" : 9.0,
+          "interceptions" : 7.0,
+          "clearances" : 23.0,
           "offsides" : 1.0,
-          "passAccuracy" : 90.7,
-          "appearances" : 10
+          "passAccuracy" : 90.9,
+          "appearances" : 11
         }
       }, {
         "id" : "p_3ChaJd",
@@ -20819,22 +20848,22 @@
         "name" : "Marc Santos",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 0.0,
-          "passes" : 3.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 0.0,
+          "passes" : 14.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 3.0,
+          "dribblesCompleted" : 1.0,
           "tackles" : 1.0,
           "interceptions" : 1.0,
           "clearances" : 1.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 66.7,
-          "appearances" : 8
+          "passAccuracy" : 92.9,
+          "appearances" : 9
         }
       }, {
         "id" : "p_4KCGQu",
@@ -20913,25 +20942,25 @@
         "name" : "Marcos Llorente",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
-          "fouls" : 10.0,
-          "passes" : 532.0,
-          "keyPasses" : 8.0,
-          "dribblesAttempted" : 8.0,
-          "dribblesCompleted" : 6.0,
-          "tackles" : 17.0,
+          "fouls" : 12.0,
+          "passes" : 605.0,
+          "keyPasses" : 9.0,
+          "dribblesAttempted" : 10.0,
+          "dribblesCompleted" : 7.0,
+          "tackles" : 22.0,
           "interceptions" : 18.0,
-          "clearances" : 11.0,
+          "clearances" : 15.0,
           "yellowCards" : 1.0,
           "redCards" : 0.0,
-          "shotsOnTarget" : 5.0,
-          "shots" : 7.0,
+          "shotsOnTarget" : 6.0,
+          "shots" : 8.0,
           "offsides" : 1.0,
-          "passAccuracy" : 91.5,
-          "appearances" : 10
+          "passAccuracy" : 91.2,
+          "appearances" : 11
         }
       }, {
         "id" : "p_05WFSG",
@@ -21150,11 +21179,11 @@
         "name" : "Mathew Ryan",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "fouls" : 0.0,
-          "saves" : 32.0,
-          "passes" : 333.0,
+          "saves" : 35.0,
+          "passes" : 358.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 0.0,
           "dribblesCompleted" : 0.0,
@@ -21163,8 +21192,8 @@
           "clearances" : 8.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 80.8,
-          "appearances" : 10
+          "passAccuracy" : 81.0,
+          "appearances" : 11
         }
       }, {
         "id" : "p_0IwfKy",
@@ -21511,24 +21540,25 @@
         "name" : "Morten Hjulmand",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 5.0,
-          "passes" : 365.0,
+          "passes" : 416.0,
           "keyPasses" : 9.0,
-          "dribblesAttempted" : 3.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 9.0,
-          "interceptions" : 18.0,
-          "clearances" : 12.0,
+          "dribblesAttempted" : 4.0,
+          "dribblesCompleted" : 3.0,
+          "tackles" : 10.0,
+          "interceptions" : 20.0,
+          "clearances" : 16.0,
           "yellowCards" : 2.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 7.0,
-          "passAccuracy" : 91.5,
-          "appearances" : 10
+          "shots" : 8.0,
+          "offsides" : 1.0,
+          "passAccuracy" : 91.1,
+          "appearances" : 11
         }
       }, {
         "id" : "p_0Paqes",
@@ -21594,24 +21624,24 @@
         "name" : "Nacho Pérez",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 4.0,
-          "passes" : 181.0,
+          "passes" : 217.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 4.0,
-          "dribblesCompleted" : 1.0,
+          "dribblesAttempted" : 9.0,
+          "dribblesCompleted" : 3.0,
           "tackles" : 14.0,
-          "interceptions" : 12.0,
+          "interceptions" : 13.0,
           "clearances" : 27.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 3.0,
           "shots" : 4.0,
-          "passAccuracy" : 72.4,
-          "appearances" : 10
+          "passAccuracy" : 73.3,
+          "appearances" : 11
         }
       }, {
         "id" : "p_3MtcQk",
@@ -21908,11 +21938,11 @@
         "name" : "Obed Vargas",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 5,
+        "appearances" : 6,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 5
+          "appearances" : 6
         }
       }, {
         "id" : "p_3gbLbQ",
@@ -22023,12 +22053,12 @@
         "name" : "Oriol Rey",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
           "fouls" : 8.0,
-          "passes" : 246.0,
+          "passes" : 278.0,
           "keyPasses" : 1.0,
           "dribblesAttempted" : 3.0,
           "dribblesCompleted" : 0.0,
@@ -22038,9 +22068,9 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "passAccuracy" : 85.0,
-          "appearances" : 10
+          "shots" : 2.0,
+          "passAccuracy" : 86.3,
+          "appearances" : 11
         }
       }, {
         "id" : "p_3Sy6aW",
@@ -22118,35 +22148,35 @@
         "name" : "Pablo Barrios",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "goals" : 0.0,
           "assists" : 1.0,
           "fouls" : 3.0,
-          "passes" : 356.0,
-          "keyPasses" : 8.0,
-          "dribblesAttempted" : 12.0,
-          "dribblesCompleted" : 9.0,
-          "tackles" : 8.0,
-          "interceptions" : 14.0,
-          "clearances" : 1.0,
+          "passes" : 409.0,
+          "keyPasses" : 9.0,
+          "dribblesAttempted" : 16.0,
+          "dribblesCompleted" : 12.0,
+          "tackles" : 11.0,
+          "interceptions" : 15.0,
+          "clearances" : 3.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "shotsOnTarget" : 2.0,
           "shots" : 6.0,
-          "passAccuracy" : 87.1,
-          "appearances" : 7
+          "passAccuracy" : 87.5,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1ehBkD",
         "name" : "Pablo Campos",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 10
+          "appearances" : 11
         }
       }, {
         "id" : "p_0wecLh",
@@ -22348,7 +22378,7 @@
         "name" : "Paco Cortés",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
@@ -22365,7 +22395,7 @@
           "shotsOnTarget" : 1.0,
           "shots" : 2.0,
           "passAccuracy" : 78.3,
-          "appearances" : 10
+          "appearances" : 11
         }
       }, {
         "id" : "p_06e99R",
@@ -22686,24 +22716,24 @@
         "name" : "Petar Ratkov",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 7,
+        "appearances" : 8,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 1.0,
-          "shots" : 4.0,
+          "shots" : 5.0,
           "fouls" : 1.0,
-          "passes" : 47.0,
+          "passes" : 53.0,
           "keyPasses" : 1.0,
-          "dribblesAttempted" : 3.0,
-          "dribblesCompleted" : 1.0,
+          "dribblesAttempted" : 4.0,
+          "dribblesCompleted" : 2.0,
           "tackles" : 0.0,
-          "interceptions" : 3.0,
+          "interceptions" : 4.0,
           "clearances" : 2.0,
-          "passAccuracy" : 68.1,
-          "appearances" : 7
+          "passAccuracy" : 71.7,
+          "appearances" : 8
         }
       }, {
         "id" : "p_1IsGxW",
@@ -23201,24 +23231,24 @@
         "name" : "Robin Le Normand",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "goals" : 1.0,
           "assists" : 0.0,
           "fouls" : 5.0,
-          "passes" : 203.0,
+          "passes" : 207.0,
           "keyPasses" : 0.0,
           "dribblesAttempted" : 1.0,
           "dribblesCompleted" : 0.0,
           "tackles" : 5.0,
-          "interceptions" : 6.0,
-          "clearances" : 22.0,
+          "interceptions" : 7.0,
+          "clearances" : 26.0,
           "yellowCards" : 1.0,
           "redCards" : 1.0,
           "shotsOnTarget" : 1.0,
           "shots" : 1.0,
-          "passAccuracy" : 93.1,
-          "appearances" : 9
+          "passAccuracy" : 92.8,
+          "appearances" : 10
         }
       }, {
         "id" : "p_4DmyDE",
@@ -23282,7 +23312,7 @@
         "name" : "Rodrigo Mendoza",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 0.0,
           "goals" : 0.0,
@@ -23299,7 +23329,7 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 84.0,
-          "appearances" : 9
+          "appearances" : 10
         }
       }, {
         "id" : "p_1kBAo2",
@@ -23331,24 +23361,25 @@
         "name" : "Roger Brugué",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 1.0,
           "goals" : 5.0,
-          "shotsOnTarget" : 8.0,
-          "shots" : 19.0,
+          "shotsOnTarget" : 10.0,
+          "shots" : 23.0,
           "fouls" : 8.0,
-          "passes" : 158.0,
+          "passes" : 179.0,
           "keyPasses" : 3.0,
-          "dribblesAttempted" : 9.0,
-          "dribblesCompleted" : 3.0,
+          "dribblesAttempted" : 12.0,
+          "dribblesCompleted" : 4.0,
           "tackles" : 12.0,
-          "interceptions" : 8.0,
-          "clearances" : 8.0,
+          "interceptions" : 9.0,
+          "clearances" : 9.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "passAccuracy" : 69.6,
-          "appearances" : 9
+          "offsides" : 1.0,
+          "passAccuracy" : 70.4,
+          "appearances" : 10
         }
       }, {
         "id" : "p_4740yL",
@@ -23579,11 +23610,11 @@
         "name" : "Salvi Esquivel",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 3,
+        "appearances" : 4,
         "values" : {
           "yellowCards" : 0.0,
           "redCards" : 0.0,
-          "appearances" : 3
+          "appearances" : 4
         }
       }, {
         "id" : "p_49cj9A",
@@ -24063,25 +24094,25 @@
         "name" : "Thiago Fernández",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 9,
+        "appearances" : 10,
         "values" : {
           "assists" : 1.0,
           "goals" : 0.0,
           "shotsOnTarget" : 2.0,
-          "shots" : 13.0,
+          "shots" : 14.0,
           "fouls" : 3.0,
-          "passes" : 152.0,
-          "keyPasses" : 8.0,
-          "dribblesAttempted" : 29.0,
-          "dribblesCompleted" : 15.0,
-          "tackles" : 11.0,
-          "interceptions" : 8.0,
+          "passes" : 163.0,
+          "keyPasses" : 9.0,
+          "dribblesAttempted" : 35.0,
+          "dribblesCompleted" : 17.0,
+          "tackles" : 13.0,
+          "interceptions" : 9.0,
           "clearances" : 4.0,
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "offsides" : 1.0,
-          "passAccuracy" : 74.3,
-          "appearances" : 9
+          "passAccuracy" : 71.2,
+          "appearances" : 10
         }
       }, {
         "id" : "p_3oOvTy",
@@ -24594,13 +24625,13 @@
         "name" : "Víctor García",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
           "goals" : 0.0,
           "assists" : 0.0,
-          "fouls" : 7.0,
-          "passes" : 91.0,
-          "keyPasses" : 6.0,
+          "fouls" : 8.0,
+          "passes" : 110.0,
+          "keyPasses" : 8.0,
           "dribblesAttempted" : 9.0,
           "dribblesCompleted" : 5.0,
           "tackles" : 4.0,
@@ -24610,8 +24641,8 @@
           "redCards" : 0.0,
           "shotsOnTarget" : 0.0,
           "shots" : 2.0,
-          "passAccuracy" : 69.2,
-          "appearances" : 10
+          "passAccuracy" : 71.8,
+          "appearances" : 11
         }
       }, {
         "id" : "p_32XImW",
@@ -24794,7 +24825,7 @@
         "name" : "Yanis Musuayi",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 8,
+        "appearances" : 9,
         "values" : {
           "yellowCards" : 1.0,
           "redCards" : 0.0,
@@ -24811,7 +24842,7 @@
           "shotsOnTarget" : 0.0,
           "shots" : 1.0,
           "passAccuracy" : 54.5,
-          "appearances" : 8
+          "appearances" : 9
         }
       }, {
         "id" : "p_4gGVvq",
@@ -25070,11 +25101,11 @@
         "name" : "p_1McM3G",
         "team" : "Levante",
         "position" : null,
-        "appearances" : 1,
+        "appearances" : 2,
         "values" : {
-          "yellowCards" : 1.0,
+          "yellowCards" : 2.0,
           "redCards" : 0.0,
-          "appearances" : 1
+          "appearances" : 2
         }
       }, {
         "id" : "p_1oVJYK",
@@ -25169,25 +25200,25 @@
         "name" : "Álex Baena",
         "team" : "Atlético Madrid",
         "position" : null,
-        "appearances" : 10,
+        "appearances" : 11,
         "values" : {
-          "assists" : 2.0,
+          "assists" : 3.0,
           "goals" : 5.0,
           "shotsOnTarget" : 10.0,
-          "shots" : 22.0,
+          "shots" : 23.0,
           "fouls" : 15.0,
-          "passes" : 335.0,
-          "keyPasses" : 21.0,
-          "dribblesAttempted" : 16.0,
-          "dribblesCompleted" : 3.0,
+          "passes" : 378.0,
+          "keyPasses" : 24.0,
+          "dribblesAttempted" : 17.0,
+          "dribblesCompleted" : 4.0,
           "tackles" : 5.0,
           "interceptions" : 14.0,
           "clearances" : 3.0,
           "yellowCards" : 3.0,
           "redCards" : 0.0,
           "offsides" : 2.0,
-          "passAccuracy" : 80.3,
-          "appearances" : 10
+          "passAccuracy" : 80.2,
+          "appearances" : 11
         }
       }, {
         "id" : "p_0T2a0M",
@@ -81863,6 +81894,6 @@
       } ]
     }
   },
-  "requestCount" : 2322,
-  "updatedAt" : "2026-10-31T01:36:34.200621638Z"
+  "requestCount" : 2332,
+  "updatedAt" : "2026-10-31T15:45:58.240643229Z"
 }
