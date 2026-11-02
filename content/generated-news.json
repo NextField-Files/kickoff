@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "match-review-d8432784e463",
+      "title": "萨索洛主场2-4不敌佛罗伦萨",
+      "summary": "萨索洛主场2比4负于佛罗伦萨，控球占优但射门与射正明显落后。",
+      "body": "萨索洛以58.1%的控球率高于佛罗伦萨的41.9%，传球554次、传球成功率85.6%也均高于对手的392次和82.4%。但佛罗伦萨射门15次、射正6次，明显多于萨索洛的7次和2次，关键传球以10比6领先。萨索洛成功过人9次多于对手的5次，犯规12次少于佛罗伦萨的15次，黄牌为2比3，双方均无红牌。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-02T20:07:44.784Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558541"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-02T20:00:31.878500888Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558541"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-02T20:07:41.851356600Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_32m5m0"
+        }
+      ]
+    },
+    {
       "id": "match-review-dadfb5d44e51",
       "title": "桑坦德竞技0-3皇家马德里：皇马客场完胜，数据全面占优",
       "summary": "皇家马德里客场3-0击败桑坦德竞技，射门、射正、控球率与关键传球等多项数据均领先主队。",
@@ -1590,33 +1617,6 @@
           "updatedAt": "2026-10-26T00:08:30.082109266Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_1LrBNT"
-        }
-      ]
-    },
-    {
-      "id": "match-review-5ba2277965f8",
-      "title": "赫尔城1-1布伦特福德：控球与射正占优，布伦特福德客场战平",
-      "summary": "赫尔城与布伦特福德在英超比赛中1-1握手言和，布伦特福德在控球率、射门和射正等多项统计上占优。",
-      "body": "本场比赛最终以1-1结束。技术统计显示，布伦特福德控球率为58.2%，高于赫尔城的41.8%；射门14次对12次，射正6次对2次，传球450次对325次，传球成功率81.3%对69.2%，关键传球11次对7次。赫尔城在成功过人上以13次对8次占优，犯规10次对9次，黄牌0张对1张，红牌双方均为0张。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-26T00:08:39.519Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "560619"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-26T00:02:25.635243935Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "560619"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-26T00:08:30.082109266Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0Eg1F3"
         }
       ]
     }

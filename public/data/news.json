@@ -1,7 +1,49 @@
 {
   "source": "Kickoff",
-  "updatedAt": "2026-11-02T01:34:07.268Z",
+  "updatedAt": "2026-11-02T20:07:48.303Z",
   "items": [
+    {
+      "id": "match-review-d8432784e463",
+      "title": "萨索洛主场2-4不敌佛罗伦萨",
+      "summary": "萨索洛主场2比4负于佛罗伦萨，控球占优但射门与射正明显落后。",
+      "body": "萨索洛以58.1%的控球率高于佛罗伦萨的41.9%，传球554次、传球成功率85.6%也均高于对手的392次和82.4%。但佛罗伦萨射门15次、射正6次，明显多于萨索洛的7次和2次，关键传球以10比6领先。萨索洛成功过人9次多于对手的5次，犯规12次少于佛罗伦萨的15次，黄牌为2比3，双方均无红牌。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-02T20:07:44.784Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558541"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-02T20:00:31.878500888Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558541"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-02T20:07:41.851356600Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_32m5m0"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "萨索洛主场2-4不敌佛罗伦萨",
+        "zh-TW": "薩索洛主場2-4不敵佛羅倫薩",
+        "en": "Sassuolo lost 2-4 to Fiorentina at home"
+      },
+      "localizedSummaries": {
+        "zh-CN": "萨索洛主场2比4负于佛罗伦萨，控球占优但射门与射正明显落后。",
+        "zh-TW": "薩索洛主場2比4負於佛羅倫薩，控球佔優但射門與射正明顯落後。",
+        "en": "Sassuolo lost 2-4 to Fiorentina at home, dominating possession but clearly trailing in shots and shots on target."
+      },
+      "localizedBodies": {
+        "zh-CN": "萨索洛以58.1%的控球率高于佛罗伦萨的41.9%，传球554次、传球成功率85.6%也均高于对手的392次和82.4%。但佛罗伦萨射门15次、射正6次，明显多于萨索洛的7次和2次，关键传球以10比6领先。萨索洛成功过人9次多于对手的5次，犯规12次少于佛罗伦萨的15次，黄牌为2比3，双方均无红牌。数据来源：PitchAPI match statistics。",
+        "zh-TW": "薩索洛以58.1%的控球率高於佛羅倫薩的41.9%，傳球554次、傳球成功率85.6%也均高於對手的392次和82.4%。但佛羅倫薩射門15次、射正6次，明顯多於薩索洛的7次和2次，關鍵傳球以10比6領先。薩索洛成功過人9次多於對手的5次，犯規12次少於佛羅倫薩的15次，黃牌為2比3，雙方均無紅牌。數據來源：PitchAPI match statistics。",
+        "en": "Sassuolo had 58.1% possession, higher than Fiorentina's 41.9%, and also led in passes with 554 and pass success rate of 85.6% compared to the opponent's 392 and 82.4%. However, Fiorentina had 15 shots and 6 on target, significantly more than Sassuolo's 7 and 2, and led in key passes 10 to 6. Sassuolo completed 9 successful dribbles, more than the opponent's 5, committed 12 fouls, fewer than Fiorentina's 15, and received 2 yellow cards to 3, with no red cards for either side. Data source: PitchAPI match statistics."
+      }
+    },
     {
       "id": "match-review-936e902fcd63",
       "title": "毕尔巴鄂竞技2-1皇家社会：控球落后仍取胜",
@@ -2310,48 +2352,6 @@
         "zh-CN": "巴黎圣日耳曼以2比0战胜里昂。控球率方面，巴黎圣日耳曼为67.9%，里昂为32.1%。射门17比8、射正10比5，传球756比341，传球成功率92.1%比85.9%，关键传球15比7，成功过人7比4，巴黎圣日耳曼在上述各项均占优；犯规8比14，里昂更多，黄牌2比1，红牌均为0。数据来源：PitchAPI match statistics。",
         "zh-TW": "巴黎聖日耳曼以2比0戰勝里昂。控球率方面，巴黎聖日耳曼為67.9%，里昂為32.1%。射門17比8、射正10比5，傳球756比341，傳球成功率92.1%比85.9%，關鍵傳球15比7，成功過人7比4，巴黎聖日耳曼在上述各項均佔優；犯規8比14，里昂更多，黃牌2比1，紅牌均為0。數據來源：PitchAPI match statistics。",
         "en": "Paris Saint-Germain defeated Lyon 2-0. In terms of possession, Paris Saint-Germain had 67.9%, Lyon 32.1%. Shots 17 to 8, shots on target 10 to 5, passes 756 to 341, pass accuracy 92.1% to 85.9%, key passes 15 to 7, successful dribbles 7 to 4; Paris Saint-Germain led in all the above categories; fouls 8 to 14, Lyon had more, yellow cards 2 to 1, red cards 0 for both. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-5ba2277965f8",
-      "title": "赫尔城1-1布伦特福德：控球与射正占优，布伦特福德客场战平",
-      "summary": "赫尔城与布伦特福德在英超比赛中1-1握手言和，布伦特福德在控球率、射门和射正等多项统计上占优。",
-      "body": "本场比赛最终以1-1结束。技术统计显示，布伦特福德控球率为58.2%，高于赫尔城的41.8%；射门14次对12次，射正6次对2次，传球450次对325次，传球成功率81.3%对69.2%，关键传球11次对7次。赫尔城在成功过人上以13次对8次占优，犯规10次对9次，黄牌0张对1张，红牌双方均为0张。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-10-26T00:08:39.519Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "560619"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-10-26T00:02:25.635243935Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "560619"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-10-26T00:08:30.082109266Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0Eg1F3"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "赫尔城1-1布伦特福德：控球与射正占优，布伦特福德客场战平",
-        "zh-TW": "赫爾城1-1布倫特福德：控球與射正佔優，布倫特福德客場戰平",
-        "en": "Hull City 1-1 Brentford: Brentford draw away despite dominating possession and shots on target"
-      },
-      "localizedSummaries": {
-        "zh-CN": "赫尔城与布伦特福德在英超比赛中1-1握手言和，布伦特福德在控球率、射门和射正等多项统计上占优。",
-        "zh-TW": "赫爾城與布倫特福德在英超比賽中1-1握手言和，布倫特福德在控球率、射門和射正等多項統計上佔優。",
-        "en": "Hull City and Brentford drew 1-1 in the Premier League, with Brentford leading in possession, shots, shots on target and several other statistics."
-      },
-      "localizedBodies": {
-        "zh-CN": "本场比赛最终以1-1结束。技术统计显示，布伦特福德控球率为58.2%，高于赫尔城的41.8%；射门14次对12次，射正6次对2次，传球450次对325次，传球成功率81.3%对69.2%，关键传球11次对7次。赫尔城在成功过人上以13次对8次占优，犯规10次对9次，黄牌0张对1张，红牌双方均为0张。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-        "zh-TW": "本場比賽最終以1-1結束。技術統計顯示，布倫特福德控球率為58.2%，高於赫爾城的41.8%；射門14次對12次，射正6次對2次，傳球450次對325次，傳球成功率81.3%對69.2%，關鍵傳球11次對7次。赫爾城在成功過人上以13次對8次佔優，犯規10次對9次，黃牌0張對1張，紅牌雙方均為0張。數據來源：PitchAPI match statistics；比賽按賽事、球隊、日期與確切比分匹配。",
-        "en": "The match ended 1-1. Technical statistics show Brentford had 58.2% possession, higher than Hull City's 41.8%; shots 14 to 12, shots on target 6 to 2, passes 450 to 325, pass accuracy 81.3% to 69.2%, key passes 11 to 7. Hull City led in successful dribbles 13 to 8, fouls 10 to 9, yellow cards 0 to 1, and both teams had 0 red cards. Data source: PitchAPI match statistics; the match was matched by competition, teams, date and exact score."
       }
     },
     {
