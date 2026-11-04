@@ -1,9 +1,9 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-11-04T02:06:13.281038236Z",
+  "updatedAt" : "2026-11-04T17:47:27.832052996Z",
   "range" : {
-    "from" : "2026-10-27",
-    "to" : "2026-11-04"
+    "to" : "2026-11-04",
+    "from" : "2026-10-27"
   },
   "matches" : [ {
     "id" : "575379",
@@ -10548,18 +10548,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "560694",
-    "league" : "英超",
-    "utcDate" : "2026-12-19T15:00:00Z",
-    "home" : "Nottingham",
-    "away" : "Everton",
-    "teamHome" : "NOT",
-    "teamAway" : "EVE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "560696",
     "league" : "英超",
     "utcDate" : "2026-12-19T15:00:00Z",
@@ -10759,6 +10747,18 @@
     "away" : "Ipswich Town",
     "teamHome" : "BHA",
     "teamAway" : "IPS",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "560694",
+    "league" : "英超",
+    "utcDate" : "2026-12-20T14:00:00Z",
+    "home" : "Nottingham",
+    "away" : "Everton",
+    "teamHome" : "NOT",
+    "teamAway" : "EVE",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -23406,6 +23406,7 @@
       "startDate" : "2026-08-21",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 57,
           "sourceName" : "Arsenal FC",
@@ -23706,8 +23707,7 @@
           "gd" : "-10",
           "gf" : 7,
           "ga" : 17
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "西甲" : {
@@ -23715,6 +23715,7 @@
       "startDate" : "2026-08-16",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 81,
           "sourceName" : "FC Barcelona",
@@ -24015,8 +24016,7 @@
           "gd" : "-13",
           "gf" : 8,
           "ga" : 21
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "意甲" : {
@@ -24024,6 +24024,7 @@
       "startDate" : "2026-08-23",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 110,
           "sourceName" : "SS Lazio",
@@ -24324,8 +24325,7 @@
           "gd" : "-14",
           "gf" : 6,
           "ga" : 20
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "德甲" : {
@@ -24333,6 +24333,7 @@
       "startDate" : "2026-08-28",
       "endDate" : "2027-05-22",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 5,
           "sourceName" : "FC Bayern München",
@@ -24603,8 +24604,7 @@
           "gd" : "-11",
           "gf" : 11,
           "ga" : 22
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "法甲" : {
@@ -24612,6 +24612,7 @@
       "startDate" : "2026-08-22",
       "endDate" : "2027-05-29",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -24882,8 +24883,7 @@
           "gd" : "-11",
           "gf" : 9,
           "ga" : 20
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "欧冠" : {
@@ -24891,6 +24891,7 @@
       "startDate" : "2026-09-08",
       "endDate" : "2027-01-27",
       "groups" : [ {
+        "name" : "League phase",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -25431,8 +25432,7 @@
           "gd" : "-16",
           "gf" : 1,
           "ga" : 17
-        } ],
-        "name" : "League phase"
+        } ]
       } ]
     }
   }
