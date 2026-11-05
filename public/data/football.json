@@ -1,9 +1,9 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-11-05T02:09:36.287031205Z",
+  "updatedAt" : "2026-11-05T17:53:52.044759167Z",
   "range" : {
-    "from" : "2026-10-28",
-    "to" : "2026-11-05"
+    "to" : "2026-11-05",
+    "from" : "2026-10-28"
   },
   "matches" : [ {
     "id" : "575388",
@@ -9078,6 +9078,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565882",
+    "league" : "德甲",
+    "utcDate" : "2026-12-04T19:30:00Z",
+    "home" : "拜仁慕尼黑",
+    "away" : "SC Paderborn",
+    "teamHome" : "FCB",
+    "teamAway" : "SCP",
+    "colors" : [ "#d64545", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558502",
     "league" : "意甲",
     "utcDate" : "2026-12-04T19:45:00Z",
@@ -9102,114 +9114,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "565875",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Union Berlin",
-    "away" : "HSV",
-    "teamHome" : "UNB",
-    "teamAway" : "HSV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565876",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Schalke",
-    "away" : "Dortmund",
-    "teamHome" : "S04",
-    "teamAway" : "BVB",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565877",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Leverkusen",
-    "away" : "M'gladbach",
-    "teamHome" : "B04",
-    "teamAway" : "BMG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565878",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Frankfurt",
-    "away" : "Bremen",
-    "teamHome" : "SGE",
-    "teamAway" : "SVW",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565879",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "RB Leipzig",
-    "away" : "Mainz",
-    "teamHome" : "RBL",
-    "teamAway" : "M05",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565880",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Elversberg",
-    "away" : "Stuttgart",
-    "teamHome" : "ELV",
-    "teamAway" : "VFB",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565881",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Freiburg",
-    "away" : "Hoffenheim",
-    "teamHome" : "SCF",
-    "teamAway" : "TSG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565882",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "拜仁慕尼黑",
-    "away" : "SC Paderborn",
-    "teamHome" : "FCB",
-    "teamAway" : "SCP",
-    "colors" : [ "#d64545", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565883",
-    "league" : "德甲",
-    "utcDate" : "2026-12-05T00:00:00Z",
-    "home" : "Augsburg",
-    "away" : "1. FC Köln",
-    "teamHome" : "FCA",
-    "teamAway" : "KOE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "560676",
     "league" : "英超",
     "utcDate" : "2026-12-05T12:30:00Z",
@@ -9229,6 +9133,66 @@
     "away" : "Como 1907",
     "teamHome" : "MON",
     "teamAway" : "COM",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565875",
+    "league" : "德甲",
+    "utcDate" : "2026-12-05T14:30:00Z",
+    "home" : "Union Berlin",
+    "away" : "HSV",
+    "teamHome" : "UNB",
+    "teamAway" : "HSV",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565877",
+    "league" : "德甲",
+    "utcDate" : "2026-12-05T14:30:00Z",
+    "home" : "Leverkusen",
+    "away" : "M'gladbach",
+    "teamHome" : "B04",
+    "teamAway" : "BMG",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565879",
+    "league" : "德甲",
+    "utcDate" : "2026-12-05T14:30:00Z",
+    "home" : "RB Leipzig",
+    "away" : "Mainz",
+    "teamHome" : "RBL",
+    "teamAway" : "M05",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565881",
+    "league" : "德甲",
+    "utcDate" : "2026-12-05T14:30:00Z",
+    "home" : "Freiburg",
+    "away" : "Hoffenheim",
+    "teamHome" : "SCF",
+    "teamAway" : "TSG",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565883",
+    "league" : "德甲",
+    "utcDate" : "2026-12-05T14:30:00Z",
+    "home" : "Augsburg",
+    "away" : "1. FC Köln",
+    "teamHome" : "FCA",
+    "teamAway" : "KOE",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -9313,6 +9277,18 @@
     "away" : "Brighton Hove",
     "teamHome" : "NOT",
     "teamAway" : "BHA",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565878",
+    "league" : "德甲",
+    "utcDate" : "2026-12-05T17:30:00Z",
+    "home" : "Frankfurt",
+    "away" : "Bremen",
+    "teamHome" : "SGE",
+    "teamAway" : "SVW",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -9570,6 +9546,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565876",
+    "league" : "德甲",
+    "utcDate" : "2026-12-06T14:30:00Z",
+    "home" : "Schalke",
+    "away" : "Dortmund",
+    "teamHome" : "S04",
+    "teamAway" : "BVB",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "559608",
     "league" : "法甲",
     "utcDate" : "2026-12-06T16:15:00Z",
@@ -9590,6 +9578,18 @@
     "teamHome" : "TOT",
     "teamAway" : "ARS",
     "colors" : [ "#7377db", "#e34448" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565880",
+    "league" : "德甲",
+    "utcDate" : "2026-12-06T16:30:00Z",
+    "home" : "Elversberg",
+    "away" : "Stuttgart",
+    "teamHome" : "ELV",
+    "teamAway" : "VFB",
+    "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -9870,6 +9870,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565888",
+    "league" : "德甲",
+    "utcDate" : "2026-12-11T19:30:00Z",
+    "home" : "HSV",
+    "away" : "Schalke",
+    "teamHome" : "HSV",
+    "teamAway" : "S04",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558491",
     "league" : "意甲",
     "utcDate" : "2026-12-11T19:45:00Z",
@@ -9894,114 +9906,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "565884",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "SC Paderborn",
-    "away" : "Elversberg",
-    "teamHome" : "SCP",
-    "teamAway" : "ELV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565885",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Bremen",
-    "away" : "Leverkusen",
-    "teamHome" : "SVW",
-    "teamAway" : "B04",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565886",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Stuttgart",
-    "away" : "Union Berlin",
-    "teamHome" : "VFB",
-    "teamAway" : "UNB",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565887",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Dortmund",
-    "away" : "Augsburg",
-    "teamHome" : "BVB",
-    "teamAway" : "FCA",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565888",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "HSV",
-    "away" : "Schalke",
-    "teamHome" : "HSV",
-    "teamAway" : "S04",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565889",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Mainz",
-    "away" : "Freiburg",
-    "teamHome" : "M05",
-    "teamAway" : "SCF",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565890",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "1. FC Köln",
-    "away" : "RB Leipzig",
-    "teamHome" : "KOE",
-    "teamAway" : "RBL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565891",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "Hoffenheim",
-    "away" : "拜仁慕尼黑",
-    "teamHome" : "TSG",
-    "teamAway" : "FCB",
-    "colors" : [ "#7377db", "#d64545" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565892",
-    "league" : "德甲",
-    "utcDate" : "2026-12-12T00:00:00Z",
-    "home" : "M'gladbach",
-    "away" : "Frankfurt",
-    "teamHome" : "BMG",
-    "teamAway" : "SGE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "558494",
     "league" : "意甲",
     "utcDate" : "2026-12-12T14:00:00Z",
@@ -10009,6 +9913,54 @@
     "away" : "Venezia FC",
     "teamHome" : "CAG",
     "teamAway" : "VEN",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565884",
+    "league" : "德甲",
+    "utcDate" : "2026-12-12T14:30:00Z",
+    "home" : "SC Paderborn",
+    "away" : "Elversberg",
+    "teamHome" : "SCP",
+    "teamAway" : "ELV",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565886",
+    "league" : "德甲",
+    "utcDate" : "2026-12-12T14:30:00Z",
+    "home" : "Stuttgart",
+    "away" : "Union Berlin",
+    "teamHome" : "VFB",
+    "teamAway" : "UNB",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565887",
+    "league" : "德甲",
+    "utcDate" : "2026-12-12T14:30:00Z",
+    "home" : "Dortmund",
+    "away" : "Augsburg",
+    "teamHome" : "BVB",
+    "teamAway" : "FCA",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565890",
+    "league" : "德甲",
+    "utcDate" : "2026-12-12T14:30:00Z",
+    "home" : "1. FC Köln",
+    "away" : "RB Leipzig",
+    "teamHome" : "KOE",
+    "teamAway" : "RBL",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -10082,6 +10034,18 @@
     "teamHome" : "MCI",
     "teamAway" : "CHE",
     "colors" : [ "#54a8dc", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565892",
+    "league" : "德甲",
+    "utcDate" : "2026-12-12T17:30:00Z",
+    "home" : "M'gladbach",
+    "away" : "Frankfurt",
+    "teamHome" : "BMG",
+    "teamAway" : "SGE",
+    "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -10338,6 +10302,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565889",
+    "league" : "德甲",
+    "utcDate" : "2026-12-13T14:30:00Z",
+    "home" : "Mainz",
+    "away" : "Freiburg",
+    "teamHome" : "M05",
+    "teamAway" : "SCF",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "559600",
     "league" : "法甲",
     "utcDate" : "2026-12-13T16:15:00Z",
@@ -10362,6 +10338,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565891",
+    "league" : "德甲",
+    "utcDate" : "2026-12-13T16:30:00Z",
+    "home" : "Hoffenheim",
+    "away" : "拜仁慕尼黑",
+    "teamHome" : "TSG",
+    "teamAway" : "FCB",
+    "colors" : [ "#7377db", "#d64545" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558493",
     "league" : "意甲",
     "utcDate" : "2026-12-13T17:00:00Z",
@@ -10369,6 +10357,18 @@
     "away" : "Fiorentina",
     "teamHome" : "PAR",
     "teamAway" : "FIO",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565885",
+    "league" : "德甲",
+    "utcDate" : "2026-12-13T18:30:00Z",
+    "home" : "Bremen",
+    "away" : "Leverkusen",
+    "teamHome" : "SVW",
+    "teamAway" : "B04",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -10458,6 +10458,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565894",
+    "league" : "德甲",
+    "utcDate" : "2026-12-18T19:30:00Z",
+    "home" : "拜仁慕尼黑",
+    "away" : "Bremen",
+    "teamHome" : "FCB",
+    "teamAway" : "SVW",
+    "colors" : [ "#d64545", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558486",
     "league" : "意甲",
     "utcDate" : "2026-12-18T19:45:00Z",
@@ -10467,114 +10479,6 @@
     "teamAway" : "INT",
     "colors" : [ "#7377db", "#3279bd" ],
     "status" : "TIMED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565893",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "Schalke",
-    "away" : "M'gladbach",
-    "teamHome" : "S04",
-    "teamAway" : "BMG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565894",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "拜仁慕尼黑",
-    "away" : "Bremen",
-    "teamHome" : "FCB",
-    "teamAway" : "SVW",
-    "colors" : [ "#d64545", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565895",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "Elversberg",
-    "away" : "HSV",
-    "teamHome" : "ELV",
-    "teamAway" : "HSV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565896",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "Leverkusen",
-    "away" : "Frankfurt",
-    "teamHome" : "B04",
-    "teamAway" : "SGE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565897",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "Freiburg",
-    "away" : "Stuttgart",
-    "teamHome" : "SCF",
-    "teamAway" : "VFB",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565898",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "RB Leipzig",
-    "away" : "Dortmund",
-    "teamHome" : "RBL",
-    "teamAway" : "BVB",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565899",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "Mainz",
-    "away" : "1. FC Köln",
-    "teamHome" : "M05",
-    "teamAway" : "KOE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565900",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "Union Berlin",
-    "away" : "Hoffenheim",
-    "teamHome" : "UNB",
-    "teamAway" : "TSG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565901",
-    "league" : "德甲",
-    "utcDate" : "2026-12-19T00:00:00Z",
-    "home" : "Augsburg",
-    "away" : "SC Paderborn",
-    "teamHome" : "FCA",
-    "teamAway" : "SCP",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
     "hs" : null,
     "as" : null
   }, {
@@ -10597,6 +10501,54 @@
     "away" : "Parma",
     "teamHome" : "SAS",
     "teamAway" : "PAR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565895",
+    "league" : "德甲",
+    "utcDate" : "2026-12-19T14:30:00Z",
+    "home" : "Elversberg",
+    "away" : "HSV",
+    "teamHome" : "ELV",
+    "teamAway" : "HSV",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565896",
+    "league" : "德甲",
+    "utcDate" : "2026-12-19T14:30:00Z",
+    "home" : "Leverkusen",
+    "away" : "Frankfurt",
+    "teamHome" : "B04",
+    "teamAway" : "SGE",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565899",
+    "league" : "德甲",
+    "utcDate" : "2026-12-19T14:30:00Z",
+    "home" : "Mainz",
+    "away" : "1. FC Köln",
+    "teamHome" : "M05",
+    "teamAway" : "KOE",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565901",
+    "league" : "德甲",
+    "utcDate" : "2026-12-19T14:30:00Z",
+    "home" : "Augsburg",
+    "away" : "SC Paderborn",
+    "teamHome" : "FCA",
+    "teamAway" : "SCP",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -10658,6 +10610,18 @@
     "teamHome" : "LIV",
     "teamAway" : "TOT",
     "colors" : [ "#c93640", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565898",
+    "league" : "德甲",
+    "utcDate" : "2026-12-19T17:30:00Z",
+    "home" : "RB Leipzig",
+    "away" : "Dortmund",
+    "teamHome" : "RBL",
+    "teamAway" : "BVB",
+    "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -10866,6 +10830,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565897",
+    "league" : "德甲",
+    "utcDate" : "2026-12-20T14:30:00Z",
+    "home" : "Freiburg",
+    "away" : "Stuttgart",
+    "teamHome" : "SCF",
+    "teamAway" : "VFB",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "560699",
     "league" : "英超",
     "utcDate" : "2026-12-20T16:30:00Z",
@@ -10878,6 +10854,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565900",
+    "league" : "德甲",
+    "utcDate" : "2026-12-20T16:30:00Z",
+    "home" : "Union Berlin",
+    "away" : "Hoffenheim",
+    "teamHome" : "UNB",
+    "teamAway" : "TSG",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558485",
     "league" : "意甲",
     "utcDate" : "2026-12-20T17:00:00Z",
@@ -10885,6 +10873,18 @@
     "away" : "Udinese",
     "teamHome" : "GEN",
     "teamAway" : "UDI",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565893",
+    "league" : "德甲",
+    "utcDate" : "2026-12-20T18:30:00Z",
+    "home" : "Schalke",
+    "away" : "M'gladbach",
+    "teamHome" : "S04",
+    "teamAway" : "BMG",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -11862,111 +11862,15 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "565902",
-    "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
-    "home" : "Stuttgart",
-    "away" : "Augsburg",
-    "teamHome" : "VFB",
-    "teamAway" : "FCA",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565903",
-    "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
-    "home" : "HSV",
-    "away" : "Leverkusen",
-    "teamHome" : "HSV",
-    "teamAway" : "B04",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565904",
-    "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
-    "home" : "1. FC Köln",
-    "away" : "Freiburg",
-    "teamHome" : "KOE",
-    "teamAway" : "SCF",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565905",
-    "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
-    "home" : "Frankfurt",
-    "away" : "Schalke",
-    "teamHome" : "SGE",
-    "teamAway" : "S04",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565906",
-    "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
-    "home" : "Hoffenheim",
-    "away" : "Elversberg",
-    "teamHome" : "TSG",
-    "teamAway" : "ELV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565907",
-    "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
-    "home" : "M'gladbach",
-    "away" : "拜仁慕尼黑",
-    "teamHome" : "BMG",
-    "teamAway" : "FCB",
-    "colors" : [ "#7377db", "#d64545" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "565908",
     "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
+    "utcDate" : "2027-01-08T19:30:00Z",
     "home" : "Dortmund",
     "away" : "Mainz",
     "teamHome" : "BVB",
     "teamAway" : "M05",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565909",
-    "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
-    "home" : "Bremen",
-    "away" : "Union Berlin",
-    "teamHome" : "SVW",
-    "teamAway" : "UNB",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565910",
-    "league" : "德甲",
-    "utcDate" : "2027-01-09T00:00:00Z",
-    "home" : "SC Paderborn",
-    "away" : "RB Leipzig",
-    "teamHome" : "SCP",
-    "teamAway" : "RBL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
@@ -11982,6 +11886,66 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565902",
+    "league" : "德甲",
+    "utcDate" : "2027-01-09T14:30:00Z",
+    "home" : "Stuttgart",
+    "away" : "Augsburg",
+    "teamHome" : "VFB",
+    "teamAway" : "FCA",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565904",
+    "league" : "德甲",
+    "utcDate" : "2027-01-09T14:30:00Z",
+    "home" : "1. FC Köln",
+    "away" : "Freiburg",
+    "teamHome" : "KOE",
+    "teamAway" : "SCF",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565905",
+    "league" : "德甲",
+    "utcDate" : "2027-01-09T14:30:00Z",
+    "home" : "Frankfurt",
+    "away" : "Schalke",
+    "teamHome" : "SGE",
+    "teamAway" : "S04",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565906",
+    "league" : "德甲",
+    "utcDate" : "2027-01-09T14:30:00Z",
+    "home" : "Hoffenheim",
+    "away" : "Elversberg",
+    "teamHome" : "TSG",
+    "teamAway" : "ELV",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565910",
+    "league" : "德甲",
+    "utcDate" : "2027-01-09T14:30:00Z",
+    "home" : "SC Paderborn",
+    "away" : "RB Leipzig",
+    "teamHome" : "SCP",
+    "teamAway" : "RBL",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558458",
     "league" : "意甲",
     "utcDate" : "2027-01-09T17:00:00Z",
@@ -11990,6 +11954,18 @@
     "teamHome" : "ROM",
     "teamAway" : "MIL",
     "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565907",
+    "league" : "德甲",
+    "utcDate" : "2027-01-09T17:30:00Z",
+    "home" : "M'gladbach",
+    "away" : "拜仁慕尼黑",
+    "teamHome" : "BMG",
+    "teamAway" : "FCB",
+    "colors" : [ "#7377db", "#d64545" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -12162,6 +12138,30 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565909",
+    "league" : "德甲",
+    "utcDate" : "2027-01-10T14:30:00Z",
+    "home" : "Bremen",
+    "away" : "Union Berlin",
+    "teamHome" : "SVW",
+    "teamAway" : "UNB",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565903",
+    "league" : "德甲",
+    "utcDate" : "2027-01-10T16:30:00Z",
+    "home" : "HSV",
+    "away" : "Leverkusen",
+    "teamHome" : "HSV",
+    "teamAway" : "B04",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558451",
     "league" : "意甲",
     "utcDate" : "2027-01-10T17:00:00Z",
@@ -12210,111 +12210,123 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "565911",
-    "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
-    "home" : "Mainz",
-    "away" : "Hoffenheim",
-    "teamHome" : "M05",
-    "teamAway" : "TSG",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565912",
-    "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
-    "home" : "Freiburg",
-    "away" : "HSV",
-    "teamHome" : "SCF",
-    "teamAway" : "HSV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565913",
-    "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
-    "home" : "Schalke",
-    "away" : "Bremen",
-    "teamHome" : "S04",
-    "teamAway" : "SVW",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "565914",
     "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
+    "utcDate" : "2027-01-12T17:30:00Z",
     "home" : "RB Leipzig",
     "away" : "Stuttgart",
     "teamHome" : "RBL",
     "teamAway" : "VFB",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
-    "id" : "565915",
+    "id" : "565911",
     "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
-    "home" : "Union Berlin",
-    "away" : "SC Paderborn",
-    "teamHome" : "UNB",
-    "teamAway" : "SCP",
+    "utcDate" : "2027-01-12T19:30:00Z",
+    "home" : "Mainz",
+    "away" : "Hoffenheim",
+    "teamHome" : "M05",
+    "teamAway" : "TSG",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565916",
-    "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
-    "home" : "拜仁慕尼黑",
-    "away" : "Leverkusen",
-    "teamHome" : "FCB",
-    "teamAway" : "B04",
-    "colors" : [ "#d64545", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565917",
     "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
+    "utcDate" : "2027-01-12T19:30:00Z",
     "home" : "Augsburg",
     "away" : "M'gladbach",
     "teamHome" : "FCA",
     "teamAway" : "BMG",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565918",
-    "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
-    "home" : "Elversberg",
-    "away" : "Frankfurt",
-    "teamHome" : "ELV",
-    "teamAway" : "SGE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565919",
     "league" : "德甲",
-    "utcDate" : "2027-01-13T00:00:00Z",
+    "utcDate" : "2027-01-12T19:30:00Z",
     "home" : "1. FC Köln",
     "away" : "Dortmund",
     "teamHome" : "KOE",
     "teamAway" : "BVB",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565918",
+    "league" : "德甲",
+    "utcDate" : "2027-01-13T17:30:00Z",
+    "home" : "Elversberg",
+    "away" : "Frankfurt",
+    "teamHome" : "ELV",
+    "teamAway" : "SGE",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565912",
+    "league" : "德甲",
+    "utcDate" : "2027-01-13T19:30:00Z",
+    "home" : "Freiburg",
+    "away" : "HSV",
+    "teamHome" : "SCF",
+    "teamAway" : "HSV",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565915",
+    "league" : "德甲",
+    "utcDate" : "2027-01-13T19:30:00Z",
+    "home" : "Union Berlin",
+    "away" : "SC Paderborn",
+    "teamHome" : "UNB",
+    "teamAway" : "SCP",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565916",
+    "league" : "德甲",
+    "utcDate" : "2027-01-13T19:30:00Z",
+    "home" : "拜仁慕尼黑",
+    "away" : "Leverkusen",
+    "teamHome" : "FCB",
+    "teamAway" : "B04",
+    "colors" : [ "#d64545", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565913",
+    "league" : "德甲",
+    "utcDate" : "2027-01-14T19:30:00Z",
+    "home" : "Schalke",
+    "away" : "Bremen",
+    "teamHome" : "S04",
+    "teamAway" : "SVW",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565925",
+    "league" : "德甲",
+    "utcDate" : "2027-01-15T19:30:00Z",
+    "home" : "Stuttgart",
+    "away" : "Mainz",
+    "teamHome" : "VFB",
+    "teamAway" : "M05",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
@@ -12330,111 +12342,63 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "565920",
-    "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Bremen",
-    "away" : "Elversberg",
-    "teamHome" : "SVW",
-    "teamAway" : "ELV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565921",
-    "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Frankfurt",
-    "away" : "拜仁慕尼黑",
-    "teamHome" : "SGE",
-    "teamAway" : "FCB",
-    "colors" : [ "#7377db", "#d64545" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "565922",
     "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
+    "utcDate" : "2027-01-16T14:30:00Z",
     "home" : "SC Paderborn",
     "away" : "1. FC Köln",
     "teamHome" : "SCP",
     "teamAway" : "KOE",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565923",
     "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
+    "utcDate" : "2027-01-16T14:30:00Z",
     "home" : "Hoffenheim",
     "away" : "RB Leipzig",
     "teamHome" : "TSG",
     "teamAway" : "RBL",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565924",
-    "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Leverkusen",
-    "away" : "Schalke",
-    "teamHome" : "B04",
-    "teamAway" : "S04",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565925",
-    "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
-    "home" : "Stuttgart",
-    "away" : "Mainz",
-    "teamHome" : "VFB",
-    "teamAway" : "M05",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565926",
     "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
+    "utcDate" : "2027-01-16T14:30:00Z",
     "home" : "HSV",
     "away" : "Augsburg",
     "teamHome" : "HSV",
     "teamAway" : "FCA",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565927",
     "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
+    "utcDate" : "2027-01-16T14:30:00Z",
     "home" : "M'gladbach",
     "away" : "Union Berlin",
     "teamHome" : "BMG",
     "teamAway" : "UNB",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565928",
     "league" : "德甲",
-    "utcDate" : "2027-01-16T00:00:00Z",
+    "utcDate" : "2027-01-16T14:30:00Z",
     "home" : "Dortmund",
     "away" : "Freiburg",
     "teamHome" : "BVB",
     "teamAway" : "SCF",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
@@ -12566,6 +12530,18 @@
     "teamHome" : "ANG",
     "teamAway" : "PSG",
     "colors" : [ "#7377db", "#4b67b2" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565921",
+    "league" : "德甲",
+    "utcDate" : "2027-01-16T17:30:00Z",
+    "home" : "Frankfurt",
+    "away" : "拜仁慕尼黑",
+    "teamHome" : "SGE",
+    "teamAway" : "FCB",
+    "colors" : [ "#7377db", "#d64545" ],
     "status" : "TIMED",
     "hs" : null,
     "as" : null
@@ -12870,6 +12846,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565920",
+    "league" : "德甲",
+    "utcDate" : "2027-01-17T14:30:00Z",
+    "home" : "Bremen",
+    "away" : "Elversberg",
+    "teamHome" : "SVW",
+    "teamAway" : "ELV",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "559583",
     "league" : "法甲",
     "utcDate" : "2027-01-17T16:15:00Z",
@@ -12877,6 +12865,18 @@
     "away" : "Brest",
     "teamHome" : "ASM",
     "teamAway" : "BRE",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565924",
+    "league" : "德甲",
+    "utcDate" : "2027-01-17T16:30:00Z",
+    "home" : "Leverkusen",
+    "away" : "Schalke",
+    "teamHome" : "B04",
+    "teamAway" : "S04",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -13110,6 +13110,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565929",
+    "league" : "德甲",
+    "utcDate" : "2027-01-22T19:30:00Z",
+    "home" : "Bremen",
+    "away" : "Freiburg",
+    "teamHome" : "SVW",
+    "teamAway" : "SCF",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "559572",
     "league" : "法甲",
     "utcDate" : "2027-01-22T19:45:00Z",
@@ -13122,111 +13134,51 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "565929",
-    "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Bremen",
-    "away" : "Freiburg",
-    "teamHome" : "SVW",
-    "teamAway" : "SCF",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565930",
-    "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "HSV",
-    "away" : "Dortmund",
-    "teamHome" : "HSV",
-    "teamAway" : "BVB",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "565931",
     "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
+    "utcDate" : "2027-01-23T14:30:00Z",
     "home" : "SC Paderborn",
     "away" : "Mainz",
     "teamHome" : "SCP",
     "teamAway" : "M05",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565932",
     "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
+    "utcDate" : "2027-01-23T14:30:00Z",
     "home" : "Schalke",
     "away" : "Augsburg",
     "teamHome" : "S04",
     "teamAway" : "FCA",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565933",
-    "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Hoffenheim",
-    "away" : "1. FC Köln",
-    "teamHome" : "TSG",
-    "teamAway" : "KOE",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565934",
     "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
+    "utcDate" : "2027-01-23T14:30:00Z",
     "home" : "Stuttgart",
     "away" : "拜仁慕尼黑",
     "teamHome" : "VFB",
     "teamAway" : "FCB",
     "colors" : [ "#7377db", "#d64545" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
     "id" : "565935",
     "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
+    "utcDate" : "2027-01-23T14:30:00Z",
     "home" : "M'gladbach",
     "away" : "RB Leipzig",
     "teamHome" : "BMG",
     "teamAway" : "RBL",
     "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565936",
-    "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Frankfurt",
-    "away" : "Union Berlin",
-    "teamHome" : "SGE",
-    "teamAway" : "UNB",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "565937",
-    "league" : "德甲",
-    "utcDate" : "2027-01-23T00:00:00Z",
-    "home" : "Leverkusen",
-    "away" : "Elversberg",
-    "teamHome" : "B04",
-    "teamAway" : "ELV",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
+    "status" : "TIMED",
     "hs" : null,
     "as" : null
   }, {
@@ -13357,6 +13309,18 @@
     "away" : "Paris FC",
     "teamHome" : "LIL",
     "teamAway" : "PFC",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565930",
+    "league" : "德甲",
+    "utcDate" : "2027-01-23T17:30:00Z",
+    "home" : "HSV",
+    "away" : "Dortmund",
+    "teamHome" : "HSV",
+    "teamAway" : "BVB",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -13662,6 +13626,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "565936",
+    "league" : "德甲",
+    "utcDate" : "2027-01-24T14:30:00Z",
+    "home" : "Frankfurt",
+    "away" : "Union Berlin",
+    "teamHome" : "SGE",
+    "teamAway" : "UNB",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "559573",
     "league" : "法甲",
     "utcDate" : "2027-01-24T16:15:00Z",
@@ -13669,6 +13645,30 @@
     "away" : "Marseille",
     "teamHome" : "FCL",
     "teamAway" : "MAR",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565937",
+    "league" : "德甲",
+    "utcDate" : "2027-01-24T16:30:00Z",
+    "home" : "Leverkusen",
+    "away" : "Elversberg",
+    "teamHome" : "B04",
+    "teamAway" : "ELV",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "565933",
+    "league" : "德甲",
+    "utcDate" : "2027-01-24T18:30:00Z",
+    "home" : "Hoffenheim",
+    "away" : "1. FC Köln",
+    "teamHome" : "TSG",
+    "teamAway" : "KOE",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -23472,6 +23472,7 @@
       "startDate" : "2026-08-21",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 57,
           "sourceName" : "Arsenal FC",
@@ -23772,8 +23773,7 @@
           "gd" : "-10",
           "gf" : 7,
           "ga" : 17
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "西甲" : {
@@ -23781,6 +23781,7 @@
       "startDate" : "2026-08-16",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 81,
           "sourceName" : "FC Barcelona",
@@ -24081,8 +24082,7 @@
           "gd" : "-13",
           "gf" : 8,
           "ga" : 21
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "意甲" : {
@@ -24090,6 +24090,7 @@
       "startDate" : "2026-08-23",
       "endDate" : "2027-05-30",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 110,
           "sourceName" : "SS Lazio",
@@ -24390,8 +24391,7 @@
           "gd" : "-14",
           "gf" : 6,
           "ga" : 20
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "德甲" : {
@@ -24399,6 +24399,7 @@
       "startDate" : "2026-08-28",
       "endDate" : "2027-05-22",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 5,
           "sourceName" : "FC Bayern München",
@@ -24669,8 +24670,7 @@
           "gd" : "-11",
           "gf" : 11,
           "ga" : 22
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "法甲" : {
@@ -24678,6 +24678,7 @@
       "startDate" : "2026-08-22",
       "endDate" : "2027-05-29",
       "groups" : [ {
+        "name" : "Matchday",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -24948,8 +24949,7 @@
           "gd" : "-11",
           "gf" : 9,
           "ga" : 20
-        } ],
-        "name" : "Matchday"
+        } ]
       } ]
     },
     "欧冠" : {
@@ -24957,6 +24957,7 @@
       "startDate" : "2026-09-08",
       "endDate" : "2027-01-27",
       "groups" : [ {
+        "name" : "League phase",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -25497,8 +25498,7 @@
           "gd" : "-16",
           "gf" : 1,
           "ga" : 17
-        } ],
-        "name" : "League phase"
+        } ]
       } ]
     }
   }
