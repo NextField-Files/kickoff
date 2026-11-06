@@ -1,9 +1,9 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-11-05T17:53:52.044759167Z",
+  "updatedAt" : "2026-11-06T02:10:28.842397627Z",
   "range" : {
-    "to" : "2026-11-05",
-    "from" : "2026-10-28"
+    "from" : "2026-10-29",
+    "to" : "2026-11-06"
   },
   "matches" : [ {
     "id" : "575388",
@@ -752,61 +752,6 @@
     "as" : 1,
     "teamHome" : "FRO",
     "teamAway" : "USL",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "558552",
-    "league" : "意甲",
-    "utcDate" : "2026-10-28T19:45:00Z",
-    "home" : "Genoa",
-    "away" : "Juventus",
-    "hs" : 2,
-    "as" : 0,
-    "teamHome" : "GEN",
-    "teamAway" : "JUV",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "558554",
-    "league" : "意甲",
-    "utcDate" : "2026-10-28T19:45:00Z",
-    "home" : "Monza",
-    "away" : "Napoli",
-    "hs" : 1,
-    "as" : 4,
-    "teamHome" : "MON",
-    "teamAway" : "NAP",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "558549",
-    "league" : "意甲",
-    "utcDate" : "2026-10-28T17:30:00Z",
-    "home" : "Milan",
-    "away" : "Bologna",
-    "hs" : 2,
-    "as" : 4,
-    "teamHome" : "MIL",
-    "teamAway" : "BOL",
-    "colors" : [ "#7377db", "#7377db" ]
-  }, {
-    "id" : "558550",
-    "league" : "意甲",
-    "utcDate" : "2026-10-28T17:30:00Z",
-    "home" : "Venezia FC",
-    "away" : "国际米兰",
-    "hs" : 0,
-    "as" : 2,
-    "teamHome" : "VEN",
-    "teamAway" : "INT",
-    "colors" : [ "#7377db", "#3279bd" ]
-  }, {
-    "id" : "558553",
-    "league" : "意甲",
-    "utcDate" : "2026-10-28T17:30:00Z",
-    "home" : "Parma",
-    "away" : "Udinese",
-    "hs" : 0,
-    "as" : 0,
-    "teamHome" : "PAR",
-    "teamAway" : "UDI",
     "colors" : [ "#7377db", "#7377db" ]
   } ],
   "fixtures" : [ {
