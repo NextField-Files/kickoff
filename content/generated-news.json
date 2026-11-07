@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "match-review-5989b222a34f",
+      "title": "利兹联1-0热刺：控球落后但射门占优，主队守住胜果",
+      "summary": "利兹联在控球率39.4%落后于热刺60.6%的情况下，以16次射门对7次的优势，最终1-0击败托特纳姆热刺。",
+      "body": "利兹联控球率39.4%，热刺60.6%，但利兹联射门16次，热刺7次；双方射正均为4次。传球方面热刺513次、成功率80.7%，利兹联321次、76%；关键传球利兹联7次、热刺6次，成功过人利兹联6次、热刺5次。犯规热刺15次、利兹联11次，黄牌热刺3张、利兹联2张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-07T16:15:41.316Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "560632"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-07T16:08:35.220327230Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560632"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-07T16:15:38.097306664Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_4L4kXH"
+        }
+      ]
+    },
+    {
+      "id": "match-review-aa8d328ec62f",
+      "title": "马拉加主场1比2不敌桑坦德竞技",
+      "summary": "马拉加在西甲比赛中主场1比2负于桑坦德竞技。",
+      "body": "本场比赛马拉加控球率为46.1%，桑坦德竞技为53.9%。射门方面，马拉加16次、射正8次，桑坦德竞技21次、射正7次；传球数马拉加425次、成功率84.5%，桑坦德竞技500次、成功率85.8%。此外，马拉加成功过人18次、犯规11次、黄牌4张、红牌1张，桑坦德竞技分别为14次、5次、2张、0张。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-07T16:15:42.900Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564744"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-07T16:08:35.220327230Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564744"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-07T16:15:38.097306664Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0cvasI"
+        }
+      ]
+    },
+    {
+      "id": "match-review-152e0608ed04",
+      "title": "卡利亚里1-0弗罗西诺内：控球劣势下取胜",
+      "summary": "卡利亚里主场1比0击败弗罗西诺内，尽管控球率与射门数均落后于对手。",
+      "body": "卡利亚里以36.5%的控球率对阵弗罗西诺内的63.5%，射门14次对29次，射正4次对9次。传球方面，卡利亚里286次、成功率69.9%，弗罗西诺内508次、成功率76.6%；关键传球13对22，成功过人7对14。犯规卡利亚里14次、弗罗西诺内12次，双方各得3张黄牌、均无红牌。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-07T16:15:44.884Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558534"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-07T16:08:35.220327230Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558534"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-07T16:15:38.097306664Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_4Qe0mW"
+        }
+      ]
+    },
+    {
       "id": "match-review-525ac0fae274",
       "title": "汉堡主场3-1力克门兴格拉德巴赫",
       "summary": "汉堡在德甲比赛中以3-1战胜门兴格拉德巴赫，控球率与射正数均占优。",
@@ -1536,87 +1617,6 @@
           "updatedAt": "2026-11-01T00:59:45.008316246Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_4KvglU"
-        }
-      ]
-    },
-    {
-      "id": "match-review-99a952ead4ee",
-      "title": "乌迪内斯2-5罗马：罗马客场取胜",
-      "summary": "罗马在意甲客场以5-2击败乌迪内斯。",
-      "body": "罗马在客场以5-2战胜乌迪内斯。控球率方面，罗马为53.7%，乌迪内斯为46.3%；射门次数上，乌迪内斯以15次略多于罗马的14次，但罗马的射正次数以9次多于乌迪内斯的7次。传球方面，罗马完成526次传球，成功率为83.7%，乌迪内斯则为443次传球，成功率为79.9%。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-01T01:00:07.562Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "558542"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-01T00:53:32.265639019Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "558542"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-01T00:59:45.008316246Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0zvm5Y"
-        }
-      ]
-    },
-    {
-      "id": "match-review-536d159200d2",
-      "title": "热刺主场2-0击败水晶宫，控球与射门数据全面占优",
-      "summary": "托特纳姆热刺凭借79.1%的控球率和34次射门，在主场以2-0战胜水晶宫。",
-      "body": "热刺全场控球率达到79.1%，水晶宫仅为20.9%。射门方面，热刺34次射门、9次射正，水晶宫只有2次射门、1次射正。传球数据上，热刺829次传球、成功率90.5%，水晶宫197次传球、成功率74.1%；关键传球热刺26次，水晶宫2次。犯规水晶宫10次多于热刺8次，双方各得1张黄牌，水晶宫另有1张红牌。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-01T01:00:09.331Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "560627"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-01T00:53:32.265639019Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "560627"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-01T00:59:45.008316246Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0GIRbd"
-        }
-      ]
-    },
-    {
-      "id": "match-review-27b835ea8b1c",
-      "title": "皇家贝蒂斯2-1马拉加：控球与射门优势助主队取胜",
-      "summary": "皇家贝蒂斯主场2比1击败马拉加，控球率、射门和传球等多项数据均占优。",
-      "body": "皇家贝蒂斯以58.8%的控球率领先马拉加的41.2%，射门数以23比10明显占优，射正数则为6比4。传球方面，主队623次、成功率87.6%，客队429次、成功率86.5%；关键传球9比8，成功过人14比10。犯规数上马拉加15次多于贝蒂斯的10次，黄牌双方各2张，红牌均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-01T01:00:11.161Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "564736"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-01T00:53:32.265639019Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "564736"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-01T00:59:45.008316246Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0c2nEn"
         }
       ]
     }

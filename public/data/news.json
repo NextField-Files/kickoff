@@ -1,7 +1,133 @@
 {
   "source": "Kickoff",
-  "updatedAt": "2026-11-07T01:54:13.384Z",
+  "updatedAt": "2026-11-07T16:15:55.268Z",
   "items": [
+    {
+      "id": "match-review-152e0608ed04",
+      "title": "卡利亚里1-0弗罗西诺内：控球劣势下取胜",
+      "summary": "卡利亚里主场1比0击败弗罗西诺内，尽管控球率与射门数均落后于对手。",
+      "body": "卡利亚里以36.5%的控球率对阵弗罗西诺内的63.5%，射门14次对29次，射正4次对9次。传球方面，卡利亚里286次、成功率69.9%，弗罗西诺内508次、成功率76.6%；关键传球13对22，成功过人7对14。犯规卡利亚里14次、弗罗西诺内12次，双方各得3张黄牌、均无红牌。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-07T16:15:44.884Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558534"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-07T16:08:35.220327230Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558534"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-07T16:15:38.097306664Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_4Qe0mW"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "卡利亚里1-0弗罗西诺内：控球劣势下取胜",
+        "zh-TW": "卡利亞里1-0弗羅西諾內：控球劣勢下取勝",
+        "en": "Cagliari 1-0 Frosinone: Victory Despite Possession Disadvantage"
+      },
+      "localizedSummaries": {
+        "zh-CN": "卡利亚里主场1比0击败弗罗西诺内，尽管控球率与射门数均落后于对手。",
+        "zh-TW": "卡利亞里主場1比0擊敗弗羅西諾內，儘管控球率與射門數均落後於對手。",
+        "en": "Cagliari beat Frosinone 1-0 at home, despite trailing in both possession and shots."
+      },
+      "localizedBodies": {
+        "zh-CN": "卡利亚里以36.5%的控球率对阵弗罗西诺内的63.5%，射门14次对29次，射正4次对9次。传球方面，卡利亚里286次、成功率69.9%，弗罗西诺内508次、成功率76.6%；关键传球13对22，成功过人7对14。犯规卡利亚里14次、弗罗西诺内12次，双方各得3张黄牌、均无红牌。数据来源：PitchAPI match statistics。",
+        "zh-TW": "卡利亞里以36.5%的控球率對陣弗羅西諾內的63.5%，射門14次對29次，射正4次對9次。傳球方面，卡利亞里286次、成功率69.9%，弗羅西諾內508次、成功率76.6%；關鍵傳球13對22，成功過人7對14。犯規卡利亞里14次、弗羅西諾內12次，雙方各得3張黃牌、均無紅牌。數據來源：PitchAPI match statistics。",
+        "en": "Cagliari had 36.5% possession against Frosinone's 63.5%, with 14 shots to 29 and 4 shots on target to 9. In passing, Cagliari made 286 passes with a 69.9% success rate, while Frosinone made 508 passes with a 76.6% success rate; key passes were 13 to 22, and successful dribbles were 7 to 14. Fouls were 14 for Cagliari and 12 for Frosinone, with each team receiving 3 yellow cards and no red cards. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-aa8d328ec62f",
+      "title": "马拉加主场1比2不敌桑坦德竞技",
+      "summary": "马拉加在西甲比赛中主场1比2负于桑坦德竞技。",
+      "body": "本场比赛马拉加控球率为46.1%，桑坦德竞技为53.9%。射门方面，马拉加16次、射正8次，桑坦德竞技21次、射正7次；传球数马拉加425次、成功率84.5%，桑坦德竞技500次、成功率85.8%。此外，马拉加成功过人18次、犯规11次、黄牌4张、红牌1张，桑坦德竞技分别为14次、5次、2张、0张。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-07T16:15:42.900Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "564744"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-07T16:08:35.220327230Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564744"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-07T16:15:38.097306664Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0cvasI"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "马拉加主场1比2不敌桑坦德竞技",
+        "zh-TW": "馬拉加主場1比2不敵桑坦德競技",
+        "en": "Malaga lost 1-2 at home to Racing Santander"
+      },
+      "localizedSummaries": {
+        "zh-CN": "马拉加在西甲比赛中主场1比2负于桑坦德竞技。",
+        "zh-TW": "馬拉加在西甲比賽中主場1比2負於桑坦德競技。",
+        "en": "Malaga lost 1-2 at home to Racing Santander in La Liga."
+      },
+      "localizedBodies": {
+        "zh-CN": "本场比赛马拉加控球率为46.1%，桑坦德竞技为53.9%。射门方面，马拉加16次、射正8次，桑坦德竞技21次、射正7次；传球数马拉加425次、成功率84.5%，桑坦德竞技500次、成功率85.8%。此外，马拉加成功过人18次、犯规11次、黄牌4张、红牌1张，桑坦德竞技分别为14次、5次、2张、0张。数据来源：PitchAPI match statistics。",
+        "zh-TW": "本場比賽馬拉加控球率為46.1%，桑坦德競技為53.9%。射門方面，馬拉加16次、射正8次，桑坦德競技21次、射正7次；傳球數馬拉加425次、成功率84.5%，桑坦德競技500次、成功率85.8%。此外，馬拉加成功過人18次、犯規11次、黃牌4張、紅牌1張，桑坦德競技分別為14次、5次、2張、0張。數據來源：PitchAPI match statistics。",
+        "en": "In this match, Malaga had 46.1% possession, while Racing Santander had 53.9%. In terms of shots, Malaga had 16, with 8 on target, and Racing Santander had 21, with 7 on target; in passes, Malaga had 425 with a success rate of 84.5%, and Racing Santander had 500 with a success rate of 85.8%. In addition, Malaga had 18 successful dribbles, 11 fouls, 4 yellow cards, and 1 red card, while Racing Santander had 14, 5, 2, and 0 respectively. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-5989b222a34f",
+      "title": "利兹联1-0热刺：控球落后但射门占优，主队守住胜果",
+      "summary": "利兹联在控球率39.4%落后于热刺60.6%的情况下，以16次射门对7次的优势，最终1-0击败托特纳姆热刺。",
+      "body": "利兹联控球率39.4%，热刺60.6%，但利兹联射门16次，热刺7次；双方射正均为4次。传球方面热刺513次、成功率80.7%，利兹联321次、76%；关键传球利兹联7次、热刺6次，成功过人利兹联6次、热刺5次。犯规热刺15次、利兹联11次，黄牌热刺3张、利兹联2张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-07T16:15:41.316Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "560632"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-07T16:08:35.220327230Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560632"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-07T16:15:38.097306664Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_4L4kXH"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "利兹联1-0热刺：控球落后但射门占优，主队守住胜果",
+        "zh-TW": "列斯聯1-0熱刺：控球落後但射門佔優，主隊守住勝果",
+        "en": "Leeds United 1-0 Tottenham: Behind on possession but ahead on shots, the hosts hold on for the win"
+      },
+      "localizedSummaries": {
+        "zh-CN": "利兹联在控球率39.4%落后于热刺60.6%的情况下，以16次射门对7次的优势，最终1-0击败托特纳姆热刺。",
+        "zh-TW": "列斯聯在控球率39.4%落後於熱刺60.6%的情況下，以16次射門對7次的優勢，最終1-0擊敗托定咸熱刺。",
+        "en": "Despite trailing Tottenham 60.6% to 39.4% in possession, Leeds United beat Tottenham Hotspur 1-0, with a 16-7 advantage in shots."
+      },
+      "localizedBodies": {
+        "zh-CN": "利兹联控球率39.4%，热刺60.6%，但利兹联射门16次，热刺7次；双方射正均为4次。传球方面热刺513次、成功率80.7%，利兹联321次、76%；关键传球利兹联7次、热刺6次，成功过人利兹联6次、热刺5次。犯规热刺15次、利兹联11次，黄牌热刺3张、利兹联2张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+        "zh-TW": "列斯聯控球率39.4%，熱刺60.6%，但列斯聯射門16次，熱刺7次；雙方射正均為4次。傳球方面熱刺513次、成功率80.7%，列斯聯321次、76%；關鍵傳球列斯聯7次、熱刺6次，成功過人列斯聯6次、熱刺5次。犯規熱刺15次、列斯聯11次，黃牌熱刺3張、列斯聯2張，紅牌雙方均為0。數據來源：PitchAPI match statistics。",
+        "en": "Leeds United had 39.4% possession and Tottenham 60.6%, but Leeds had 16 shots to Tottenham's 7; both sides had 4 shots on target. In passing, Tottenham had 513 passes with an 80.7% success rate, while Leeds had 321 at 76%; Leeds had 7 key passes to Tottenham's 6, and Leeds completed 6 successful dribbles to Tottenham's 5. Tottenham committed 15 fouls and Leeds 11; Tottenham received 3 yellow cards and Leeds 2, with both sides receiving 0 red cards. Data source: PitchAPI match statistics."
+      }
+    },
     {
       "id": "match-review-a01d51d4aaa8",
       "title": "塞维利亚0-0阿拉维斯：主队控球占优未能破门",
@@ -1890,132 +2016,6 @@
         "zh-CN": "特鲁瓦以2比0战胜勒芒。控球率方面，特鲁瓦39.9%低于勒芒的60.1%，但特鲁瓦射门14次、射正8次，均高于勒芒的3次和1次。传球数据上，勒芒570次、成功率85.4%，高于特鲁瓦的358次和79.1%；关键传球特鲁瓦7次多于勒芒3次。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
         "zh-TW": "特魯瓦以2比0戰勝勒芒。控球率方面，特魯瓦39.9%低於勒芒的60.1%，但特魯瓦射門14次、射正8次，均高於勒芒的3次和1次。傳球數據上，勒芒570次、成功率85.4%，高於特魯瓦的358次和79.1%；關鍵傳球特魯瓦7次多於勒芒3次。數據來源：PitchAPI match statistics；比賽按賽事、球隊、日期與確切比分匹配。",
         "en": "Troyes beat Le Mans 2-0. In terms of possession, Troyes had 39.9%, lower than Le Mans' 60.1%, but Troyes had 14 shots and 8 shots on target, both higher than Le Mans' 3 and 1. In passing data, Le Mans had 570 passes with an 85.4% success rate, higher than Troyes' 358 and 79.1%; Troyes had 7 key passes, more than Le Mans' 3. Data source: PitchAPI match statistics; the match was matched by competition, teams, date, and exact score."
-      }
-    },
-    {
-      "id": "match-review-27b835ea8b1c",
-      "title": "皇家贝蒂斯2-1马拉加：控球与射门优势助主队取胜",
-      "summary": "皇家贝蒂斯主场2比1击败马拉加，控球率、射门和传球等多项数据均占优。",
-      "body": "皇家贝蒂斯以58.8%的控球率领先马拉加的41.2%，射门数以23比10明显占优，射正数则为6比4。传球方面，主队623次、成功率87.6%，客队429次、成功率86.5%；关键传球9比8，成功过人14比10。犯规数上马拉加15次多于贝蒂斯的10次，黄牌双方各2张，红牌均为0。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-01T01:00:11.161Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "564736"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-01T00:53:32.265639019Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "564736"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-01T00:59:45.008316246Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0c2nEn"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "皇家贝蒂斯2-1马拉加：控球与射门优势助主队取胜",
-        "zh-TW": "皇家貝蒂斯2-1馬拉加：控球與射門優勢助主隊取勝",
-        "en": "Real Betis 2-1 Malaga: Possession and Shooting Advantage Help Hosts Win"
-      },
-      "localizedSummaries": {
-        "zh-CN": "皇家贝蒂斯主场2比1击败马拉加，控球率、射门和传球等多项数据均占优。",
-        "zh-TW": "皇家貝蒂斯主場2比1擊敗馬拉加，控球率、射門和傳球等多項數據均佔優。",
-        "en": "Real Betis beat Malaga 2-1 at home, leading in possession, shots and passing among multiple metrics."
-      },
-      "localizedBodies": {
-        "zh-CN": "皇家贝蒂斯以58.8%的控球率领先马拉加的41.2%，射门数以23比10明显占优，射正数则为6比4。传球方面，主队623次、成功率87.6%，客队429次、成功率86.5%；关键传球9比8，成功过人14比10。犯规数上马拉加15次多于贝蒂斯的10次，黄牌双方各2张，红牌均为0。数据来源：PitchAPI match statistics。",
-        "zh-TW": "皇家貝蒂斯以58.8%的控球率領先馬拉加的41.2%，射門數以23比10明顯佔優，射正數則為6比4。傳球方面，主隊623次、成功率87.6%，客隊429次、成功率86.5%；關鍵傳球9比8，成功過人14比10。犯規數上馬拉加15次多於貝蒂斯的10次，黃牌雙方各2張，紅牌均為0。數據來源：PitchAPI match statistics。",
-        "en": "Real Betis led Malaga with 58.8% possession to 41.2%, and had a clear advantage in shots at 23 to 10, with shots on target at 6 to 4. In passing, the hosts had 623 passes with an 87.6% success rate, while the visitors had 429 passes with an 86.5% success rate; key passes were 9 to 8, and successful dribbles were 14 to 10. In fouls, Malaga committed 15, more than Betis's 10; both sides received 2 yellow cards, and both had 0 red cards. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-536d159200d2",
-      "title": "热刺主场2-0击败水晶宫，控球与射门数据全面占优",
-      "summary": "托特纳姆热刺凭借79.1%的控球率和34次射门，在主场以2-0战胜水晶宫。",
-      "body": "热刺全场控球率达到79.1%，水晶宫仅为20.9%。射门方面，热刺34次射门、9次射正，水晶宫只有2次射门、1次射正。传球数据上，热刺829次传球、成功率90.5%，水晶宫197次传球、成功率74.1%；关键传球热刺26次，水晶宫2次。犯规水晶宫10次多于热刺8次，双方各得1张黄牌，水晶宫另有1张红牌。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-01T01:00:09.331Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "560627"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-01T00:53:32.265639019Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "560627"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-01T00:59:45.008316246Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0GIRbd"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "热刺主场2-0击败水晶宫，控球与射门数据全面占优",
-        "zh-TW": "熱刺主場2-0擊敗水晶宮，控球與射門數據全面佔優",
-        "en": "Tottenham beat Crystal Palace 2-0 at home, dominating possession and shooting statistics"
-      },
-      "localizedSummaries": {
-        "zh-CN": "托特纳姆热刺凭借79.1%的控球率和34次射门，在主场以2-0战胜水晶宫。",
-        "zh-TW": "托特納姆熱刺憑藉79.1%的控球率和34次射門，在主場以2-0戰勝水晶宮。",
-        "en": "Tottenham Hotspur, with 79.1% possession and 34 shots, defeated Crystal Palace 2-0 at home."
-      },
-      "localizedBodies": {
-        "zh-CN": "热刺全场控球率达到79.1%，水晶宫仅为20.9%。射门方面，热刺34次射门、9次射正，水晶宫只有2次射门、1次射正。传球数据上，热刺829次传球、成功率90.5%，水晶宫197次传球、成功率74.1%；关键传球热刺26次，水晶宫2次。犯规水晶宫10次多于热刺8次，双方各得1张黄牌，水晶宫另有1张红牌。数据来源：PitchAPI match statistics。",
-        "zh-TW": "熱刺全場控球率達到79.1%，水晶宮僅為20.9%。射門方面，熱刺34次射門、9次射正，水晶宮只有2次射門、1次射正。傳球數據上，熱刺829次傳球、成功率90.5%，水晶宮197次傳球、成功率74.1%；關鍵傳球熱刺26次，水晶宮2次。犯規水晶宮10次多於熱刺8次，雙方各得1張黃牌，水晶宮另有1張紅牌。數據來源：PitchAPI match statistics。",
-        "en": "Tottenham's possession reached 79.1% throughout the match, while Crystal Palace had only 20.9%. In terms of shooting, Tottenham had 34 shots, 9 on target, while Crystal Palace had only 2 shots, 1 on target. In passing data, Tottenham had 829 passes with a success rate of 90.5%, Crystal Palace had 197 passes with a success rate of 74.1%; key passes were 26 for Tottenham and 2 for Crystal Palace. Crystal Palace committed 10 fouls, more than Tottenham's 8; each side received 1 yellow card, and Crystal Palace also received 1 red card. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-99a952ead4ee",
-      "title": "乌迪内斯2-5罗马：罗马客场取胜",
-      "summary": "罗马在意甲客场以5-2击败乌迪内斯。",
-      "body": "罗马在客场以5-2战胜乌迪内斯。控球率方面，罗马为53.7%，乌迪内斯为46.3%；射门次数上，乌迪内斯以15次略多于罗马的14次，但罗马的射正次数以9次多于乌迪内斯的7次。传球方面，罗马完成526次传球，成功率为83.7%，乌迪内斯则为443次传球，成功率为79.9%。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-01T01:00:07.562Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "558542"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-01T00:53:32.265639019Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "558542"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-01T00:59:45.008316246Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0zvm5Y"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "乌迪内斯2-5罗马：罗马客场取胜",
-        "zh-TW": "烏迪內斯2-5羅馬：羅馬客場取勝",
-        "en": "Udinese 2-5 Roma: Roma win away"
-      },
-      "localizedSummaries": {
-        "zh-CN": "罗马在意甲客场以5-2击败乌迪内斯。",
-        "zh-TW": "羅馬在意甲客場以5-2擊敗烏迪內斯。",
-        "en": "Roma defeated Udinese 5-2 away in Serie A."
-      },
-      "localizedBodies": {
-        "zh-CN": "罗马在客场以5-2战胜乌迪内斯。控球率方面，罗马为53.7%，乌迪内斯为46.3%；射门次数上，乌迪内斯以15次略多于罗马的14次，但罗马的射正次数以9次多于乌迪内斯的7次。传球方面，罗马完成526次传球，成功率为83.7%，乌迪内斯则为443次传球，成功率为79.9%。数据来源：PitchAPI match statistics。",
-        "zh-TW": "羅馬在客場以5-2戰勝烏迪內斯。控球率方面，羅馬為53.7%，烏迪內斯為46.3%；射門次數上，烏迪內斯以15次略多於羅馬的14次，但羅馬的射正次數以9次多於烏迪內斯的7次。傳球方面，羅馬完成526次傳球，成功率為83.7%，烏迪內斯則為443次傳球，成功率為79.9%。數據來源：PitchAPI match statistics。",
-        "en": "Roma defeated Udinese 5-2 away. In terms of possession, Roma had 53.7% and Udinese 46.3%; in shots, Udinese had slightly more than Roma with 15 compared to 14, but Roma had more shots on target with 9 compared to Udinese's 7. In passing, Roma completed 526 passes with a success rate of 83.7%, while Udinese had 443 passes with a success rate of 79.9%. Data source: PitchAPI match statistics."
       }
     },
     {
