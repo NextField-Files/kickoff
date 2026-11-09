@@ -1,6 +1,384 @@
 {
   "articles": [
     {
+      "id": "match-review-c701ac4b8723",
+      "title": "皇家社会1-0巴列卡诺：控球与传球效率略占上风",
+      "summary": "皇家社会主场1比0击败巴列卡诺，控球率、传球成功率和关键传球均略高于对手。",
+      "body": "皇家社会以50.9%的控球率略高于巴列卡诺的49.1%，传球成功率87%对84.4%，关键传球16比8。射门方面皇家社会17次、巴列卡诺11次，但双方射正均为3次。犯规皇家社会11次、巴列卡诺8次，黄牌各2张，红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:03.528Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564743"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564743"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_3pLoZ3"
+        }
+      ]
+    },
+    {
+      "id": "match-review-fdf7018cd060",
+      "title": "勒芒1-1摩纳哥：主队射门19次占优，控球略逊",
+      "summary": "勒芒与摩纳哥1-1战平，主队在射门和关键传球上明显占优，摩纳哥则在控球率与传球成功率上略高。",
+      "body": "本场勒芒与摩纳哥1-1握手言和。射门方面勒芒19次、射正5次，均高于摩纳哥的5次和3次；关键传球勒芒11次，摩纳哥仅2次。控球率摩纳哥51.9%略高于勒芒48.1%，传球成功率81.3%也高于勒芒的79.4%。双方黄牌和红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:05.477Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "559631"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "559631"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_3osflk"
+        }
+      ]
+    },
+    {
+      "id": "match-review-64c7d39caaa4",
+      "title": "布雷斯特主场2-0击败里昂",
+      "summary": "布雷斯特在法甲比赛中主场2-0战胜里昂，尽管控球率处于劣势，但射门和射正次数均占优。",
+      "body": "布雷斯特以2-0击败里昂。控球率方面，布雷斯特为31.7%，里昂为68.3%；射门次数布雷斯特13次、里昂10次，射正次数布雷斯特6次、里昂2次。传球方面，布雷斯特300次、成功率78.7%，里昂680次、成功率85.9%；关键传球双方均为7次。数据来源：PitchAPI比赛统计。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:07.139Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "559632"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "559632"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_16ULxt"
+        }
+      ]
+    },
+    {
+      "id": "match-review-e5ec44ab7a64",
+      "title": "勒阿弗尔主场0-2不敌洛里昂",
+      "summary": "勒阿弗尔在控球与射门等多项数据上占优，却以0-2负于洛里昂。",
+      "body": "本场勒阿弗尔控球率为53.3%，高于洛里昂的46.7%；射门21次对7次，射正5次对3次，传球494次对426次，传球成功率85.4%对82.2%，关键传球14次对5次，成功过人12次对3次。洛里昂犯规19次多于勒阿弗尔的16次，黄牌3张对1张，红牌双方均为0张。尽管勒阿弗尔在多数统计上领先，比分仍为0-2。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:09.153Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "559633"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "559633"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0BcQYa"
+        }
+      ]
+    },
+    {
+      "id": "match-review-df9d2eb71f78",
+      "title": "昂热主场0-2不敌尼斯",
+      "summary": "昂热在法甲比赛中主场0比2负于尼斯。",
+      "body": "本场比赛昂热控球率为51.4%，尼斯为48.6%。射门方面，昂热12次、射正4次，尼斯16次、射正8次；关键传球昂热7次，尼斯13次。传球成功率昂热84.2%，尼斯85.9%。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:10.481Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "559634"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "559634"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1fpHlF"
+        }
+      ]
+    },
+    {
+      "id": "match-review-138dd76e28ee",
+      "title": "曼联4-4阿斯顿维拉：红魔多项数据占优难取三分",
+      "summary": "曼联主场与阿斯顿维拉战成4-4，主队在控球率、射门和关键传球等多项统计上占优，但未能转化为胜利。",
+      "body": "本场比赛曼联控球率为55.9%，阿斯顿维拉为44.1%；曼联射门26次、射正9次，维拉射门12次、射正6次。传球方面曼联495次、成功率83.6%，维拉375次、成功率86.4%；关键传球曼联20次，维拉9次。成功过人维拉8次多于曼联6次，犯规曼联18次、维拉9次，双方各得1张黄牌、均无红牌。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:12.278Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "560639"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560639"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1hg20L"
+        }
+      ]
+    },
+    {
+      "id": "match-review-befe8fb327b6",
+      "title": "弗赖堡主场2-0击败柏林联合，控球与射门全面占优",
+      "summary": "弗赖堡凭借58.5%的控球率和20次射门（9次射正）的压倒性优势，主场2-0战胜柏林联合。",
+      "body": "弗赖堡本场控球率达到58.5%，柏林联合为41.5%。弗赖堡全场20次射门、9次射正，柏林联合仅4次射门、0次射正；关键传球方面弗赖堡11次，柏林联合2次。传球数据上，弗赖堡534次、成功率85.2%，柏林联合370次、成功率74.1%；成功过人弗赖堡7次，柏林联合1次。犯规方面柏林联合17次多于弗赖堡的10次，黄牌双方各2张，红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:14.482Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "565854"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "565854"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_3tJQt1"
+        }
+      ]
+    },
+    {
+      "id": "match-review-bcb564cc21b4",
+      "title": "国际米兰2-0科莫：控球落后但射门效率占优",
+      "summary": "国际米兰主场2比0击败科莫，射门与射正数均明显领先，尽管控球率与传球数据处于下风。",
+      "body": "国际米兰以2比0战胜科莫。技术统计显示，国际米兰控球率为43.3%，低于科莫的56.7%；传球503次、传球成功率86.5%，也均少于对手的659次和89.2%。但国际米兰射门14次、射正4次，明显高于科莫的5次和1次，关键传球以8比5领先，犯规13次则多于科莫的6次。黄牌方面国际米兰1张、科莫0张，红牌双方均为0，成功过人2比2持平。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:16.313Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558530"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558530"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0XsEm1"
+        }
+      ]
+    },
+    {
+      "id": "match-review-c4045261e714",
+      "title": "西甲：塞尔塔0-0莱万特，塞尔塔23次射门未能破门",
+      "summary": "塞尔塔主场0-0战平莱万特，全场23次射门、8次射正均未能取得进球。",
+      "body": "塞尔塔控球率59.6%高于莱万特的40.4%，射门23比6、射正8比0，传球646比431，关键传球15比5。莱万特全场0次射正，犯规9次、黄牌2张均多于塞尔塔的8次和1张，双方均无红牌。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:17.897Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564742"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564742"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1wSi73"
+        }
+      ]
+    },
+    {
+      "id": "match-review-5bfb8b2291f7",
+      "title": "比利亚雷亚尔2-0赫塔费：控球与射门全面占优",
+      "summary": "比利亚雷亚尔主场2比0击败赫塔费，控球率、射门和传球等多项数据明显领先。",
+      "body": "比利亚雷亚尔以71.7%的控球率大幅高于赫塔费的28.3%，射门22比9、射正7比1，传球567比202、传球成功率84.3%比60.9%，关键传球14比6。赫塔费在成功过人上以7比5略多，犯规13比6也高于对手，黄牌双方各2张，红牌均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:20.031Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564747"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564747"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_4ChvE9"
+        }
+      ]
+    },
+    {
+      "id": "match-review-74abe3c9778a",
+      "title": "霍芬海姆2-1沙尔克04：射正效率与传球成功率助主队取胜",
+      "summary": "霍芬海姆在控球率、射门和关键传球均处劣势的情况下，凭借更高的射正数与传球成功率以2-1击败沙尔克04。",
+      "body": "霍芬海姆控球率49%略低于沙尔克04的51%，射门15次也少于对手的23次，但射正7次多于沙尔克04的6次。传球方面，霍芬海姆452次、成功率79.9%，沙尔克04为464次、73.7%；关键传球霍芬海姆8次，沙尔克04为17次。犯规霍芬海姆10次、沙尔克04 9次，黄牌霍芬海姆0张、沙尔克04 2张，红牌双方均为0张，成功过人双方均为7次。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:22.050Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "565856"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "565856"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1yCXSs"
+        }
+      ]
+    },
+    {
+      "id": "match-review-25ec6de4f741",
+      "title": "佛罗伦萨2-2尤文图斯：控球与射门各有侧重",
+      "summary": "佛罗伦萨与尤文图斯在2026年11月9日的意甲比赛中2-2战平，双方射正次数相同。",
+      "body": "本场比赛佛罗伦萨控球率为41.7%，尤文图斯为58.3%。佛罗伦萨射门22次、射正6次，尤文图斯射门18次、射正6次。传球方面尤文图斯449次多于佛罗伦萨的312次，但佛罗伦萨传球成功率84.6%高于尤文图斯的82.4%。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:23.671Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "558529"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558529"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1TtlDk"
+        }
+      ]
+    },
+    {
+      "id": "match-review-8b628bd0c4f2",
+      "title": "朗斯主场1-2不敌马赛，控球与传球效率成关键差距",
+      "summary": "马赛客场2-1击败朗斯，凭借更高的控球率与传球成功率掌控比赛节奏。",
+      "body": "本场法甲较量中，马赛以58.3%的控球率占据主动，传球数635次、传球成功率86.1%，均明显高于朗斯的442次和78.1%。朗斯虽然射正次数以6比5略占优势，但射门总数13次少于马赛的16次，成功过人仅2次，远低于对手的7次。犯规方面朗斯15次多于马赛的8次，黄牌则为1比2。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:25.751Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "559630"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "559630"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_3xBldf"
+        }
+      ]
+    },
+    {
+      "id": "match-review-cd085ddf2ca0",
+      "title": "马德里竞技1-2巴塞罗那：巴萨控球与传球占优客场取胜",
+      "summary": "巴塞罗那客场2-1击败马德里竞技，控球率、射门与传球数据均明显占优。",
+      "body": "本场比赛巴塞罗那以62.5%的控球率高于马德里竞技的37.5%，射门数19比9、传球数669比382、传球成功率90.7%比80.6%均领先。双方射正均为4次，犯规同为14次；黄牌方面马德里竞技3张、巴塞罗那1张，红牌均为0。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-09T01:47:28.454Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564746"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-09T01:36:03.004134625Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564746"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-09T01:47:01.078898778Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1FwCGv"
+        }
+      ]
+    },
+    {
       "id": "match-review-ebb792640fbe",
       "title": "那不勒斯1-1拉齐奥：控球与射门数据接近",
       "summary": "那不勒斯与拉齐奥在意甲比赛中1-1战平，双方多项技术统计接近。",
@@ -1239,384 +1617,6 @@
           "updatedAt": "2026-11-04T02:13:55.260047546Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_3mPziT"
-        }
-      ]
-    },
-    {
-      "id": "match-review-29e340486da3",
-      "title": "巴塞罗那3-0完胜阿斯顿维拉，控球与射正全面占优",
-      "summary": "巴塞罗那主场3比0击败阿斯顿维拉，控球率、射门和射正数均明显领先。",
-      "body": "巴塞罗那以3比0战胜阿斯顿维拉。技术统计显示，巴萨控球率为64.4%，对手为35.6%；射门16次对9次，射正8次对1次。传球方面，巴萨599次、成功率91%，维拉307次、成功率78.5%；关键传球10比7，成功过人14比11。犯规巴萨14次、维拉9次，黄牌巴萨1张、维拉3张，红牌双方均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:14:03.189Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575380"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575380"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_3eSoqB"
-        }
-      ]
-    },
-    {
-      "id": "match-review-dbd85ae27f31",
-      "title": "马德里竞技0-2拜仁慕尼黑：拜仁控球与射门全面占优",
-      "summary": "拜仁慕尼黑客场2比0击败马德里竞技，控球率、射门与传球数据均明显领先。",
-      "body": "本场比赛拜仁慕尼黑以58.4%的控球率高于马德里竞技的41.6%，射门数以19比9领先，射正数则为5比3。传球方面拜仁完成640次、成功率88%，马竞为440次、成功率80.2%；关键传球拜仁14次，马竞6次。犯规数据上马竞13次、拜仁3次，黄牌为马竞1张、拜仁2张，红牌双方均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:14:04.933Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575381"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575381"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_04phda"
-        }
-      ]
-    },
-    {
-      "id": "match-review-3811c2a6af82",
-      "title": "欧冠：比利亚雷亚尔0-6巴黎圣日耳曼",
-      "summary": "巴黎圣日耳曼客场6比0击败比利亚雷亚尔，控球率70%对30%，射正12次对2次。",
-      "body": "巴黎圣日耳曼在控球率上以70%对30%占优，传球725次对305次，传球成功率90.6%对77.7%。射门方面巴黎22次、比利亚雷亚尔14次，射正12次对2次，关键传球18次对11次。犯规比利亚雷亚尔19次、巴黎4次，黄牌4比1，红牌均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:14:06.377Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575382"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575382"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0k4IES"
-        }
-      ]
-    },
-    {
-      "id": "match-review-7a48318d9933",
-      "title": "曼联3-2罗马：控球与射门数据占优，红牌未改比分",
-      "summary": "曼联主场3-2击败罗马，控球率、射门、射正、传球、关键传球和成功过人等技术统计均占优。",
-      "body": "曼联以52.4%的控球率略高于罗马的47.6%，射门15次对7次、射正6次对4次，传球499次对451次，传球成功率82%对81.2%。关键传球11次对3次、成功过人15次对4次，曼联在进攻端数据上明显领先；犯规11次对14次，黄牌双方各3张，曼联红牌1张、罗马0张。以上技术统计来自PitchAPI match statistics，比赛按赛事、球队、日期与确切比分匹配。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:14:08.586Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575383"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575383"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_2zVvvF"
-        }
-      ]
-    },
-    {
-      "id": "match-review-74de74c40c45",
-      "title": "博德闪耀0-0里尔：控球相近，射门效率各有不同",
-      "summary": "博德闪耀与里尔在欧冠比赛中0-0互交白卷，双方控球率接近，但射门数据呈现不同特点。",
-      "body": "博德闪耀与里尔在2026年11月4日的欧冠比赛中0-0战平。控球率方面，博德闪耀51%略高于里尔的49%，传球成功率双方均为87.3%。射门数据上，里尔以9次射门多于博德闪耀的4次，但博德闪耀4次射正全部命中目标，里尔仅有2次射正。此外，里尔在关键传球（9比4）和成功过人（11比9）上占优，犯规方面博德闪耀12次多于里尔8次，里尔获得1张黄牌。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:14:10.663Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575384"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575384"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0VlPJS"
-        }
-      ]
-    },
-    {
-      "id": "match-review-59a856a254e0",
-      "title": "林茨4-0大胜布拉迪斯拉发，控球与射门全面占优",
-      "summary": "林茨主场4比0击败布拉迪斯拉发，控球率、射门和关键传球等多项数据均领先对手。",
-      "body": "林茨以59.6%的控球率占据主动，全场射门29次、射正10次，均明显多于布拉迪斯拉发的7次和5次。传球方面，林茨548次、成功率84.1%，布拉迪斯拉发为364次、79.7%；关键传球林茨18次，对手仅4次。布拉迪斯拉发在成功过人（8比4）和犯规（9比5）上高于林茨，并领到2张黄牌，林茨无黄牌，双方均无红牌。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:14:12.360Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575385"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575385"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_26eRTe"
-        }
-      ]
-    },
-    {
-      "id": "match-review-57a9b61ed86f",
-      "title": "亚特兰大0-3帕尔马：主队控球占优却告负",
-      "summary": "亚特兰大主场0比3不敌帕尔马，尽管主队在控球率、射门和传球等多项统计上占优。",
-      "body": "亚特兰大以69.1%的控球率大幅领先帕尔马的30.9%，射门20比6、射正6比3、传球685比283、传球成功率86%比76%、关键传球12比6、成功过人10比4均高于对手。犯规方面帕尔马10次多于亚特兰大的8次，双方黄牌和红牌均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-03T03:34:15.268Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "558545"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-03T03:26:38.912207632Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "558545"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-03T03:34:12.827442933Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_4Z0Hkz"
-        }
-      ]
-    },
-    {
-      "id": "match-review-ef57f7729732",
-      "title": "洛里昂0-2布雷斯特：主队控球占优但射正为零",
-      "summary": "洛里昂主场0比2不敌布雷斯特，控球与射门次数占优却未能射正一次。",
-      "body": "洛里昂控球率52.1%高于布雷斯特的47.9%，射门15次也多于对手的12次，但射正数为0，布雷斯特则有4次射正。传球方面洛里昂519次、成功率84.2%，布雷斯特484次、成功率85.1%；关键传球洛里昂12次对布雷斯特5次，成功过人10次对3次。犯规布雷斯特16次多于洛里昂11次，双方各得1张黄牌、均无红牌。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-03T03:34:16.892Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "559641"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-03T03:26:38.912207632Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "559641"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-03T03:34:12.827442933Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0xOQtL"
-        }
-      ]
-    },
-    {
-      "id": "match-review-4a960e567a4b",
-      "title": "纽卡斯尔联主场0比1不敌埃弗顿",
-      "summary": "纽卡斯尔联在英超比赛中主场0比1负于埃弗顿。",
-      "body": "纽卡斯尔联控球率51.6%，略高于埃弗顿的48.4%；射门17次，多于埃弗顿的16次。埃弗顿射正5次，纽卡斯尔联射正2次。传球方面，纽卡斯尔联424次、成功率78.1%，埃弗顿393次、成功率79.6%；成功过人方面，纽卡斯尔联1次，埃弗顿9次。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-03T03:34:18.455Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "560622"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-03T03:26:38.912207632Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "560622"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-03T03:34:12.827442933Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0eAA1g"
-        }
-      ]
-    },
-    {
-      "id": "match-review-1a5a4e4ab27f",
-      "title": "拉科鲁尼亚2-1奥萨苏纳：控球与射门数据占优助主队取胜",
-      "summary": "拉科鲁尼亚主场2比1击败奥萨苏纳，控球率、射门与射正等多项数据均领先对手。",
-      "body": "本场比赛拉科鲁尼亚控球率达到61.8%，高于奥萨苏纳的38.2%；射门18次对11次，射正7次对2次，传球563次对347次，传球成功率87.2%对79.5%。关键传球9比8、成功过人14比9，拉科鲁尼亚在这些环节均略占上风。犯规方面奥萨苏纳13次多于拉科鲁尼亚的5次，黄牌4比0，红牌双方均为0。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-03T03:34:20.161Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "564731"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-03T03:26:38.912207632Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "564731"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-03T03:34:12.827442933Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_2P8d0o"
-        }
-      ]
-    },
-    {
-      "id": "match-review-d8432784e463",
-      "title": "萨索洛主场2-4不敌佛罗伦萨",
-      "summary": "萨索洛主场2比4负于佛罗伦萨，控球占优但射门与射正明显落后。",
-      "body": "萨索洛以58.1%的控球率高于佛罗伦萨的41.9%，传球554次、传球成功率85.6%也均高于对手的392次和82.4%。但佛罗伦萨射门15次、射正6次，明显多于萨索洛的7次和2次，关键传球以10比6领先。萨索洛成功过人9次多于对手的5次，犯规12次少于佛罗伦萨的15次，黄牌为2比3，双方均无红牌。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-02T20:07:44.784Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "558541"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-02T20:00:31.878500888Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "558541"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-02T20:07:41.851356600Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_32m5m0"
-        }
-      ]
-    },
-    {
-      "id": "match-review-dadfb5d44e51",
-      "title": "桑坦德竞技0-3皇家马德里：皇马客场完胜，数据全面占优",
-      "summary": "皇家马德里客场3-0击败桑坦德竞技，射门、射正、控球率与关键传球等多项数据均领先主队。",
-      "body": "本场比赛皇家马德里以3-0战胜桑坦德竞技。技术统计显示，皇马在射门（22比10）、射正（7比1）、控球率（53.7%比46.3%）、关键传球（17比7）和成功过人（11比5）上均占优，传球成功率也以87.6%高于主队的84.4%。桑坦德竞技则在犯规（10比8）和黄牌（2比0）两项数值上高于对手，红牌双方均为0。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-02T01:33:18.650Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "564734"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-02T01:26:53.039320648Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "564734"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-02T01:33:15.728265440Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_3Zye1t"
-        }
-      ]
-    },
-    {
-      "id": "match-review-3c46591d4c0e",
-      "title": "里昂主场2比0击败昂热，控球与射门全面占优",
-      "summary": "里昂凭借63.7%的控球率和21次射门（5次射正）以2比0战胜昂热。",
-      "body": "里昂全场控球率达到63.7%，昂热为36.3%。里昂完成21次射门、5次射正，昂热则为8次射门、2次射正。传球方面里昂664次、成功率89.2%，昂热353次、成功率80.5%；关键传球里昂18次，昂热7次。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-02T01:33:20.168Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "559640"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-02T01:26:53.039320648Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "559640"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-02T01:33:15.728265440Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_1IGE7o"
-        }
-      ]
-    },
-    {
-      "id": "match-review-a75add127a4b",
-      "title": "巴黎FC主场3-1击败摩纳哥",
-      "summary": "巴黎FC在法甲比赛中以3-1战胜摩纳哥，射门与射正数据明显占优。",
-      "body": "巴黎FC以3-1击败摩纳哥。控球率方面，摩纳哥以55.4%高于巴黎FC的44.6%，传球数643次也多于504次，传球成功率87.1%略高于86.1%。但巴黎FC射门19次、射正10次，均明显多于摩纳哥的9次和2次，关键传球16次也高于6次。双方黄牌各2张，红牌均为0。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-02T01:33:21.848Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "559642"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-02T01:26:53.039320648Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "559642"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-02T01:33:15.728265440Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_18Uw0k"
         }
       ]
     }
