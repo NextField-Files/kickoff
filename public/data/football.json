@@ -1,6 +1,6 @@
 {
   "source" : "football-data.org",
-  "updatedAt" : "2026-11-16T01:45:37.316791528Z",
+  "updatedAt" : "2026-11-16T20:02:11.491516593Z",
   "range" : {
     "to" : "2026-11-16",
     "from" : "2026-11-08"
@@ -8911,30 +8911,6 @@
     "hs" : null,
     "as" : null
   }, {
-    "id" : "564769",
-    "league" : "西甲",
-    "utcDate" : "2026-12-06T00:00:00Z",
-    "home" : "Sevilla FC",
-    "away" : "Málaga",
-    "teamHome" : "SEV",
-    "teamAway" : "MAL",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
-    "id" : "564771",
-    "league" : "西甲",
-    "utcDate" : "2026-12-06T00:00:00Z",
-    "home" : "Atleti",
-    "away" : "Real Betis",
-    "teamHome" : "ATL",
-    "teamAway" : "BET",
-    "colors" : [ "#7377db", "#7377db" ],
-    "status" : "SCHEDULED",
-    "hs" : null,
-    "as" : null
-  }, {
     "id" : "558499",
     "league" : "意甲",
     "utcDate" : "2026-12-06T11:30:00Z",
@@ -9115,6 +9091,18 @@
     "hs" : null,
     "as" : null
   }, {
+    "id" : "564771",
+    "league" : "西甲",
+    "utcDate" : "2026-12-06T20:00:00Z",
+    "home" : "Atleti",
+    "away" : "Real Betis",
+    "teamHome" : "ATL",
+    "teamAway" : "BET",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
     "id" : "558506",
     "league" : "意甲",
     "utcDate" : "2026-12-07T17:30:00Z",
@@ -9134,6 +9122,18 @@
     "away" : "Cagliari",
     "teamHome" : "FIO",
     "teamAway" : "CAG",
+    "colors" : [ "#7377db", "#7377db" ],
+    "status" : "TIMED",
+    "hs" : null,
+    "as" : null
+  }, {
+    "id" : "564769",
+    "league" : "西甲",
+    "utcDate" : "2026-12-07T20:00:00Z",
+    "home" : "Sevilla FC",
+    "away" : "Málaga",
+    "teamHome" : "SEV",
+    "teamAway" : "MAL",
     "colors" : [ "#7377db", "#7377db" ],
     "status" : "TIMED",
     "hs" : null,
@@ -22933,7 +22933,6 @@
       "startDate" : "2026-08-21",
       "endDate" : "2027-05-30",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 57,
           "sourceName" : "Arsenal FC",
@@ -23234,7 +23233,8 @@
           "gd" : "-14",
           "gf" : 10,
           "ga" : 24
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "西甲" : {
@@ -23242,7 +23242,6 @@
       "startDate" : "2026-08-16",
       "endDate" : "2027-05-30",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 81,
           "sourceName" : "FC Barcelona",
@@ -23543,7 +23542,8 @@
           "gd" : "-14",
           "gf" : 9,
           "ga" : 23
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "意甲" : {
@@ -23551,7 +23551,6 @@
       "startDate" : "2026-08-23",
       "endDate" : "2027-05-30",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 110,
           "sourceName" : "SS Lazio",
@@ -23852,7 +23851,8 @@
           "gd" : "-13",
           "gf" : 12,
           "ga" : 25
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "德甲" : {
@@ -23860,7 +23860,6 @@
       "startDate" : "2026-08-28",
       "endDate" : "2027-05-22",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 5,
           "sourceName" : "FC Bayern München",
@@ -24131,7 +24130,8 @@
           "gd" : "-13",
           "gf" : 12,
           "ga" : 25
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "法甲" : {
@@ -24139,7 +24139,6 @@
       "startDate" : "2026-08-22",
       "endDate" : "2027-05-29",
       "groups" : [ {
-        "name" : "Matchday",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -24410,7 +24409,8 @@
           "gd" : "-13",
           "gf" : 9,
           "ga" : 22
-        } ]
+        } ],
+        "name" : "Matchday"
       } ]
     },
     "欧冠" : {
@@ -24418,7 +24418,6 @@
       "startDate" : "2026-09-08",
       "endDate" : "2027-01-27",
       "groups" : [ {
-        "name" : "League phase",
         "rows" : [ {
           "id" : 524,
           "sourceName" : "Paris Saint-Germain FC",
@@ -24959,7 +24958,8 @@
           "gd" : "-16",
           "gf" : 1,
           "ga" : 17
-        } ]
+        } ],
+        "name" : "League phase"
       } ]
     }
   }
