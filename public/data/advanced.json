@@ -25938,7 +25938,7 @@
         }
       }, {
         "id" : "p_0HvUqJ",
-        "name" : "Ángel Fortuno",
+        "name" : "Ángel Fortuño",
         "team" : "Espanyol",
         "position" : null,
         "appearances" : 12,
@@ -45809,6 +45809,28 @@
           "appearances" : 8
         }
       }, {
+        "id" : "p_1AGOyg",
+        "name" : "Kim Min-Jae",
+        "team" : "Bayern München",
+        "position" : null,
+        "appearances" : 8,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 8.0,
+          "passes" : 297.0,
+          "keyPasses" : 2.0,
+          "dribblesAttempted" : 1.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 7.0,
+          "interceptions" : 9.0,
+          "clearances" : 17.0,
+          "yellowCards" : 1.0,
+          "redCards" : 0.0,
+          "passAccuracy" : 92.9,
+          "appearances" : 8
+        }
+      }, {
         "id" : "p_3hujTt",
         "name" : "Klaus Gjasula",
         "team" : "Hoffenheim",
@@ -47894,28 +47916,6 @@
           "redCards" : 0.0,
           "offsides" : 2.0,
           "passAccuracy" : 80.1,
-          "appearances" : 8
-        }
-      }, {
-        "id" : "p_1AGOyg",
-        "name" : "Min-Jae Kim",
-        "team" : "Bayern München",
-        "position" : null,
-        "appearances" : 8,
-        "values" : {
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 8.0,
-          "passes" : 297.0,
-          "keyPasses" : 2.0,
-          "dribblesAttempted" : 1.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 7.0,
-          "interceptions" : 9.0,
-          "clearances" : 17.0,
-          "yellowCards" : 1.0,
-          "redCards" : 0.0,
-          "passAccuracy" : 92.9,
           "appearances" : 8
         }
       }, {
@@ -74036,6 +74036,28 @@
           "appearances" : 1
         }
       }, {
+        "id" : "p_1AGOyg",
+        "name" : "Kim Min-Jae",
+        "team" : "Bayern München",
+        "position" : null,
+        "appearances" : 4,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 1.0,
+          "passes" : 96.0,
+          "keyPasses" : 1.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 2.0,
+          "interceptions" : 4.0,
+          "clearances" : 4.0,
+          "passAccuracy" : 85.4,
+          "appearances" : 4
+        }
+      }, {
         "id" : "p_0yp4F7",
         "name" : "Kiril Fesyun",
         "team" : "Shakhtar Donetsk",
@@ -77399,28 +77421,6 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 86.5,
-          "appearances" : 4
-        }
-      }, {
-        "id" : "p_1AGOyg",
-        "name" : "Min-Jae Kim",
-        "team" : "Bayern München",
-        "position" : null,
-        "appearances" : 4,
-        "values" : {
-          "yellowCards" : 0.0,
-          "redCards" : 0.0,
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 1.0,
-          "passes" : 96.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 2.0,
-          "interceptions" : 4.0,
-          "clearances" : 4.0,
-          "passAccuracy" : 85.4,
           "appearances" : 4
         }
       }, {
@@ -84214,5 +84214,5 @@
     }
   },
   "requestCount" : 2867,
-  "updatedAt" : "2026-11-18T18:50:31.167641530Z"
+  "updatedAt" : "2026-11-19T03:13:41.804793882Z"
 }
