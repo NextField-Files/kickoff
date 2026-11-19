@@ -35253,31 +35253,6 @@
           "appearances" : 10
         }
       }, {
-        "id" : "p_0rkEPN",
-        "name" : "Matias Soulé",
-        "team" : "Roma",
-        "position" : null,
-        "appearances" : 11,
-        "values" : {
-          "assists" : 3.0,
-          "goals" : 3.0,
-          "shotsOnTarget" : 13.0,
-          "shots" : 29.0,
-          "fouls" : 1.0,
-          "passes" : 476.0,
-          "keyPasses" : 21.0,
-          "dribblesAttempted" : 47.0,
-          "dribblesCompleted" : 28.0,
-          "tackles" : 8.0,
-          "interceptions" : 11.0,
-          "clearances" : 8.0,
-          "yellowCards" : 2.0,
-          "redCards" : 0.0,
-          "offsides" : 4.0,
-          "passAccuracy" : 85.3,
-          "appearances" : 11
-        }
-      }, {
         "id" : "p_27Hss7",
         "name" : "Matija Frigan",
         "team" : "Parma",
@@ -35724,6 +35699,31 @@
           "redCards" : 0.0,
           "passAccuracy" : 87.3,
           "appearances" : 9
+        }
+      }, {
+        "id" : "p_0rkEPN",
+        "name" : "Matías Soulé",
+        "team" : "Roma",
+        "position" : null,
+        "appearances" : 11,
+        "values" : {
+          "assists" : 3.0,
+          "goals" : 3.0,
+          "shotsOnTarget" : 13.0,
+          "shots" : 29.0,
+          "fouls" : 1.0,
+          "passes" : 476.0,
+          "keyPasses" : 21.0,
+          "dribblesAttempted" : 47.0,
+          "dribblesCompleted" : 28.0,
+          "tackles" : 8.0,
+          "interceptions" : 11.0,
+          "clearances" : 8.0,
+          "yellowCards" : 2.0,
+          "redCards" : 0.0,
+          "offsides" : 4.0,
+          "passAccuracy" : 85.3,
+          "appearances" : 11
         }
       }, {
         "id" : "p_2aq8Km",
@@ -44218,31 +44218,6 @@
           "appearances" : 9
         }
       }, {
-        "id" : "p_2zXn4Z",
-        "name" : "Hee-Chan Hwang",
-        "team" : "Schalke 04",
-        "position" : null,
-        "appearances" : 7,
-        "values" : {
-          "goals" : 0.0,
-          "assists" : 1.0,
-          "fouls" : 8.0,
-          "passes" : 123.0,
-          "keyPasses" : 7.0,
-          "dribblesAttempted" : 15.0,
-          "dribblesCompleted" : 8.0,
-          "tackles" : 2.0,
-          "interceptions" : 5.0,
-          "clearances" : 0.0,
-          "yellowCards" : 3.0,
-          "redCards" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 5.0,
-          "offsides" : 4.0,
-          "passAccuracy" : 77.3,
-          "appearances" : 7
-        }
-      }, {
         "id" : "p_4TbkSb",
         "name" : "Hennes Behrens",
         "team" : "Augsburg",
@@ -44311,6 +44286,31 @@
           "yellowCards" : 1.0,
           "redCards" : 0.0,
           "passAccuracy" : 75.0,
+          "appearances" : 7
+        }
+      }, {
+        "id" : "p_2zXn4Z",
+        "name" : "Hwang Hee-Chan",
+        "team" : "Schalke 04",
+        "position" : null,
+        "appearances" : 7,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 1.0,
+          "fouls" : 8.0,
+          "passes" : 123.0,
+          "keyPasses" : 7.0,
+          "dribblesAttempted" : 15.0,
+          "dribblesCompleted" : 8.0,
+          "tackles" : 2.0,
+          "interceptions" : 5.0,
+          "clearances" : 0.0,
+          "yellowCards" : 3.0,
+          "redCards" : 0.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 5.0,
+          "offsides" : 4.0,
+          "passAccuracy" : 77.3,
           "appearances" : 7
         }
       }, {
@@ -46310,30 +46310,6 @@
           "appearances" : 8
         }
       }, {
-        "id" : "p_35cEy0",
-        "name" : "Loic Badé",
-        "team" : "Bayer Leverkusen",
-        "position" : null,
-        "appearances" : 8,
-        "values" : {
-          "assists" : 0.0,
-          "goals" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "fouls" : 2.0,
-          "passes" : 81.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 4.0,
-          "interceptions" : 5.0,
-          "clearances" : 7.0,
-          "yellowCards" : 1.0,
-          "redCards" : 0.0,
-          "passAccuracy" : 90.1,
-          "appearances" : 8
-        }
-      }, {
         "id" : "p_4b2rYc",
         "name" : "Lorenz Assignon",
         "team" : "VfB Stuttgart",
@@ -46434,6 +46410,30 @@
           "redCards" : 0.0,
           "passAccuracy" : 92.9,
           "appearances" : 6
+        }
+      }, {
+        "id" : "p_35cEy0",
+        "name" : "Loïc Badé",
+        "team" : "Bayer Leverkusen",
+        "position" : null,
+        "appearances" : 8,
+        "values" : {
+          "assists" : 0.0,
+          "goals" : 0.0,
+          "shotsOnTarget" : 0.0,
+          "shots" : 1.0,
+          "fouls" : 2.0,
+          "passes" : 81.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 4.0,
+          "interceptions" : 5.0,
+          "clearances" : 7.0,
+          "yellowCards" : 1.0,
+          "redCards" : 0.0,
+          "passAccuracy" : 90.1,
+          "appearances" : 8
         }
       }, {
         "id" : "p_0NeIcR",
@@ -53631,6 +53631,30 @@
           "appearances" : 3
         }
       }, {
+        "id" : "p_0r8J6e",
+        "name" : "Beraldo",
+        "team" : "Paris Saint-Germain",
+        "position" : null,
+        "appearances" : 10,
+        "values" : {
+          "goals" : 1.0,
+          "assists" : 0.0,
+          "fouls" : 1.0,
+          "passes" : 200.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 4.0,
+          "dribblesCompleted" : 1.0,
+          "tackles" : 6.0,
+          "interceptions" : 4.0,
+          "clearances" : 3.0,
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 3.0,
+          "passAccuracy" : 91.0,
+          "appearances" : 10
+        }
+      }, {
         "id" : "p_4VTJDP",
         "name" : "Berke Özer",
         "team" : "Lille",
@@ -57989,30 +58013,6 @@
           "redCards" : 0.0,
           "passAccuracy" : 75.1,
           "appearances" : 8
-        }
-      }, {
-        "id" : "p_0r8J6e",
-        "name" : "Lucas Beraldo",
-        "team" : "Paris Saint-Germain",
-        "position" : null,
-        "appearances" : 10,
-        "values" : {
-          "goals" : 1.0,
-          "assists" : 0.0,
-          "fouls" : 1.0,
-          "passes" : 200.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 4.0,
-          "dribblesCompleted" : 1.0,
-          "tackles" : 6.0,
-          "interceptions" : 4.0,
-          "clearances" : 3.0,
-          "yellowCards" : 0.0,
-          "redCards" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 3.0,
-          "passAccuracy" : 91.0,
-          "appearances" : 10
         }
       }, {
         "id" : "p_35Ora1",
@@ -65442,8 +65442,19 @@
           "appearances" : 3
         }
       }, {
+        "id" : "p_2XkziH",
+        "name" : "Amin Ramazanov",
+        "team" : "Sabah FK",
+        "position" : null,
+        "appearances" : 4,
+        "values" : {
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "appearances" : 4
+        }
+      }, {
         "id" : "p_4E74Vl",
-        "name" : "Amin Cosic",
+        "name" : "Amin Ćosić",
         "team" : "Viking",
         "position" : null,
         "appearances" : 4,
@@ -65463,17 +65474,6 @@
           "interceptions" : 1.0,
           "clearances" : 0.0,
           "passAccuracy" : 90.0,
-          "appearances" : 4
-        }
-      }, {
-        "id" : "p_2XkziH",
-        "name" : "Amin Ramazanov",
-        "team" : "Sabah FK",
-        "position" : null,
-        "appearances" : 4,
-        "values" : {
-          "yellowCards" : 0.0,
-          "redCards" : 0.0,
           "appearances" : 4
         }
       }, {
@@ -66684,6 +66684,30 @@
           "clearances" : 5.0,
           "passAccuracy" : 91.8,
           "appearances" : 3
+        }
+      }, {
+        "id" : "p_0r8J6e",
+        "name" : "Beraldo",
+        "team" : "Paris Saint-Germain",
+        "position" : null,
+        "appearances" : 4,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 0.0,
+          "passes" : 37.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 1.0,
+          "interceptions" : 2.0,
+          "clearances" : 2.0,
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "shotsOnTarget" : 0.0,
+          "shots" : 1.0,
+          "passAccuracy" : 89.2,
+          "appearances" : 4
         }
       }, {
         "id" : "p_4A1Awb",
@@ -70876,7 +70900,7 @@
         }
       }, {
         "id" : "p_1we28Z",
-        "name" : "Günay Güvenc",
+        "name" : "Günay Güvenç",
         "team" : "Galatasaray",
         "position" : null,
         "appearances" : 2,
@@ -71442,28 +71466,6 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 86.5,
-          "appearances" : 4
-        }
-      }, {
-        "id" : "p_3jGFue",
-        "name" : "Ilkay Gündogan",
-        "team" : "Galatasaray",
-        "position" : null,
-        "appearances" : 4,
-        "values" : {
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 0.0,
-          "passes" : 5.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 0.0,
-          "interceptions" : 0.0,
-          "clearances" : 0.0,
-          "yellowCards" : 0.0,
-          "redCards" : 0.0,
-          "passAccuracy" : 100.0,
           "appearances" : 4
         }
       }, {
@@ -75027,30 +75029,6 @@
           "appearances" : 3
         }
       }, {
-        "id" : "p_0r8J6e",
-        "name" : "Lucas Beraldo",
-        "team" : "Paris Saint-Germain",
-        "position" : null,
-        "appearances" : 4,
-        "values" : {
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 0.0,
-          "passes" : 37.0,
-          "keyPasses" : 0.0,
-          "dribblesAttempted" : 0.0,
-          "dribblesCompleted" : 0.0,
-          "tackles" : 1.0,
-          "interceptions" : 2.0,
-          "clearances" : 2.0,
-          "yellowCards" : 0.0,
-          "redCards" : 0.0,
-          "shotsOnTarget" : 0.0,
-          "shots" : 1.0,
-          "passAccuracy" : 89.2,
-          "appearances" : 4
-        }
-      }, {
         "id" : "p_0DjtfU",
         "name" : "Lucas Chevalier",
         "team" : "Paris Saint-Germain",
@@ -76413,30 +76391,6 @@
           "appearances" : 2
         }
       }, {
-        "id" : "p_0rkEPN",
-        "name" : "Matias Soulé",
-        "team" : "Roma",
-        "position" : null,
-        "appearances" : 4,
-        "values" : {
-          "assists" : 2.0,
-          "goals" : 1.0,
-          "shotsOnTarget" : 2.0,
-          "shots" : 8.0,
-          "fouls" : 0.0,
-          "passes" : 172.0,
-          "keyPasses" : 6.0,
-          "dribblesAttempted" : 15.0,
-          "dribblesCompleted" : 5.0,
-          "tackles" : 2.0,
-          "interceptions" : 3.0,
-          "clearances" : 3.0,
-          "yellowCards" : 1.0,
-          "redCards" : 0.0,
-          "passAccuracy" : 83.7,
-          "appearances" : 4
-        }
-      }, {
         "id" : "p_3wLT1f",
         "name" : "Mats Deijl",
         "team" : "Feyenoord",
@@ -76687,6 +76641,30 @@
           "yellowCards" : 0.0,
           "redCards" : 0.0,
           "passAccuracy" : 86.7,
+          "appearances" : 4
+        }
+      }, {
+        "id" : "p_0rkEPN",
+        "name" : "Matías Soulé",
+        "team" : "Roma",
+        "position" : null,
+        "appearances" : 4,
+        "values" : {
+          "assists" : 2.0,
+          "goals" : 1.0,
+          "shotsOnTarget" : 2.0,
+          "shots" : 8.0,
+          "fouls" : 0.0,
+          "passes" : 172.0,
+          "keyPasses" : 6.0,
+          "dribblesAttempted" : 15.0,
+          "dribblesCompleted" : 5.0,
+          "tackles" : 2.0,
+          "interceptions" : 3.0,
+          "clearances" : 3.0,
+          "yellowCards" : 1.0,
+          "redCards" : 0.0,
+          "passAccuracy" : 83.7,
           "appearances" : 4
         }
       }, {
@@ -82741,7 +82719,7 @@
         }
       }, {
         "id" : "p_0XqP3A",
-        "name" : "Uğurcan Çakir",
+        "name" : "Uğurcan Çakır",
         "team" : "Galatasaray",
         "position" : null,
         "appearances" : 4,
@@ -84187,6 +84165,28 @@
           "appearances" : 4
         }
       }, {
+        "id" : "p_3jGFue",
+        "name" : "İlkay Gündoğan",
+        "team" : "Galatasaray",
+        "position" : null,
+        "appearances" : 4,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 0.0,
+          "passes" : 5.0,
+          "keyPasses" : 0.0,
+          "dribblesAttempted" : 0.0,
+          "dribblesCompleted" : 0.0,
+          "tackles" : 0.0,
+          "interceptions" : 0.0,
+          "clearances" : 0.0,
+          "yellowCards" : 0.0,
+          "redCards" : 0.0,
+          "passAccuracy" : 100.0,
+          "appearances" : 4
+        }
+      }, {
         "id" : "p_3SVmRN",
         "name" : "İrfan Kahveci",
         "team" : "Fenerbahçe",
@@ -84214,5 +84214,5 @@
     }
   },
   "requestCount" : 2867,
-  "updatedAt" : "2026-11-19T03:13:41.804793882Z"
+  "updatedAt" : "2026-11-19T19:03:14.070665270Z"
 }
