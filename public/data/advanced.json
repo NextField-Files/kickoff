@@ -14008,30 +14008,6 @@
           "appearances" : 12
         }
       }, {
-        "id" : "p_4De7ku",
-        "name" : "Alvaro Carreras",
-        "team" : "Real Madrid",
-        "position" : null,
-        "appearances" : 12,
-        "values" : {
-          "goals" : 1.0,
-          "assists" : 0.0,
-          "fouls" : 1.0,
-          "passes" : 162.0,
-          "keyPasses" : 5.0,
-          "dribblesAttempted" : 5.0,
-          "dribblesCompleted" : 5.0,
-          "tackles" : 8.0,
-          "interceptions" : 4.0,
-          "clearances" : 4.0,
-          "yellowCards" : 1.0,
-          "redCards" : 0.0,
-          "shotsOnTarget" : 1.0,
-          "shots" : 1.0,
-          "passAccuracy" : 88.9,
-          "appearances" : 12
-        }
-      }, {
         "id" : "p_2iYVff",
         "name" : "Alvaro Padilla",
         "team" : "Elche",
@@ -14290,7 +14266,7 @@
         }
       }, {
         "id" : "p_2mZkzB",
-        "name" : "Andrés Lopez",
+        "name" : "Andrés López",
         "team" : "Sevilla",
         "position" : null,
         "appearances" : 12,
@@ -18415,7 +18391,7 @@
         }
       }, {
         "id" : "p_3nZT71",
-        "name" : "Iván Martin",
+        "name" : "Iván Martín",
         "team" : "Racing Santander",
         "position" : null,
         "appearances" : 11,
@@ -23852,7 +23828,7 @@
         }
       }, {
         "id" : "p_0xRVjE",
-        "name" : "Rubén Garcia",
+        "name" : "Rubén García",
         "team" : "Osasuna",
         "position" : null,
         "appearances" : 12,
@@ -25764,6 +25740,30 @@
           "appearances" : 2
         }
       }, {
+        "id" : "p_4De7ku",
+        "name" : "Álvaro Carreras",
+        "team" : "Real Madrid",
+        "position" : null,
+        "appearances" : 12,
+        "values" : {
+          "goals" : 1.0,
+          "assists" : 0.0,
+          "fouls" : 1.0,
+          "passes" : 162.0,
+          "keyPasses" : 5.0,
+          "dribblesAttempted" : 5.0,
+          "dribblesCompleted" : 5.0,
+          "tackles" : 8.0,
+          "interceptions" : 4.0,
+          "clearances" : 4.0,
+          "yellowCards" : 1.0,
+          "redCards" : 0.0,
+          "shotsOnTarget" : 1.0,
+          "shots" : 1.0,
+          "passAccuracy" : 88.9,
+          "appearances" : 12
+        }
+      }, {
         "id" : "p_3UosCG",
         "name" : "Álvaro Cortés",
         "team" : "Barcelona",
@@ -26032,7 +26032,7 @@
         }
       }, {
         "id" : "p_3d9NHM",
-        "name" : "Éder Militao",
+        "name" : "Éder Militão",
         "team" : "Real Madrid",
         "position" : null,
         "appearances" : 4,
@@ -33829,7 +33829,7 @@
         }
       }, {
         "id" : "p_21VJXk",
-        "name" : "Leo Østigard",
+        "name" : "Leo Østigård",
         "team" : "Genoa",
         "position" : null,
         "appearances" : 11,
@@ -65326,28 +65326,6 @@
           "appearances" : 4
         }
       }, {
-        "id" : "p_4De7ku",
-        "name" : "Alvaro Carreras",
-        "team" : "Real Madrid",
-        "position" : null,
-        "appearances" : 4,
-        "values" : {
-          "goals" : 0.0,
-          "assists" : 0.0,
-          "fouls" : 4.0,
-          "yellowCards" : 2.0,
-          "redCards" : 0.0,
-          "passes" : 69.0,
-          "keyPasses" : 1.0,
-          "dribblesAttempted" : 6.0,
-          "dribblesCompleted" : 2.0,
-          "tackles" : 4.0,
-          "interceptions" : 2.0,
-          "clearances" : 0.0,
-          "passAccuracy" : 92.8,
-          "appearances" : 4
-        }
-      }, {
         "id" : "p_3FRiNW",
         "name" : "Alysson Edward",
         "team" : "Aston Villa",
@@ -84063,6 +84041,28 @@
           "appearances" : 4
         }
       }, {
+        "id" : "p_4De7ku",
+        "name" : "Álvaro Carreras",
+        "team" : "Real Madrid",
+        "position" : null,
+        "appearances" : 4,
+        "values" : {
+          "goals" : 0.0,
+          "assists" : 0.0,
+          "fouls" : 4.0,
+          "yellowCards" : 2.0,
+          "redCards" : 0.0,
+          "passes" : 69.0,
+          "keyPasses" : 1.0,
+          "dribblesAttempted" : 6.0,
+          "dribblesCompleted" : 2.0,
+          "tackles" : 4.0,
+          "interceptions" : 2.0,
+          "clearances" : 0.0,
+          "passAccuracy" : 92.8,
+          "appearances" : 4
+        }
+      }, {
         "id" : "p_4V9uDL",
         "name" : "Álvaro Fidalgo",
         "team" : "Real Betis",
@@ -84131,7 +84131,7 @@
         }
       }, {
         "id" : "p_3d9NHM",
-        "name" : "Éder Militao",
+        "name" : "Éder Militão",
         "team" : "Real Madrid",
         "position" : null,
         "appearances" : 2,
@@ -84213,6 +84213,6 @@
       } ]
     }
   },
-  "requestCount" : 2867,
-  "updatedAt" : "2026-11-20T03:04:22.139751421Z"
+  "requestCount" : 2868,
+  "updatedAt" : "2026-11-20T18:30:35.186793323Z"
 }
