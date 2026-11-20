@@ -52681,7 +52681,7 @@
         }
       }, {
         "id" : "p_1GkC6p",
-        "name" : "Alexsandro Ribeiro",
+        "name" : "Alexsandro",
         "team" : "Lille",
         "position" : null,
         "appearances" : 9,
@@ -65162,7 +65162,7 @@
         }
       }, {
         "id" : "p_1GkC6p",
-        "name" : "Alexsandro Ribeiro",
+        "name" : "Alexsandro",
         "team" : "Lille",
         "position" : null,
         "appearances" : 4,
@@ -84214,5 +84214,5 @@
     }
   },
   "requestCount" : 2867,
-  "updatedAt" : "2026-11-19T19:03:14.070665270Z"
+  "updatedAt" : "2026-11-20T03:04:22.139751421Z"
 }
