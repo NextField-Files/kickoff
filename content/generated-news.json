@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "match-review-b57d7955347e",
+      "title": "拜仁慕尼黑1-1科隆：控球占优难取三分",
+      "summary": "拜仁慕尼黑主场1-1战平科隆，控球与传球大幅领先，但射正次数落后于对手。",
+      "body": "拜仁慕尼黑控球率70.7%，科隆29.3%；拜仁传球807次、成功率90.5%，科隆传球314次、成功率79.9%。拜仁射门17次但仅1次射正，科隆射门7次、射正4次；关键传球拜仁15次、科隆5次。犯规拜仁6次、科隆3次，黄牌拜仁1张、科隆2张，红牌双方均为0。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T03:12:36.813Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "565859"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T03:05:12.743659524Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "565859"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T03:12:33.939384928Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_4McNx8"
+        }
+      ]
+    },
+    {
+      "id": "match-review-c50136998047",
+      "title": "特鲁瓦主场3-1击败勒阿弗尔",
+      "summary": "特鲁瓦在法甲比赛中以3-1战胜勒阿弗尔，射门与射正次数均占优。",
+      "body": "特鲁瓦以3-1击败勒阿弗尔。特鲁瓦射门19次、射正7次，均高于勒阿弗尔的7次和3次；控球率方面，特鲁瓦为47%，勒阿弗尔为53%。传球方面，特鲁瓦405次、成功率77.3%，勒阿弗尔472次、成功率82.8%；关键传球特鲁瓦12次，勒阿弗尔4次。犯规特鲁瓦19次、勒阿弗尔22次，黄牌特鲁瓦2张、勒阿弗尔3张，红牌特鲁瓦0张、勒阿弗尔1张。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T03:12:38.418Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "559622"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T03:05:12.743659524Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "559622"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T03:12:33.939384928Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_3rtQqb"
+        }
+      ]
+    },
+    {
+      "id": "match-review-d1f102721963",
+      "title": "毕尔巴鄂竞技0-1西班牙人：主队控球射门占优难破门",
+      "summary": "毕尔巴鄂竞技主场0比1不敌西班牙人，尽管主队在控球率、射门和传球等多项统计上领先。",
+      "body": "本场比赛毕尔巴鄂竞技控球率达到57.5%，西班牙人为42.5%；射门方面主队17次、客队6次，射正为6比3。传球数据上，毕尔巴鄂竞技469次、成功率83.2%，西班牙人336次、成功率76.2%；关键传球为14比6，成功过人为13比4。犯规和黄牌分别为16比13、3比1，红牌双方均为0。数据来源：PitchAPI match statistics。",
+      "aiGenerated": true,
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T03:12:39.880Z",
+      "category": "赛后速评",
+      "sourceMatchIds": [
+        "564748"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T03:05:12.743659524Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564748"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T03:12:33.939384928Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0iaTdE"
+        }
+      ]
+    },
+    {
       "id": "match-review-c701ac4b8723",
       "title": "皇家社会1-0巴列卡诺：控球与传球效率略占上风",
       "summary": "皇家社会主场1比0击败巴列卡诺，控球率、传球成功率和关键传球均略高于对手。",
@@ -1536,87 +1617,6 @@
           "updatedAt": "2026-11-05T02:17:12.492928728Z",
           "url": "https://pitchapi.dev/",
           "recordId": "m_46K3gH"
-        }
-      ]
-    },
-    {
-      "id": "match-review-548b29a6094b",
-      "title": "顿涅茨克矿工0-1葡萄牙体育：控球占优难破门，葡萄牙体育客场取胜",
-      "summary": "顿涅茨克矿工主场0-1不敌葡萄牙体育，尽管主队在控球率、射门和传球等多项数据上占优，但未能转化为进球。",
-      "body": "本场欧冠比赛，顿涅茨克矿工主场0-1负于葡萄牙体育。技术统计显示，矿工在控球率（54.6%对45.4%）、射门（14对11）、射正（4对3）、传球（427对360）、传球成功率（86.4%对85.8%）和关键传球（9对7）上均略占上风。双方成功过人次数均为10次，黄牌各1张，红牌均为0。葡萄牙体育犯规次数更多（18对10）。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:13:58.107Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575377"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575377"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_31MYPN"
-        }
-      ]
-    },
-    {
-      "id": "match-review-5de9a15b932c",
-      "title": "加拉塔萨雷2-0斯图加特，欧冠赛后数据",
-      "summary": "加拉塔萨雷在2026年11月4日的欧冠比赛中以2-0战胜斯图加特。",
-      "body": "本场比赛加拉塔萨雷控球率为52.1%，斯图加特为47.9%。双方射门均为13次，斯图加特射正5次，多于加拉塔萨雷的4次。加拉塔萨雷传球360次、传球成功率76.7%，均略高于斯图加特的335次和75.8%。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:13:59.509Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575378"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575378"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_3AQ6Oe"
-        }
-      ]
-    },
-    {
-      "id": "match-review-d7bef9e8f038",
-      "title": "费耶诺德0-3国际米兰：射正效率决定欧冠比分",
-      "summary": "国际米兰客场3-0击败费耶诺德，射正次数6比2成为双方最明显的差距。",
-      "body": "本场欧冠比赛，费耶诺德0-3不敌国际米兰。控球率费耶诺德52.9%略高于国际米兰的47.1%，射门数双方均为11次，但射正数国际米兰6次、费耶诺德2次。传球方面费耶诺德593次、成功率88%，国际米兰532次、成功率85.5%；关键传球国际米兰8次多于费耶诺德的5次。数据来源：PitchAPI match statistics。",
-      "aiGenerated": true,
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-04T02:14:01.327Z",
-      "category": "赛后速评",
-      "sourceMatchIds": [
-        "575379"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-04T02:06:13.281038236Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575379"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-04T02:13:55.260047546Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_3mPziT"
         }
       ]
     }
