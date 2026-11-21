@@ -1,7 +1,385 @@
 {
   "source": "Kickoff",
-  "updatedAt": "2026-11-21T03:12:50.319Z",
+  "updatedAt": "2026-11-21T17:16:25.087Z",
   "items": [
+    {
+      "id": "match-review-f30d45ca9980",
+      "title": "考文垂3-2水晶宫：射正效率助主队取胜",
+      "summary": "考文垂在控球与射门次数均处下风的情况下，凭借更高的射正数和传球成功率以3-2击败水晶宫。",
+      "body": "考文垂控球率42.8%低于水晶宫的57.2%，射门11次也少于对手的14次，但射正7次高于水晶宫的5次。传球方面水晶宫453次多于考文垂的320次，而考文垂传球成功率81.9%略高于水晶宫的80.6%。关键传球水晶宫11次多于考文垂的7次，成功过人考文垂9次多于水晶宫的7次。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:59.428Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "560650"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560650"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_0B6kF2"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "考文垂3-2水晶宫：射正效率助主队取胜",
+        "zh-TW": "考文垂3-2水晶宮：射正效率助主隊取勝",
+        "en": "Coventry 3-2 Crystal Palace: Shooting accuracy helps hosts win"
+      },
+      "localizedSummaries": {
+        "zh-CN": "考文垂在控球与射门次数均处下风的情况下，凭借更高的射正数和传球成功率以3-2击败水晶宫。",
+        "zh-TW": "考文垂在控球與射門次數均處下風的情況下，憑藉更高的射正數和傳球成功率以3-2擊敗水晶宮。",
+        "en": "Coventry beat Crystal Palace 3-2 despite being inferior in possession and number of shots, thanks to a higher number of shots on target and pass success rate."
+      },
+      "localizedBodies": {
+        "zh-CN": "考文垂控球率42.8%低于水晶宫的57.2%，射门11次也少于对手的14次，但射正7次高于水晶宫的5次。传球方面水晶宫453次多于考文垂的320次，而考文垂传球成功率81.9%略高于水晶宫的80.6%。关键传球水晶宫11次多于考文垂的7次，成功过人考文垂9次多于水晶宫的7次。数据来源：PitchAPI match statistics。",
+        "zh-TW": "考文垂控球率42.8%低於水晶宮的57.2%，射門11次也少於對手的14次，但射正7次高於水晶宮的5次。傳球方面水晶宮453次多於考文垂的320次，而考文垂傳球成功率81.9%略高於水晶宮的80.6%。關鍵傳球水晶宮11次多於考文垂的7次，成功過人考文垂9次多於水晶宮的7次。數據來源：PitchAPI match statistics。",
+        "en": "Coventry had 42.8% possession, lower than Crystal Palace's 57.2%, and 11 shots, also fewer than the opponent's 14, but had 7 shots on target, higher than Crystal Palace's 5. In terms of passing, Crystal Palace made 453 passes, more than Coventry's 320, while Coventry's pass success rate was 81.9%, slightly higher than Crystal Palace's 80.6%. Crystal Palace had 11 key passes, more than Coventry's 7, and Coventry completed 9 successful dribbles, more than Crystal Palace's 7. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-279481306208",
+      "title": "热刺主场2-0击败伊普斯维奇，控球与射门数据全面占优",
+      "summary": "托特纳姆热刺在英超比赛中主场2-0战胜伊普斯维奇，控球率、射门和射正等多项数据领先对手。",
+      "body": "托特纳姆热刺以62.3%的控球率高于伊普斯维奇的37.7%，全场射门18次、射正9次，均多于对手的11次和3次。传球方面，热刺完成581次传球、成功率87.6%，伊普斯维奇为331次和81.9%；关键传球热刺13次，对手8次。成功过人伊普斯维奇以7次多于热刺的4次，双方犯规均为17次，热刺黄牌4张、伊普斯维奇1张，红牌均为0。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:57.934Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "560648"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560648"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_2PtCYr"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "热刺主场2-0击败伊普斯维奇，控球与射门数据全面占优",
+        "zh-TW": "熱刺主場2-0擊敗伊普斯維奇，控球與射門數據全面佔優",
+        "en": "Tottenham beat Ipswich 2-0 at home, dominating possession and shooting statistics"
+      },
+      "localizedSummaries": {
+        "zh-CN": "托特纳姆热刺在英超比赛中主场2-0战胜伊普斯维奇，控球率、射门和射正等多项数据领先对手。",
+        "zh-TW": "托特納姆熱刺在英超比賽中主場2-0戰勝伊普斯維奇，控球率、射門和射正等多項數據領先對手。",
+        "en": "Tottenham Hotspur defeated Ipswich 2-0 at home in a Premier League match, leading the opponent in multiple statistics including possession, shots, and shots on target."
+      },
+      "localizedBodies": {
+        "zh-CN": "托特纳姆热刺以62.3%的控球率高于伊普斯维奇的37.7%，全场射门18次、射正9次，均多于对手的11次和3次。传球方面，热刺完成581次传球、成功率87.6%，伊普斯维奇为331次和81.9%；关键传球热刺13次，对手8次。成功过人伊普斯维奇以7次多于热刺的4次，双方犯规均为17次，热刺黄牌4张、伊普斯维奇1张，红牌均为0。数据来源：PitchAPI match statistics。",
+        "zh-TW": "托特納姆熱刺以62.3%的控球率高於伊普斯維奇的37.7%，全場射門18次、射正9次，均多於對手的11次和3次。傳球方面，熱刺完成581次傳球、成功率87.6%，伊普斯維奇為331次和81.9%；關鍵傳球熱刺13次，對手8次。成功過人伊普斯維奇以7次多於熱刺的4次，雙方犯規均為17次，熱刺黃牌4張、伊普斯維奇1張，紅牌均為0。數據來源：PitchAPI match statistics。",
+        "en": "Tottenham Hotspur had 62.3% possession, higher than Ipswich's 37.7%. They took 18 shots and had 9 on target, both more than the opponent's 11 and 3. In passing, Tottenham completed 581 passes with an 87.6% success rate, while Ipswich had 331 passes and 81.9%. Tottenham made 13 key passes, compared to the opponent's 8. Ipswich had 7 successful dribbles, more than Tottenham's 4. Both teams committed 17 fouls. Tottenham received 4 yellow cards, Ipswich 1, and both had 0 red cards. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-fdc5b299e7cd",
+      "title": "伯恩茅斯2-0诺丁汉森林：射正效率决定胜负",
+      "summary": "伯恩茅斯主场2-0击败诺丁汉森林，双方射门数相同，但主队射正数7比1大幅领先。",
+      "body": "伯恩茅斯以2-0战胜诺丁汉森林。双方射门均为19次，但伯恩茅斯射正7次，诺丁汉森林仅1次。控球率伯恩茅斯50.9%略高于对手的49.1%，传球成功率80.5%对75.5%，关键传球16比13。诺丁汉森林犯规15次、黄牌3张，均多于主队的13次和1张。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:56.192Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "560647"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560647"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_3IrTv6"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "伯恩茅斯2-0诺丁汉森林：射正效率决定胜负",
+        "zh-TW": "伯恩茅斯2-0諾定咸森林：射正效率決定勝負",
+        "en": "Bournemouth 2-0 Nottingham Forest: Shooting Accuracy Decides the Match"
+      },
+      "localizedSummaries": {
+        "zh-CN": "伯恩茅斯主场2-0击败诺丁汉森林，双方射门数相同，但主队射正数7比1大幅领先。",
+        "zh-TW": "伯恩茅斯主場2-0擊敗諾定咸森林，雙方射門數相同，但主隊射正數7比1大幅領先。",
+        "en": "Bournemouth defeated Nottingham Forest 2-0 at home; both teams had the same number of shots, but the hosts led significantly in shots on target 7 to 1."
+      },
+      "localizedBodies": {
+        "zh-CN": "伯恩茅斯以2-0战胜诺丁汉森林。双方射门均为19次，但伯恩茅斯射正7次，诺丁汉森林仅1次。控球率伯恩茅斯50.9%略高于对手的49.1%，传球成功率80.5%对75.5%，关键传球16比13。诺丁汉森林犯规15次、黄牌3张，均多于主队的13次和1张。数据来源：PitchAPI match statistics。",
+        "zh-TW": "伯恩茅斯以2-0戰勝諾定咸森林。雙方射門均為19次，但伯恩茅斯射正7次，諾定咸森林僅1次。控球率伯恩茅斯50.9%略高於對手的49.1%，傳球成功率80.5%對75.5%，關鍵傳球16比13。諾定咸森林犯規15次、黃牌3張，均多於主隊的13次和1張。數據來源：PitchAPI match statistics。",
+        "en": "Bournemouth beat Nottingham Forest 2-0. Both teams had 19 shots, but Bournemouth had 7 on target while Nottingham Forest had only 1. Bournemouth's possession was 50.9%, slightly higher than the opponent's 49.1%; pass success rate was 80.5% vs 75.5%, and key passes were 16 to 13. Nottingham Forest committed 15 fouls and received 3 yellow cards, both more than the hosts' 13 and 1. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-e0bab3e0fe73",
+      "title": "阿斯顿维拉0-0桑德兰：维拉控球占优未能破门",
+      "summary": "阿斯顿维拉主场0-0战平桑德兰，控球与射门明显占优但未能取得进球。",
+      "body": "阿斯顿维拉与桑德兰在英超比赛中0-0互交白卷。技术统计显示，维拉控球率71.8%对28.2%，射门19次对7次，射正7次对1次，传球683次对250次，传球成功率89%对75.6%，关键传球16次对5次。桑德兰在成功过人上以3次对2次略多，犯规20次对15次，双方黄牌各2张、红牌各0张。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:54.847Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "560644"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560644"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_04ixCx"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "阿斯顿维拉0-0桑德兰：维拉控球占优未能破门",
+        "zh-TW": "阿斯頓維拉0-0桑德蘭：維拉控球佔優未能破門",
+        "en": "Aston Villa 0-0 Sunderland: Villa dominate possession but fail to score"
+      },
+      "localizedSummaries": {
+        "zh-CN": "阿斯顿维拉主场0-0战平桑德兰，控球与射门明显占优但未能取得进球。",
+        "zh-TW": "阿斯頓維拉主場0-0戰平桑德蘭，控球與射門明顯佔優但未能取得進球。",
+        "en": "Aston Villa drew 0-0 at home with Sunderland, clearly dominating possession and shots but failing to score."
+      },
+      "localizedBodies": {
+        "zh-CN": "阿斯顿维拉与桑德兰在英超比赛中0-0互交白卷。技术统计显示，维拉控球率71.8%对28.2%，射门19次对7次，射正7次对1次，传球683次对250次，传球成功率89%对75.6%，关键传球16次对5次。桑德兰在成功过人上以3次对2次略多，犯规20次对15次，双方黄牌各2张、红牌各0张。数据来源：PitchAPI match statistics。",
+        "zh-TW": "阿斯頓維拉與桑德蘭在英超比賽中0-0互交白卷。技術統計顯示，維拉控球率71.8%對28.2%，射門19次對7次，射正7次對1次，傳球683次對250次，傳球成功率89%對75.6%，關鍵傳球16次對5次。桑德蘭在成功過人上以3次對2次略多，犯規20次對15次，雙方黃牌各2張、紅牌各0張。數據來源：PitchAPI match statistics。",
+        "en": "Aston Villa and Sunderland played out a 0-0 draw in the Premier League. Statistics show Villa had 71.8% possession to 28.2%, 19 shots to 7, 7 shots on target to 1, 683 passes to 250, 89% pass accuracy to 75.6%, and 16 key passes to 5. Sunderland had slightly more successful dribbles at 3 to 2, and committed 20 fouls to 15; both teams received 2 yellow cards and 0 red cards. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-07b72b15bed0",
+      "title": "切尔西主场1-4不敌利兹联",
+      "summary": "切尔西主场1比4负于利兹联，控球占优但射门与射正均落后。",
+      "body": "切尔西控球率56.2%高于利兹联的43.8%，传球522次、传球成功率85.4%也占优。但利兹联射门21次、射正8次，均多于切尔西的14次和3次，关键传球14比11同样领先。犯规与黄牌方面，利兹联15次犯规、3张黄牌，切尔西6次犯规、1张黄牌，双方均无红牌。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:53.223Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "560642"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560642"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_19nSVX"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "切尔西主场1-4不敌利兹联",
+        "zh-TW": "車路士主場1-4不敵列斯聯",
+        "en": "Chelsea lose 1-4 at home to Leeds United"
+      },
+      "localizedSummaries": {
+        "zh-CN": "切尔西主场1比4负于利兹联，控球占优但射门与射正均落后。",
+        "zh-TW": "車路士主場1比4負於列斯聯，控球佔優但射門與射正均落後。",
+        "en": "Chelsea lost 1-4 at home to Leeds United, dominating possession but trailing in both shots and shots on target."
+      },
+      "localizedBodies": {
+        "zh-CN": "切尔西控球率56.2%高于利兹联的43.8%，传球522次、传球成功率85.4%也占优。但利兹联射门21次、射正8次，均多于切尔西的14次和3次，关键传球14比11同样领先。犯规与黄牌方面，利兹联15次犯规、3张黄牌，切尔西6次犯规、1张黄牌，双方均无红牌。数据来源：PitchAPI match statistics。",
+        "zh-TW": "車路士控球率56.2%高於列斯聯的43.8%，傳球522次、傳球成功率85.4%也佔優。但列斯聯射門21次、射正8次，均多於車路士的14次和3次，關鍵傳球14比11同樣領先。犯規與黃牌方面，列斯聯15次犯規、3張黃牌，車路士6次犯規、1張黃牌，雙方均無紅牌。數據來源：PitchAPI match statistics。",
+        "en": "Chelsea had 56.2% possession, higher than Leeds United's 43.8%, and also led with 522 passes and an 85.4% pass success rate. However, Leeds United had 21 shots and 8 shots on target, both more than Chelsea's 14 and 3, and also led in key passes 14 to 11. In terms of fouls and yellow cards, Leeds United had 15 fouls and 3 yellow cards, while Chelsea had 6 fouls and 1 yellow card; neither side received a red card. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-4904a44de9bd",
+      "title": "拉齐奥主场3-0击败莱切",
+      "summary": "拉齐奥凭借更高的控球率与射正效率，在主场以3-0战胜莱切。",
+      "body": "本场比赛拉齐奥控球率为61.5%，高于莱切的38.5%；传球数510次也多于莱切的303次，传球成功率78.8%对72.9%。双方射门均为10次，但拉齐奥射正6次、莱切射正2次，拉齐奥在成功过人上以11比5占优。犯规与黄牌方面，莱切分别为13次和2张，拉齐奥为11次和1张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:51.885Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558528"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558528"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_4MACO8"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "拉齐奥主场3-0击败莱切",
+        "zh-TW": "拉齊奧主場3-0擊敗萊切",
+        "en": "Lazio beat Lecce 3-0 at home"
+      },
+      "localizedSummaries": {
+        "zh-CN": "拉齐奥凭借更高的控球率与射正效率，在主场以3-0战胜莱切。",
+        "zh-TW": "拉齊奧憑藉更高的控球率與射正效率，在主場以3-0戰勝萊切。",
+        "en": "Lazio defeated Lecce 3-0 at home thanks to higher possession and shooting accuracy."
+      },
+      "localizedBodies": {
+        "zh-CN": "本场比赛拉齐奥控球率为61.5%，高于莱切的38.5%；传球数510次也多于莱切的303次，传球成功率78.8%对72.9%。双方射门均为10次，但拉齐奥射正6次、莱切射正2次，拉齐奥在成功过人上以11比5占优。犯规与黄牌方面，莱切分别为13次和2张，拉齐奥为11次和1张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+        "zh-TW": "本場比賽拉齊奧控球率為61.5%，高於萊切的38.5%；傳球數510次也多於萊切的303次，傳球成功率78.8%對72.9%。雙方射門均為10次，但拉齊奧射正6次、萊切射正2次，拉齊奧在成功過人上以11比5佔優。犯規與黃牌方面，萊切分別為13次和2張，拉齊奧為11次和1張，紅牌雙方均為0。數據來源：PitchAPI match statistics。",
+        "en": "In this match, Lazio had 61.5% possession, higher than Lecce's 38.5%; their 510 passes were also more than Lecce's 303, with a pass success rate of 78.8% versus 72.9%. Both sides had 10 shots, but Lazio had 6 on target and Lecce 2, and Lazio led in successful dribbles 11 to 5. In fouls and yellow cards, Lecce had 13 and 2 respectively, while Lazio had 11 and 1; both sides had 0 red cards. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-496ea213b8d2",
+      "title": "科莫主场2比0击败卡利亚里",
+      "summary": "科莫凭借更高的控球率与射正效率，在主场以2比0战胜卡利亚里。",
+      "body": "本场比赛科莫控球率达到62.9%，卡利亚里为37.1%。科莫全场射门10次、射正6次，卡利亚里射门6次、射正1次。传球方面，科莫730次、成功率90.5%，卡利亚里423次、成功率79%；关键传球科莫7次，卡利亚里3次。双方成功过人各7次，犯规卡利亚里12次、科莫6次，黄牌和红牌均为0。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:50.373Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "558525"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "558525"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_01qIw5"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "科莫主场2比0击败卡利亚里",
+        "zh-TW": "科莫主場2比0擊敗卡利亞里",
+        "en": "Como beat Cagliari 2-0 at home"
+      },
+      "localizedSummaries": {
+        "zh-CN": "科莫凭借更高的控球率与射正效率，在主场以2比0战胜卡利亚里。",
+        "zh-TW": "科莫憑藉更高的控球率與射正效率，在主場以2比0戰勝卡利亞里。",
+        "en": "Como defeated Cagliari 2-0 at home thanks to higher possession and shooting accuracy."
+      },
+      "localizedBodies": {
+        "zh-CN": "本场比赛科莫控球率达到62.9%，卡利亚里为37.1%。科莫全场射门10次、射正6次，卡利亚里射门6次、射正1次。传球方面，科莫730次、成功率90.5%，卡利亚里423次、成功率79%；关键传球科莫7次，卡利亚里3次。双方成功过人各7次，犯规卡利亚里12次、科莫6次，黄牌和红牌均为0。数据来源：PitchAPI match statistics。",
+        "zh-TW": "本場比賽科莫控球率達到62.9%，卡利亞里為37.1%。科莫全場射門10次、射正6次，卡利亞里射門6次、射正1次。傳球方面，科莫730次、成功率90.5%，卡利亞里423次、成功率79%；關鍵傳球科莫7次，卡利亞里3次。雙方成功過人各7次，犯規卡利亞里12次、科莫6次，黃牌和紅牌均為0。數據來源：PitchAPI match statistics。",
+        "en": "In this match, Como's possession rate reached 62.9%, while Cagliari's was 37.1%. Como had 10 shots in total and 6 on target, while Cagliari had 6 shots and 1 on target. In passing, Como had 730 passes with a success rate of 90.5%, and Cagliari had 423 passes with a success rate of 79%; key passes were 7 for Como and 3 for Cagliari. Both sides had 7 successful dribbles each, Cagliari committed 12 fouls and Como 6, and there were 0 yellow cards and 0 red cards. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-df5c21641578",
+      "title": "阿拉维斯主场3-1击败拉科鲁尼亚",
+      "summary": "阿拉维斯在西甲比赛中以3-1战胜拉科鲁尼亚，射门与射正数据明显占优。",
+      "body": "阿拉维斯以3-1击败拉科鲁尼亚。控球率方面，拉科鲁尼亚以51.3%略高于阿拉维斯的48.7%。阿拉维斯射门21次、射正8次，均明显多于拉科鲁尼亚的7次和2次；关键传球也以14比3领先。传球成功率阿拉维斯为80%，高于对手的75.7%。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:48.621Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "564755"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "564755"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_1MrgIP"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "阿拉维斯主场3-1击败拉科鲁尼亚",
+        "zh-TW": "阿拉維斯主場3-1擊敗拉科魯尼亞",
+        "en": "Alavés beat Deportivo La Coruña 3-1 at home"
+      },
+      "localizedSummaries": {
+        "zh-CN": "阿拉维斯在西甲比赛中以3-1战胜拉科鲁尼亚，射门与射正数据明显占优。",
+        "zh-TW": "阿拉維斯在西甲比賽中以3-1戰勝拉科魯尼亞，射門與射正數據明顯佔優。",
+        "en": "Alavés defeated Deportivo La Coruña 3-1 in the La Liga match, with clear advantages in shots and shots on target."
+      },
+      "localizedBodies": {
+        "zh-CN": "阿拉维斯以3-1击败拉科鲁尼亚。控球率方面，拉科鲁尼亚以51.3%略高于阿拉维斯的48.7%。阿拉维斯射门21次、射正8次，均明显多于拉科鲁尼亚的7次和2次；关键传球也以14比3领先。传球成功率阿拉维斯为80%，高于对手的75.7%。数据来源：PitchAPI match statistics。",
+        "zh-TW": "阿拉維斯以3-1擊敗拉科魯尼亞。控球率方面，拉科魯尼亞以51.3%略高於阿拉維斯的48.7%。阿拉維斯射門21次、射正8次，均明顯多於拉科魯尼亞的7次和2次；關鍵傳球也以14比3領先。傳球成功率阿拉維斯為80%，高於對手的75.7%。數據來源：PitchAPI match statistics。",
+        "en": "Alavés beat Deportivo La Coruña 3-1. In terms of possession, Deportivo La Coruña had a slight edge at 51.3% over Alavés' 48.7%. Alavés had 21 shots and 8 shots on target, both clearly more than Deportivo La Coruña's 7 and 2; they also led in key passes 14 to 3. Alavés' pass success rate was 80%, higher than the opponent's 75.7%. Data source: PitchAPI match statistics."
+      }
+    },
+    {
+      "id": "match-review-d18a6b293705",
+      "title": "曼城1-1富勒姆：控球占优难取三分",
+      "summary": "曼城主场1-1战平富勒姆，控球与传球数据占优，但射正次数少于对手。",
+      "body": "曼城与富勒姆1-1握手言和。曼城控球率58.9%高于富勒姆的41.1%，传球587次、传球成功率88.4%也优于对手的410次和81.7%。射门方面曼城15次多于富勒姆的5次，但射正3次少于对手的4次；关键传球12次对4次，成功过人9次对5次。犯规富勒姆11次多于曼城8次，黄牌富勒姆3张、曼城1张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+      "url": "https://www.football-data.org/",
+      "publishedAt": "2026-11-21T17:15:47.343Z",
+      "category": "赛后速评",
+      "aiGenerated": true,
+      "sourceMatchIds": [
+        "560643"
+      ],
+      "dataSources": [
+        {
+          "label": "Football-Data.org · fixture and final score",
+          "updatedAt": "2026-11-21T17:08:13.547578960Z",
+          "url": "https://www.football-data.org/",
+          "recordId": "560643"
+        },
+        {
+          "label": "PitchAPI · verified match statistics",
+          "updatedAt": "2026-11-21T17:15:44.954187155Z",
+          "url": "https://pitchapi.dev/",
+          "recordId": "m_4S00KG"
+        }
+      ],
+      "localizedTitles": {
+        "zh-CN": "曼城1-1富勒姆：控球占优难取三分",
+        "zh-TW": "曼城1-1富勒姆：控球佔優難取三分",
+        "en": "Manchester City 1-1 Fulham: Dominant Possession but No Three Points"
+      },
+      "localizedSummaries": {
+        "zh-CN": "曼城主场1-1战平富勒姆，控球与传球数据占优，但射正次数少于对手。",
+        "zh-TW": "曼城主場1-1賽和富勒姆，控球與傳球數據佔優，但射正次數少於對手。",
+        "en": "Manchester City drew 1-1 at home with Fulham, dominating possession and passing statistics but recording fewer shots on target than their opponents."
+      },
+      "localizedBodies": {
+        "zh-CN": "曼城与富勒姆1-1握手言和。曼城控球率58.9%高于富勒姆的41.1%，传球587次、传球成功率88.4%也优于对手的410次和81.7%。射门方面曼城15次多于富勒姆的5次，但射正3次少于对手的4次；关键传球12次对4次，成功过人9次对5次。犯规富勒姆11次多于曼城8次，黄牌富勒姆3张、曼城1张，红牌双方均为0。数据来源：PitchAPI match statistics。",
+        "zh-TW": "曼城與富勒姆1-1握手言和。曼城控球率58.9%高於富勒姆的41.1%，傳球587次、傳球成功率88.4%也優於對手的410次和81.7%。射門方面曼城15次多於富勒姆的5次，但射正3次少於對手的4次；關鍵傳球12次對4次，成功過人9次對5次。犯規富勒姆11次多於曼城8次，黃牌富勒姆3張、曼城1張，紅牌雙方均為0。數據來源：PitchAPI match statistics。",
+        "en": "Manchester City and Fulham played out a 1-1 draw. Manchester City's possession rate was 58.9%, higher than Fulham's 41.1%; they also completed 587 passes with an 88.4% pass success rate, better than the opponent's 410 passes and 81.7%. In terms of shots, Manchester City had 15, more than Fulham's 5, but their 3 shots on target were fewer than the opponent's 4; key passes were 12 to 4, and successful dribbles were 9 to 5. Fulham committed 11 fouls, more than Manchester City's 8; Fulham received 3 yellow cards and Manchester City 1, with both teams receiving 0 red cards. Data source: PitchAPI match statistics."
+      }
+    },
     {
       "id": "match-review-d1f102721963",
       "title": "毕尔巴鄂竞技0-1西班牙人：主队控球射门占优难破门",
@@ -2142,384 +2520,6 @@
         "zh-CN": "汉堡以61.5%的控球率主导比赛，传球数539次、传球成功率82.6%均高于门兴格拉德巴赫的336次和75%。门兴格拉德巴赫射门19次略多于汉堡的18次，但汉堡射正9次，多于对手的6次。犯规方面门兴格拉德巴赫16次，汉堡6次；红牌门兴格拉德巴赫1张，汉堡0张。数据来源：PitchAPI match statistics。",
         "zh-TW": "漢堡以61.5%的控球率主導比賽，傳球數539次、傳球成功率82.6%均高於門興格拉德巴赫的336次和75%。門興格拉德巴赫射門19次略多於漢堡的18次，但漢堡射正9次，多於對手的6次。犯規方面門興格拉德巴赫16次，漢堡6次；紅牌門興格拉德巴赫1張，漢堡0張。數據來源：PitchAPI match statistics。",
         "en": "Hamburg dominated the match with 61.5% possession, and their 539 passes and 82.6% pass success rate were both higher than Borussia Mönchengladbach's 336 and 75%. Borussia Mönchengladbach had 19 shots, slightly more than Hamburg's 18, but Hamburg had 9 shots on target, more than the opponent's 6. In terms of fouls, Borussia Mönchengladbach had 16 and Hamburg 6; red cards were 1 for Borussia Mönchengladbach and 0 for Hamburg. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-2e0a4b9890db",
-      "title": "维京4-1沙巴足球俱乐部：射正与关键传球占优，红牌影响客队",
-      "summary": "维京在欧冠比赛中以4-1战胜沙巴足球俱乐部，射正次数8比4领先。",
-      "body": "维京以4-1击败沙巴足球俱乐部。控球率维京51.2%对48.8%，射门21比16，射正8比4，关键传球14比12，传球469比460。沙巴足球俱乐部传球成功率80%略高于维京的79.5%，成功过人9比4占优，但被罚下1人，维京红牌为0。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:30.973Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575394"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575394"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_46K3gH"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "维京4-1沙巴足球俱乐部：射正与关键传球占优，红牌影响客队",
-        "zh-TW": "維京4-1沙巴足球俱樂部：射正與關鍵傳球佔優，紅牌影響客隊",
-        "en": "Viking 4-1 Saba Football Club: Shots on Target and Key Passes Advantage, Red Card Affects Visitors"
-      },
-      "localizedSummaries": {
-        "zh-CN": "维京在欧冠比赛中以4-1战胜沙巴足球俱乐部，射正次数8比4领先。",
-        "zh-TW": "維京在歐冠比賽中以4-1戰勝沙巴足球俱樂部，射正次數8比4領先。",
-        "en": "Viking defeated Saba Football Club 4-1 in the Champions League match, leading in shots on target 8 to 4."
-      },
-      "localizedBodies": {
-        "zh-CN": "维京以4-1击败沙巴足球俱乐部。控球率维京51.2%对48.8%，射门21比16，射正8比4，关键传球14比12，传球469比460。沙巴足球俱乐部传球成功率80%略高于维京的79.5%，成功过人9比4占优，但被罚下1人，维京红牌为0。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-        "zh-TW": "維京以4-1擊敗沙巴足球俱樂部。控球率維京51.2%對48.8%，射門21比16，射正8比4，關鍵傳球14比12，傳球469比460。沙巴足球俱樂部傳球成功率80%略高於維京的79.5%，成功過人9比4佔優，但被罰下1人，維京紅牌為0。數據來源：PitchAPI match statistics；比賽按賽事、球隊、日期與確切比分匹配。",
-        "en": "Viking defeated Saba Football Club 4-1. Possession was 51.2% for Viking versus 48.8%, shots 21 to 16, shots on target 8 to 4, key passes 14 to 12, passes 469 to 460. Saba Football Club's pass success rate was 80%, slightly higher than Viking's 79.5%, and they led in successful dribbles 9 to 4, but had 1 player sent off, while Viking had 0 red cards. Data source: PitchAPI match statistics; the match was matched by competition, teams, date, and exact score."
-      }
-    },
-    {
-      "id": "match-review-96cc3297f4f5",
-      "title": "欧冠：科莫客场9比1大胜朗斯",
-      "summary": "科莫在欧冠客场以9比1大胜朗斯，多项技术统计占优。",
-      "body": "本场比赛科莫以9比1战胜朗斯。技术统计显示，科莫控球率57.2%高于朗斯的42.8%，射门18次对11次，射正12次对3次。传球方面科莫642次、成功率90.2%，朗斯475次、成功率84.6%；关键传球科莫16次对7次，成功过人13次对7次。犯规朗斯12次、科莫11次，黄牌朗斯2张、科莫0张，红牌双方均为0。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:29.007Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575393"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575393"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_10Z35D"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "欧冠：科莫客场9比1大胜朗斯",
-        "zh-TW": "歐冠：科莫客場9比1大勝朗斯",
-        "en": "Champions League: Como win 9-1 away at Lens"
-      },
-      "localizedSummaries": {
-        "zh-CN": "科莫在欧冠客场以9比1大胜朗斯，多项技术统计占优。",
-        "zh-TW": "科莫在歐冠客場以9比1大勝朗斯，多項技術統計佔優。",
-        "en": "Como secured a 9-1 away victory over Lens in the Champions League, leading in multiple technical statistics."
-      },
-      "localizedBodies": {
-        "zh-CN": "本场比赛科莫以9比1战胜朗斯。技术统计显示，科莫控球率57.2%高于朗斯的42.8%，射门18次对11次，射正12次对3次。传球方面科莫642次、成功率90.2%，朗斯475次、成功率84.6%；关键传球科莫16次对7次，成功过人13次对7次。犯规朗斯12次、科莫11次，黄牌朗斯2张、科莫0张，红牌双方均为0。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-        "zh-TW": "本場比賽科莫以9比1戰勝朗斯。技術統計顯示，科莫控球率57.2%高於朗斯的42.8%，射門18次對11次，射正12次對3次。傳球方面科莫642次、成功率90.2%，朗斯475次、成功率84.6%；關鍵傳球科莫16次對7次，成功過人13次對7次。犯規朗斯12次、科莫11次，黃牌朗斯2張、科莫0張，紅牌雙方均為0。數據來源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-        "en": "In this match, Como defeated Lens 9-1. Technical statistics show that Como had 57.2% possession compared to Lens' 42.8%, with 18 shots to 11 and 12 shots on target to 3. In passing, Como had 642 passes with a 90.2% success rate, while Lens had 475 passes with an 84.6% success rate; key passes were 16 to 7 for Como, and successful dribbles were 13 to 7. Fouls: Lens 12, Como 11; yellow cards: Lens 2, Como 0; red cards: 0 for both. Data source: PitchAPI match statistics; match joined by competition, teams, date and exact score."
-      }
-    },
-    {
-      "id": "match-review-45288a7a7051",
-      "title": "波尔图4-1那不勒斯，欧冠主场大胜",
-      "summary": "波尔图在欧冠比赛中以4-1战胜那不勒斯，多项技术统计占优。",
-      "body": "波尔图以4-1击败那不勒斯。控球率波尔图51.3%略高于那不勒斯的48.7%，射门19比11、射正8比6均占优。传球方面波尔图521次、成功率84.3%，高于那不勒斯的482次和81.1%；关键传球14比8。那不勒斯成功过人5比3更多，犯规11比8、黄牌4比1、红牌1比0也更多。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:27.079Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575392"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575392"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_26ZQl6"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "波尔图4-1那不勒斯，欧冠主场大胜",
-        "zh-TW": "波爾圖4-1拿玻里，歐冠主場大勝",
-        "en": "Porto 4-1 Napoli, a big home win in the Champions League"
-      },
-      "localizedSummaries": {
-        "zh-CN": "波尔图在欧冠比赛中以4-1战胜那不勒斯，多项技术统计占优。",
-        "zh-TW": "波爾圖在歐冠比賽中以4-1戰勝拿玻里，多項技術統計佔優。",
-        "en": "Porto defeated Napoli 4-1 in the Champions League match, leading in multiple technical statistics."
-      },
-      "localizedBodies": {
-        "zh-CN": "波尔图以4-1击败那不勒斯。控球率波尔图51.3%略高于那不勒斯的48.7%，射门19比11、射正8比6均占优。传球方面波尔图521次、成功率84.3%，高于那不勒斯的482次和81.1%；关键传球14比8。那不勒斯成功过人5比3更多，犯规11比8、黄牌4比1、红牌1比0也更多。数据来源：PitchAPI match statistics。",
-        "zh-TW": "波爾圖以4-1擊敗拿玻里。控球率波爾圖51.3%略高於拿玻里的48.7%，射門19比11、射正8比6均佔優。傳球方面波爾圖521次、成功率84.3%，高於拿玻里的482次和81.1%；關鍵傳球14比8。拿玻里成功過人5比3更多，犯規11比8、黃牌4比1、紅牌1比0也更多。數據來源：PitchAPI match statistics。",
-        "en": "Porto beat Napoli 4-1. Porto's possession was 51.3%, slightly higher than Napoli's 48.7%; shots were 19 to 11 and shots on target 8 to 6, both in Porto's favor. In passing, Porto had 521 passes with an 84.3% success rate, higher than Napoli's 482 and 81.1%; key passes were 14 to 8. Napoli had more successful dribbles, 5 to 3, and also more fouls, 11 to 8, yellow cards, 4 to 1, and red cards, 1 to 0. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-75c93c4534e2",
-      "title": "多特蒙德2-1皇家贝蒂斯，欧冠赛后数据评析",
-      "summary": "多特蒙德主场2-1击败皇家贝蒂斯，控球与射门数据均略占上风。",
-      "body": "多特蒙德以52.7%的控球率略高于皇家贝蒂斯的47.3%，射门15次对11次、射正6次对4次，进攻端数据占优。传球方面多特蒙德460次、成功率79.8%，皇家贝蒂斯402次、成功率80.6%，客队传球成功率略高。关键传球13对9、成功过人12对3，多特蒙德在创造机会与个人突破上数据领先；犯规15对13，黄牌4对4，红牌均为0。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:25.338Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575391"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575391"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_2bderB"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "多特蒙德2-1皇家贝蒂斯，欧冠赛后数据评析",
-        "zh-TW": "多特蒙德2-1皇家貝蒂斯，歐冠賽後數據評析",
-        "en": "Borussia Dortmund 2-1 Real Betis, Champions League Post-Match Data Analysis"
-      },
-      "localizedSummaries": {
-        "zh-CN": "多特蒙德主场2-1击败皇家贝蒂斯，控球与射门数据均略占上风。",
-        "zh-TW": "多特蒙德主場2-1擊敗皇家貝蒂斯，控球與射門數據均略佔上風。",
-        "en": "Borussia Dortmund defeated Real Betis 2-1 at home, with slight advantages in possession and shooting data."
-      },
-      "localizedBodies": {
-        "zh-CN": "多特蒙德以52.7%的控球率略高于皇家贝蒂斯的47.3%，射门15次对11次、射正6次对4次，进攻端数据占优。传球方面多特蒙德460次、成功率79.8%，皇家贝蒂斯402次、成功率80.6%，客队传球成功率略高。关键传球13对9、成功过人12对3，多特蒙德在创造机会与个人突破上数据领先；犯规15对13，黄牌4对4，红牌均为0。数据来源：PitchAPI match statistics。",
-        "zh-TW": "多特蒙德以52.7%的控球率略高於皇家貝蒂斯的47.3%，射門15次對11次、射正6次對4次，進攻端數據佔優。傳球方面多特蒙德460次、成功率79.8%，皇家貝蒂斯402次、成功率80.6%，客隊傳球成功率略高。關鍵傳球13對9、成功過人12對3，多特蒙德在創造機會與個人突破上數據領先；犯規15對13，黃牌4對4，紅牌均為0。數據來源：PitchAPI match statistics。",
-        "en": "Borussia Dortmund had a possession rate of 52.7%, slightly higher than Real Betis's 47.3%, with 15 shots to 11 and 6 shots on target to 4, leading in attacking data. In passing, Borussia Dortmund had 460 passes with a success rate of 79.8%, while Real Betis had 402 passes with a success rate of 80.6%, the away team's passing success rate slightly higher. Key passes were 13 to 9, successful dribbles 12 to 3, with Borussia Dortmund leading in creating chances and individual breakthroughs; fouls were 15 to 13, yellow cards 4 to 4, and red cards 0 for both. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-1710d05573d1",
-      "title": "埃因霍温主场1-2不敌布鲁日，控球射门占优难挽败局",
-      "summary": "埃因霍温在控球率、射门和传球等多项数据上占优，但最终主场1-2负于布鲁日。",
-      "body": "埃因霍温控球率61.4%高于布鲁日的38.6%，射门27次对10次、射正9次对3次，传球619次对368次，传球成功率82.7%对74.5%，关键传球16次对9次，成功过人7次对2次。布鲁日犯规10次多于埃因霍温的8次，黄牌3张对0张，红牌双方均为0张。尽管埃因霍温在多数技术统计上领先，比分仍为1-2。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:23.258Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575390"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575390"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_1zT87G"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "埃因霍温主场1-2不敌布鲁日，控球射门占优难挽败局",
-        "zh-TW": "埃因霍溫主場1-2不敵布魯日，控球射門佔優難挽敗局",
-        "en": "PSV Lose 1-2 at Home to Club Brugge Despite Dominating Possession and Shots"
-      },
-      "localizedSummaries": {
-        "zh-CN": "埃因霍温在控球率、射门和传球等多项数据上占优，但最终主场1-2负于布鲁日。",
-        "zh-TW": "埃因霍溫在控球率、射門和傳球等多項數據上佔優，但最終主場1-2負於布魯日。",
-        "en": "PSV led in possession, shots and passing, but ultimately lost 1-2 at home to Club Brugge."
-      },
-      "localizedBodies": {
-        "zh-CN": "埃因霍温控球率61.4%高于布鲁日的38.6%，射门27次对10次、射正9次对3次，传球619次对368次，传球成功率82.7%对74.5%，关键传球16次对9次，成功过人7次对2次。布鲁日犯规10次多于埃因霍温的8次，黄牌3张对0张，红牌双方均为0张。尽管埃因霍温在多数技术统计上领先，比分仍为1-2。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-        "zh-TW": "埃因霍溫控球率61.4%高於布魯日的38.6%，射門27次對10次、射正9次對3次，傳球619次對368次，傳球成功率82.7%對74.5%，關鍵傳球16次對9次，成功過人7次對2次。布魯日犯規10次多於埃因霍溫的8次，黃牌3張對0張，紅牌雙方均為0張。儘管埃因霍溫在多數技術統計上領先，比分仍為1-2。數據來源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-        "en": "PSV had 61.4% possession compared to Club Brugge's 38.6%, 27 shots to 10 and 9 shots on target to 3, 619 passes to 368, a passing accuracy of 82.7% to 74.5%, 16 key passes to 9, and 7 successful dribbles to 2. Club Brugge committed 10 fouls, more than PSV's 8, and received 3 yellow cards to 0; both teams had 0 red cards. Although PSV led in most technical statistics, the score was still 1-2. Data source: PitchAPI match statistics; match joined by competition, teams, date and exact score."
-      }
-    },
-    {
-      "id": "match-review-9f2da467cf8f",
-      "title": "阿森纳客场2-1力克布拉格斯拉维亚，控球传球占优",
-      "summary": "阿森纳客场2-1击败布拉格斯拉维亚，控球率与传球数据占优，主队射门次数更多。",
-      "body": "欧冠比赛中，布拉格斯拉维亚主场1-2不敌阿森纳。技术统计显示，阿森纳控球率56.3%高于主队43.7%，传球468次、传球成功率84%也均占优；布拉格斯拉维亚则在射门18次、射正6次、关键传球11次上领先。双方红牌均为0，阿森纳黄牌2张，主队1张。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:21.272Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575389"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575389"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_4Wgl1L"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "阿森纳客场2-1力克布拉格斯拉维亚，控球传球占优",
-        "zh-TW": "阿仙奴作客2-1力克布拉格斯拉維亞，控球傳球佔優",
-        "en": "Arsenal win 2-1 away at Slavia Prague, dominating possession and passing"
-      },
-      "localizedSummaries": {
-        "zh-CN": "阿森纳客场2-1击败布拉格斯拉维亚，控球率与传球数据占优，主队射门次数更多。",
-        "zh-TW": "阿仙奴作客2-1擊敗布拉格斯拉維亞，控球率與傳球數據佔優，主隊射門次數更多。",
-        "en": "Arsenal beat Slavia Prague 2-1 away, leading in possession and passing stats, while the hosts had more shots."
-      },
-      "localizedBodies": {
-        "zh-CN": "欧冠比赛中，布拉格斯拉维亚主场1-2不敌阿森纳。技术统计显示，阿森纳控球率56.3%高于主队43.7%，传球468次、传球成功率84%也均占优；布拉格斯拉维亚则在射门18次、射正6次、关键传球11次上领先。双方红牌均为0，阿森纳黄牌2张，主队1张。数据来源：PitchAPI match statistics。",
-        "zh-TW": "歐冠比賽中，布拉格斯拉維亞主場1-2不敵阿仙奴。技術統計顯示，阿仙奴控球率56.3%高於主隊43.7%，傳球468次、傳球成功率84%也均佔優；布拉格斯拉維亞則在射門18次、射正6次、關鍵傳球11次上領先。雙方紅牌均為0，阿仙奴黃牌2張，主隊1張。數據來源：PitchAPI match statistics。",
-        "en": "In the Champions League match, Slavia Prague lost 1-2 at home to Arsenal. Technical statistics show Arsenal had 56.3% possession, higher than the hosts' 43.7%, and also led with 468 passes and an 84% pass success rate; Slavia Prague led with 18 shots, 6 on target, and 11 key passes. Both teams had 0 red cards; Arsenal received 2 yellow cards and the hosts 1. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-9e42ac11d1b4",
-      "title": "欧冠：曼城客场3-2力克莱比锡",
-      "summary": "曼城客场3-2击败莱比锡，控球与传球占优，但莱比锡射门和射正更多。",
-      "body": "本场欧冠比赛，莱比锡主场2-3不敌曼城。技术统计显示，曼城控球率64.2%高于莱比锡的35.8%，传球667次对359次、传球成功率89.8%对81.9%均占优。莱比锡射门14次、射正6次，均多于曼城的12次和5次；关键传球12次也高于曼城的8次。犯规与黄牌方面，莱比锡20次犯规、4张黄牌，曼城7次犯规、2张黄牌，双方均无红牌。数据来源：PitchAPI match statistics。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:19.476Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575388"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575388"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_3Bhlqj"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "欧冠：曼城客场3-2力克莱比锡",
-        "zh-TW": "歐冠：曼城客場3-2力克萊比錫",
-        "en": "Champions League: Manchester City win 3-2 away at Leipzig"
-      },
-      "localizedSummaries": {
-        "zh-CN": "曼城客场3-2击败莱比锡，控球与传球占优，但莱比锡射门和射正更多。",
-        "zh-TW": "曼城客場3-2擊敗萊比錫，控球與傳球佔優，但萊比錫射門和射正更多。",
-        "en": "Manchester City beat Leipzig 3-2 away, dominating possession and passing, but Leipzig had more shots and shots on target."
-      },
-      "localizedBodies": {
-        "zh-CN": "本场欧冠比赛，莱比锡主场2-3不敌曼城。技术统计显示，曼城控球率64.2%高于莱比锡的35.8%，传球667次对359次、传球成功率89.8%对81.9%均占优。莱比锡射门14次、射正6次，均多于曼城的12次和5次；关键传球12次也高于曼城的8次。犯规与黄牌方面，莱比锡20次犯规、4张黄牌，曼城7次犯规、2张黄牌，双方均无红牌。数据来源：PitchAPI match statistics。",
-        "zh-TW": "本場歐冠比賽，萊比錫主場2-3不敵曼城。技術統計顯示，曼城控球率64.2%高於萊比錫的35.8%，傳球667次對359次、傳球成功率89.8%對81.9%均佔優。萊比錫射門14次、射正6次，均多於曼城的12次和5次；關鍵傳球12次也高於曼城的8次。犯規與黃牌方面，萊比錫20次犯規、4張黃牌，曼城7次犯規、2張黃牌，雙方均無紅牌。數據來源：PitchAPI match statistics。",
-        "en": "In this Champions League match, Leipzig lost 2-3 at home to Manchester City. Technical statistics show that Manchester City had 64.2% possession compared to Leipzig's 35.8%, and led in passes 667 to 359 and pass accuracy 89.8% to 81.9%. Leipzig had 14 shots and 6 shots on target, both more than Manchester City's 12 and 5; key passes were also higher at 12 compared to Manchester City's 8. In terms of fouls and yellow cards, Leipzig committed 20 fouls and received 4 yellow cards, while Manchester City committed 7 fouls and received 2 yellow cards; neither side received a red card. Data source: PitchAPI match statistics."
-      }
-    },
-    {
-      "id": "match-review-683caaec5b23",
-      "title": "费内巴切3-2利物浦：控球劣势下射正持平，主场取胜",
-      "summary": "费内巴切主场3比2击败利物浦，尽管控球率与传球数据明显落后，但射正次数与对手持平。",
-      "body": "费内巴切以33.1%的控球率对阵利物浦的66.9%，传球253次对546次，传球成功率69.6%对86.6%。射门方面费内巴切17次、利物浦22次，射正均为6次；关键传球11比12，成功过人2比11。犯规费内巴切13次、利物浦12次，黄牌各1张，红牌均为0。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:17.627Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575387"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575387"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_0UTPf2"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "费内巴切3-2利物浦：控球劣势下射正持平，主场取胜",
-        "zh-TW": "費內巴切3-2利物浦：控球劣勢下射正持平，主場取勝",
-        "en": "Fenerbahçe 3-2 Liverpool: Shots on Target Level Despite Possession Disadvantage, Home Victory"
-      },
-      "localizedSummaries": {
-        "zh-CN": "费内巴切主场3比2击败利物浦，尽管控球率与传球数据明显落后，但射正次数与对手持平。",
-        "zh-TW": "費內巴切主場3比2擊敗利物浦，儘管控球率與傳球數據明顯落後，但射正次數與對手持平。",
-        "en": "Fenerbahçe defeated Liverpool 3-2 at home; despite clearly trailing in possession and passing statistics, their shots on target were level with the opponent."
-      },
-      "localizedBodies": {
-        "zh-CN": "费内巴切以33.1%的控球率对阵利物浦的66.9%，传球253次对546次，传球成功率69.6%对86.6%。射门方面费内巴切17次、利物浦22次，射正均为6次；关键传球11比12，成功过人2比11。犯规费内巴切13次、利物浦12次，黄牌各1张，红牌均为0。数据来源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-        "zh-TW": "費內巴切以33.1%的控球率對陣利物浦的66.9%，傳球253次對546次，傳球成功率69.6%對86.6%。射門方面費內巴切17次、利物浦22次，射正均為6次；關鍵傳球11比12，成功過人2比11。犯規費內巴切13次、利物浦12次，黃牌各1張，紅牌均為0。數據來源：PitchAPI match statistics; match joined by competition, teams, date and exact score。",
-        "en": "Fenerbahçe had 33.1% possession against Liverpool's 66.9%, with 253 passes to 546 and a pass success rate of 69.6% to 86.6%. In terms of shots, Fenerbahçe had 17 and Liverpool 22, with both recording 6 shots on target; key passes were 11 to 12, and successful dribbles were 2 to 11. Fenerbahçe committed 13 fouls and Liverpool 12, each received 1 yellow card, and both had 0 red cards. Data source: PitchAPI match statistics; match joined by competition, teams, date and exact score."
-      }
-    },
-    {
-      "id": "match-review-fff7db043cce",
-      "title": "欧冠：雅典AEK 2-3 皇家马德里",
-      "summary": "雅典AEK主场2比3不敌皇家马德里，皇家马德里在控球率、射门、射正、传球、传球成功率与关键传球等统计上均占优。",
-      "body": "本场比赛最终比分为雅典AEK 2-3 皇家马德里。技术统计显示，皇家马德里控球率69%高于雅典AEK的31%，射门24次对9次、射正8次对5次、传球640次对261次、传球成功率90.2%对85.1%、关键传球21次对7次，均高于对手。成功过人方面皇家马德里11次、雅典AEK 10次；犯规皇家马德里16次、雅典AEK 9次；两队各得1张黄牌，雅典AEK得1张红牌、皇家马德里0张。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-      "url": "https://www.football-data.org/",
-      "publishedAt": "2026-11-05T02:17:15.567Z",
-      "category": "赛后速评",
-      "aiGenerated": true,
-      "sourceMatchIds": [
-        "575386"
-      ],
-      "dataSources": [
-        {
-          "label": "Football-Data.org · fixture and final score",
-          "updatedAt": "2026-11-05T02:09:36.287031205Z",
-          "url": "https://www.football-data.org/",
-          "recordId": "575386"
-        },
-        {
-          "label": "PitchAPI · verified match statistics",
-          "updatedAt": "2026-11-05T02:17:12.492928728Z",
-          "url": "https://pitchapi.dev/",
-          "recordId": "m_2pqLCB"
-        }
-      ],
-      "localizedTitles": {
-        "zh-CN": "欧冠：雅典AEK 2-3 皇家马德里",
-        "zh-TW": "歐冠：雅典AEK 2-3 皇家馬德里",
-        "en": "Champions League: AEK Athens 2-3 Real Madrid"
-      },
-      "localizedSummaries": {
-        "zh-CN": "雅典AEK主场2比3不敌皇家马德里，皇家马德里在控球率、射门、射正、传球、传球成功率与关键传球等统计上均占优。",
-        "zh-TW": "雅典AEK主場2比3不敵皇家馬德里，皇家馬德里在控球率、射門、射正、傳球、傳球成功率與關鍵傳球等統計上均佔優。",
-        "en": "AEK Athens lost 2-3 at home to Real Madrid, with Real Madrid leading in possession, shots, shots on target, passes, pass accuracy and key passes."
-      },
-      "localizedBodies": {
-        "zh-CN": "本场比赛最终比分为雅典AEK 2-3 皇家马德里。技术统计显示，皇家马德里控球率69%高于雅典AEK的31%，射门24次对9次、射正8次对5次、传球640次对261次、传球成功率90.2%对85.1%、关键传球21次对7次，均高于对手。成功过人方面皇家马德里11次、雅典AEK 10次；犯规皇家马德里16次、雅典AEK 9次；两队各得1张黄牌，雅典AEK得1张红牌、皇家马德里0张。数据来源：PitchAPI match statistics；比赛按赛事、球队、日期与确切比分匹配。",
-        "zh-TW": "本場比賽最終比分為雅典AEK 2-3 皇家馬德里。技術統計顯示，皇家馬德里控球率69%高於雅典AEK的31%，射門24次對9次、射正8次對5次、傳球640次對261次、傳球成功率90.2%對85.1%、關鍵傳球21次對7次，均高於對手。成功過人方面皇家馬德里11次、雅典AEK 10次；犯規皇家馬德里16次、雅典AEK 9次；兩隊各得1張黃牌，雅典AEK得1張紅牌、皇家馬德里0張。數據來源：PitchAPI match statistics；比賽按賽事、球隊、日期與確切比分匹配。",
-        "en": "The final score of this match was AEK Athens 2-3 Real Madrid. Technical statistics show that Real Madrid's possession was 69%, higher than AEK Athens' 31%; shots 24 to 9, shots on target 8 to 5, passes 640 to 261, pass accuracy 90.2% to 85.1%, and key passes 21 to 7, all higher than the opponent. For successful dribbles, Real Madrid had 11 and AEK Athens 10; fouls Real Madrid 16 and AEK Athens 9; each team received 1 yellow card, AEK Athens received 1 red card and Real Madrid 0. Data source: PitchAPI match statistics; the match was matched by competition, teams, date and exact score."
       }
     }
   ]
